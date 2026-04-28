@@ -77,10 +77,10 @@ const submitExam = () => {
         注意：請就各題選項中選出最適當者為答案。各題答對得該題所配分數，答錯不倒扣。
     </div>
 
-    <!-- Two Column Content -->
-    <div class="exam-body">
-      <div class="column">
-        <div v-for="(q, index) in questions.slice(0, Math.ceil(questions.length / 2))" :key="index" class="question-item">
+    <!-- Four Column Content -->
+    <div class="exam-body four-columns">
+      <div v-for="colIdx in 4" :key="colIdx" class="column">
+        <div v-for="(q, index) in questions.slice(Math.ceil((questions.length / 4) * (colIdx - 1)), Math.ceil((questions.length / 4) * colIdx))" :key="q.number" class="question-item">
           <div class="question-text">
             <span class="q-num">{{ q.number }}.</span>
             {{ q.text }}
@@ -88,33 +88,10 @@ const submitExam = () => {
           <div class="options" v-if="q.options && q.options.length">
             <label v-for="(optText, i) in q.options" :key="i" class="option-label" :class="{ 
               'correct': isSubmitted && q.answer == (i + 1),
-              'wrong': isSubmitted && userAnswers[index] == (i + 1) && q.answer != (i + 1),
-              'selected': userAnswers[index] == (i + 1)
+              'wrong': isSubmitted && userAnswers[questions.indexOf(q)] == (i + 1) && q.answer != (i + 1),
+              'selected': userAnswers[questions.indexOf(q)] == (i + 1)
             }">
-              <input type="radio" :name="'q' + index" :value="i + 1" v-model="userAnswers[index]" :disabled="isSubmitted">
-              <span class="bubble"></span>
-              <span class="option-marker">({{ i + 1 }})</span>
-              <span class="option-text">{{ optText }}</span>
-            </label>
-          </div>
-        </div>
-      </div>
-      
-      <div class="divider"></div>
-
-      <div class="column">
-        <div v-for="(q, index) in questions.slice(Math.ceil(questions.length / 2))" :key="index + Math.ceil(questions.length / 2)" class="question-item">
-          <div class="question-text">
-            <span class="q-num">{{ q.number }}.</span>
-            {{ q.text }}
-          </div>
-          <div class="options" v-if="q.options && q.options.length">
-            <label v-for="(optText, i) in q.options" :key="i" class="option-label" :class="{ 
-              'correct': isSubmitted && q.answer == (i + 1),
-              'wrong': isSubmitted && userAnswers[index + Math.ceil(questions.length / 2)] == (i + 1) && q.answer != (i + 1),
-              'selected': userAnswers[index + Math.ceil(questions.length / 2)] == (i + 1)
-            }">
-              <input type="radio" :name="'q' + (index + Math.ceil(questions.length / 2))" :value="i + 1" v-model="userAnswers[index + Math.ceil(questions.length / 2)]" :disabled="isSubmitted">
+              <input type="radio" :name="'q' + questions.indexOf(q)" :value="i + 1" v-model="userAnswers[questions.indexOf(q)]" :disabled="isSubmitted">
               <span class="bubble"></span>
               <span class="option-marker">({{ i + 1 }})</span>
               <span class="option-text">{{ optText }}</span>
@@ -134,10 +111,10 @@ const submitExam = () => {
 <style scoped>
 .exam-paper {
   background: #fff;
-  max-width: 1000px;
-  margin: 2rem auto;
-  padding: 4rem;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.15), 0 1px 8px rgba(0,0,0,0.1);
+  max-width: 1400px; /* Widened for 4 columns */
+  margin: 1rem auto;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
   min-height: 297mm; /* A4 Ratio */
   position: relative;
   color: #333;
@@ -200,19 +177,21 @@ const submitExam = () => {
     background: #f9f9f9;
 }
 
-.exam-body {
-  display: flex;
-  gap: 2rem;
+.exam-body.four-columns {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
   position: relative;
 }
 
 .column {
-  flex: 1;
+  min-width: 0; /* Prevents overflow in grid */
+  border-right: 1px dashed #ddd;
+  padding-right: 1rem;
 }
 
-.divider {
-  width: 1px;
-  border-left: 1px dashed #999;
+.column:last-child {
+  border-right: none;
 }
 
 .question-item {
@@ -240,7 +219,7 @@ const submitExam = () => {
   border-radius: 4px;
   cursor: pointer;
   transition: background 0.2s;
-  font-size: 0.95rem;
+  font-size: 0.85rem; /* Smaller font for 4 columns */
 }
 
 input[type="radio"] {
