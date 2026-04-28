@@ -92,6 +92,7 @@ const submitExam = () => {
               'selected': userAnswers[index] == (i + 1)
             }">
               <input type="radio" :name="'q' + index" :value="i + 1" v-model="userAnswers[index]" :disabled="isSubmitted">
+              <span class="bubble"></span>
               <span class="option-marker">({{ i + 1 }})</span>
               <span class="option-text">{{ optText }}</span>
             </label>
@@ -114,6 +115,7 @@ const submitExam = () => {
               'selected': userAnswers[index + Math.ceil(questions.length / 2)] == (i + 1)
             }">
               <input type="radio" :name="'q' + (index + Math.ceil(questions.length / 2))" :value="i + 1" v-model="userAnswers[index + Math.ceil(questions.length / 2)]" :disabled="isSubmitted">
+              <span class="bubble"></span>
               <span class="option-marker">({{ i + 1 }})</span>
               <span class="option-text">{{ optText }}</span>
             </label>
@@ -232,13 +234,43 @@ const submitExam = () => {
 
 .option-label {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 0.5rem;
   padding: 6px 10px;
   border-radius: 4px;
   cursor: pointer;
   transition: background 0.2s;
   font-size: 0.95rem;
+}
+
+input[type="radio"] {
+  display: none; /* Hide real radio */
+}
+
+.bubble {
+  width: 14px;
+  height: 14px;
+  border: 1.5px solid #333;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+  background: #fff;
+  transition: all 0.2s;
+}
+
+.selected .bubble {
+  background: #000;
+  border-color: #000;
+}
+
+.correct .bubble {
+  border-color: #2e7d32;
+  background: #2e7d32 !important;
+}
+
+.wrong .bubble {
+  border-color: #d32f2f;
+  background: #d32f2f !important;
 }
 
 .option-marker {
