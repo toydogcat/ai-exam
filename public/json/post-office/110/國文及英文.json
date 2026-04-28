@@ -1,212 +1,308 @@
 [
   {
-    "number": "1",
-    "text": "作者本想乘船到沙市去，受阻之因為何？\n   本試卷一張雙面，國文考【短文寫作 1 題，配分 30 分；閱讀測驗二大篇共 10 題，每題 2 分，          激流         私事        雨雪        心情\n    合計 50 分】、英文考【四選一單選選擇題 25 題，每題 2 分，合計 50 分】，總計 100 分。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "由「然萬竹中雪子敲戛，錚錚有聲，暗窗紅火，任意看數卷書，亦復有少趣」，可見作者夜裡的心\n   四選一單選選擇題限以 2B 鉛筆於答案卡上作答，請選出一個正確或最適當答案，答錯不倒扣；                情為何？\n    以複選作答或未作答者，該題不予計分。                                          百無聊賴       寧靜安詳      急躁不安      頗有煩言\n   非選擇題限以藍、黑色鋼筆或原子筆於答案卷上採橫式作答，並請依標題指示之題號於各題指定",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "文中「流行坎止，任之而已」，所反映的人生態度為何？\n    作答區內作答。\n   請勿於答案卡（卷）上書寫姓名、入場通知書編號或與答案無關之任何文字或符號。                       積極進取，自可無悔             狂野自適，無愧於心\n   本項測驗僅得使用簡易型電子計算器（不具任何財務函數、工程函數、儲存程式、文數字編輯、                  追求流行，遨遊一生             聽任自然，不勉求所欲\n    內建程式、外接插卡、攝（錄）影音、資料傳輸、通訊或類似功能），且不得發出聲響。應考人",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "作者在寒夜聽雪，孤燈夜讀之時，借古人之口而發出自寬自慰的感歎是：\n    如有下列情事扣該節成績 10 分，如再犯者該節不予計分。1.電子計算器發出聲響，經制止仍執               無處不可寄一夢\n    意續犯者。2.將不符規定之電子計算器置於桌面或使用，經制止仍執意續犯者。\n                                                                萬竹中雪子敲戛\n   答案卡（卷）務必繳回，違反者該節成績以零分計算。\n                                                                天然一幅煙江幛子\n壹、國文                                                            暗窗紅火，任意看數卷書\n◎請勿於答案卡（卷）上書寫應考人姓名、入場通知書編號或與答案無關之任何文字或符號。",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "5",
-    "text": "有關文中詞語的說明，下列何者錯誤？\n                                                                「天霽」形容天色放晴\n一、短文寫作【30 分】\n                                                                「暗窗紅火」形容夕陽下紅光滿屋\n   在不同的人生階段中，總有一些與自己息息相關的人事物出現，它或者讓您感到愉悅快樂，但也可能                 「無處不可寄一夢」形容隨遇而安的態度\n帶來傷悲痛苦。回頭省視，這種種不同的情感作用，不斷地在我們生命裡輪番上演，我們無法拒絕，因為它                 「推篷四顧」指推開擋風遮雨的船棚，四下張望\n是成長過程裡所必須的養分。請以「憶」為題，寫作短文一篇，寫出生命中感受最深刻的事，以及您的應對                第二篇：\n方式。文長在 300 字左右。                                                   余昔少年讀書，竊嘗怪顏子以簞食瓢飲，居於陋巷，人不堪其憂，顏子不改其樂。私以為雖不欲仕，然\n                                                               抱關擊柝，尚可自養，而不害於學，何至困辱貧窶自苦如此！及來筠州，勤勞鹽米之間，無一日之休，雖欲\n                                                               棄塵垢，解羈縶，自放於道德之場，而事每劫而留之。然後知顏子之所以甘心貧賤，不肯求斗升之祿以自給\n                                                               者，良以其害於學故也。（蘇轍〈東軒記〉）",
-    "options": [],
+    "text": "有關文中詞語的說明，下列何者錯誤？",
+    "options": [
+      "「天霽」形容天色放晴\n一、短文寫作【30 分】",
+      "「暗窗紅火」形容夕陽下紅光滿屋\n   在不同的人生階段中，總有一些與自己息息相關的人事物出現，它或者讓您感到愉悅快樂，但也可能",
+      "「無處不可寄一夢」形容隨遇而安的態度\n帶來傷悲痛苦。回頭省視，這種種不同的情感作用，不斷地在我們生命裡輪番上演，我們無法拒絕，因為它",
+      "「推篷四顧」指推開擋風遮雨的船棚，四下張望\n是成長過程裡所必須的養分。請以「憶」為題，寫作短文一篇，寫出生命中感受最深刻的事，以及您的應對\n第二篇：\n方式。文長在 300 字左右。\n余昔少年讀書，竊嘗怪顏子以簞食瓢飲，居於陋巷，人不堪其憂，顏子不改其樂。私以為雖不欲仕，然\n\n抱關擊柝，尚可自養，而不害於學，何至困辱貧窶自苦如此！及來筠州，勤勞鹽米之間，無一日之休，雖欲\n\n棄塵垢，解羈縶，自放於道德之場，而事每劫而留之。然後知顏子之所以甘心貧賤，不肯求斗升之祿以自給\n\n者，良以其害於學故也。（蘇轍〈東軒記〉）"
+    ],
     "answer": "2"
   },
   {
     "number": "6",
-    "text": "下列敘述何者最接近作者在少年時期讀書時，對顏回「簞食瓢飲，居於陋巷」的看法？\n                                                                 不以為意       立志效法     不以為然    充滿好奇",
-    "options": [],
+    "text": "下列敘述何者最接近作者在少年時期讀書時，對顏回「簞食瓢飲，居於陋巷」的看法？",
+    "options": [
+      "不以為意",
+      "立志效法",
+      "不以為然",
+      "充滿好奇"
+    ],
     "answer": "3"
   },
   {
     "number": "7",
-    "text": "「抱關擊柝」的意思為何？\n                                                                 戍守邊疆的士兵\n                                                                 衙門掌管秩序的差役\n                                                                 慶典時演奏音樂的樂工\n                                                                 守門和巡夜報更的小吏",
-    "options": [],
+    "text": "「抱關擊柝」的意思為何？",
+    "options": [
+      "戍守邊疆的士兵",
+      "衙門掌管秩序的差役",
+      "慶典時演奏音樂的樂工",
+      "守門和巡夜報更的小吏"
+    ],
     "answer": "4"
   },
   {
     "number": "8",
-    "text": "依上文，作者到了筠州，不曾經歷過的事情為何？\n                                                                 處理鹽務       管理米糧     打掃街道    公務纏身",
-    "options": [],
+    "text": "依上文，作者到了筠州，不曾經歷過的事情為何？",
+    "options": [
+      "處理鹽務",
+      "管理米糧",
+      "打掃街道",
+      "公務纏身"
+    ],
     "answer": "3"
   },
   {
     "number": "9",
-    "text": "「解羈縶」的意思為何？\n                                                                 解除牽絆       釋放囚犯     打開門戶    綑好韁繩",
-    "options": [],
+    "text": "「解羈縶」的意思為何？",
+    "options": [
+      "解除牽絆",
+      "釋放囚犯",
+      "打開門戶",
+      "綑好韁繩"
+    ],
     "answer": "1"
   },
   {
     "number": "10",
-    "text": "下列敘述，何者符合本文主旨？\n                                                                 道德放任的人，最後會導致盜劫的行為\n                                                                 生活上的俗務，往往會阻礙進德修業的努力\n                                                                 貧窮並不可怕，害怕貧窮才是真正可怕之事\n                                                                 唯有甘心貧窮的人，才能養成勤勞的生活習慣\n                                                                                    【請接續背面】\n\f貳、英文【四選一單選選擇題 25 題，每題 2 分】                                                                                            三、克漏字測驗【請依照段落上下文意，選出最適當的答案】\n一、字彙【請依照句子前後文意，選出最適當的答案】                                                                                                       Fashion is the second most polluting industry on Earth. It is right behind oil. The pressure to reduce costs\n                                                                                                                         and     26    production time means that the environment is sacrificed in the name of profit. Fast Fashion’s bad",
-    "options": [],
+    "text": "下列敘述，何者符合本文主旨？",
+    "options": [
+      "道德放任的人，最後會導致盜劫的行為",
+      "生活上的俗務，往往會阻礙進德修業的努力",
+      "貧窮並不可怕，害怕貧窮才是真正可怕之事",
+      "唯有甘心貧窮的人，才能養成勤勞的生活習慣\n\n【請接續背面】\n貳、英文【四選一單選選擇題 25 題，每題 2 分】\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】\n一、字彙【請依照句子前後文意，選出最適當的答案】\nFashion is the second most polluting industry on Earth. It is right behind oil. The pressure to reduce costs\n\nand     26    production time means that the environment is sacrificed in the name of profit. Fast Fashion’s bad"
+    ],
     "answer": "2"
   },
   {
     "number": "11",
-    "text": "It is everyone’s _____ to save the earth’s natural environment for future generations.\n                                                                                                                         impact includes the use of cheap, poisonous dyes. The fashion industry is the second largest polluter of clean\n   responsibility                                     condition                                                        water globally.\n   motivation                                         temperature                                                            The speed at which clothes are produced also means that more and more clothes are                    27     by",
-    "options": [],
+    "text": "It is everyone’s _____ to save the earth’s natural environment for future generations.\n\nimpact includes the use of cheap, poisonous dyes. The fashion industry is the second largest polluter of clean",
+    "options": [
+      "responsibility",
+      "condition\nwater globally.",
+      "motivation",
+      "temperature\nThe speed at which clothes are produced also means that more and more clothes are\n27     by"
+    ],
     "answer": "1"
   },
   {
     "number": "12",
-    "text": "Wearing sunglasses on sunny days is important because if our eyes are _____ to too much sunlight, they            consumers, creating a huge amount of waste. In Canada, the average person throws out 81 pounds of clothes\n could be hurt.                                                                                                          annually,     28     North Americans send 9.5 million tons of clothing to the landfill every year. Most of the\n   connected                                          absorbed                                                         clothes which are disposed of could be reused.\n   exposed                                            tightened                                                              There are about 40 million garment workers in the world today, many of             29    do not have rights or\n                                                                                                                         protections. They are some of the lowest paid workers in the world and 85% of all garment workers are women.",
-    "options": [],
+    "text": "Wearing sunglasses on sunny days is important because if our eyes are _____ to too much sunlight, they            consumers, creating a huge amount of waste. In Canada, the average person throws out 81 pounds of clothes\n could be hurt.\nannually,     28     North Americans send 9.5 million tons of clothing to the landfill every year. Most of the",
+    "options": [
+      "connected",
+      "absorbed\nclothes which are disposed of could be reused.",
+      "exposed",
+      "tightened\nThere are about 40 million garment workers in the world today, many of             29    do not have rights or\n\nprotections. They are some of the lowest paid workers in the world and 85% of all garment workers are women."
+    ],
     "answer": "3"
   },
   {
     "number": "13",
-    "text": "Water is _____ to life on Earth. All plants and animals must have water to survive.                                     Actually, it’s possible to find stylish, affordable, and ethical clothing if you just know where to start. So,\n   distinctive                                        transparent                                                      next time when you shop new clothes, be sure to buy from eco-fashion companies who are                    30     the\n   statistical                                        indispensable                                                    production of clothing with more environmentally friendly methods. Also, make sure those companies provide",
-    "options": [],
+    "text": "Water is _____ to life on Earth. All plants and animals must have water to survive.\nActually, it’s possible to find stylish, affordable, and ethical clothing if you just know where to start. So,",
+    "options": [
+      "distinctive",
+      "transparent\nnext time when you shop new clothes, be sure to buy from eco-fashion companies who are\n30     the",
+      "statistical",
+      "indispensable\nproduction of clothing with more environmentally friendly methods. Also, make sure those companies provide"
+    ],
     "answer": "4"
   },
   {
     "number": "14",
-    "text": "Betty’s kitchen is equipped with all the _____ she needs for cooking.                                             fair working conditions and offer reasonable wages to the workers.\n   nutrients                                          barriers",
-    "options": [],
+    "text": "Betty’s kitchen is equipped with all the _____ she needs for cooking.\nfair working conditions and offer reasonable wages to the workers.",
+    "options": [
+      "nutrients",
+      "barriers"
+    ],
     "answer": "3"
   },
   {
     "number": "26",
-    "text": " slow down  speed up                          check out               put away\n   appliances                                         vessels",
-    "options": [],
+    "text": "",
+    "options": [
+      "slow down",
+      "speed up",
+      "check out",
+      "put away",
+      "appliances",
+      "vessels"
+    ],
     "answer": "2"
   },
   {
     "number": "27",
-    "text": " worn out            thrown away              taken over              passed down",
-    "options": [],
+    "text": "",
+    "options": [
+      "worn out",
+      "thrown away",
+      "taken over",
+      "passed down"
+    ],
     "answer": "2"
   },
   {
     "number": "28",
-    "text": " whether             if                       while                   since",
-    "options": [],
+    "text": "",
+    "options": [
+      "whether",
+      "if",
+      "while",
+      "since"
+    ],
     "answer": "3"
   },
   {
-    "number": "15",
-    "text": "Cell phones are _____ to some people because they can’t do anything without one.",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "29",
-    "text": " them                that                     who                     whom\n   essential                                          defensive",
-    "options": [],
+    "text": "",
+    "options": [
+      "them",
+      "that",
+      "who",
+      "whom",
+      "essential",
+      "defensive"
+    ],
     "answer": "4"
   },
   {
     "number": "30",
-    "text": " comparing  pursuing                          benefiting              informing\n   noticeable                                         constructive",
-    "options": [],
+    "text": "",
+    "options": [
+      "comparing",
+      "pursuing",
+      "benefiting",
+      "informing",
+      "noticeable",
+      "constructive"
+    ],
     "answer": "2"
   },
   {
     "number": "16",
-    "text": "He knew she was holding back on her _____ to let out his love affairs in front of his wife.                    四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\n   expression                                         manners                                                               The sandwich as we know it was popularized in England in 1762 by John Montagu, the 4th Earl of\n   status                                             urge                                                            Sandwich. Legend has it, and most food historians agree, that Montagu had a gambling problem that led him to\n                                                                                                                        spend hours on end at the card table. During a particularly long binge, he asked the house cook to bring him",
-    "options": [],
+    "text": "He knew she was holding back on her _____ to let out his love affairs in front of his wife.\n四、閱讀測驗【請依照段落上下文意，選出最適當的答案】",
+    "options": [
+      "expression",
+      "manners\nThe sandwich as we know it was popularized in England in 1762 by John Montagu, the 4th Earl of",
+      "status",
+      "urge\nSandwich. Legend has it, and most food historians agree, that Montagu had a gambling problem that led him to\n\nspend hours on end at the card table. During a particularly long binge, he asked the house cook to bring him"
+    ],
     "answer": "4"
   },
   {
     "number": "17",
-    "text": "Tina walks _____ for an hour every day in hope of losing some pounds in a few months.                            something he could eat without getting up from his seat, and the sandwich was born. Montagu enjoyed his meat\n   comparatively                                      passively                                                       and bread so much that he ate it constantly, and as it grew popular in London society circles, it also took on the\n   vigorously                                         absolutely                                                      Earl’s name.\n                                                                                                                              Of course, John Montagu (or rather, his nameless cook) was hardly the first person to think of putting\n二、文法測驗【請在下列各題中選出最適當的答案】\n                                                                                                                        fillings between slices of bread. In fact, we know exactly where Montagu first got the idea for his creation.",
-    "options": [],
+    "text": "Tina walks _____ for an hour every day in hope of losing some pounds in a few months.\nsomething he could eat without getting up from his seat, and the sandwich was born. Montagu enjoyed his meat",
+    "options": [
+      "comparatively",
+      "passively\nand bread so much that he ate it constantly, and as it grew popular in London society circles, it also took on the",
+      "vigorously",
+      "absolutely\nEarl’s name.\n\nOf course, John Montagu (or rather, his nameless cook) was hardly the first person to think of putting\n二、文法測驗【請在下列各題中選出最適當的答案】\n\nfillings between slices of bread. In fact, we know exactly where Montagu first got the idea for his creation."
+    ],
     "answer": "3"
   },
   {
     "number": "18",
-    "text": "He sat still in front of the TV, _____ by the news of the violent attack on the United States Capitol.           Montagu traveled abroad to the Mediterranean, where Turkish and Greek mezze platters were served. Dips,\n   shocked                                             been shocked                                                   cheeses, and meats were all “sandwiched” between and on layers of bread. In all likelihood Montagu took\n   having shocked                                      to have been shocked                                           inspiration from these when he sat at that card table.",
-    "options": [],
+    "text": "He sat still in front of the TV, _____ by the news of the violent attack on the United States Capitol.           Montagu traveled abroad to the Mediterranean, where Turkish and Greek mezze platters were served. Dips,",
+    "options": [
+      "shocked",
+      "been shocked\ncheeses, and meats were all “sandwiched” between and on layers of bread. In all likelihood Montagu took",
+      "having shocked",
+      "to have been shocked\ninspiration from these when he sat at that card table."
+    ],
     "answer": "1"
   },
   {
     "number": "19",
-    "text": "The designer dresses in this store are more affordable than _____ in that store.                                       Montagu’s creation took off immediately. Just a few months later, a man named Edward Gibbon mentioned\n                                                                                                                        the sandwich by name in a diary entry, writing that he’d seen “twenty or thirty of the first men of the kingdom” in\n   ones                                                these\n                                                                                                                        a restaurant eating them. By the Revolutionary War, the sandwich was well established in England. You would\n   those                                               which                                                          expect American colonists to have taken to the sandwich as well, but there’s no early written record of them in",
-    "options": [],
+    "text": "The designer dresses in this store are more affordable than _____ in that store.\nMontagu’s creation took off immediately. Just a few months later, a man named Edward Gibbon mentioned\n\nthe sandwich by name in a diary entry, writing that he’d seen “twenty or thirty of the first men of the kingdom” in",
+    "options": [
+      "ones",
+      "these\n\na restaurant eating them. By the Revolutionary War, the sandwich was well established in England. You would",
+      "those",
+      "which\nexpect American colonists to have taken to the sandwich as well, but there’s no early written record of them in"
+    ],
     "answer": "3"
   },
   {
     "number": "20",
-    "text": "The leftover is no longer edible for it _____ on the table for hours.                                            the new country at all, and a sandwich recipe didn’t appear in an American cookbook until 1815.\n   was left                                            is being left                                                        Why would this creation go unsung in the nation for so long? It seems early American cooks tended to\n   has been left                                       had been left                                                  avoid food trends from their former ruling state. And the name “sandwich” itself comes from the British upper",
-    "options": [],
+    "text": "The leftover is no longer edible for it _____ on the table for hours.\nthe new country at all, and a sandwich recipe didn’t appear in an American cookbook until 1815.",
+    "options": [
+      "was left",
+      "is being left\nWhy would this creation go unsung in the nation for so long? It seems early American cooks tended to",
+      "has been left",
+      "had been left\navoid food trends from their former ruling state. And the name “sandwich” itself comes from the British upper"
+    ],
     "answer": "3"
   },
   {
     "number": "21",
-    "text": "I suggest Jim _____ the fastest route instead of the shortest one to his destination.                            class system, something that most Americans wanted to forget. Once memory faded and the sandwich appeared,\n   take                                                takes                                                          the most popular version wasn’t ham or turkey, but tongue!\n                                                                                                                              Of course, most Americans today wouldn’t dream of eating a tongue sandwich. But that’s ok, since so many\n   be taking                                           taking                                                         pretty excellent sandwich ideas have popped up since then.",
-    "options": [],
+    "text": "I suggest Jim _____ the fastest route instead of the shortest one to his destination.\nclass system, something that most Americans wanted to forget. Once memory faded and the sandwich appeared,",
+    "options": [
+      "take",
+      "takes\nthe most popular version wasn’t ham or turkey, but tongue!\n\nOf course, most Americans today wouldn’t dream of eating a tongue sandwich. But that’s ok, since so many",
+      "be taking",
+      "taking\npretty excellent sandwich ideas have popped up since then."
+    ],
     "answer": "1"
   },
   {
-    "number": "22",
-    "text": "Most residents in this community are aged World War Two soldiers, _____.",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "31",
-    "text": "What is the passage mainly about?\n   many of them live alone                                                                                              The process of making the sandwich.                  The history of the sandwich.\n   many of them living alone                                                                                            The story of John Montagu.                           The ingredients of the sandwich.\n   and many of whom live alone",
-    "options": [],
+    "text": "What is the passage mainly about?",
+    "options": [
+      "many of them live alone",
+      "The process of making the sandwich.",
+      "The history of the sandwich.",
+      "many of them living alone",
+      "The story of John Montagu.",
+      "The ingredients of the sandwich.",
+      "and many of whom live alone"
+    ],
     "answer": "2"
   },
   {
     "number": "32",
-    "text": "Where did John Montagu get the inspiration of making the sandwich?\n   and many of whom living alone                                                                                        From Chinese dumplings.                              From American hamburgers.\n                                                                                                                         From Korean beef bulgogi.                            From Turkish and Greek mezze platters.",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "23",
-    "text": "It was not until I raised the alert to Debbie _____ to take action to deal with her mother’s aging problems.",
-    "options": [],
+    "text": "Where did John Montagu get the inspiration of making the sandwich?",
+    "options": [
+      "and many of whom living alone",
+      "From Chinese dumplings.",
+      "From American hamburgers.",
+      "From Korean beef bulgogi.",
+      "From Turkish and Greek mezze platters."
+    ],
     "answer": "4"
   },
   {
     "number": "33",
-    "text": "Which of the following statements about John Montagu is NOT true?\n   who started                                         did she start                                                   He was the 4th Earl of Sandwich.                     He was said to have a gambling problem.\n   when she started                                    that she started                                                He travelled abroad to the Mediterranean.            Edward Gibbon was his cook.",
-    "options": [],
+    "text": "Which of the following statements about John Montagu is NOT true?",
+    "options": [
+      "who started",
+      "did she start",
+      "He was the 4th Earl of Sandwich.",
+      "He was said to have a gambling problem.",
+      "when she started",
+      "that she started",
+      "He travelled abroad to the Mediterranean.",
+      "Edward Gibbon was his cook."
+    ],
     "answer": "4"
   },
   {
     "number": "24",
-    "text": "Dealing with so many customers at a time _____ not easy to me because their needs are quite different.",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "34",
-    "text": "Which of the following words is closest in meaning to the word “unsung” in Paragraph 4?\n   being                                               are                                                             overlooked                 established              emphasized             popularized\n   is                                                  to be",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "35",
-    "text": "Which of the following statements about the sandwich is true?",
-    "options": [],
+    "text": "Dealing with so many customers at a time _____ not easy to me because their needs are quite different.         3",
+    "options": [
+      "being",
+      "are",
+      "overlooked",
+      "established",
+      "emphasized",
+      "popularized",
+      "is",
+      "to be"
+    ],
     "answer": "3"
   },
   {
     "number": "25",
-    "text": "Jane is a shy girl. She has difficulty _____ to people in her workplace or neighborhood.                          It was not until 1815 that the sandwich became popular in England.\n                                                                                                                         John Montagu was the first person to put fillings between slices of bread.\n   talking                                             talk                                                            Early American cooks tended to avoid food trends from England.\n   to talk                                             talks                                                           For Americans today, their favorite version of the sandwich is a tongue sandwich.",
-    "options": [],
+    "text": "Jane is a shy girl. She has difficulty _____ to people in her workplace or neighborhood.",
+    "options": [
+      "It was not until 1815 that the sandwich became popular in England.",
+      "John Montagu was the first person to put fillings between slices of bread.",
+      "talking",
+      "talk",
+      "Early American cooks tended to avoid food trends from England.",
+      "to talk",
+      "talks",
+      "For Americans today, their favorite version of the sandwich is a tongue sandwich."
+    ],
     "answer": "1"
   }
 ]

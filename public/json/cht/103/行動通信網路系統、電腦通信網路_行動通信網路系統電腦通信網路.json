@@ -1,45 +1,499 @@
 [
   {
-    "number": "2",
-    "text": "4 GHz ISM 波段？                                   【1】57.下列何者多重存取的方式造成碰撞的機率比較高？",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
     "number": "1",
-    "text": "2、4、6",
+    "text": "LTE 採取下列哪一種技術？",
     "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "2、3、6",
-    "options": [
-      ""
+      "發送器",
+      "路由器",
+      "WCDMA",
+      "CDMA",
+      "TDMA",
+      "OFDMA       21.蜂巢網路(cellular network)採取何種技術以有效利用所分配到的頻道？"
     ],
     "answer": "4"
   },
   {
     "number": "2",
-    "text": "3、4、6",
+    "text": "下列何者非我國的 LTE 頻段？",
     "options": [
-      ""
+      "自立式電波塔(self-supported tower)",
+      "700 MHz",
+      "900 MHz",
+      "1800 MHz",
+      "2600 MHz",
+      "區域重疊(area overlap)"
     ],
     "answer": "4"
   },
   {
-    "number": "1",
-    "text": "2、3、8\n【1】46.下列何種設備能夠用來分割廣播領域(broadcast domain)？",
+    "number": "3",
+    "text": "有關 LTE 的敘述，下列何者錯誤？",
+    "options": [
+      "區域再用(area reuse)",
+      "頻率再用(frequency reuse)",
+      "LTE-TDD 為 LTE 之一種",
+      "LTE-FDD 為 LTE 之一種"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "22",
+    "text": "下列何者僅讓特定頻率的電磁波通過，把其他種頻率的電磁波擋掉？",
+    "options": [
+      "LTE 具備 MIMO 架構",
+      "傳送器(transmitter)",
+      "放大器(amplifier)",
+      "就 LTE 的部署與管理而言每位用戶單位成本大幅增加",
+      "路由器(router)",
+      "濾波器(filter)"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "23",
+    "text": "下列何者非屬無線通訊網路所使用的通訊協定？",
+    "options": [
+      "RFID 可防磁並耐高溫",
+      "RFID 的傳輸媒介為無線電波",
+      "HSDZA",
+      "WPA",
+      "WCDMA",
+      "CSMACA",
+      "RFID 即為平常看見的條碼",
+      "悠遊卡屬 RFID 的一種應用            24.將訊號往某個特定的方向發射且較能克服地形障礙的天線屬於："
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "5",
+    "text": "下列何者的傳輸速率最快？",
+    "options": [
+      "sectorized antenna",
+      "LTE",
+      "HSPA+",
+      "WiFi",
+      "WCDMA",
+      "dipole antenna",
+      "directional antenna"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "有關 Wi-Fi、WiMAX 與 3G 的敘述，下列何者錯誤？",
+    "options": [
+      "omnidirectional antenna",
+      "WiMAX 的標準為 IEEE 802.16"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "25",
+    "text": "下列何者非屬行動無線通訊優於有線通訊的特質？",
+    "options": [
+      "IEEE 802.11g 為 Wi-Fi 的標準",
+      "機動性",
+      "即時性",
+      "彈性",
+      "安全性",
+      "三者的傳輸距離以 Wi-Fi 無線上網最遠",
+      "三者的傳輸速率以 3G 最慢"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "26",
+    "text": "依據發話器具聯絡的基地台位置來決定發話器具所在的區域，這種定位技術稱為下列何者？",
+    "options": [
+      "AOA",
+      "TDOA",
+      "COO",
+      "TOA"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "27",
+    "text": "數個基地台將得到的接收角資訊送給設備，該設備利用三角定位法就可以算出發話器具的位置，這種定位技術",
+    "options": [
+      "藍芽裝置的耗電量比 NFC 裝置低",
+      "藍芽的傳輸速率比 NFC 快\n稱為下列何者？",
+      "藍芽的安全性不如 NFC",
+      "AOA",
+      "TDOA",
+      "COO",
+      "TOA",
+      "藍芽的傳輸距離比 NFC 遠"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "28",
+    "text": "下列何者非屬 CDMA2000 中 PDSN 的主要功能？",
+    "options": [
+      "建立、維護和終止與行動基地台的 PPP 連接",
+      "為 IP 用戶指定 IP 位址"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "8",
+    "text": "下列何者不屬於近距離無線通訊標準？",
+    "options": [
+      "管理無線資源、紀錄無線資源狀態",
+      "為行動 IP 業務提供 FA 的功能",
+      "ZigBee",
+      "WiMAX",
+      "NFC",
+      "Bluetooth"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "9",
+    "text": "下列何者非屬 RFID 的應用？\n的總機號碼，透過智慧型網路聯結成一個迅速、高效能的群組式行動通信網路？",
+    "options": [
+      "金融卡 VISA WAVE",
+      "捷運悠遊卡",
+      "WLL",
+      "WLAN",
+      "MVPN",
+      "VPN",
+      "國道 ETC",
+      "GPS"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "10",
+    "text": "有關 Mobile IP 之敘述，下列何者錯誤？",
+    "options": [
+      "第一類電信業者",
+      "第二類電信業者",
+      "主要用途是加強傳統的網際網路協定，讓行動裝置無論漫遊到什麼地方依然能夠正常地收送資料封包",
+      "無線通訊業者",
+      "固網業者",
+      "行動裝置能在不改變傳統網路組態的情況下與非行動式的網路節點做 IP 層次的通訊"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "31",
+    "text": "下列何者不屬於無線個人網路(WPAN)？",
+    "options": [
+      "行動裝置移動到另一個網路範圍時能在不改變 IP 位址的情況下繼續通訊",
+      "行動裝置的 IP 位址與一般傳統式的 IP 位址格式不一樣",
+      "802.11",
+      "UWB (Ultrawideband)",
+      "ZigBee",
+      "藍芽"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "32",
+    "text": "虛擬私人網路(VPN)所使用的通道標準為何？",
+    "options": [
+      "10 公尺～100 公尺",
+      "ISDN",
+      "HTTP",
+      "PPTP",
+      "POP",
+      "200 公尺～250 公尺",
+      "300 公尺～350 公尺"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": "請問在 IEEE 802 標準中，資料連結層(data link layer)再切割成哪兩層？",
+    "options": [
+      "500 公尺～550 公尺",
+      "HDLC、MAC",
+      "MAC、DSL"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "12",
+    "text": "NFC 的理想最遠傳輸距離為：",
+    "options": [
+      "PDU、MAC",
+      "MAC、LLC",
+      "20 公分以內",
+      "1 公尺～5 公尺"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "34",
+    "text": "下列何者是路由器之間用來交換路由資訊的通訊協定？",
+    "options": [
+      "10 公尺～20 公尺",
+      "50 公尺～60 公尺",
+      "ARP",
+      "ICMP",
+      "IP",
+      "RIP\n\n\n【請接續背面】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "55",
+    "text": "下列何者決定 IP 封包的切割？",
+    "options": [
+      "Anycast 位址",
+      "ARP",
+      "ICMP",
+      "MTU",
+      "RIP",
+      "Multicast 位址"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "56",
+    "text": "下列何者為 GSM 所採用的多重存取技術？",
+    "options": [
+      "Link-Local Unicast 位址",
+      "FDMA/FDD",
+      "FDMA/TDD",
+      "Global Unicast 位址",
+      "TDMA/FDD",
+      "CDMA/FDD"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "57",
+    "text": "下列何者多重存取的方式造成碰撞的機率比較高？",
+    "options": [
+      "802.11a",
+      "802.11b",
+      "802.11g",
+      "藍芽",
+      "ALOHA",
+      "slotted ALOHA"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "37",
+    "text": "常見的乙太網路 MAC 位址的長度有幾個位元組(bytes)？",
+    "options": [
+      "CSMA/CD",
+      "CSMA/CA",
+      "4",
+      "6",
+      "8",
+      "10     58.下列何者的傳輸速率最快？"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "38",
+    "text": "下列何者可以找出傳送封包的最佳路徑？",
+    "options": [
+      "ZigBee",
+      "藍芽",
+      "802.11b",
+      "802.11n",
+      "中繼器",
+      "橋接器",
+      "交換器",
+      "路由器     59.如果一頻寬為 4 KHz 的訊號要能被完整還原，其最小的取樣速率(sps)為何？"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "39",
+    "text": "下列何種傳輸介質可不受電磁干擾？",
+    "options": [
+      "2 Ksps",
+      "4 Ksps",
+      "8 Ksps",
+      "16 Ksps",
+      "絞線(twisted pair)"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "60",
+    "text": "假設訊號的最高頻率與最低頻率分別為 100 KHz、1 MHz，則其頻寬為何？",
+    "options": [
+      "同軸電纜(coaxial)",
+      "99 KHz",
+      "900 KHz",
+      "990 KHz",
+      "0.09 MHz",
+      "微波(microwave)",
+      "光纖(optical)"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "40",
+    "text": "下列哪一種調變技術是以傳送單一訊息的頻寬來傳送兩種訊號？",
+    "options": [
+      "BPSK",
+      "FM",
+      "GMSK",
+      "QAM"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "41",
+    "text": "IPv6 的封包格式較 IPv4 增加了下列何者？\n\n貳、非選擇題四大題（每大題 10 分）",
+    "options": [
+      "固定的表頭",
+      "擴充的表頭\n題目一：",
+      "特定資料欄位",
+      "封包檢查碼"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "42",
+    "text": "當導線中有電流通過時，導線旁邊的磁針會向什麼方向偏轉？\n請列舉四項在 LTE-Advanced 規範中可以達到頻寬擴展、擴展網路覆蓋範圍、改善用戶",
+    "options": [
+      "360 度旋轉",
+      "與導線平行的方向\n(UE)間信號干擾以及提高峰值頻譜效率的關鍵技術並分別簡述每項技術產生之效益。      【10 分】",
+      "與導線垂直的方向",
+      "不會偏轉"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "43",
+    "text": "請問封包交換技術中資料以分封交換方式來傳送時，系統可以採用「資料封包」(Datagram)及以下何種方式來\n  控制封包傳送？",
+    "options": [
+      "電路交換(Circuit-Switching)",
+      "細胞繼送(Cell Relay)",
+      "訊框繼送(Frame Relay)\n\n題目二：",
+      "虛擬電路(Virtual Circuit)\n請列舉五項 LTE 行動通訊優於 3G 行動通訊的特質。\n\n【10 分】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "44",
+    "text": "下列何者可以提供動態 IP 位址配置及網路設定參數？",
+    "options": [
+      "FTP",
+      "IMAP",
+      "DHCP",
+      "DNS"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "在乙太網路 100BaseT 中，依照 TIA / TIE 568A 標準，RJ-45 接頭會使用到哪些接腳？",
+    "options": [
+      "1、2、4、6",
+      "1、2、3、6",
+      "2、3、4、6",
+      "1、2、3、8"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "46",
+    "text": "下列何種設備能夠用來分割廣播領域(broadcast domain)？",
     "options": [
       "路由器",
       "集線器",
       "橋接器",
-      "中繼器     題目三：\n【1】47.下列何者機制為 IEEE"
+      "中繼器     題目三："
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "下列何者機制為 IEEE 802.11 系列標準的媒介存取控制？\n請回答下列網路分割及子網路網路位址之相關問題：",
+    "options": [
+      "CSMA/CA",
+      "CSMA/CD",
+      "Token Ring",
+      "Token Bus\n（一） 255.255.252.0 這個子網路遮罩最多可將 140.128.0.0 這個網路分割為幾個有效"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "48",
+    "text": "請問 TCP 是以什麼方式建立連線？\n的子網路？每個子網路中最多可以有幾台主機？【5 分】",
+    "options": [
+      "單向傳送連線訊息",
+      "雙向交握方式",
+      "三向交握方式",
+      "傳送命令直接連線\n（二）假設某台主機的 IP 位址為 192.160.8.134，子網路遮罩為 255.255.255.248，則"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "49",
+    "text": "下列何者屬於第三代行動通訊系統？",
+    "options": [
+      "AMPS",
+      "W-CDMA",
+      "GPRS",
+      "GSM\n\n該主機所在的子網路「網路位址」為何？【5 分】"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "50",
+    "text": "下列何者是將 IP 位址映射為實體位址(MAC address)的協定？",
+    "options": [
+      "ARP",
+      "RARP",
+      "ICMP",
+      "RIP"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "51",
+    "text": "請問傳輸層是以什麼方式定址？",
+    "options": [
+      "硬體位址",
+      "IP 位址",
+      "網域名稱",
+      "連接埠"
     ],
     "answer": "4"
+  },
+  {
+    "number": "52",
+    "text": "電信業者為了推動 4G 行動上網，基於相容性考量，希望採用的 4G 標準能夠相容現有的 3G 基地台，他們最    題目四：\n  有可能引進何種技術？\n請回答下列與傳輸相關之問題：",
+    "options": [
+      "EDGE",
+      "LTE",
+      "WiMAX",
+      "IEEE 802.11n            （一）請說明何謂平行傳輸(parallel transmission)？何謂序列傳輸(serial transmission)？"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "53",
+    "text": "請問目前使用無線區域網路最普遍且與 802.11b 產品相容的無線區域網路標準是下列哪一項？",
+    "options": [
+      "IEEE 802.3",
+      "IEEE 802.11a\n\n【4 分】",
+      "IEEE 802.11g",
+      "IEEE 802.16             （二）請說明何謂基頻傳輸(baseband)？何謂寬頻傳輸(broadband)？【6 分】"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "54",
+    "text": "從用戶家中到電信網路服務提供者之間的線路稱為：",
+    "options": [
+      "主幹線路(Trunk Circuits)",
+      "區域迴路(Local Loops)",
+      "交換線路(Switching Circuits)",
+      "虛擬區域網路(VLAN)"
+    ],
+    "answer": "2"
   }
 ]

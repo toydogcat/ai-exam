@@ -1,29 +1,97 @@
 [
   {
     "number": "1",
-    "text": "5×1010 cm−3，若摻雜的受體(acceptor)",
+    "text": "下列何者不是物件導向程式的主要特色？",
     "options": [
-      "取資料、取指令、分析指令、執行",
-      "取指令、取資料、分析指令、執行                       濃度 na 為 1016cm−3，則此時少數載子(minority carrier)的濃度為何？",
-      "取指令、分析指令、取資料、執行",
-      "取指令、分析指令、執行、取資料",
-      ""
+      "HTTP",
+      "HTML",
+      "WML",
+      "XHTML",
+      "遞迴(Recursion)",
+      "封裝(Encapsulation)",
+      "繼承(Inheritance)",
+      "多形(Polymorphism)   28.有關零時差攻擊(Zero-day Attack)的敘述，下列何者正確？\n\nm"
     ],
     "answer": "1"
   },
   {
     "number": "2",
-    "text": "5×10−14 A",
+    "text": "主記憶體的容量若有 2 個記憶位置，每個記憶位置有 n 個位元，則記憶位址暫存器的大小為：",
     "options": [
-      "5×10−14 A",
-      "10−13 A",
-      "2×10−13 A\n 7.一個程式在電腦中執行共需 140 秒，其中乘法指令共花掉 112 秒，請問要將乘法指令速度提升為多少倍可使程                    33.某一齊納二極體(Zener diode)流過 5 mA 時的跨壓為"
+      "在同一時區發生的網路攻擊事件",
+      "在軟體弱點被發現，但尚未有任何修補方法前所出現的攻擊行為",
+      "m 個位元",
+      "n 個位元",
+      "m+n 個位元",
+      "mn 個位元",
+      "在午夜 12 點發動網路攻擊的一種病毒",
+      "只要發生網路攻擊事件，馬上有修補程式出現的現象"
     ],
     "answer": "1"
   },
   {
     "number": "3",
-    "text": "70 V，則其等效串聯\n  式執行時間成為原來的四分之一？                                                                 電阻(equivalent series resistance)為何？",
+    "text": "假設網路 140.12.0.0 的網路遮罩(Netmask)為 255.255.24.192，下列何者屬於不同的子網路？",
+    "options": [
+      "節省成本",
+      "分散管理權責",
+      "140.12.23.71",
+      "140.12.26.72",
+      "140.12.48.96",
+      "140.12.80.80",
+      "加快回應速度",
+      "不會因為單一防護機制被突破而造成全面崩潰"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "30",
+    "text": "將資料在網路上傳送時，防範機密資訊外洩的主要方法為：",
+    "options": [
+      "控制單元",
+      "主記憶體",
+      "算數邏輯運算單元",
+      "輸入輸出單元",
+      "進行資料壓縮",
+      "進行資料加密",
+      "使用防毒軟體",
+      "加裝防火牆"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "31",
+    "text": "已知矽在溫度 300 K 時的本質載子濃度(intrinsic carrier concentration) ni 為 1.5×1010 cm−3，若摻雜的受體(acceptor)",
+    "options": [
+      "取資料、取指令、分析指令、執行",
+      "取指令、取資料、分析指令、執行\n濃度 na 為 1016cm−3，則此時少數載子(minority carrier)的濃度為何？",
+      "取指令、分析指令、取資料、執行",
+      "取指令、分析指令、執行、取資料",
+      "2.25×104 cm−3",
+      "6.67×105 cm−3",
+      "1.5×1010 cm−3",
+      "1×1016 cm−3"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "下列何者不是電腦的作業系統？\n偏壓電壓為 0.5 V 時的電流為何？",
+    "options": [
+      "Windows XP",
+      "Linux",
+      "Unix",
+      "Oracle",
+      "2.5×10−14 A",
+      "5×10−14 A",
+      "10−13 A",
+      "2×10−13 A"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "33",
+    "text": "某一齊納二極體(Zener diode)流過 5 mA 時的跨壓為 3.65 V，若流過 10 mA 時的跨壓為 3.70 V，則其等效串聯\n  式執行時間成為原來的四分之一？\n電阻(equivalent series resistance)為何？",
     "options": [
       "4倍",
       "8倍",
@@ -32,7 +100,14 @@
       "0",
       "10 ",
       "370 ",
-      "730 \n 8.將資料於傳輸過程中進行數位信號與類比信號轉換者為：                                                 34.假設交流電源 vs  110 2 sin(2  60t) V，則經半波整流後的平均輸出電壓為何？",
+      "730 "
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "34",
+    "text": "假設交流電源 vs  110 2 sin(2  60t) V，則經半波整流後的平均輸出電壓為何？",
+    "options": [
       "多工器",
       "編譯器",
       "直譯器",
@@ -40,55 +115,354 @@
       "110 2 V",
       "110 V",
       "110 2 π V",
-      "110 π V\n 9.下列何者為將高階語言轉換成低階語言的程式？                                                     35.如【圖 35】所示之二極體截波器(clipper)，若 vi = 10 sin (2π×60t) V 且 VB = 8 V，則 vo 的最大值為何？",
+      "110 π V"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "35",
+    "text": "如【圖 35】所示之二極體截波器(clipper)，若 vi = 10 sin (2π×60t) V 且 VB = 8 V，則 vo 的最大值為何？",
+    "options": [
       "編輯程式",
       "載入程式",
       "編譯程式",
       "連結程式",
-      "0V                                                         【圖 35】\n10.嵌入式作業系統通常會設計於下列何種設備中？",
+      "0V\n【圖 35】"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "10",
+    "text": "嵌入式作業系統通常會設計於下列何種設備中？",
+    "options": [
       "2V",
       "硬碟",
       "唯讀記憶體",
       "隨機存取記憶體",
       "光碟",
-      "10 V                                                       +  V +\n                                                                                                                                                                +\n\n11.下列哪一種儲存元件的存取速度最快？",
-      "18 V                                                      v\n                                                                                                                                                     B\n                                                                                                                                                                vo\n                                                                                                                                              i",
-      "暫存器",
-      "靜態隨機存取記憶體                                                                                                      ",
-      "唯讀記憶體",
-      "硬碟                                                 V        VO, min\n12.下列哪一種排程演算法，理論上能得到最短的平均等待時間？                                               36.根據穩壓率的定義： O, max           ，若 VO,nor = 5 V、VO,max ="
+      "10 V\n+  V +\n\n+"
     ],
     "answer": "2"
   },
   {
-    "number": "5",
-    "text": "5 V，請問下列 VO,min 的值符合 5%的穩壓率要\n                                                                                                    VO, nor",
+    "number": "11",
+    "text": "下列哪一種儲存元件的存取速度最快？",
+    "options": [
+      "18 V\nv\n\nB\n\nvo\n\ni",
+      "暫存器",
+      "靜態隨機存取記憶體\n             ",
+      "唯讀記憶體",
+      "硬碟\nV        VO, min"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "36",
+    "text": "根據穩壓率的定義： O, max           ，若 VO,nor = 5 V、VO,max = 5.5 V，請問下列 VO,min 的值符合 5%的穩壓率要\n\nVO, nor",
     "options": [
       "優先權(Priority)",
       "先到先做(FCFS)",
       "循環分配(RR)",
-      "最短工作先做(SJF)\n13.下列何者不會直接影響電腦系統的計算速度？                                                        求者為何？",
+      "最短工作先做(SJF)"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "13",
+    "text": "下列何者不會直接影響電腦系統的計算速度？\n求者為何？",
+    "options": [
       "CPU 的時脈速度",
       "CPU 提供的指令集",
       "主記憶體容量",
       "硬碟儲存空間",
-      ""
+      "5.0 V",
+      "5.1 V",
+      "5.2 V",
+      "5.3 V"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "37",
+    "text": "在常用的雙極性接面電晶體(BJT)的三個半導體區域內，何者寬度最窄？",
+    "options": [
+      "65535",
+      "65536",
+      "32767",
+      "32768",
+      "射極(emitter, E)",
+      "基極(base, B)",
+      "集極(collector, C)",
+      "不一定"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "38",
+    "text": "某 BJT 的 BE 接面為逆向偏壓、BC 接面為順向偏壓，則該 BJT 的操作模式為：",
+    "options": [
+      "順向作用區(forward active region)",
+      "截止區(cutoff region)\n【圖 41】",
+      "值",
+      "位址",
+      "名稱",
+      "計算結果"
     ],
     "answer": "3"
   },
   {
-    "number": "11",
-    "text": "4 V 10 V",
+    "number": "16",
+    "text": "下列何種機制使得 Java 能夠完成跨平台(Cross Platform)運作？",
     "options": [
-      "物件導向",
-      "例外處理",
-      "虛擬機器",
-      "多執行緒               39.某 BJT 的共射極電流增益(common-emitter current gain)  = 99，則其共基極電流增益\n                                                                                                                                                                              RC\n17.遞迴函數以下列何種資料結構來實現最為有效？                                                       (common-base current gain) 為何？                                               100 k",
+      "逆向作用區(reverse active region)",
+      "飽和區(saturation region)"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "遞迴函數以下列何種資料結構來實現最為有效？\n(common-base current gain) 為何？\n100 k",
+    "options": [
       "佇列",
       "堆疊",
       "鍵結串列",
       "樹",
-      ""
+      "0.99",
+      "1",
+      "1.01",
+      "100\nVC"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "利用氣泡排序法(Bubble Sort)將數列資料(3,5,9,4,7)依遞增順序排序，在第一次排序循環結束後，此數列變成下列何者？        40.下列四種 TRIAC 的觸發模式中，何者所需的閘極電流為最小？\n = 50",
+    "options": [
+      "(3,5,4,9,7)",
+      "(3,5,4,7,9)",
+      "正端電壓、負閘極電流",
+      "正端電壓、正閘極電流",
+      "(5,3,4,9,7)",
+      "(5,3,9,4,7)",
+      "負端電壓、正閘極電流",
+      "負端電壓、負閘極電流\n100 k"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "41",
+    "text": "如【圖 41】所示 BJT 電路，使 VC 約為 2 V 之 RC 值為何？",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "1.2 k",
+      "1.4 k",
+      "1.6 k",
+      "1.8 k\n\n【請接續背面】"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "60",
+    "text": "有關 741 運算放大器(op amp)的敘述，下列何者錯誤？",
+    "options": [
+      "計算直流偏壓條件時，C1 與 C2 可視為開路\n【圖 42】",
+      "輸入級為差動放大器",
+      "電壓增益的主要來源為第二級",
+      "集極到基極間電壓約等於 1.4 V",
+      "AB 類輸出級含有短路保護功能",
+      "利用米勒頻率補償技術可將主要極點設計在極高頻處\n\n15 V",
+      "電壓增益約為−2 倍",
+      "基極電流 IB 約等於 4 µA\n\n2 k"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "43",
+    "text": "有關 BJT 的共極集(common-collector, CC)放大器，下列敘述何者錯誤？     60 k            C2\n貳、非選擇題四大題（每大題 10 分）",
+    "options": [
+      "輸入電阻小、輸出電阻大\nC1   IB\n\nvo",
+      "又稱為射極隨耦器(emitter follower)\nvi\n\n = 100\n題目一：",
+      "適合作為緩衝器(buffer)以提供阻抗匹配(impedance matching)",
+      "功率增益約等於電流增益\n30 k\n\n1 k\n在關聯式資料庫中，一個表格(Table)包含了若干個欄位(Column)以及任意個數的記錄\n\n(Row)。表格中的一個欄位（或多個欄位的組合）要成為該表格的候選鍵(Candidate Key)必須"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "44",
+    "text": "如【圖 44】所示以 CC 放大器為主的達林頓對(Darlington pair)放大器，則等效的共射極電流增益為何？",
+    "options": [
+      "50\n\n【圖 44】\n\n要滿足哪兩個條件？請說明之。  【10 分】",
+      "150",
+      "5000\nCC         V",
+      "2\n題目二："
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "有關接面場效電晶體(junction field effect transistors, JFET)結構的敘述，下列何者錯誤？           1         = 100",
+    "options": [
+      "只含一個 pn 接面，是一種單極性元件(unipolar device)\n2            = 50\n\n請回答下列問題：",
+      "控制 pn 接面兩端的偏壓可改變 JFET 的等效電阻",
+      "汲極(drain)與源極(source)之間的通道(channel)是主電流流經的路徑\n\n（一）請將十進位數字(62)10 分別轉成二進位數字、八進位數字、以及十六進位數字。",
+      "閘極(gate)的半導體材料與通道相同\n【6 分】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "46",
+    "text": "一 N 型 JFET 的夾止電壓(pinch-off voltage) VP 為−5 V，當操作於歐姆區(ohmic region)或三極區(triode region)、\n  且 VGS 為一固定值−1 V 時，下列汲-源極電壓，何者可以產生最大的 ID？\n（二）有關二進位元串(Binary String) 1001，若為 1 的補數，其十進位數值為何？若為",
+    "options": [
+      "4V",
+      "3V",
+      "2V",
+      "1V\n2 的補數，其十進位數值為何？【4 分】"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "如【圖 47】所示的 JFET 電路，IDSS = 12 mA 且 VP = −3 V，請問下列 RD 值何者可以使該 JFET 操作於夾止區？",
+    "options": [
+      "0.9 k",
+      "1.1 k",
+      "1.3 k",
+      "1.5 k"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "48",
+    "text": "有關金屬氧化物半導體場效電晶體(metal-oxide semiconductor field effect transistors, MOSFET)的敘述，下列何者錯誤？\n題目三：",
+    "options": [
+      "閘極與半導體通道之間是絕緣的\n【圖 47】\n2",
+      "輸入阻抗非常低\n15 V\n\n如【圖三】所示之增強型       NMOSFET       偏壓電路，若其操作於夾止區，K    = 0.5 mA / V 、",
+      "汲極與源極各自連接較高摻雜濃度的半導體材料\nVT = 3 V，請求出 ID 與汲極電壓 VD 的最大容許交流振幅。【10 分】",
+      "空乏型(depletion type) MOSFET 的操作與 JFET 類似\nID    R D"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "49",
+    "text": "一空乏型 NMOSFET 的 IDSS = 9 mA、VP = −3 V，當 VGS = 1 V、VDS = 4 V 時，ID 值為何？\n15 V\n\nVD",
+    "options": [
+      "1 mA",
+      "4 mA",
+      "9 mA",
+      "16 mA\nG"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "一空乏型 NMOSFET 的 IDSS = 9 mA、VP = −3 V，當 VDS = 4 V 時，則 VGS = 1 V 與−1 V 的 ID 比值為何？\n3 k\n\n5 M",
+    "options": [
+      "1:1",
+      "16 : 9",
+      "16 : 4",
+      "16 : 1\nID\n\nVD"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "51",
+    "text": "一增強型(enhancement type) NMOSFET 的臨界電壓(threshold voltage) VT = 1 V，且在 VGS = 4 V 時的飽和\n  汲極電流為 9 mA，則 VGS = 3 V 時的 ID 為何？\n【圖 52】",
+    "options": [
+      "0 mA",
+      "4 mA",
+      "9 mA",
+      "16 mA\n10 M            2.5 k"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "52",
+    "text": "如【圖 52】所示電路，下列敘述何者錯誤？\ni     +",
+    "options": [
+      "此 NMOSFET 永遠操作於三極區",
+      "當 V 小於 VT 時，此電路視同開路\nv",
+      "此電路經常取代電阻作為負載使用",
+      "其小信號等效電阻與直流偏壓電流的平方根成反比\n\n【圖三】\n\n−4"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "53",
+    "text": "在一差動放大器(differential amplifier)中，已知其共模增益(common-mode gain) Acm=−2×10 ，共模拒斥比\n  (common-mode rejection ratio, CMRR)為 100 dB，則差動增益(differential gain) Ad 為：",
+    "options": [
+      "100",
+      "50",
+      "20",
+      "10\n題目四："
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "54",
+    "text": "B 類輸出級(class B output stage)在最大功率損耗時的轉換效率約為：\n如【圖四】所示的 BJT 電流鏡(current mirror)，假設 Q1、Q2 為匹配電晶體，請證明：",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "78.5%\n\nIO       "
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "55",
+    "text": "有關 AB 類輸出級(class AB output stage)的敘述，下列何者錯誤？\n       【其中為共基極電流增益(common-base current gain)】【10 分】",
+    "options": [
+      "操作模式與 A 類輸出級類似",
+      "輸入電壓極小時，兩個電晶體均導通\nI REF   2  ",
+      "交越失真(crossover distortion)幾乎可以完全消除",
+      "在靜態狀況(quiescent condition)下仍會消耗功率"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "56",
+    "text": "有關各類放大器組態的頻率響應說明，下列何者錯誤？\nIO",
+    "options": [
+      "共源極(common-source, CS)放大器的高頻響應受限於米勒效應(Miller effect)\nIREF",
+      "共源極(CS)放大器的頻寬可以藉由增加負載電阻而增加",
+      "共基極(common-base, CB)放大器不受米勒效應的影響，因此頻寬較廣",
+      "差動放大器的頻寬可以藉由在基極接上電阻而增加"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "57",
+    "text": "下列何者非運用負回授(negative feedback)技巧的好處？\nQ1        Q2",
+    "options": [
+      "提高增益",
+      "調整輸入／輸出阻抗",
+      "降低非線性失真",
+      "提高訊雜比(signal-to-noise ratio)"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "58",
+    "text": "大型積體電路(large-scale integrated circuit, LSI circuit)所含的邏輯閘數目約為：",
+    "options": [
+      "10 ~ 100 個",
+      "100 ~ 1000 個",
+      "1000 ~ 10000 個",
+      "10000 個以上"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "59",
+    "text": "在邏輯帶(logic band)區域所定義的四種邏輯準位電壓參數，其間正確的大小關係為：",
+    "options": [
+      "VOH > VIH > VIL > VOL",
+      "VOH > VIH > VOL > VIL\n【圖四】",
+      "VIH > VOH > VIL > VOL",
+      "VIH > VOH > VOL > VIL"
     ],
     "answer": "1"
   }

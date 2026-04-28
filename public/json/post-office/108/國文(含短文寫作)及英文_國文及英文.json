@@ -1,215 +1,312 @@
 [
   {
-    "number": "3",
-    "text": "黃庭堅說：\n                                                                           「人不讀書，則塵俗生其間， 照鏡則面目可憎，對人則語言無味。」這一段話的旨意，\n   非選擇題限以藍、黑色鋼筆或原子筆於答案卷上採橫式作答，並請依標題指示之題號於各題指定作答區內                 是在強調讀書能夠：\n    作答。                                                            平步青雲，世人稱羨             變化氣質，充實內涵\n   請勿於答案卡（卷）上書寫姓名、入場通知書編號或與答案無關之任何文字或符號。                          啟發心智，功成名就             腹有詩書，虛懷若谷\n   本項測驗僅得使用簡易型電子計算器（不具任何財務函數、工程函數、儲存程式、文數字編輯、內建程式、",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "「勸人讀書尚友古人」句中「尚友」一詞，意謂：\n    外接插卡、攝（錄）影音、資料傳輸、通訊或類似功能），且不得發出聲響。應考人如有下列情事扣該節                 上與古人為友               重視與人為友\n    成績 10 分，如再犯者該節不予計分。1.電子計算器發出聲響，經制止仍執意續犯者。2.將不符規定之電子            仰慕上古賢士               崇尚友誼之道\n    計算器置於桌面或使用，經制止仍執意續犯者。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "「行吟澤畔的屈大夫」句中「行吟澤畔」，意指：\n   答案卡（卷）務必繳回，違反者該節成績以零分計算。                                       吟詠水澤邊景致               一路吟遊到水邊\n壹、國文                                                               在水邊徘徊吟歎               走到水澤邊獨吟\n◎請勿於答案卷上書寫應考人姓名、入場通知書編號或與答案無關之任何文字或符號。                            第三篇：\n                                                                    拯性峭直，惡吏苛刻，務敦厚，雖甚嫉惡，而未嘗不推以忠恕也。與人不苟合，不僞辭色悅人，平居\n一、短文寫作（30 分）\n                                                                  無私書，故人、親黨皆絕之。雖貴，衣服、器用、飲食如布衣時。嘗曰：「後世子孫仕宦，有犯贓者，不\n  下面有兩種關於「懷疑」的觀點，你比較認同哪一種觀點？或者你認為兩種觀點皆有                           得放歸本家，死不得葬大塋中。不從吾志，非吾子若孫也。」（節選自《宋史‧包拯傳》）\n道理？請寫一篇 250~350 字的短文，談談你的經驗和看法。",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "6",
-    "text": "「雖貴，衣服、器用、飲食如布衣時」的「貴」字，意謂：\n   甲、如果你想追求真理，人生至少要有一個階段必須勇於懷疑。                                    親貴         昂貴       珍貴         顯貴\n   乙、懷疑讓我們怯於嘗試，最終輸掉本來有機會贏得的好事。",
-    "options": [],
+    "text": "「雖貴，衣服、器用、飲食如布衣時」的「貴」字，意謂：\n   甲、如果你想追求真理，人生至少要有一個階段必須勇於懷疑。",
+    "options": [
+      "親貴",
+      "昂貴",
+      "珍貴",
+      "顯貴\n   乙、懷疑讓我們怯於嘗試，最終輸掉本來有機會贏得的好事。"
+    ],
     "answer": "4"
   },
   {
     "number": "7",
-    "text": "「平居無私書」其中「私書」一詞，意指：\n                                                                   居家撰擬的文書\n                                                                   存放在家的文書\n二、閱讀測驗（每題 2 分）                                                     請託推薦的信函\n第一篇：                                                               往來問候的信函\n  忙是人生的本分，試觀中外古今大人物若大禹、若孔子、若墨子、若釋迦、若基督，乃至其他聖哲豪",
-    "options": [],
+    "text": "「平居無私書」其中「私書」一詞，意指：",
+    "options": [
+      "居家撰擬的文書",
+      "存放在家的文書\n二、閱讀測驗（每題 2 分）",
+      "請託推薦的信函\n第一篇：",
+      "往來問候的信函\n  忙是人生的本分，試觀中外古今大人物若大禹、若孔子、若墨子、若釋迦、若基督，乃至其他聖哲豪  8.從文章內容，可以推知包拯為人：",
+      "耿介廉潔",
+      "嫉惡如仇\n傑，那一個肯自己偷閑，那一個不是席不暇暖、突不得黔，奔走棲皇一生到老。若厭忙求閑，豈不反成了",
+      "知恩圖報",
+      "以德服人\n衣架飯囊材料。至於說到厭世，這是沒志氣人所用的字典方有此二字；古來聖哲，從未說過，千萬不要誤\n會了。我所說的是告訴汝終日忙、終年忙，總須向著一個目的忙去。汝過去現在到底忙個甚麽所為何來， 第四篇：\n不惟我不知道，恐怕連汝自己也不知道；汝自己不惟不知道，恐怕自有生以來，未曾想過。嗚呼！人生無\n時難年荒世業空，弟兄羈旅各西東。\n常，人身難得。數十寒暑，一彈指頃，便爾過去；今之少年，曾幾何時，忽已頎然而壯，忽復頹然而老，\n田園寥落干戈後，骨肉流離道路中。\n忽遂奄然而死。……豈不可憐，豈不可惜。 (節選自梁啟超〈人生目的何在〉)\n弔影分為千里雁，辭根散作九秋蓬。"
+    ],
     "answer": "3"
   },
   {
-    "number": "8",
-    "text": "從文章內容，可以推知包拯為人：\n                                                 耿介廉潔                                   嫉惡如仇\n傑，那一個肯自己偷閑，那一個不是席不暇暖、突不得黔，奔走棲皇一生到老。若厭忙求閑，豈不反成了\n                                                 知恩圖報                                   以德服人\n衣架飯囊材料。至於說到厭世，這是沒志氣人所用的字典方有此二字；古來聖哲，從未說過，千萬不要誤\n會了。我所說的是告訴汝終日忙、終年忙，總須向著一個目的忙去。汝過去現在到底忙個甚麽所為何來， 第四篇：\n不惟我不知道，恐怕連汝自己也不知道；汝自己不惟不知道，恐怕自有生以來，未曾想過。嗚呼！人生無                     時難年荒世業空，弟兄羈旅各西東。\n常，人身難得。數十寒暑，一彈指頃，便爾過去；今之少年，曾幾何時，忽已頎然而壯，忽復頹然而老，                     田園寥落干戈後，骨肉流離道路中。\n忽遂奄然而死。……豈不可憐，豈不可惜。 (節選自梁啟超〈人生目的何在〉)                               弔影分為千里雁，辭根散作九秋蓬。",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "1",
-    "text": "「豈不反成了衣架飯囊材料」句中「衣架飯囊」一詞，用來比喻什麼樣的人？                            共看明月應垂淚，一夜鄉心五處同。（白居易〈望月有感〉）\n 體用兼備                 庸碌無能",
-    "options": [],
+    "text": "「豈不反成了衣架飯囊材料」句中「衣架飯囊」一詞，用來比喻什麼樣的人？\n共看明月應垂淚，一夜鄉心五處同。（白居易〈望月有感〉）",
+    "options": [
+      "體用兼備",
+      "庸碌無能"
+    ],
     "answer": "2"
   },
   {
     "number": "9",
-    "text": "白居易在〈望月有感〉詩中，以何具體事物比喻骨肉分散？\n 為人做嫁                 一才一藝                                       西、東        干、戈      雁、蓬        月、心",
-    "options": [],
+    "text": "白居易在〈望月有感〉詩中，以何具體事物比喻骨肉分散？",
+    "options": [
+      "為人做嫁",
+      "一才一藝",
+      "西、東",
+      "干、戈",
+      "雁、蓬",
+      "月、心"
+    ],
     "answer": "3"
   },
   {
-    "number": "2",
-    "text": "「頎然而壯」句中的「頎然」一詞，意謂：",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "10",
-    "text": "下列敘述何者錯誤？\n 意志堅強的樣子                                                           「田園寥落干戈後」的「寥落」一詞，意謂荒蕪破落\n 挺立修長的樣子                                                           「骨肉流離道路中」的「流離」一詞，意指流亡離散\n 逐漸成長的樣子                                                           「弔影分為千里雁」的「弔影」一詞，意指孤雁影子\n 百折不撓的樣子                                                           「共看明月應垂淚」一句，意謂無法與手足團聚的傷感\n                                                                                         【請接續背面】\n\f貳、英文【四選一單選選擇題 25 題，占 50 分】                                                                                          四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\n一、字彙【請依照句子前後文意，選出最適當的答案】                                                                                                    The story of Venice begins in the 5 th century",
+    "text": "下列敘述何者錯誤？",
     "options": [
-      "",
-      "After the fall of the Western Roman Empire, barbarians"
+      "意志堅強的樣子",
+      "「田園寥落干戈後」的「寥落」一詞，意謂荒蕪破落",
+      "挺立修長的樣子",
+      "「骨肉流離道路中」的「流離」一詞，意指流亡離散",
+      "逐漸成長的樣子",
+      "「弔影分為千里雁」的「弔影」一詞，意指孤雁影子",
+      "百折不撓的樣子",
+      "「共看明月應垂淚」一句，意謂無法與手足團聚的傷感\n\n【請接續背面】\n貳、英文【四選一單選選擇題 25 題，占 50 分】\n四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\n一、字彙【請依照句子前後文意，選出最適當的答案】\nThe story of Venice begins in the 5 th century A.D. After the fall of the Western Roman Empire, barbarians"
     ],
     "answer": "3"
   },
   {
     "number": "11",
-    "text": "We don’t know if a person in a controversial ethical case is ________ or guilty.                                from the north were raiding Rome’s former territories. In order to escape these raids, the Venetian population on\n   innocent                 meaningful               scientific              violent                               the mainland escaped to the nearby marshes, and found refuge on the sandy islands of Torcello, Iesolo and",
-    "options": [],
+    "text": "We don’t know if a person in a controversial ethical case is ________ or guilty.\nfrom the north were raiding Rome’s former territories. In order to escape these raids, the Venetian population on",
+    "options": [
+      "innocent",
+      "meaningful",
+      "scientific",
+      "violent\nthe mainland escaped to the nearby marshes, and found refuge on the sandy islands of Torcello, Iesolo and"
+    ],
     "answer": "1"
   },
   {
     "number": "12",
-    "text": "The Prime Minister complained that he ________ from the previous administration a government filled             Malamocco. Although the settlements were initially temporary in nature, the Venetians gradually inhabited the\n  with corrupt and untrustworthy top officials.                                                                        islands on a permanent basis. In order to have their buildings on a solid foundation, the Venetians first drove\n   overheard                coiled                   resided                 inherited                             wooden stakes into the sandy ground. Then, wooden platforms were constructed on top of these stakes. Finally,",
-    "options": [],
+    "text": "The Prime Minister complained that he ________ from the previous administration a government filled             Malamocco. Although the settlements were initially temporary in nature, the Venetians gradually inhabited the\n  with corrupt and untrustworthy top officials.\nislands on a permanent basis. In order to have their buildings on a solid foundation, the Venetians first drove",
+    "options": [
+      "overheard",
+      "coiled",
+      "resided",
+      "inherited\nwooden stakes into the sandy ground. Then, wooden platforms were constructed on top of these stakes. Finally,"
+    ],
     "answer": "4"
   },
   {
     "number": "13",
-    "text": "The ________ of the Internet was ARPANET, something used by the US Department of Defense in the                 the buildings were constructed on these platforms. This process took two years and two months to be completed.\n  late 1960s.                                                                                                          On top of that, the wood had to be obtained from the forests of Slovenia, Croatia and Montenegro, and\n   renaissance              melancholy               concession              predecessor                           transported to Venice via water. Thus, one can imagine the scale of this undertaking.",
-    "options": [],
+    "text": "The ________ of the Internet was ARPANET, something used by the US Department of Defense in the\nthe buildings were constructed on these platforms. This process took two years and two months to be completed.\n  late 1960s.\nOn top of that, the wood had to be obtained from the forests of Slovenia, Croatia and Montenegro, and",
+    "options": [
+      "renaissance",
+      "melancholy",
+      "concession",
+      "predecessor\ntransported to Venice via water. Thus, one can imagine the scale of this undertaking."
+    ],
     "answer": "4"
   },
   {
     "number": "14",
-    "text": "The office was assigned a ________ to design a staircase in a villa located in Miami Indians Creek Island.           The use of wood as a supporting structure may seem as a surprise, since wood is relatively less durable than\n   glacier                  project                  janitor                 pilgrim                               stone or metal. The secret to the longevity of Venice’s wooden foundation is the fact that they are submerged",
-    "options": [],
+    "text": "The office was assigned a ________ to design a staircase in a villa located in Miami Indians Creek Island.           The use of wood as a supporting structure may seem as a surprise, since wood is relatively less durable than",
+    "options": [
+      "glacier",
+      "project",
+      "janitor",
+      "pilgrim\nstone or metal. The secret to the longevity of Venice’s wooden foundation is the fact that they are submerged"
+    ],
     "answer": "2"
   },
   {
     "number": "15",
-    "text": "Giving a ________ speech in English is a challenge for many non-native speakers.                                underwater. The decay of wood is caused by microorganisms, such as fungi and bacteria. As the wooden support\n   foreign                  greedy                   formal                  generous                              in Venice is submerged underwater, they are not exposed to oxygen, one of the elements needed by",
-    "options": [],
+    "text": "Giving a ________ speech in English is a challenge for many non-native speakers.\nunderwater. The decay of wood is caused by microorganisms, such as fungi and bacteria. As the wooden support",
+    "options": [
+      "foreign",
+      "greedy",
+      "formal",
+      "generous\nin Venice is submerged underwater, they are not exposed to oxygen, one of the elements needed by"
+    ],
     "answer": "3"
   },
   {
     "number": "16",
-    "text": "Your checked-in luggage ________ varies between 15kg and 23kg depending on which class you book for             microorganisms to survive. In addition, the constant flow of salt water around and through the wood petrifies the\n  our flight.                                                                                                          wood over time, turning the wood into a hardened stone-like structure.\n   revolution               allowance                mischief                firecracker\n                                                                                                                            As a city surrounded by water, Venice had a distinct advantage over her land-based neighbours. For a start,",
-    "options": [],
+    "text": "Your checked-in luggage ________ varies between 15kg and 23kg depending on which class you book for             microorganisms to survive. In addition, the constant flow of salt water around and through the wood petrifies the\n  our flight.\nwood over time, turning the wood into a hardened stone-like structure.",
+    "options": [
+      "revolution",
+      "allowance",
+      "mischief",
+      "firecracker\n\nAs a city surrounded by water, Venice had a distinct advantage over her land-based neighbours. For a start,"
+    ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "If your home is ________ due to heavy rainfall, you can contact the local police office for help.               Venice was secure from enemy invasions. For instance, Pepin, the son of Charlemagne, attempted to invade\n   repeated                 linked                   flooded                 contained\n                                                                                                                       Venice, but failed as he was unable to reach the islands on which the city was built. Venice eventually became a",
-    "options": [],
+    "text": "If your home is ________ due to heavy rainfall, you can contact the local police office for help.\nVenice was secure from enemy invasions. For instance, Pepin, the son of Charlemagne, attempted to invade",
+    "options": [
+      "repeated",
+      "linked",
+      "flooded",
+      "contained\n\nVenice, but failed as he was unable to reach the islands on which the city was built. Venice eventually became a"
+    ],
     "answer": "3"
   },
   {
     "number": "18",
-    "text": "The purpose of this regulation is to establish ________ for cooking oil.                                        great maritime power in the Mediterranean. For instance, in 1204, Venice allied itself with the Crusaders and\n   uniforms                 parrots                  gardeners               standards\n                                                                                                                       succeeded in capturing the Byzantine capital, Constantinople. Nevertheless, Venice started to decline in the 15 th\n二、文法測驗【請在下列各題中選出最適當的答案】                                                                                                century, and was eventually captured by Napoleon in 1797 when he invaded Italy.",
-    "options": [],
+    "text": "The purpose of this regulation is to establish ________ for cooking oil.\ngreat maritime power in the Mediterranean. For instance, in 1204, Venice allied itself with the Crusaders and",
+    "options": [
+      "uniforms",
+      "parrots",
+      "gardeners",
+      "standards\n\nsucceeded in capturing the Byzantine capital, Constantinople. Nevertheless, Venice started to decline in the 15 th\n二、文法測驗【請在下列各題中選出最適當的答案】\ncentury, and was eventually captured by Napoleon in 1797 when he invaded Italy."
+    ],
     "answer": "4"
   },
   {
     "number": "19",
-    "text": "The marketing manager made a speech ________ he introduced his plans for the whole company.\n   that                     which                    what                    in which",
-    "options": [],
+    "text": "The marketing manager made a speech ________ he introduced his plans for the whole company.",
+    "options": [
+      "that",
+      "which",
+      "what",
+      "in which"
+    ],
     "answer": "4"
   },
   {
-    "number": "31",
-    "text": "What is this article mainly about?",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "20",
-    "text": "My uncle ________ to San Francisco for a business exhibition there. He will be back next week.                  The history and construction of Venice.\n   has been                 has gone                 was gone                was been                              The culture and tradition of Venice.",
-    "options": [],
+    "text": "My uncle ________ to San Francisco for a business exhibition there. He will be back next week.",
+    "options": [
+      "The history and construction of Venice.",
+      "has been",
+      "has gone",
+      "was gone",
+      "was been",
+      "The culture and tradition of Venice."
+    ],
     "answer": "2"
   },
   {
     "number": "21",
-    "text": "Why ________ getting more information about President Abraham Lincoln?                                          How Venetians became a great maritime power in the Mediterranean.\n   are you interesting to                             are you interesting with                                       Why Venice declined and was captured by Napoleon.\n   are you interested in                              are you interested on",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "32",
-    "text": "Which of the following is closest in meaning to the word “permanent” in Paragraph 1?",
-    "options": [],
+    "text": "Why ________ getting more information about President Abraham Lincoln?",
+    "options": [
+      "How Venetians became a great maritime power in the Mediterranean.",
+      "are you interesting to",
+      "are you interesting with",
+      "Why Venice declined and was captured by Napoleon.",
+      "are you interested in",
+      "are you interested on"
+    ],
     "answer": "3"
   },
   {
     "number": "22",
-    "text": "This beach is our private property. Nobody but you and your children ________ allowed to enter it.              identical\n   be                       am                       is                      are                                   clumsy\n                                                                                                                       lasting",
-    "options": [],
+    "text": "This beach is our private property. Nobody but you and your children ________ allowed to enter it.",
+    "options": [
+      "identical",
+      "be",
+      "am",
+      "is",
+      "are",
+      "clumsy",
+      "lasting"
+    ],
     "answer": "4"
   },
   {
     "number": "23",
-    "text": "There are many little pigs in the barn. One is white, ________ is black, and ________ are brown.                prosperous\n   other, the other         another, other           other, the others       another, the others",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "33",
-    "text": "Which area was NOT involved with providing wood for early Venetians?",
-    "options": [],
+    "text": "There are many little pigs in the barn. One is white, ________ is black, and ________ are brown.",
+    "options": [
+      "prosperous",
+      "other, the other",
+      "another, other",
+      "other, the others",
+      "another, the others"
+    ],
     "answer": "4"
   },
   {
     "number": "24",
-    "text": "________ I can remember, we only had biscuits, French fries, and popcorns.                                      Croatia\n   As far as                As soon as               As long as              As well as                            Montenegro",
-    "options": [],
+    "text": "________ I can remember, we only had biscuits, French fries, and popcorns.",
+    "options": [
+      "Croatia",
+      "As far as",
+      "As soon as",
+      "As long as",
+      "As well as",
+      "Montenegro"
+    ],
     "answer": "1"
   },
   {
     "number": "25",
-    "text": "The DNA samples made it possible ________ victims found in this massive train accident.                         Slovenia\n   identify                 to identify              identified              identifying                           Malamocco\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】",
-    "options": [],
+    "text": "The DNA samples made it possible ________ victims found in this massive train accident.",
+    "options": [
+      "Slovenia",
+      "identify",
+      "to identify",
+      "identified",
+      "identifying",
+      "Malamocco\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】"
+    ],
     "answer": "2"
   },
   {
     "number": "34",
-    "text": "Which of the following statements about Venice is NOT true?\n        During All Souls’ Day in England, the poor, mostly children, went from door to door begging for food.          Venice benefited from its geographical position if compared with its land-based neighbors.\n                                                                                                                       The Byzantine capital was occupied by the combined force of the Venetians and the Crusaders in 1204.\n   Families baked and shared ’soul cakes’ with them        26   for their prayers for a dead relative – possibly\n                                                                                                                       The Romans escaped to today’s Venice because they made their living on fishing and salt trading.\n   the origin of trick-or-treating. The tradition of    27    costumes most likely originated from Christians          The Venetians made their first settlements on the sandy islands of Torcello, Iesolo, and Malamocco.\n   who wore masks or costumes in order to conceal their identities. There is no evidence of Halloween\n   celebrations     28    many Irish migrants fleeing from the Potato famine introduced it to Americans in the",
-    "options": [],
+    "text": "Which of the following statements about Venice is NOT true?\n        During All Souls’ Day in England, the poor, mostly children, went from door to door begging for food.",
+    "options": [
+      "Venice benefited from its geographical position if compared with its land-based neighbors.",
+      "The Byzantine capital was occupied by the combined force of the Venetians and the Crusaders in 1204.\n   Families baked and shared ’soul cakes’ with them        26   for their prayers for a dead relative – possibly",
+      "The Romans escaped to today’s Venice because they made their living on fishing and salt trading.\n   the origin of trick-or-treating. The tradition of    27    costumes most likely originated from Christians",
+      "The Venetians made their first settlements on the sandy islands of Torcello, Iesolo, and Malamocco.\n   who wore masks or costumes in order to conceal their identities. There is no evidence of Halloween\n   celebrations     28    many Irish migrants fleeing from the Potato famine introduced it to Americans in the      35. Why can Venice’s wooden foundation last for such a long time?\n   19th century.     29 , it still remained mainly confined to the immigrant communities until it slowly",
+      "The foundation was built on top of many solid rocks.",
+      "The microorganisms that decompose wood are unable to survive in water.\n   assimilated into mainstream society in the early 1990’s. In the late 1800s, Halloween was transformed into",
+      "Barbarians from the north did not have a chance to destroy it.\n   a holiday focusing on community        30    ghosts and witchcraft, and ’frightening’ or ’grotesque’ elements",
+      "Venetians have good techniques in repairing the wooden foundation.\n   were discouraged."
+    ],
     "answer": "3"
   },
   {
-    "number": "35",
-    "text": "Why can Venice’s wooden foundation last for such a long time?\n   19th century.     29 , it still remained mainly confined to the immigrant communities until it slowly               The foundation was built on top of many solid rocks.\n                                                                                                                       The microorganisms that decompose wood are unable to survive in water.\n   assimilated into mainstream society in the early 1990’s. In the late 1800s, Halloween was transformed into\n                                                                                                                       Barbarians from the north did not have a chance to destroy it.\n   a holiday focusing on community        30    ghosts and witchcraft, and ’frightening’ or ’grotesque’ elements       Venetians have good techniques in repairing the wooden foundation.\n   were discouraged.",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "26",
-    "text": " in return        under way               out of sight           for good",
-    "options": [],
+    "text": "",
+    "options": [
+      "in return",
+      "under way",
+      "out of sight",
+      "for good"
+    ],
     "answer": "1"
   },
   {
     "number": "27",
-    "text": " wear             wore                    worn                   wearing",
-    "options": [],
+    "text": "",
+    "options": [
+      "wear",
+      "wore",
+      "worn",
+      "wearing"
+    ],
     "answer": "4"
   },
   {
     "number": "28",
-    "text": " although         until                   because                including",
-    "options": [],
+    "text": "",
+    "options": [
+      "although",
+      "until",
+      "because",
+      "including"
+    ],
     "answer": "2"
   },
   {
     "number": "29",
-    "text": " Instead          Thus                    However                Consequently",
-    "options": [],
+    "text": "",
+    "options": [
+      "Instead",
+      "Thus",
+      "However",
+      "Consequently"
+    ],
     "answer": "3"
   },
   {
     "number": "30",
-    "text": " rather than      due to                  in spite of            after all",
-    "options": [],
+    "text": "",
+    "options": [
+      "rather than",
+      "due to",
+      "in spite of",
+      "after all"
+    ],
     "answer": "1"
   }
 ]

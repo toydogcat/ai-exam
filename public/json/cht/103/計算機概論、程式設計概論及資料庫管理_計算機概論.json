@@ -1,365 +1,513 @@
 [
   {
-    "number": "21",
-    "text": "Microsoft Office 的成員中，哪一項軟體是提供簡報時所使用？\n                                                                                   Word                             PowerPoint  Excel           Access\n遴選類別【代碼】：資訊類專業職(四)第一類專員【F3104】",
-    "options": [],
+    "number": "1",
+    "text": "下列何者不是物件導向程式的主要特色？",
+    "options": [
+      "在午夜 12 點發動網路攻擊的一種病毒",
+      "只要發生網路攻擊事件，馬上有修補程式出現的現象",
+      "遞迴(Recursion)",
+      "封裝(Encapsulation)",
+      "繼承(Inheritance)",
+      "多形(Polymorphism)   29.資訊安全領域中有縱深防禦的概念，其主要目的為何？\n\nm"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "主記憶體的容量若有 2 個記憶位置，每個記憶位置有 n 個位元，則記憶位址暫存器的大小為：",
+    "options": [
+      "節省成本",
+      "分散管理權責",
+      "加快回應速度",
+      "不會因為單一防護機制被突破而造成全面崩潰",
+      "m 個位元",
+      "n 個位元",
+      "m+n 個位元",
+      "mn 個位元"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "3",
+    "text": "假設網路 140.12.0.0 的網路遮罩(Netmask)為 255.255.24.192，下列何者屬於不同的子網路？",
+    "options": [
+      "進行資料壓縮",
+      "進行資料加密",
+      "使用防毒軟體",
+      "加裝防火牆",
+      "140.12.23.71",
+      "140.12.26.72",
+      "140.12.48.96",
+      "140.12.80.80      31.下列哪一個程式語言是用來寫伺服端執行的動態網頁程式？"
+    ],
     "answer": "2"
   },
   {
-    "number": "22",
-    "text": "目前網際網路上的使用者大都使用 IPv4 的位址分類方式，請問其 IP 位址是用幾個位元來表示？\n專業科目：",
+    "number": "4",
+    "text": "下列何者負責監督或協調電腦各個單元之間的動作以及資料傳輸？",
     "options": [
-      "計算機概論",
-      "程式設計概論及資料庫管理                                                     8                                 16          32              64\n                                           ◎請填寫入場通知書編號：______________"
+      "JavaScript",
+      "HTML",
+      "ASP",
+      "Flash",
+      "控制單元",
+      "主記憶體",
+      "算數邏輯運算單元",
+      "輸入輸出單元             32. Java 程式在執行的時候，執行平台上必須要安裝什麼軟體方可執行？"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "5",
+    "text": "下列何者為中央處理器(CPU)執行指令的正確順序？",
+    "options": [
+      "JavaScript",
+      "JVM",
+      "Eclips",
+      "Active X",
+      "取資料、取指令、分析指令、執行",
+      "取指令、取資料、分析指令、執行"
     ],
     "answer": "3"
   },
   {
-    "number": "23",
-    "text": "有關光纖傳輸媒介的敘述，下列何者正確？\n注意：作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請監試人員                               電磁干擾低                            傳輸速率低       傳輸安全性低          容易衰減\n    處理，否則不予計分。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "24",
-    "text": "當 IP 不足時，通常會架設何種伺服器讓使用者自動取得電腦的 IP 位址？\n   本試卷為一張雙面，測驗題型分為【四選一單選選擇題 60 題，每題 1 分，合計 60 分】與【非選擇題 4                          DNS                              IMAP        Proxy           DHCP\n    題，每題 10 分，合計 40 分】\n                     。\n   選擇題限以 2B 鉛筆於答案卡上作答，請選出最適當答案，答錯不倒扣；未作答者，不予計分。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "25",
-    "text": "下列何者為全球資訊網(WWW)的通訊協定？\n   非選擇題限以藍、黑色鋼筆或原子筆於答案卷上採橫式作答，並請從答案卷內第一頁開始書寫，違反者該                                 HTTP                             IMAP        POP3            SMTP\n    科酌予扣分，不必抄題但須標示題號。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "26",
-    "text": "資料的傳輸一般分為單工、半雙工及全雙工三種模式，下列何者為全雙工模式？\n   請勿於答案卡(卷)書寫應考人姓名、入場通知書號碼或與答案無關之任何文字或符號。                                       使用電話交談                           收看有線電視      使用收音機聽音樂        使用無線對講機交談\n   應考人僅得使用簡易型電子計算器(不具任何財務函數、工程函數功能、儲存程式功能)，但不得發出聲響；",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "27",
-    "text": "無線應用協定(WAP)是提供行動通訊設備執行網際網路存取服務的通訊協定，惟在網站設計上另須採用何種語\n    若應考人於測驗時將不符規定之電子計算器放置於桌面或使用，經勸阻無效，仍執意使用者，該科扣 10                               言才能提供服務？\n    分；該電子計算器並由監試人員保管至該節測驗結束後歸還。\n   答案卡(卷)務必繳回，未繳回者該科以零分計算。                                                        HTTP                             HTML        WML             XHTML",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "28",
-    "text": "有關零時差攻擊(Zero-day Attack)的敘述，下列何者正確？\n壹、四選一單選選擇題 60 題（每題 1 分）                                                           在同一時區發生的網路攻擊事件                                在軟體弱點被發現，但尚未有任何修補方法前所出現的攻擊行為",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "下列何者不是物件導向程式的主要特色？                                                          在午夜 12 點發動網路攻擊的一種病毒                           只要發生網路攻擊事件，馬上有修補程式出現的現象\n  遞迴(Recursion)       封裝(Encapsulation)  繼承(Inheritance) 多形(Polymorphism)",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "29",
-    "text": "資訊安全領域中有縱深防禦的概念，其主要目的為何？\n                       m",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "主記憶體的容量若有 2 個記憶位置，每個記憶位置有 n 個位元，則記憶位址暫存器的大小為：                               節省成本                                          分散管理權責\n                                                                                  加快回應速度                                        不會因為單一防護機制被突破而造成全面崩潰\n   m 個位元               n 個位元              m+n 個位元         mn 個位元",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "30",
-    "text": "將資料在網路上傳送時，防範機密資訊外洩的主要方法為：",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "假設網路 140.12.0.0 的網路遮罩(Netmask)為 255.255.24.192，下列何者屬於不同的子網路？                進行資料壓縮                           進行資料加密      使用防毒軟體          加裝防火牆\n   140.12.23.71        140.12.26.72       140.12.48.96    140.12.80.80",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "31",
-    "text": "下列哪一個程式語言是用來寫伺服端執行的動態網頁程式？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "下列何者負責監督或協調電腦各個單元之間的動作以及資料傳輸？                                                JavaScript                       HTML        ASP             Flash\n  控制單元                主記憶體               算數邏輯運算單元        輸入輸出單元",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "32",
-    "text": "Java 程式在執行的時候，執行平台上必須要安裝什麼軟體方可執行？",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "下列何者為中央處理器(CPU)執行指令的正確順序？                                                    JavaScript                       JVM         Eclips          Active X\n  取資料、取指令、分析指令、執行                         取指令、取資料、分析指令、執行",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "33",
-    "text": "下列迴圈若 k 的初值為 10，終值 2，增值為 -2，則空白處該填哪一項？\n  取指令、分析指令、取資料、執行                         取指令、分析指令、執行、取資料                         for ( int k=10 ; k <= 2 ; _____)",
-    "options": [],
+    "text": "下列迴圈若 k 的初值為 10，終值 2，增值為 -2，則空白處該填哪一項？",
+    "options": [
+      "取指令、分析指令、取資料、執行",
+      "取指令、分析指令、執行、取資料\nfor ( int k=10 ; k <= 2 ; _____)"
+    ],
     "answer": "1"
   },
   {
     "number": "6",
-    "text": "下列何者不是電腦的作業系統？                                                               k -= 2                           k-2         k = k-1         k = -2\n   Windows XP          Linux              Unix            Oracle",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "34",
-    "text": "下列迴圈執行之後，變數 sum 裡面的值會是多少？",
-    "options": [],
+    "text": "下列何者不是電腦的作業系統？",
+    "options": [
+      "k -= 2",
+      "k-2",
+      "k = k-1",
+      "k = -2",
+      "Windows XP",
+      "Linux",
+      "Unix",
+      "Oracle            34.下列迴圈執行之後，變數 sum 裡面的值會是多少？"
+    ],
     "answer": "4"
   },
   {
     "number": "7",
-    "text": "一個程式在電腦中執行共需 140 秒，其中乘法指令共花掉 112 秒，請問要將乘法指令速度提升為多少倍可使程                                int i=1, sum=0;\n  式執行時間成為原來的四分之一？                                                                           while(i <= 5)\n  4倍                  8倍                  16 倍            32 倍                          {\n                                                                                              sum += i;",
-    "options": [],
+    "text": "一個程式在電腦中執行共需 140 秒，其中乘法指令共花掉 112 秒，請問要將乘法指令速度提升為多少倍可使程\nint i=1, sum=0;\n  式執行時間成為原來的四分之一？\nwhile(i <= 5)",
+    "options": [
+      "4倍",
+      "8倍",
+      "16 倍",
+      "32 倍\n{\n\nsum += i;"
+    ],
     "answer": "3"
   },
   {
     "number": "8",
-    "text": "將資料於傳輸過程中進行數位信號與類比信號轉換者為：                                                               i++;\n  多工器                 編譯器                直譯器             數據機                           }\n                                                                                   10                              0           5                15",
-    "options": [],
+    "text": "將資料於傳輸過程中進行數位信號與類比信號轉換者為：\ni++;",
+    "options": [
+      "多工器",
+      "編譯器",
+      "直譯器",
+      "數據機\n}",
+      "10",
+      "0",
+      "5",
+      "15"
+    ],
     "answer": "4"
   },
   {
     "number": "9",
-    "text": "下列何者為將高階語言轉換成低階語言的程式？\n  編輯程式                載入程式               編譯程式            連結程式",
-    "options": [],
+    "text": "下列何者為將高階語言轉換成低階語言的程式？",
+    "options": [
+      "編輯程式",
+      "載入程式",
+      "編譯程式",
+      "連結程式"
+    ],
     "answer": "3"
   },
   {
-    "number": "35",
-    "text": "若變數宣告如下：\n                                                                                            int counter, grade, total;",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "10",
-    "text": "嵌入式作業系統通常會設計於下列何種設備中？                                                                 float average;\n  硬碟                  唯讀記憶體              隨機存取記憶體         光碟                             則下列運算式當中，空格裏會是什麼？",
-    "options": [],
+    "text": "嵌入式作業系統通常會設計於下列何種設備中？\nfloat average;",
+    "options": [
+      "硬碟",
+      "唯讀記憶體",
+      "隨機存取記憶體",
+      "光碟\n則下列運算式當中，空格裏會是什麼？"
+    ],
     "answer": "2"
   },
   {
     "number": "11",
-    "text": "下列哪一種儲存元件的存取速度最快？                                                                    average = ( ______ ) total / counter;\n  暫存器                 靜態隨機存取記憶體 唯讀記憶體                    硬碟                    int                              float       new             char",
-    "options": [],
+    "text": "下列哪一種儲存元件的存取速度最快？\naverage = ( ______ ) total / counter;",
+    "options": [
+      "暫存器",
+      "靜態隨機存取記憶體",
+      "唯讀記憶體",
+      "硬碟",
+      "int",
+      "float",
+      "new",
+      "char"
+    ],
     "answer": "1"
   },
   {
-    "number": "12",
-    "text": "下列哪一種排程演算法，理論上能得到最短的平均等待時間？",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "36",
-    "text": "下列程式片段會輸出什麼值？\n                                                                                                int a = 12, b = 14;\n  優先權(Priority)       先到先做(FCFS)         循環分配(RR)        最短工作先做(SJF)                        while(a > 14)",
-    "options": [],
+    "text": "下列程式片段會輸出什麼值？\n\nint a = 12, b = 14;",
+    "options": [
+      "優先權(Priority)",
+      "先到先做(FCFS)",
+      "循環分配(RR)",
+      "最短工作先做(SJF)\nwhile(a > 14)"
+    ],
     "answer": "2"
   },
   {
     "number": "13",
-    "text": "下列何者不會直接影響電腦系統的計算速度？                                                                              ++a;\n   CPU 的時脈速度           CPU 提供的指令集        主記憶體容量          硬碟儲存空間                                 ++b;\n                                                                                                System.out.print(a +b);",
-    "options": [],
+    "text": "下列何者不會直接影響電腦系統的計算速度？\n++a;",
+    "options": [
+      "CPU 的時脈速度",
+      "CPU 提供的指令集",
+      "主記憶體容量",
+      "硬碟儲存空間\n++b;\n\nSystem.out.print(a +b);"
+    ],
     "answer": "4"
   },
   {
     "number": "14",
-    "text": "下列何者為兩個位元組所能表示的最大正整數？                                                        26                               27          28              29\n   65535               65536              32767           32768",
-    "options": [],
+    "text": "下列何者為兩個位元組所能表示的最大正整數？",
+    "options": [
+      "26",
+      "27",
+      "28",
+      "29",
+      "65535",
+      "65536",
+      "32767",
+      "32768             37.在 C/C++, C#, Java 等語言中，有關在 switch 敘述(statement)中的 case 標籤(label)，下列何種用法錯誤？"
+    ],
     "answer": "1"
   },
   {
-    "number": "37",
-    "text": "在 C/C++, C#, Java 等語言中，有關在 switch 敘述(statement)中的 case 標籤(label)，下列何種用法錯誤？",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "15",
-    "text": "在副程式呼叫中，以址傳遞(Call by Address)實際上是以下列何者作為傳遞的參數？                               case 2:                          case 20:    case ’A’:       case ”A”:\n  值                   位址                 名稱              計算結果",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "38",
-    "text": "下列程式片段若變數 season 讀入的值為 1，則會輸出什麼？",
-    "options": [],
+    "text": "在副程式呼叫中，以址傳遞(Call by Address)實際上是以下列何者作為傳遞的參數？",
+    "options": [
+      "case 2:",
+      "case 20:",
+      "case ’A’:",
+      "case ”A”:",
+      "值",
+      "位址",
+      "名稱",
+      "計算結果"
+    ],
     "answer": "2"
   },
   {
     "number": "16",
-    "text": "下列何種機制使得 Java 能夠完成跨平台(Cross Platform)運作？                                        int season = Integer.parseInt(str);\n  物件導向                例外處理               虛擬機器            多執行緒                     switch (season) {\n                                                                                         case 1:",
-    "options": [],
+    "text": "下列何種機制使得 Java 能夠完成跨平台(Cross Platform)運作？\nint season = Integer.parseInt(str);",
+    "options": [
+      "物件導向",
+      "例外處理",
+      "虛擬機器",
+      "多執行緒\nswitch (season) {\n\ncase 1:"
+    ],
     "answer": "3"
   },
   {
     "number": "17",
-    "text": "遞迴函數以下列何種資料結構來實現最為有效？                                                                 System.out.println(\"請穿著長袖出門\");\n  佇列                  堆疊                 鍵結串列            樹                           case 2:",
-    "options": [],
+    "text": "遞迴函數以下列何種資料結構來實現最為有效？\nSystem.out.println(\"請穿著長袖出門\");",
+    "options": [
+      "佇列",
+      "堆疊",
+      "鍵結串列",
+      "樹\ncase 2:"
+    ],
     "answer": "2"
   },
   {
     "number": "18",
-    "text": "利用氣泡排序法(Bubble Sort)將數列資料(3,5,9,4,7)依遞增順序排序，在第一次排序循環結束後，此數列變成下列何者？                    System.out.println(\"請穿著短袖出門\");\n                                                                                            break;\n   (3,5,4,9,7)         (3,5,4,7,9)        (5,3,4,9,7)     (5,3,9,4,7)                case 3:",
-    "options": [],
+    "text": "利用氣泡排序法(Bubble Sort)將數列資料(3,5,9,4,7)依遞增順序排序，在第一次排序循環結束後，此數列變成下列何者？\nSystem.out.println(\"請穿著短袖出門\");\n\nbreak;",
+    "options": [
+      "(3,5,4,9,7)",
+      "(3,5,4,7,9)",
+      "(5,3,4,9,7)",
+      "(5,3,9,4,7)\ncase 3:"
+    ],
     "answer": "2"
   },
   {
     "number": "19",
-    "text": "一個包含 256 個節點的二元樹之最小樹高為何？                                                              System.out.println(\"請加件長袖輕薄外套出門\");\n  7                   8                  9                10                            break;\n                                                                                         case 4:",
-    "options": [],
+    "text": "一個包含 256 個節點的二元樹之最小樹高為何？\nSystem.out.println(\"請加件長袖輕薄外套出門\");",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10\nbreak;\n\ncase 4:"
+    ],
     "answer": "3"
   },
   {
     "number": "20",
-    "text": "有關 TCP 與 UDP 的敘述，下列何者正確？                                                              System.out.println(\"請穿著毛衣或大衣出門\");\n   TCP 屬於網路模型中的傳輸層，UDP 則否                                                                  break;\n   TCP 的傳送速度較 UDP 快                                                              }\n   UDP 是一種連線導向(Connection-oriented)的可靠性傳輸方式                                      請穿著長袖出門               請穿著長袖出門                請穿著短袖出門   請加件長袖輕薄外套出門\n   UDP 的訊息無法保證一定被傳送到目的位址                                                                                 請穿著短袖出門\n                                                                                                                           【請接續背面】",
-    "options": [],
+    "text": "有關 TCP 與 UDP 的敘述，下列何者正確？\nSystem.out.println(\"請穿著毛衣或大衣出門\");",
+    "options": [
+      "TCP 屬於網路模型中的傳輸層，UDP 則否\nbreak;",
+      "TCP 的傳送速度較 UDP 快\n}",
+      "UDP 是一種連線導向(Connection-oriented)的可靠性傳輸方式",
+      "請穿著長袖出門",
+      "請穿著長袖出門",
+      "請穿著短袖出門",
+      "請加件長袖輕薄外套出門",
+      "UDP 的訊息無法保證一定被傳送到目的位址\n請穿著短袖出門\n\n【請接續背面】"
+    ],
     "answer": "4"
   },
   {
     "number": "39",
-    "text": "在 C/C++, C#, Java 等語言中，下列哪一種敘述(statement)不是迴圈(loop)？\n   if-else                 while           do-while          for\n                                                                                     貳、非選擇題四大題（每大題 10 分）",
-    "options": [],
+    "text": "在 C/C++, C#, Java 等語言中，下列哪一種敘述(statement)不是迴圈(loop)？",
+    "options": [
+      "if-else",
+      "while",
+      "do-while",
+      "for\n\n貳、非選擇題四大題（每大題 10 分）"
+    ],
     "answer": "1"
   },
   {
     "number": "40",
-    "text": "在 C/C++, C#, Java 等語言中，若執行 m = n++; 敘述之前 n 的值是 20，則執行完此敘述後 m 及 n 的值分別為：        題目一：\n   m = 20, n = 20          m = 20, n = 21  m = 21, n = 20    m = 21, n = 21",
-    "options": [],
+    "text": "在 C/C++, C#, Java 等語言中，若執行 m = n++; 敘述之前 n 的值是 20，則執行完此敘述後 m 及 n 的值分別為：        題目一：",
+    "options": [
+      "m = 20, n = 20",
+      "m = 20, n = 21",
+      "m = 21, n = 20",
+      "m = 21, n = 21"
+    ],
     "answer": "2"
   },
   {
     "number": "41",
-    "text": "使用 C/C++, C#, Java 等語言時，當碰到有兩件事依不同條件只會作其中一件事，且一定會做其中一件事的狀況時，                       在關聯式資料庫中，一個表格(Table)包含了若干個欄位(Column)以及任意個數的記錄\n  最適合採用的程式寫法是：                                                                       (Row)。表格中的一個欄位（或多個欄位的組合）要成為該表格的候選鍵(Candidate Key)必須\n  使用一個 if-else 敘述         使用一個 if 敘述      使用一個 for 敘述       使用一個 break 敘述",
-    "options": [],
+    "text": "使用 C/C++, C#, Java 等語言時，當碰到有兩件事依不同條件只會作其中一件事，且一定會做其中一件事的狀況時，\n在關聯式資料庫中，一個表格(Table)包含了若干個欄位(Column)以及任意個數的記錄\n  最適合採用的程式寫法是：\n(Row)。表格中的一個欄位（或多個欄位的組合）要成為該表格的候選鍵(Candidate Key)必須",
+    "options": [
+      "使用一個 if-else 敘述",
+      "使用一個 if 敘述",
+      "使用一個 for 敘述",
+      "使用一個 break 敘述"
+    ],
     "answer": "1"
   },
   {
     "number": "42",
-    "text": "使用 C/C++, C#, Java 等語言時，如果要在 while 迴圈的前半段執行完後依某種條件不執行迴圈的後半段，而直接回               要滿足哪兩個條件？請說明之。  【10 分】\n  到 while 迴圈開頭檢視是否進行下一個輪迴，則必須使用下列何者？\n   continue                break           switch            default",
-    "options": [],
+    "text": "使用 C/C++, C#, Java 等語言時，如果要在 while 迴圈的前半段執行完後依某種條件不執行迴圈的後半段，而直接回\n要滿足哪兩個條件？請說明之。  【10 分】\n  到 while 迴圈開頭檢視是否進行下一個輪迴，則必須使用下列何者？",
+    "options": [
+      "continue",
+      "break",
+      "switch",
+      "default"
+    ],
     "answer": "1"
   },
   {
     "number": "43",
-    "text": "使用 C/C++, C#, Java 等語言時，要處理陣列 int A[100]中的每個元素時，宜採用之最佳敘述(statement)是：          題目二：\n   do-while                while           for               switch",
-    "options": [],
+    "text": "使用 C/C++, C#, Java 等語言時，要處理陣列 int A[100]中的每個元素時，宜採用之最佳敘述(statement)是：          題目二：",
+    "options": [
+      "do-while",
+      "while",
+      "for",
+      "switch"
+    ],
     "answer": "3"
   },
   {
     "number": "44",
-    "text": "有關程式之撰寫，下列哪種觀念正確？\n                                                                                       請回答下列問題：\n  為了程式簡潔，變數名稱用簡單的代號最好                                                                 （一）請將十進位數字(62)10 分別轉成二進位數字、八進位數字、以及十六進位數字。\n  每一行都對齊到最左邊，程式最整齊\n  有獨立邏輯且很多地方都要執行的程式片段最好寫成函數(function)                                                    【6 分】\n  程式寫得愈短愈好，其他都不重要\n                                                                                       （二）有關二進位元串(Binary String) 1001，若為 1 的補數，其十進位數值為何？若為",
-    "options": [],
+    "text": "有關程式之撰寫，下列哪種觀念正確？\n\n請回答下列問題：",
+    "options": [
+      "為了程式簡潔，變數名稱用簡單的代號最好\n（一）請將十進位數字(62)10 分別轉成二進位數字、八進位數字、以及十六進位數字。",
+      "每一行都對齊到最左邊，程式最整齊",
+      "有獨立邏輯且很多地方都要執行的程式片段最好寫成函數(function)\n【6 分】",
+      "程式寫得愈短愈好，其他都不重要\n\n（二）有關二進位元串(Binary String) 1001，若為 1 的補數，其十進位數值為何？若為"
+    ],
     "answer": "3"
   },
   {
     "number": "45",
-    "text": "有關函數(function)的敘述，下列何者錯誤？\n  可以重複呼叫(call)                             返回(return)敘述中必須指定要回到哪裡                       2 的補數，其十進位數值為何？【4 分】\n  參數(argument)可以不只一個                       可以有返回值(return value)",
-    "options": [],
+    "text": "有關函數(function)的敘述，下列何者錯誤？",
+    "options": [
+      "可以重複呼叫(call)",
+      "返回(return)敘述中必須指定要回到哪裡\n2 的補數，其十進位數值為何？【4 分】",
+      "參數(argument)可以不只一個",
+      "可以有返回值(return value)"
+    ],
     "answer": "2"
   },
   {
     "number": "46",
-    "text": "在資料關聯性的例子中，若一個學生可以選修多門課程，同一門課可以讓多位學生來選修，是屬於下列哪一種關聯性？\n  一對一                     一對多             多對多               繼承                   題目三：",
-    "options": [],
+    "text": "在資料關聯性的例子中，若一個學生可以選修多門課程，同一門課可以讓多位學生來選修，是屬於下列哪一種關聯性？",
+    "options": [
+      "一對一",
+      "一對多",
+      "多對多",
+      "繼承\n題目三："
+    ],
     "answer": "3"
   },
   {
     "number": "47",
-    "text": "資料庫管理系統需要提供交易管理功能，可以讓多人同時進行交易。要達到交易成功必須滿足四項基本交易屬性，\n  簡稱 ACID。請問下列哪一項不屬於 ACID？\n                                                                                       請回答下列各程式片段迴圈會執行幾次？會輸出什麼結果？【各小題 5 分，共 10 分】\n  單元性                     一致性             持續性               獨立性                    (a)",
-    "options": [],
+    "text": "資料庫管理系統需要提供交易管理功能，可以讓多人同時進行交易。要達到交易成功必須滿足四項基本交易屬性，\n  簡稱 ACID。請問下列哪一項不屬於 ACID？\n\n請回答下列各程式片段迴圈會執行幾次？會輸出什麼結果？【各小題 5 分，共 10 分】",
+    "options": [
+      "單元性",
+      "一致性",
+      "持續性",
+      "獨立性\n(a)"
+    ],
     "answer": "4"
   },
   {
     "number": "48",
-    "text": "在關聯式資料庫模型中，下列哪一個關聯表示一種虛擬關聯表？\n  基底關聯表                   具名關聯表           查詢結果              視界                         int i = 1;",
-    "options": [],
+    "text": "在關聯式資料庫模型中，下列哪一個關聯表示一種虛擬關聯表？",
+    "options": [
+      "基底關聯表",
+      "具名關聯表",
+      "查詢結果",
+      "視界\nint i = 1;"
+    ],
     "answer": "4"
   },
   {
     "number": "49",
-    "text": "在關聯式資料庫模型中，下列哪一個關聯式代數運算子可以從關聯表選出指定條件的值組？                                             while(i < 10)\n  合併(Join)                選取(Selection)   投影(Projection)    差集(Set Difference)",
-    "options": [],
+    "text": "在關聯式資料庫模型中，下列哪一個關聯式代數運算子可以從關聯表選出指定條件的值組？\nwhile(i < 10)",
+    "options": [
+      "合併(Join)",
+      "選取(Selection)",
+      "投影(Projection)",
+      "差集(Set Difference)"
+    ],
     "answer": "2"
   },
   {
     "number": "50",
-    "text": "下列哪一個 SQL 指令可以刪除整個資料表？                                                                  if(i % 2 == 0)\n   DROP TABLE              DELETE TABLE    TRUNCATE TABLE    ALTER TABLE                       System.out.println(i++);",
-    "options": [],
+    "text": "下列哪一個 SQL 指令可以刪除整個資料表？\nif(i % 2 == 0)",
+    "options": [
+      "DROP TABLE",
+      "DELETE TABLE",
+      "TRUNCATE TABLE",
+      "ALTER TABLE\nSystem.out.println(i++);"
+    ],
     "answer": "1"
   },
   {
     "number": "51",
-    "text": "在關聯式資料庫中編輯各關聯間的關聯性時，必須設定參考完整性規則。請問下列哪一個參考完整性規則的設定值\n  是拒絕插入、刪除或更新操作？\n   Restrict                Set Null        Set Default       Cascade\n                                                                                        (b)",
-    "options": [],
+    "text": "在關聯式資料庫中編輯各關聯間的關聯性時，必須設定參考完整性規則。請問下列哪一個參考完整性規則的設定值\n  是拒絕插入、刪除或更新操作？",
+    "options": [
+      "Restrict",
+      "Set Null",
+      "Set Default",
+      "Cascade\n\n(b)"
+    ],
     "answer": "1"
   },
   {
     "number": "52",
-    "text": "若有一 SQL 查詢指令如下，則下列敘述何者錯誤？                                                               int i = 1;\n   SELECT sid, name FROM Students\n   WHERE GPA <= 3.0 ORDER BY GPA                                                              while(i < 10)\n   Students 是關聯名稱          GPA 是欄位名稱       ORDER 是關聯名稱       sid, name 是欄位名稱",
-    "options": [],
+    "text": "若有一 SQL 查詢指令如下，則下列敘述何者錯誤？\nint i = 1;\n   SELECT sid, name FROM Students\n   WHERE GPA <= 3.0 ORDER BY GPA\nwhile(i < 10)",
+    "options": [
+      "Students 是關聯名稱",
+      "GPA 是欄位名稱",
+      "ORDER 是關聯名稱",
+      "sid, name 是欄位名稱"
+    ],
     "answer": "2"
   },
   {
     "number": "53",
-    "text": "某一網路購票系統在持續營運期間將同一票券賣給兩位購票者，此系統最有可能沒有做好什麼？\n                                                                                                 if((i++) % 2 == 0)\n  回復(recovery)                             備份(backup)                                               System.out.println(i);\n  並行控制(concurrent control)                 磁碟鏡射(disk mirror)",
-    "options": [],
+    "text": "某一網路購票系統在持續營運期間將同一票券賣給兩位購票者，此系統最有可能沒有做好什麼？\n\nif((i++) % 2 == 0)",
+    "options": [
+      "回復(recovery)",
+      "備份(backup)\nSystem.out.println(i);",
+      "並行控制(concurrent control)",
+      "磁碟鏡射(disk mirror)"
+    ],
     "answer": "3"
   },
   {
     "number": "54",
-    "text": "有關關聯式資料庫資料表(table 或 relation)的主鍵(primary key)，下列敘述何者錯誤？\n  其值具有唯一性                                  一個資料表可以有好幾個主鍵                           題目四：\n  主鍵可以由好幾個屬性(attribute，或稱欄位)組成             主鍵的值不可以有 null",
-    "options": [],
+    "text": "有關關聯式資料庫資料表(table 或 relation)的主鍵(primary key)，下列敘述何者錯誤？",
+    "options": [
+      "其值具有唯一性",
+      "一個資料表可以有好幾個主鍵\n題目四：",
+      "主鍵可以由好幾個屬性(attribute，或稱欄位)組成",
+      "主鍵的值不可以有 null"
+    ],
     "answer": "2"
   },
   {
     "number": "55",
-    "text": "有關關聯式資料庫的外來鍵(foreign key)，下列敘述何者錯誤？                                              若資料表(tables) R 及 S 如下：\n  必定參照到一資料表的主鍵(primary key)                一個資料表可以有好幾個外來鍵                            R：                                      S：\n  一個外來鍵可以由好幾個屬性(attribute，或稱欄位)組成 外來鍵具有唯一性",
-    "options": [],
+    "text": "有關關聯式資料庫的外來鍵(foreign key)，下列敘述何者錯誤？\n若資料表(tables) R 及 S 如下：",
+    "options": [
+      "必定參照到一資料表的主鍵(primary key)",
+      "一個資料表可以有好幾個外來鍵\nR：\nS：",
+      "一個外來鍵可以由好幾個屬性(attribute，或稱欄位)組成",
+      "外來鍵具有唯一性"
+    ],
     "answer": "4"
   },
   {
     "number": "56",
-    "text": "將 ER schema 的一個實體型態(entity type)轉化至關聯模式時，會轉成：                                       A           B                        B    C\n  一個資料表(table 或 relation)                  一個屬性(attribute，或稱欄位)\n  一個主鍵(primary key)                        一個值組(tuple，或稱橫列)\n                                                                                          a           1                        2    x",
-    "options": [],
+    "text": "將 ER schema 的一個實體型態(entity type)轉化至關聯模式時，會轉成：\nA           B\nB    C",
+    "options": [
+      "一個資料表(table 或 relation)",
+      "一個屬性(attribute，或稱欄位)",
+      "一個主鍵(primary key)",
+      "一個值組(tuple，或稱橫列)\n\na           1\n2    x"
+    ],
     "answer": "1"
   },
   {
     "number": "57",
-    "text": "下列何者不是 SQL 的命令？                                                                     b           2                        3    y\n   UPDATE                  INSERT          ALTER TABLE       PROJECT",
-    "options": [],
+    "text": "下列何者不是 SQL 的命令？\nb           2\n3    y",
+    "options": [
+      "UPDATE",
+      "INSERT",
+      "ALTER TABLE",
+      "PROJECT"
+    ],
     "answer": "4"
   },
   {
     "number": "58",
-    "text": "公司資料庫中有員工資料表(table)，紀錄每位員工的相關資料，包括員工代碼 Enum 及其隸屬的部門（每位員工只\n                                                                                          c           3                        4    z\n  會隸屬一個部門），使用 SQL 命令以該資料表查各部門的人數時，不會用到下列何者？\n   SELECT                  GROUP BY        COUNT(Enum)       HAVING                 其中 A, B, C 為欄位名稱，1~4, a~c, x~z 為欄位的值，請寫出下列 SQL 查詢結果：",
-    "options": [],
+    "text": "公司資料庫中有員工資料表(table)，紀錄每位員工的相關資料，包括員工代碼 Enum 及其隸屬的部門（每位員工只\n\nc           3\n4    z\n  會隸屬一個部門），使用 SQL 命令以該資料表查各部門的人數時，不會用到下列何者？",
+    "options": [
+      "SELECT",
+      "GROUP BY",
+      "COUNT(Enum)",
+      "HAVING\n其中 A, B, C 為欄位名稱，1~4, a~c, x~z 為欄位的值，請寫出下列 SQL 查詢結果："
+    ],
     "answer": "4"
   },
   {
     "number": "59",
-    "text": "若欲使用 SQL 的 SELECT 命令查出書籍資料表內書名中含有「資料庫」字樣的所有書籍，須用到下列何者？\n   HAVING                  LIKE            GROUP BY          ORDER BY\n                                                                                        （一）SELECT * FROM R NATURAL JOIN S; 【4 分】",
-    "options": [],
+    "text": "若欲使用 SQL 的 SELECT 命令查出書籍資料表內書名中含有「資料庫」字樣的所有書籍，須用到下列何者？",
+    "options": [
+      "HAVING",
+      "LIKE",
+      "GROUP BY",
+      "ORDER BY\n\n（一）SELECT * FROM R NATURAL JOIN S; 【4 分】"
+    ],
     "answer": "2"
   },
   {
     "number": "60",
-    "text": "SQL 的 SELECT 命令可以指定所查資料的排序，下列敘述何者錯誤？                                             （二）SELECT A, R.B, C FROM R LEFT OUTER JOIN S ON R.B = S.B; 【3 分】\n  可指定按照某一欄位(column)由小而大排序\n  可指定按照某一欄位(column)由大而小排序                                                              （三）SELECT A, R.B, C FROM R RIGHT OUTER JOIN S ON R.B = S.B; 【3 分】\n  可指定按某一欄位由大而小排序，再按另一欄位由小而大排序\n  指定依兩欄位排序時，只能統一均由小而大排序，或統一均由大而小排序",
-    "options": [],
+    "text": "SQL 的 SELECT 命令可以指定所查資料的排序，下列敘述何者錯誤？\n（二）SELECT A, R.B, C FROM R LEFT OUTER JOIN S ON R.B = S.B; 【3 分】",
+    "options": [
+      "可指定按照某一欄位(column)由小而大排序",
+      "可指定按照某一欄位(column)由大而小排序\n（三）SELECT A, R.B, C FROM R RIGHT OUTER JOIN S ON R.B = S.B; 【3 分】",
+      "可指定按某一欄位由大而小排序，再按另一欄位由小而大排序",
+      "指定依兩欄位排序時，只能統一均由小而大排序，或統一均由大而小排序"
+    ],
     "answer": "4"
   }
 ]

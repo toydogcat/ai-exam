@@ -12,12 +12,12 @@
   },
   {
     "number": "2",
-    "text": "如下【圖 1】所示之斷面，試求該面積對 C 軸之慣性矩 IC 為多少？\n    1 3           1                                  1 3                    1 3",
+    "text": "如下【圖 1】所示之斷面，試求該面積對 C 軸之慣性矩 IC 為多少？\n    1 3           1\n1 3\n1 3",
     "options": [
       "bh",
       "hb3",
       "bh",
-      "hb\n    3             3                                 12                     12"
+      "hb\n    3             3\n12\n12"
     ],
     "answer": "4"
   },
@@ -94,24 +94,24 @@
       "1.2 t",
       "2.4 t",
       "3.6t",
-      "4.8 t\n                                                                                      P\n\n\n                  b/2       A   C             B                     螺栓\n C                      C             5t\n                                                     P                     P\n                  b/2       10 cm     40 cm                                               2cm\n X                      X                                                           2cm         0.3cm\n            h\n                                    【圖 2】                   【圖 3】                   【圖 4】\n          【圖 1】\n\n\n                                                                      5kN            9kN"
+      "4.8 t\n\nP\n\n\n\nb/2       A   C             B\n螺栓\n C\nC             5t\n\nP\nP\n\nb/2       10 cm     40 cm\n2cm\n X\nX\n2cm         0.3cm\n            h\n\n【圖 2】\n【圖 3】\n【圖 4】\n          【圖 1】\n\n\n\n【請翻頁繼續作答】\n\n5kN            9kN"
     ],
     "answer": "4"
   },
   {
     "number": "10",
-    "text": "如右【圖 5】所示之簡支梁，其斷面為 10cm×10cm ，                                                                                 10cm\n                                     A                                                              B\n      則 C 點斷面上之最大剪應力為多少？                                                                   C\n                                                                            L                               10cm",
+    "text": "如右【圖 5】所示之簡支梁，其斷面為 10cm×10cm ，\n10cm\n\nA\nB\n      則 C 點斷面上之最大剪應力為多少？\nC\n\nL\n10cm",
     "options": [
       "0.5 MPa",
       "0.7 MPa",
       "1.0 MPa",
-      "1.2 MPa                                    1m         2m        0.5m 0.5m"
+      "1.2 MPa\n1m         2m        0.5m 0.5m"
     ],
     "answer": "4"
   },
   {
     "number": "11",
-    "text": "承第 10 題，C 點斷面上之平均剪應力為多少？                                                       【圖 5】",
+    "text": "承第 10 題，C 點斷面上之平均剪應力為多少？\n【圖 5】",
     "options": [
       "0.4 MPa",
       "0.6 MPa",
@@ -144,11 +144,11 @@
   },
   {
     "number": "14",
-    "text": "平面共點力系如右【圖 6】所示，其                    y\n                                                    P\n      合力為零。試問 F1、F2 分別為何？\n                                                  4\n             3   Q      4     Q                            R=12cm",
+    "text": "平面共點力系如右【圖 6】所示，其\ny\n\nP\n      合力為零。試問 F1、F2 分別為何？\n\n4\n             3   Q      4     Q\nR=12cm",
     "options": [
-      "F1= P＋    ，F2= P－                     3        A\n             5    2     5       2 F1                  x\n                                                                     D\n                                                                              R=14cm\n                                                                50N                  C\n             3   Q      4     Q              1",
-      "F1= P－    ，F2= P＋                                                100N\n             5    2     5      2               1    Q\n                                                                             B\n             4   Q      3     Q           F 2",
-      "F1= P＋    ，F2= P－                                           50cm\n             5    2     5      2\n                                       【圖 6】                        【圖 7】\n             4   Q      3     Q",
+      "F1= P＋    ，F2= P－\n3        A\n             5    2     5       2 F1\nx\n\nD\n\nR=14cm\n\n50N\nC\n             3   Q      4     Q              1",
+      "F1= P－    ，F2= P＋\n100N\n             5    2     5      2\n1    Q\n\nB\n             4   Q      3     Q           F 2",
+      "F1= P＋    ，F2= P－\n50cm\n             5    2     5      2\n\n【圖 6】\n【圖 7】\n             4   Q      3     Q",
       "F1= P－    ，F2= P＋\n             5    2     5       2"
     ],
     "answer": "1"
@@ -215,7 +215,7 @@
       "1",
       "2",
       "3",
-      "4\n                                                            B\n                         300kg/m\n                                                                                           B            C        D\n  600kg\n    30°                                                                                                                         3m\nAH A                                    A                                   4m\n                              B                                                  A                          G    F        E\n                                                                                               H\n                                   P                    W                                                                  3t\n                                        B        A\n     AV                  BV                                                           4m           4m       4m       4m\n          2m   2m   6m                               1.5m 1.5m\n               【圖 8】                   【圖 9】             【圖 10】                                【圖 11】"
+      "4\n\nB\n\n300kg/m\n\nB            C        D\n  600kg\n    30°\n3m\nAH A\nA\n4m\n\nB\nA\nG    F        E\n\nH\n\nP\nW\n3t\n\nB        A\n     AV\nBV\n4m           4m       4m       4m\n          2m   2m   6m"
     ],
     "answer": "3"
   },
@@ -254,12 +254,12 @@
   },
   {
     "number": "24",
-    "text": "如右【圖 12】所示之平面應力元素                          2\n                                        50kg/cm                                      P           P\n   ，所產生之最大剪應力為多少？                         2\n                                                         240kg/cm\n                                                                   2\n                                   240kg/cm                            A                             B",
+    "text": "如右【圖 12】所示之平面應力元素\n2\n\n50kg/cm\nP           P\n   ，所產生之最大剪應力為多少？\n2\n\n240kg/cm\n\n2\n\n240kg/cm\nA\nB",
     "options": [
       "260 kg/cm2",
-      "240 kg/cm2                           2\n                                                   50kg/cm",
+      "240 kg/cm2\n2\n\n50kg/cm",
       "130 kg/cm2",
-      "120 kg/cm2                                               L             L\n                                                                                                                 D\n\n                                              【圖 12】                          【圖 13】"
+      "120 kg/cm2\nL             L\n\nD\n\n\n【圖 12】\n【圖 13】"
     ],
     "answer": "3"
   },
@@ -279,29 +279,29 @@
     "text": "如右上【圖 13】所示之圓形斷面懸臂梁，該梁之最大剪應力為何？\n        32P         16P",
     "options": [
       "",
-      "3πD 2\n                   3πD 2\n        4P          4P",
+      "3πD 2\n\n3πD 2\n        4P          4P",
       "",
-      "3πD 2\n                   πD 2                                                                  W"
+      "3πD 2\n\nπD 2\nW"
     ],
     "answer": "1"
   },
   {
     "number": "27",
-    "text": "T 形斷面梁承受均佈載重 W 的作用，如右【圖 14】所示，已知 T 形斷面 A                                                                 B           x\n                                                                                         C\n  對水平形心軸之慣性矩為 I，該梁之最大彎曲張應力為何？                                                            L\n                                                                                                                 y\n       WLa 2        WL2 t",
+    "text": "T 形斷面梁承受均佈載重 W 的作用，如右【圖 14】所示，已知 T 形斷面 A\nB           x\n\nC\n  對水平形心軸之慣性矩為 I，該梁之最大彎曲張應力為何？\nL\n\ny\n       WLa 2        WL2 t",
     "options": [
       "",
-      "4I           8I\n                                                                                                         a\n          2\n       WL b         WL2 b                                                                D",
+      "4I           8I\n\na\n          2\n       WL b         WL2 b\nD",
       "",
-      "水平形心軸                                                                              z\n        4I           8I\n                                                                                                         b"
+      "水平形心軸\nz\n        4I           8I\n\nb"
     ],
     "answer": "4"
   },
   {
     "number": "28",
-    "text": "承第 27 題，試求位於梁中央 C 點處，其斷面上 D 點之彎曲應力大小為何？                                                                           y\n\n\n                    WL2 a                     t",
+    "text": "承第 27 題，試求位於梁中央 C 點處，其斷面上 D 點之彎曲應力大小為何？\ny\n\n\n\nWL2 a\nt",
     "options": [
       "0",
-      "4I\n       WL2a         WL2 b                   【圖 14】",
+      "4I\n       WL2a         WL2 b\n【圖 14】",
       "",
       "8I          4I"
     ],
@@ -309,56 +309,56 @@
   },
   {
     "number": "29",
-    "text": "承第 27 題，假設簡支梁之彈性模數為 E，試求位於梁中央 C 點處之垂直撓度為多少？\n     WL4           5WL4      WL4                                             WL4",
+    "text": "承第 27 題，假設簡支梁之彈性模數為 E，試求位於梁中央 C 點處之垂直撓度為多少？\n     WL4           5WL4      WL4\nWL4",
     "options": [
       "",
       "",
       "",
-      "48EI          384EI     8EI                                             6EI"
+      "48EI          384EI     8EI\n6EI"
     ],
     "answer": "2"
   },
   {
     "number": "30",
-    "text": "承第 27 題，試問該簡支梁之最大剪應力為多少？\n       WLb 2      WLb 2       WLb 2                                          WL2 b",
+    "text": "承第 27 題，試問該簡支梁之最大剪應力為多少？\n       WLb 2      WLb 2       WLb 2\nWL2 b",
     "options": [
       "",
       "",
       "",
-      "4I         8I          16I                                            8I"
+      "4I         8I          16I\n8I"
     ],
     "answer": "1"
   },
   {
     "number": "31",
-    "text": "有一受均佈載重 W 之梁如右【圖 15】所示，\n                                                               W\n   其彎矩圖之形狀為？",
+    "text": "有一受均佈載重 W 之梁如右【圖 15】所示，\n\nW\n   其彎矩圖之形狀為？",
     "options": [
       "",
-      "A                                                B\n                                                               C",
+      "A\nB\n\nC",
       "",
-      "L     L\n                                                      【圖 15】\n\n\n\n\n                                                                                                            T"
+      "L     L\n\n【圖 15】\n\n\n\n\n\n【請翻頁繼續作答】\n\nT"
     ],
     "answer": "2"
   },
   {
     "number": "32",
-    "text": "如右【圖 16】所示，一直徑為 D 之圓桿，在自由端\n                                                     【圖 16】\n   承受 T 之扭矩，桿長為 L，剪力模數為 G，則自由\n   端扭轉角為多少？                                                                                 L\n      8TL          16TL      32TL                                             64TL",
+    "text": "如右【圖 16】所示，一直徑為 D 之圓桿，在自由端\n\n【圖 16】\n   承受 T 之扭矩，桿長為 L，剪力模數為 G，則自由\n   端扭轉角為多少？\nL\n      8TL          16TL      32TL\n64TL",
     "options": [
       "",
       "",
       "",
-      "πD G\n        4\n                   πD G\n                     4\n                             πD 4G                                            πD 4G"
+      "πD G\n        4\n\nπD G\n\n4\n\nπD 4G\nπD 4G"
     ],
     "answer": "3"
   },
   {
     "number": "33",
-    "text": "承第 32 題，該圓桿之最大剪應力為多少？\n        4T                 8T            16T          32T",
+    "text": "承第 32 題，該圓桿之最大剪應力為多少？\n        4T\n8T            16T          32T",
     "options": [
       "",
       "",
       "",
-      "πD 3\n                          πD 3\n                                         πD 3\n                                                      πD3"
+      "πD 3\n\nπD 3\n\nπD 3\n\nπD3"
     ],
     "answer": "3"
   },
@@ -367,18 +367,18 @@
     "text": "如右【圖 17】所示之側視圖與俯視圖，短方柱之斷面為 120cm×120cm(斷面積 A=14.4×103 cm2，\n   慣性矩 I = 17.28 × 106 cm4)，懸臂梁長 60cm，在其自由端 A 點處受 360t 之集中載重作用，若\n   結構自重忽略不計，試求柱底之最大壓應力為多少？",
     "options": [
       "125 kg/cm2",
-      "150 kg/cm2\n\n\n\n\n                                                            60cm 60cm\n                                                          5m  5m",
+      "150 kg/cm2\n\n\n\n\n\n60cm 60cm\n\n5m  5m",
       "175 kg/cm2",
-      "200 kg/cm2           A\n\n                                                                                                                     1t/m"
+      "200 kg/cm2           A\n\n\n1t/m"
     ],
     "answer": "3"
   },
   {
     "number": "35",
-    "text": "承第 34 題，試求柱底之最大拉應力為多少？                              360t\n                                                                        A\n                                             120cm                                                                       D",
+    "text": "承第 34 題，試求柱底之最大拉應力為多少？\n360t\n\nA\n\n120cm\nD",
     "options": [
       "75 kg/cm2",
-      "100 kg/cm2                            A                     C             B\n                                                                                       4m               6m",
+      "100 kg/cm2\nA\nC             B\n\n4m\n6m",
       "125 kg/cm2",
       "150 kg/cm2"
     ],
@@ -386,29 +386,29 @@
   },
   {
     "number": "36",
-    "text": "如右【圖 18】所示之組合梁，若維持平衡                              60cm\n                                                                                        【圖 18】\n   時，則 D 點支承之反力為多少？\n                                         【圖 17】\n                                                                                                                τA τ B",
+    "text": "如右【圖 18】所示之組合梁，若維持平衡\n60cm\n\n【圖 18】\n   時，則 D 點支承之反力為多少？\n\n【圖 17】\n\nτA τ B",
     "options": [
       "2t",
       "4t",
       "6t",
-      "8t                                                    A             2cm\n                                                                                                        r\n                                                                                                            A       B"
+      "8t\nA             2cm\n\nr\n\nA       B"
     ],
     "answer": "2"
   },
   {
     "number": "37",
-    "text": "已知 GPa 為一應力單位，試問其字頭符號「G」之代表量為何？                                      B\n                                                                                                    R",
+    "text": "已知 GPa 為一應力單位，試問其字頭符號「G」之代表量為何？\nB\n\nR",
     "options": [
       "10-3",
-      "103                                                            4cm",
+      "103\n4cm",
       "106",
-      "109                                                                                  d\n                                                                                                        D"
+      "109\nd\n\nD"
     ],
     "answer": "4"
   },
   {
     "number": "38",
-    "text": "有一複合梁之斷面尺寸如右【圖 19】所示，若該梁由 A 及 B      2cm\n                          6  2\n   兩種材料組成，彈性模數 EA=2×10 kg/cm ，彈性模數      【圖 19】 【圖 20】\n           6     2\n   EB =1×10 kg/cm ，若採用「轉換斷面法」分析彎曲應力時，其轉換後斷面形狀為何？\n       A              A                  A                                    A",
+    "text": "有一複合梁之斷面尺寸如右【圖 19】所示，若該梁由 A 及 B      2cm\n\n6  2\n   兩種材料組成，彈性模數 EA=2×10 kg/cm ，彈性模數      【圖 19】 【圖 20】\n           6     2\n   EB =1×10 kg/cm ，若採用「轉換斷面法」分析彎曲應力時，其轉換後斷面形狀為何？\n       A              A\nA\nA",
     "options": [
       "B",
       "B",
@@ -446,7 +446,7 @@
       "彈性模數愈大，則材料愈不易彎曲",
       "彈性模數與材料之彎曲無關",
       "斷面慣性矩愈大，則材料愈不易彎曲",
-      "梁之彎曲度愈大，則曲率 κ 愈大，曲率半徑 ρ 愈小"
+      "梁之彎曲度愈大，則曲率 κ 愈大，曲率半徑 ρ 愈小\n\n\n\n\n\n【請另頁繼續作答】"
     ],
     "answer": "2"
   },
@@ -466,9 +466,9 @@
     "text": "一物體受應力 σx、σy 與 σz 作用，其彈性模數為 E，蒲松比為 ν ，則其體積應變 εv 為多少？",
     "options": [
       "εv= (1 − 2ν) (σx－σy－σz)",
-      "εv= (1 + 2ν) (σx＋σy＋σz)\n                   E                              E",
+      "εv= (1 + 2ν) (σx＋σy＋σz)\n\nE\nE",
       "εv= (1 − 2ν) (σx＋σy－σz)",
-      "εv= (1 − 2ν) (σx＋σy＋σz)\n                   E                              E"
+      "εv= (1 − 2ν) (σx＋σy＋σz)\n\nE\nE"
     ],
     "answer": "4"
   },
@@ -545,7 +545,7 @@
       "1.5 cm",
       "2.5 cm",
       "3.5 cm",
-      "4.5 cm\n\n                               5kg\n                               4\n                                                                                          2cm\n                           3\n         1m\nA                                      B\n                                                        100kg\n                                                                                         4cm\n                  O                                                  200kg       100kg\n                                                                                                        Y\n                      2m\n                                                                             D\n         5m                5m                   A   B            C\n\n\n                                                                                             1cm 2cm 1cm\n              【圖 21】                                    【圖 22】                                  【圖 23】"
+      "4.5 cm\n\n\n5kg\n\n4\n\n2cm\n\n3\n         1m\nA\nB\n\n100kg\n\n4cm\n\nO\n200kg       100kg\n\nY\n\n2m\n\nD\n         5m\n5m\nA   B            C\n\n\n\n1cm 2cm 1cm\n              【圖 21】\n【圖 22】\n【圖 23】"
     ],
     "answer": "3"
   }

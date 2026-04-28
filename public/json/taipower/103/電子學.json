@@ -39,7 +39,7 @@
       "2n2",
       "n2",
       "2n",
-      "n\n                      D1                                                                               1KΩ\n                           4k\n                                                            1kΩ\n                      D2   1k                                                                                VZ1\n                                                 Vo\n                                                                                            Vi ( t )               Vo ( t )\n                                                                            1kΩ   VO\n    15V         1V\n                                                      12V                                                    VZ2\n                                 1k\n\n\n\n\n                     【圖 1】                                        【圖 2】                                   【圖 3】"
+      "n\n\nD1\n1KΩ\n\n4k\n\n1kΩ\n\nD2   1k\nVZ1\n\nVo\n\nVi ( t )\nVo ( t )\n\n1kΩ   VO\n    15V         1V\n\n12V\nVZ2\n\n1k\n\n\n\n\n\n【圖 1】\n【圖 2】\n【圖"
     ],
     "answer": "1"
   },
@@ -83,7 +83,7 @@
       "",
       "",
       "",
-      "Vo ( t )                         Vo ( t )                        Vo ( t )                 Vo ( t )\n\n                                     10V                             10V                      10 V\n\n                                     4V                                                        4V\n      0                               0                                0                         0\n    -4V\n                                ωt                                ωt -4V               ωt                                     ωt\n    -10V\n                                                                                             -1 0 V"
+      "Vo ( t )\nVo ( t )\nVo ( t )\nVo ( t )\n\n\n10V\n10V\n10 V\n\n\n4V\n4V\n      0\n0\n0\n0\n    -4V\n\nωt\nωt -4V\nωt\nωt\n    -10V\n\n-1 0 V\n\n\n\n\n【請翻頁繼續作答】"
     ],
     "answer": "3"
   },
@@ -94,7 +94,7 @@
       "0.7 ％",
       "1.4 ％",
       "2 ％",
-      "2.8 ％\n          10 : 1\n\n                   C1                                C3\n                                                                                    AC\n                                                                                    AC\n                                                                                    110V\n  100V                      D1                 D2              D3             D4    110V\n  60HZ\n                                                                                    60Hz\n                                                                                    60HZ\n                                                                                                                                              RL   VO\n                                                                                                                                          C\n                                 C2                                 C4\n                                                     Vo\n\n                            【圖 4】                                                                            【圖 5】"
+      "2.8 ％\n          10 : 1\n\n\nC1\nC3\n\nAC\n\nAC\n\n110V\n  100V\nD1\nD2              D3             D4    110V\n  60HZ\n\n60Hz\n\n60HZ\n\nRL   VO\n\nC\n\nC2\nC4\n\nVo\n\n\n【圖 4】\n【圖 5】"
     ],
     "answer": "1"
   },
@@ -127,7 +127,7 @@
       "RL=5 kΩ、C=5 μF",
       "RL=10 kΩ、C=10 μF",
       "RL=20 kΩ、C=20 μF",
-      "RL=1 kΩ、C=1 μF\n\n                                                                                                             IC\n                   C\n                                                                         RB        Rc                  VCC\n                                      D                                                    IC    Vcc\n                                                                                                       RC\n           Vi           R                                 Vo                                                        Q2\n                                  4V                                                                                           Q1\n\n\n                                                                                                         0                                    VCE (V)\n                        【圖 6】                                                                   【圖 7】                               VCC"
+      "RL=1 kΩ、C=1 μF\n\n\nIC\n\nC\n\nRB        Rc\nVCC\n\nD\nIC    Vcc\n\nRC\n           Vi           R\nVo\nQ2\n\n4V\nQ1\n\n\n\n0\nVCE (V)\n\n【圖 6】\n【圖 7】\nVCC"
     ],
     "answer": "3"
   },
@@ -138,7 +138,7 @@
       "",
       "",
       "",
-      "Vo                                         Vo                                         Vo                              Vo\n\n                                                                                        +24V                              0                             t\n   +16V\n                                                                                                                         -4V\n                                              +4V\n                                                0                                   t\n     0                                    t                                             +4V\n   -4V\n                                              -16V\n                                                                                          0                         t   -24V"
+      "Vo\nVo\nVo\nVo\n\n\n+24V\n0\nt\n   +16V\n\n-4V\n\n+4V\n\n0\nt\n     0\nt\n+4V\n   -4V\n\n-16V\n\n0\nt   -24V"
     ],
     "answer": "1"
   },
@@ -193,7 +193,7 @@
       "3",
       "2",
       "1",
-      "0.8\n                                                                    V cc\n                          Vcc=8.2V\n                                                                                                     R\n                            RC                            R1               Rc"
+      "0.8\n\nV cc\n\nVcc=8.2V\n\nR\n\nRC\nR1\nRc"
     ],
     "answer": "1"
   },
@@ -226,7 +226,7 @@
       "200 Hz",
       "300 Hz",
       "400 Hz",
-      "500 Hz\n\n                      +Vcc                                                                                                       Vcc\n                                                      2kΩ                        iT\n                                                                                 a                                                 2kΩ\n                                                      i                                                           R1         R2          C3\n                                                                                                                                               Vo\n                                                          4vT       50i         10Ω        vT                               C2\n                                                                                                         C1\n                                                                                                Vi\n     Ri                                                                          b                                     R3\n                                     10Ω                                                                                     R4           C4\n\n\n\n            【圖 11】                                              【圖 12】                                                 【圖 13】"
+      "500 Hz\n\n\n+Vcc\nVcc\n\n2kΩ\niT\n\na\n2kΩ\n\ni\nR1         R2          C3\n\nVo\n\n4vT       50i         10Ω        vT\nC2\n\nC1\n\nVi\n     Ri\nb\nR3\n\n10Ω\nR4           C4\n\n\n\n            【圖 11】\n【圖 12】\n【圖 13】"
     ],
     "answer": "4"
   },
@@ -292,7 +292,7 @@
       "C1 可隔離直流",
       "C2 可防止增益衰減",
       "C3 可提高電壓增益",
-      "C4 可消除交流負回授\n\n\n                                      +11.8V\n                                                                                             30V\n             10kΩ          1kΩ                                   VDD =+8V\n                           iO                           ID       VT =2V\n                                        Vo                                                      8kΩ\n             1μF                1μF                                       2\n\n   Vi                                                            K=1mA/V                      D\n                                                         Q1                   Vi         G\n        ii\n                                                                  Vo                          S\n             10kΩ    2kΩ              1μF                                          2MΩ          2kΩ\n                                                   RS   1kΩ\n\n\n\n                    【圖 14】                        【圖 15】                            【圖 16】"
+      "C4 可消除交流負回授\n\n\n\n【請翻頁繼續作答】\n\n+11.8V\n\n30V\n             10kΩ          1kΩ\nVDD =+8V\n\niO\nID       VT =2V\n\nVo\n8kΩ\n             1μF\n1μF\n2\n\n   Vi\nK=1mA/V\nD\n\nQ1\nVi         G\n        ii\n\nVo\nS\n             10kΩ    2kΩ              1μF\n2MΩ          2kΩ\n\nRS   1kΩ\n\n\n\n\n【圖 14】\n【圖 15】\n【圖 16】"
     ],
     "answer": "3"
   },
@@ -435,7 +435,7 @@
       "輸入電阻為∞",
       "輸出電阻為 0",
       "共模拒斥比為∞",
-      "增益頻寬為 0"
+      "增益頻寬為 0\n\n\n\n\n【請另頁繼續作答】"
     ],
     "answer": "4"
   },
@@ -446,7 +446,7 @@
       "9 V",
       "11 V",
       "7 V",
-      "13 V\n                        +15V                                                  +12V\n                                                                                                                     Vo1     25kΩ         0.2μF\n\n                                                                        ID        R D = 7k Ω\n                                 RD =500Ω\n\n\n\n\n                                                                                                         OPA1\n                             D                                                                 Vo                          R1 =50kΩ\n          C1                                                     C1\n   Vin                                                   Vi                        C2                                                    OPA2     Vo2\n                                  C2\n                                            Vo\n                   RG                                          2M Ω               RS\n                   =100MΩ                                                                                                  R2 =10kΩ\n\n\n                  【圖 17】                                              【圖 18】                                                 【圖 19】"
+      "13 V\n\n+15V\n+12V\n\nVo1     25kΩ         0.2μF\n\n\nID        R D = 7k Ω\n\nRD =500Ω\n\n\n\n\n\nOPA1\n\nD\nVo\nR1 =50kΩ\n          C1\nC1\n   Vin\nVi\nC2\nOPA2     Vo2\n\nC2\n\nVo\n\nRG\n2M Ω\nRS\n\n=100MΩ\nR2 =10kΩ\n\n\n\n【圖 17】\n【圖 18】\n【圖 19】"
     ],
     "answer": "1"
   },
@@ -490,7 +490,7 @@
       "Vo2 輸出範圍為-3 V 至 3 V",
       "β＝0.2",
       "震盪週期為 4 ms",
-      "震盪頻率為 500 Hz\n\n              R                                                                                                                         80kΩ\n                                                                                        +12V\n   Vin\n                            OPA                                                                                                        +10V\n         Zi\n              3R                                 V out        Vi=10sin ωt V                                            40kΩ\n                                  3R                                                 OPA            Vo          3V\n                                                         10V                                                           10kΩ            OPA              Vo\n                                                                       R                                        2V\n                                                                              R\n                                                                                        -12V                           10kΩ\n                                   R                                                                                                    -10V\n\n\n              【圖 20】                                                   【圖 21】                                                         【圖 22】"
+      "震盪頻率為 500 Hz\n\n              R\n80kΩ\n\n+12V\n   Vin\n\nOPA\n+10V\n         Zi\n              3R\nV out        Vi=10sin ωt V\n40kΩ\n\n3R\nOPA            Vo          3V\n\n10V\n10kΩ            OPA              Vo\n\nR\n2V\n\nR\n\n-12V\n10kΩ\n\nR\n-10V\n\n\n              【圖 20】\n【圖 21】\n【圖 22】"
     ],
     "answer": "4"
   },

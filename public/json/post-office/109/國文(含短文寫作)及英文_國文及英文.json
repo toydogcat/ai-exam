@@ -1,212 +1,325 @@
 [
   {
-    "number": "1",
-    "text": "下列事物，何者最有可能是作者心中「春天」與「夏天」差異的原因？\n   請勿於答案卡（卷）上書寫應考人姓名、入場通知書編號或與答案無關之任何文字或符號。\n   本項測驗僅得使用簡易型電子計算器（不具任何財務函數、工程函數、儲存程式、文數字編輯、          草木的繁盛\n    內建程式、外接插卡、攝（錄）影音、資料傳輸、通訊或類似功能）     ，且不得發出聲響。應考人如    天色的晴朗\n    有下列情事扣該節成績 10 分，如再犯者該節不予計分。1.電子計算器發出聲響，經制止仍執意續      雨量的豐沛\n    犯者。2.將不符規定之電子計算器置於桌面或使用，經制止仍執意續犯者。                  蟬聲的韻味\n   答案卡（卷）務必繳回，未繳回者該節成績以零分計算。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "下列何者非屬「駢儷文」文體上的特色？\n                                                        對偶工整                  押韻嚴謹\n◎請勿於答案卡（卷）上書寫應考人姓名、入場通知書編號或與答案無關之任何文字或符號。               富含典故                  詞藻華美",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "依上文，「應該找一條清澈潔淨的河水洗洗我的耳朵」的含意為何？\n                                                        現代河川污染情況嚴重，已難覓得清澈溪流\n壹、國文\n                                                        人的聽力會漸漸老化，以清澈河水洗淨耳朵可以對抗老化\n一、短文寫作（非選擇題 1 大題，每題 30 分）                               以古代許由「為隔離世俗雜音而洗耳」的典故來表達無奈\n                                                        酷愛親近清澈河水，激發以水洗耳的創意\n第一題：",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "4",
-    "text": "依上文，作者發現夏天的來臨是在下列何種情況之下？\n  人一生中最幸運是能從事自己所享受之事，但往往不如意十之八九，亦非事事順利，因之每個人都能從         評點文學史的時候\n                                                        看海浪跌向沙灘的時候\n生命中體悟出獨特的滋味。如孔子曾言：「發憤忘食，樂以忘憂，不知老之將至…」以其對興趣的積極追求         聽朋友在耳邊說祕密的時候\n來消弭生活的諸種憂患；又如宋朝陳造：「吾輩可謂忙里偷閑；苦中作樂。」從繁忙的公務與沉重的生活之         在教室被蟬叫聲包圍的時候",
-    "options": [],
+    "text": "依上文，作者發現夏天的來臨是在下列何種情況之下？\n  人一生中最幸運是能從事自己所享受之事，但往往不如意十之八九，亦非事事順利，因之每個人都能從",
+    "options": [
+      "評點文學史的時候",
+      "看海浪跌向沙灘的時候\n生命中體悟出獨特的滋味。如孔子曾言：「發憤忘食，樂以忘憂，不知老之將至…」以其對興趣的積極追求",
+      "聽朋友在耳邊說祕密的時候\n來消弭生活的諸種憂患；又如宋朝陳造：「吾輩可謂忙里偷閑；苦中作樂。」從繁忙的公務與沉重的生活之",
+      "在教室被蟬叫聲包圍的時候"
+    ],
     "answer": "4"
   },
   {
     "number": "5",
-    "text": "下列敘述，何者符合本段文章主旨？\n縫隙，創造出珍貴的樂趣。凡有志者多能不滯於隨時可能出現的憂苦與繁忙，想方設法以「樂在其中」而展\n                                                        聆聽也是藝術。大自然的寬闊是最佳的音響設備\n現出其超凡之生命的價值。請以「樂在其中」寫一篇短文，文長不得少於 250 字，亦勿超過 350 字。      歷代絕句作品蘊藏作者無限的生命樂章\n                                                        季節的門檻隨時在人的身邊展現\n                                                        四面楚歌時，更容易看清自己的軟弱\n\n                                                       第二篇：\n                                                         余昔少年讀書，竊嘗怪顏子以簞食瓢飲，居於陋巷，人不堪其憂，顏子不改其樂。私以為雖不欲仕，然\n                                                       抱關擊柝，尚可自養，而不害於學，何至困辱貧窶自苦如此！及來筠州，勤勞鹽米之間，無一日之休，雖欲\n                                                       棄塵垢，解羈縶，自放於道德之場，而事每劫而留之。然後知顏子之所以甘心貧賤，不肯求斗升之祿以自給\n                                                       者，良以其害於學故也。（蘇轍〈東軒記〉）",
-    "options": [],
+    "text": "下列敘述，何者符合本段文章主旨？\n縫隙，創造出珍貴的樂趣。凡有志者多能不滯於隨時可能出現的憂苦與繁忙，想方設法以「樂在其中」而展",
+    "options": [
+      "聆聽也是藝術。大自然的寬闊是最佳的音響設備\n現出其超凡之生命的價值。請以「樂在其中」寫一篇短文，文長不得少於 250 字，亦勿超過 350 字。",
+      "歷代絕句作品蘊藏作者無限的生命樂章",
+      "季節的門檻隨時在人的身邊展現",
+      "四面楚歌時，更容易看清自己的軟弱\n\n\n第二篇：\n\n余昔少年讀書，竊嘗怪顏子以簞食瓢飲，居於陋巷，人不堪其憂，顏子不改其樂。私以為雖不欲仕，然\n\n抱關擊柝，尚可自養，而不害於學，何至困辱貧窶自苦如此！及來筠州，勤勞鹽米之間，無一日之休，雖欲\n\n棄塵垢，解羈縶，自放於道德之場，而事每劫而留之。然後知顏子之所以甘心貧賤，不肯求斗升之祿以自給\n\n者，良以其害於學故也。（蘇轍〈東軒記〉）"
+    ],
     "answer": "1"
   },
   {
     "number": "6",
-    "text": "下列敘述何者最接近作者在少年時期讀書時，對顏回「簞食瓢飲，居於陋巷」的看法？\n                                                         不以為意       立志效法     不以為然      充滿好奇",
-    "options": [],
+    "text": "下列敘述何者最接近作者在少年時期讀書時，對顏回「簞食瓢飲，居於陋巷」的看法？",
+    "options": [
+      "不以為意",
+      "立志效法",
+      "不以為然",
+      "充滿好奇"
+    ],
     "answer": "3"
   },
   {
     "number": "7",
-    "text": "「抱關擊柝」的意思為何？\n                                                         戍守邊疆的士兵              衙門掌管秩序的差役\n                                                         慶典時演奏音樂的樂工           守門和巡夜報更的小吏",
-    "options": [],
+    "text": "「抱關擊柝」的意思為何？",
+    "options": [
+      "戍守邊疆的士兵",
+      "衙門掌管秩序的差役",
+      "慶典時演奏音樂的樂工",
+      "守門和巡夜報更的小吏"
+    ],
     "answer": "4"
   },
   {
     "number": "8",
-    "text": "依上文，作者到了筠州，不曾經歷過的事情為何？\n                                                         處理鹽務       管理米糧     打掃街道      公務纏身",
-    "options": [],
+    "text": "依上文，作者到了筠州，不曾經歷過的事情為何？",
+    "options": [
+      "處理鹽務",
+      "管理米糧",
+      "打掃街道",
+      "公務纏身"
+    ],
     "answer": "3"
   },
   {
     "number": "9",
-    "text": "「解羈縶」的意思為何？\n                                                         解除牽絆       釋放囚犯     打開門戶      綑好韁繩",
-    "options": [],
+    "text": "「解羈縶」的意思為何？",
+    "options": [
+      "解除牽絆",
+      "釋放囚犯",
+      "打開門戶",
+      "綑好韁繩"
+    ],
     "answer": "1"
   },
   {
     "number": "10",
-    "text": "下列敘述，何者符合本文主旨？\n                                                         道德放任的人，最後會導致盜劫的行為    生活上的俗務，往往會阻礙進德修業的努力\n                                                         唯有甘心貧窮的人，才能養成勤勞的生活習慣 貧窮並不可怕，害怕貧窮才是真正可怕之事\n                                                                           【請接續背面】\n\f貳、英文（單選題共 25 題，每題 2 分）",
-    "options": [],
+    "text": "下列敘述，何者符合本文主旨？",
+    "options": [
+      "道德放任的人，最後會導致盜劫的行為",
+      "生活上的俗務，往往會阻礙進德修業的努力",
+      "唯有甘心貧窮的人，才能養成勤勞的生活習慣",
+      "貧窮並不可怕，害怕貧窮才是真正可怕之事\n\n【請接續背面】\n貳、英文（單選題共 25 題，每題 2 分）"
+    ],
     "answer": "2"
   },
   {
     "number": "26",
-    "text": " originally          reasonably               particularly             fortunately\n一、字彙【請依照句子前後文意，選出最適當的答案】",
-    "options": [],
+    "text": "",
+    "options": [
+      "originally",
+      "reasonably",
+      "particularly",
+      "fortunately\n一、字彙【請依照句子前後文意，選出最適當的答案】"
+    ],
     "answer": "1"
   },
   {
     "number": "27",
-    "text": " disease             kickoff                  concept                  decision",
-    "options": [],
+    "text": "",
+    "options": [
+      "disease",
+      "kickoff",
+      "concept",
+      "decision"
+    ],
     "answer": "4"
   },
   {
     "number": "11",
-    "text": "An oversupply of bananas has caused a great drop in prices. The government is urging purchase to ease the",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "28",
-    "text": " with that           and that                 which                    on which\n farmers’ ______.",
-    "options": [],
+    "text": "An oversupply of bananas has caused a great drop in prices. The government is urging purchase to ease the           28.",
+    "options": [
+      "with that",
+      "and that",
+      "which",
+      "on which\n farmers’ ______."
+    ],
     "answer": "2"
   },
   {
     "number": "29",
-    "text": " Since               Where                    Though                   Despite\n   actions                  worries                  degrees                  bargains",
-    "options": [],
+    "text": "",
+    "options": [
+      "Since",
+      "Where",
+      "Though",
+      "Despite",
+      "actions",
+      "worries",
+      "degrees",
+      "bargains"
+    ],
     "answer": "3"
   },
   {
     "number": "30",
-    "text": " postpone            postponing               be postponed             have postponed",
-    "options": [],
+    "text": "",
+    "options": [
+      "postpone",
+      "postponing",
+      "be postponed",
+      "have postponed"
+    ],
     "answer": "3"
   },
   {
     "number": "12",
-    "text": "The foreigner has studied Taiwanese hard in the hope of speaking it ______ and making friends with the           四、閱讀測驗\n locals.                                                                                                                         An annular solar eclipse happens when the moon covers the sun’s center, leaving the sun’s visible outer edges\n   frankly                  friendly                 fluently                 formally                                 to form a “ring of fire” around the moon. This can happen only twice this century, in 2020 and on June 21st, 2039.",
-    "options": [],
+    "text": "The foreigner has studied Taiwanese hard in the hope of speaking it ______ and making friends with the           四、閱讀測驗\n locals.\nAn annular solar eclipse happens when the moon covers the sun’s center, leaving the sun’s visible outer edges",
+    "options": [
+      "frankly",
+      "friendly",
+      "fluently",
+      "formally\nto form a “ring of fire” around the moon. This can happen only twice this century, in 2020 and on June 21st, 2039."
+    ],
     "answer": "3"
   },
   {
     "number": "13",
-    "text": "I just know there will be a meeting tomorrow, but I don’t know the ______ time when it will take place.             While people in Taiwan are lucky enough to witness the recent one, it is out of the question to see the latter as\n   common                   normal                   specific                 general                                  Taiwan will not be on the path shaded by the moon.",
-    "options": [],
+    "text": "I just know there will be a meeting tomorrow, but I don’t know the ______ time when it will take place.             While people in Taiwan are lucky enough to witness the recent one, it is out of the question to see the latter as",
+    "options": [
+      "common",
+      "normal",
+      "specific",
+      "general\nTaiwan will not be on the path shaded by the moon."
+    ],
     "answer": "3"
   },
   {
     "number": "14",
-    "text": "My parents plan to live in the countryside and enjoy a relaxing ______ life when they become old.                         Thanks to mostly sunny skies on June 21st this summer, people across Taiwan flocked to museums, parks and\n   rural                    minor                    urban                    hectic                                   schools for guided solar eclipse watching or simply observed the event from street corners, using protective eye",
-    "options": [],
+    "text": "My parents plan to live in the countryside and enjoy a relaxing ______ life when they become old.\nThanks to mostly sunny skies on June 21st this summer, people across Taiwan flocked to museums, parks and",
+    "options": [
+      "rural",
+      "minor",
+      "urban",
+      "hectic\nschools for guided solar eclipse watching or simply observed the event from street corners, using protective eye"
+    ],
     "answer": "1"
   },
   {
     "number": "15",
-    "text": "Lily ______ in fright the moment she saw a seagull flying toward her to snatch the food in her hand.                gear. The momentum was especially high in Yunlin, Chiayi, Tainan, Kaohsiung, Nantou, Hualien and Taitung cities\n   chuckled                 screamed                 quarreled                expanded                                 and counties, as well as the outlying islands of Penghu and Kinmen, as people there could witness the entire process",
-    "options": [],
+    "text": "Lily ______ in fright the moment she saw a seagull flying toward her to snatch the food in her hand.\ngear. The momentum was especially high in Yunlin, Chiayi, Tainan, Kaohsiung, Nantou, Hualien and Taitung cities",
+    "options": [
+      "chuckled",
+      "screamed",
+      "quarreled",
+      "expanded\nand counties, as well as the outlying islands of Penghu and Kinmen, as people there could witness the entire process"
+    ],
     "answer": "2"
   },
   {
     "number": "16",
-    "text": "The teacher is ______ the possibility of effective teaching. So far, she has tried videos and field trips.          of the eclipse.\n   avoiding                 exploring                removing                 predicting                                     In Chiayi, the eclipse started at 2:49 p.m. and ended at 5:25 p.m., with the complete “ring of fire” taking place\n                                                                                                                           for less than a minute at 4:14 p.m., when 99 percent of the sun’s surface was blocked. The spectacle of the distinct",
-    "options": [],
+    "text": "The teacher is ______ the possibility of effective teaching. So far, she has tried videos and field trips.          of the eclipse.",
+    "options": [
+      "avoiding",
+      "exploring",
+      "removing",
+      "predicting\nIn Chiayi, the eclipse started at 2:49 p.m. and ended at 5:25 p.m., with the complete “ring of fire” taking place\n\nfor less than a minute at 4:14 p.m., when 99 percent of the sun’s surface was blocked. The spectacle of the distinct"
+    ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "If you want to be happy, do not _____ in the past or worry about the future. Just focus on living fully in the\n                                                                                                                           stages of the eclipse drew crowds from across the country. According to intercity bus operator Kuo-Kuang Motor\n present.\n                                                                                                                           Transportation Company, passengers to Chiayi on Sunday were about 15 percent higher compared with the\n   dwell                    gather                   appear                   escape\n                                                                                                                           previous weekend.\n二、文法測驗【請在下列各題中選出最適當的答案】                                                                                                          In Taipei, where only a partial solar eclipse was visible, around 10,000 people were estimated to have visited",
-    "options": [],
+    "text": "If you want to be happy, do not _____ in the past or worry about the future. Just focus on living fully in the\n\nstages of the eclipse drew crowds from across the country. According to intercity bus operator Kuo-Kuang Motor\n present.\n\nTransportation Company, passengers to Chiayi on Sunday were about 15 percent higher compared with the",
+    "options": [
+      "dwell",
+      "gather",
+      "appear",
+      "escape\n\nprevious weekend.\n二、文法測驗【請在下列各題中選出最適當的答案】\nIn Taipei, where only a partial solar eclipse was visible, around 10,000 people were estimated to have visited"
+    ],
     "answer": "1"
   },
   {
     "number": "18",
-    "text": "An e-payment makes ______ possible to do our shopping without the use of checks or cash. What a great               the Taipei Astronomical Museum. The last time the museum saw such heavy traffic was in July 2009, when a total\n convenience!                                                                                                              solar eclipse took place. According to a museum official, the next time an annular solar eclipse covering such a\n   it                        us                      one                     that                                      large percentage of the sun will not be visible in Taiwan until June 28th, 2215. If you happen to miss this eclipse,",
-    "options": [],
+    "text": "An e-payment makes ______ possible to do our shopping without the use of checks or cash. What a great\nthe Taipei Astronomical Museum. The last time the museum saw such heavy traffic was in July 2009, when a total\n convenience!\nsolar eclipse took place. According to a museum official, the next time an annular solar eclipse covering such a",
+    "options": [
+      "it",
+      "us",
+      "one",
+      "that\nlarge percentage of the sun will not be visible in Taiwan until June 28th, 2215. If you happen to miss this eclipse,"
+    ],
     "answer": "1"
   },
   {
     "number": "19",
-    "text": "Mr. Chen expects his kids to spend time ______ their hobbies rather than use their phones all day.                  don't despair. Visit our school website and you can watch the eclipse we have uploaded along with lots of\n   pursue                    pursuing                to pursue               which pursues                             information, images, and facts about this and other eclipses.",
-    "options": [],
+    "text": "Mr. Chen expects his kids to spend time ______ their hobbies rather than use their phones all day.\ndon't despair. Visit our school website and you can watch the eclipse we have uploaded along with lots of",
+    "options": [
+      "pursue",
+      "pursuing",
+      "to pursue",
+      "which pursues\ninformation, images, and facts about this and other eclipses."
+    ],
     "answer": "2"
   },
   {
     "number": "20",
-    "text": "As soon as the noisy flock of tourists came into the museum, they ______ by the guard right away.\n   hushed                    had hushed              were hushed             were hushing",
-    "options": [],
+    "text": "As soon as the noisy flock of tourists came into the museum, they ______ by the guard right away.",
+    "options": [
+      "hushed",
+      "had hushed",
+      "were hushed",
+      "were hushing"
+    ],
     "answer": "3"
   },
   {
-    "number": "31",
-    "text": "What does “the latter” refer to in the first paragraph?",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "21",
-    "text": "Many people feel more relaxed riding their bikes along the country roads than ______ in big cities.                 The annular solar eclipse in 2020.\n                                                                                                                           The annular solar eclipse in 2039.\n   bikes                     biking                  to bike                 go biking\n                                                                                                                           The ring of fire around the moon.",
-    "options": [],
+    "text": "Many people feel more relaxed riding their bikes along the country roads than ______ in big cities.",
+    "options": [
+      "The annular solar eclipse in 2020.",
+      "The annular solar eclipse in 2039.",
+      "bikes",
+      "biking",
+      "to bike",
+      "go biking",
+      "The ring of fire around the moon."
+    ],
     "answer": "2"
-  },
-  {
-    "number": "22",
-    "text": "In the orientation, the coach gave all the participants two minutes to briefly introduce ______ to the whole\n                                                                                                                           The path that is shaded by the moon.\n class.",
-    "options": [],
-    "answer": "4"
   },
   {
     "number": "32",
-    "text": "Which of the following is true about the 2020 eclipse in Taiwan?\n   them                      theirs                  oneself                 themselves\n                                                                                                                           It happened on different days from city to city.",
-    "options": [],
+    "text": "Which of the following is true about the 2020 eclipse in Taiwan?",
+    "options": [
+      "them",
+      "theirs",
+      "oneself",
+      "themselves",
+      "It happened on different days from city to city."
+    ],
     "answer": "3"
   },
   {
     "number": "23",
-    "text": "Endorphins are ______ the body produces after you get some exercise. These chemicals give you a sense of\n                                                                                                                           Many cities couldn’t see the eclipse due to a bad weather.\n happiness.                                                                                                                People watched it with some eye protection.\n   how                       that                    what                    which                                     Only in Chiayi did people see the entire process of the eclipse.",
-    "options": [],
+    "text": "Endorphins are ______ the body produces after you get some exercise. These chemicals give you a sense of",
+    "options": [
+      "Many cities couldn’t see the eclipse due to a bad weather.\n happiness.",
+      "People watched it with some eye protection.",
+      "how",
+      "that",
+      "what",
+      "which",
+      "Only in Chiayi did people see the entire process of the eclipse."
+    ],
     "answer": "3"
   },
   {
-    "number": "24",
-    "text": "My mom gets up early every day ______ she can get our breakfast ready before we leave for school.",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "33",
-    "text": "Which of the following is closest in meaning to the word “spectacle” in the third paragraph?\n   so that                   in case                 so as to                in order to                               Time.",
-    "options": [],
+    "text": "Which of the following is closest in meaning to the word “spectacle” in the third paragraph?",
+    "options": [
+      "so that",
+      "in case",
+      "so as to",
+      "in order to",
+      "Time."
+    ],
     "answer": "2"
   },
   {
     "number": "25",
-    "text": "Mr. Lee used to eat lots of junk food, but recently for the sake of his health, he ______ the bad habit and         Scene.\n looks thinner now.                                                                                                        Traffic.\n   was kicked                will kick               has kicked              had kicked                                Darkness.\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】",
-    "options": [],
+    "text": "Mr. Lee used to eat lots of junk food, but recently for the sake of his health, he ______ the bad habit and",
+    "options": [
+      "Scene.\n looks thinner now.",
+      "Traffic.",
+      "was kicked",
+      "will kick",
+      "has kicked",
+      "had kicked",
+      "Darkness.\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】"
+    ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "What do we learn from Taipei Astronomical Museum?\n     In March, amid the worsening coronavirus pandemic, the Tokyo Olympics were put off until 2021.                        People saw a perfect annular eclipse in Taipei in 2020.\nThe Games,      26    slated to kick off this summer, will now be held from July 23 rd to August 8 th , 2021.              People in Taipei saw a total solar eclipse on June 21, 2009.\nThe Paralympic Games have also been delayed and will run fro m August 24 th to September 5 th , 2021.                      As many as ten thousand people visit the museum every year.\nThe     27    was announced following talks between Japan’s prime minister, Shinzo Abe, and the                            The next time to see an annular eclipse from Taiwan is 195 years from now.\nInternational Olympic Committee president, Thomas Bach. The leaders agreed that the Olympic Games",
-    "options": [],
+    "text": "What do we learn from Taipei Astronomical Museum?\n     In March, amid the worsening coronavirus pandemic, the Tokyo Olympics were put off until 202",
+    "options": [
+      "People saw a perfect annular eclipse in Taipei in 2020.\nThe Games,      26    slated to kick off this summer, will now be held from July 23 rd to August 8 th , 2021.",
+      "People in Taipei saw a total solar eclipse on June 21, 2009.\nThe Paralympic Games have also been delayed and will run fro m August 24 th to September 5 th , 2021.",
+      "As many as ten thousand people visit the museum every year.\nThe     27    was announced following talks between Japan’s prime minister, Shinzo Abe, and the",
+      "The next time to see an annular eclipse from Taiwan is 195 years from now.\nInternational Olympic Committee president, Thomas Bach. The leaders agreed that the Olympic Games"
+    ],
     "answer": "4"
   },
   {
     "number": "35",
-    "text": "Who is most likely to be the writer of this article?\nin Tokyo could stand as a beacon of hope to the world during these troubled times       28   the Olympic                   A school teacher.\nflame could become the light at the end of the tunnel. Accordingly, the Olympic flame will stay in Japan                   A travel magazine editor.\nand the Games will still be known as the Tokyo 2020 Games.          29    the news is disappointing, the                   A Taipei Astronomical Museum official.\npublic is not surprised as the move seemed inevitable. This will be the first Olympics to              30 .                A YouTuber who streams eclipses online.\nPreviously, three Games have been cancelled outright, in 1916, 1940, and 1944, due to the two world\nwars.",
-    "options": [],
+    "text": "Who is most likely to be the writer of this article?\nin Tokyo could stand as a beacon of hope to the world during these troubled times       28   the Olympic",
+    "options": [
+      "A school teacher.\nflame could become the light at the end of the tunnel. Accordingly, the Olympic flame will stay in Japan",
+      "A travel magazine editor.\nand the Games will still be known as the Tokyo 2020 Games.          29    the news is disappointing, the",
+      "A Taipei Astronomical Museum official.\npublic is not surprised as the move seemed inevitable. This will be the first Olympics to              30 .",
+      "A YouTuber who streams eclipses online.\nPreviously, three Games have been cancelled outright, in 1916, 1940, and 1944, due to the two world\nwars."
+    ],
     "answer": "1"
   }
 ]

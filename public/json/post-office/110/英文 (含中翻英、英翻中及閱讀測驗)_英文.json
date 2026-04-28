@@ -1,62 +1,77 @@
 [
   {
-    "number": "1",
-    "text": "What is the best title for the passage?",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "6",
-    "text": "What is the passage mainly about?\n  The origins of Easter traditions                                                                                      The life of Andy Warhol\n  Why people like Easter today                                                                                          The impact of digital technology\n  How Easter became a Christian holiday                                                                                 The use of modern technology in art\n  Easter eggs and the chocolate-making techniques                                                                       The role engineers play in modern art",
-    "options": [],
+    "text": "What is the passage mainly about?",
+    "options": [
+      "The origins of Easter traditions",
+      "The life of Andy Warhol",
+      "Why people like Easter today",
+      "The impact of digital technology",
+      "How Easter became a Christian holiday",
+      "The use of modern technology in art",
+      "Easter eggs and the chocolate-making techniques",
+      "The role engineers play in modern art"
+    ],
     "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "Which of the following is true?",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "7",
-    "text": "Which of the following is true?\n  Eastre is the name of the first Easter bunny.                                                                         Andy Warhol started using technology in art in late 1950s.\n  Easter does not fall on the same date every year.                                                                     Andy Warhol’s digital art pieces were later recovered and restored.\n  People eat chocolate eggs today to celebrate the waking up of rabbits.                                                Andy Warhol was a student of the Carnegie Mellon University.\n  Christians were the first to celebrate the coming of spring.                                                          Andy Warhol used to work in Bell Laboratories.",
-    "options": [],
+    "text": "Which of the following is true?",
+    "options": [
+      "Eastre is the name of the first Easter bunny.",
+      "Andy Warhol started using technology in art in late 1950s.",
+      "Easter does not fall on the same date every year.",
+      "Andy Warhol’s digital art pieces were later recovered and restored.",
+      "People eat chocolate eggs today to celebrate the waking up of rabbits.",
+      "Andy Warhol was a student of the Carnegie Mellon University.",
+      "Christians were the first to celebrate the coming of spring.",
+      "Andy Warhol used to work in Bell Laboratories."
+    ],
     "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "What can be inferred from the passage?",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "8",
-    "text": "What can be inferred from the passage?\n  Easter traditions have undergone some changes over the years.                                                         Technology can help artists’ works reach more people.\n  Easter is now celebrated by Christian chocolate-lovers only.                                                          The internet helped make Andy Warhol become popular.\n  The first chocolate eggs were made by the Romans.                                                                     Technology is a useful tool but never a medium of art.\n  Church leaders preferred chocolate eggs over real eggs.                                                               University professors were greatly involved in the first attempt to use technology in art.",
-    "options": [],
+    "text": "What can be inferred from the passage?",
+    "options": [
+      "Easter traditions have undergone some changes over the years.",
+      "Technology can help artists’ works reach more people.",
+      "Easter is now celebrated by Christian chocolate-lovers only.",
+      "The internet helped make Andy Warhol become popular.",
+      "The first chocolate eggs were made by the Romans.",
+      "Technology is a useful tool but never a medium of art.",
+      "Church leaders preferred chocolate eggs over real eggs.",
+      "University professors were greatly involved in the first attempt to use technology in art."
+    ],
     "answer": "1"
   },
   {
-    "number": "4",
-    "text": "Why does the author mention the Roman proverb in the second paragraph?",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "9",
-    "text": "Which of the following questions can the passage answer?\n  To show that Romans were the first to celebrate Easter                                                                How did Cory Arcangel become popular?\n  To demonstrate how Roman people made chocolate eggs for Easter                                                        Why did engineers and scientists want to work with artists?\n  To prove that eating eggs was important for Christians                                                                When did Andy Warhol create his digital drawings?\n  To explain how eggs are related to new life and Easter                                                                Where were the first performances of art and technology?",
-    "options": [],
+    "text": "Which of the following questions can the passage answer?",
+    "options": [
+      "To show that Romans were the first to celebrate Easter",
+      "How did Cory Arcangel become popular?",
+      "To demonstrate how Roman people made chocolate eggs for Easter",
+      "Why did engineers and scientists want to work with artists?",
+      "To prove that eating eggs was important for Christians",
+      "When did Andy Warhol create his digital drawings?",
+      "To explain how eggs are related to new life and Easter",
+      "Where were the first performances of art and technology?"
+    ],
     "answer": "3"
   },
   {
-    "number": "5",
-    "text": "Which of the following statements is NOT supported by the passage?",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "10",
-    "text": "Which of the following is NOT supported by the passage?\n  Eating eggs was not allowed by church leaders in the Holy Week.                                                       Cory Arcangel was an artist and a fan of Andy Warhol.\n  Rabbits are considered sacred animals to Christians.                                                                  Andy Warhol was famous for using technology in art.\n  The first chocolate eggs did not taste very good.                                                                     Modern technology has greatly helped artists in their creative process.\n  Easter always falls on Sunday.                                                                                        Many engineers at Bell Laboratories were also artists.",
-    "options": [],
+    "text": "Which of the following is NOT supported by the passage?",
+    "options": [
+      "Eating eggs was not allowed by church leaders in the Holy Week.",
+      "Cory Arcangel was an artist and a fan of Andy Warhol.",
+      "Rabbits are considered sacred animals to Christians.",
+      "Andy Warhol was famous for using technology in art.",
+      "The first chocolate eggs did not taste very good.",
+      "Modern technology has greatly helped artists in their creative process.",
+      "Easter always falls on Sunday.",
+      "Many engineers at Bell Laboratories were also artists."
+    ],
     "answer": "4"
   }
 ]

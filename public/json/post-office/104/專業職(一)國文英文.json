@@ -1,304 +1,419 @@
 [
   {
-    "number": "12",
-    "text": "下列成語中，空白的「□」都代表十二生肖中的某一種動物，請按照十二生肖的順序，選出排列正\n                                                               確的答案：甲、「九□一毛」 乙、「三人成□」 丙、「抱頭□竄」 丁、「杯弓□影」\n職階／甄選類科【代碼】：專業職(一)／各類科全【H6201-H6215】                          甲丁乙丙        乙甲丁丙     丁乙丙甲     丙甲乙丁\n普通科目：國文及英文                 ＊請填寫入場通知書編號：_______________",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "13",
-    "text": "下列何者非宋代的詞人？\n注意：作答前須檢查答案卡、入場通知書號碼、桌角號碼、甄選類科是否相符，如有不同應立即請監試                 納蘭性德       蘇東坡     柳永           李清照\n    人員處理，否則不予計分。\n   本試卷正反兩頁共 50 題單選題，每題 2 分。限用 2B 鉛筆在「答案卡」上作答，請選出最適當答",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "14",
-    "text": "白居易的〈琵琶行〉中寫到「大弦嘈嘈如急雨，小弦切切如私語，嘈嘈切切錯雜彈，大珠小珠落玉\n    案，答錯不倒扣；未作答者，不予計分。                                         盤。」最貼近以下哪一種感官？\n   請勿於答案卡上書寫姓名、入場通知書編號或與答案無關之任何文字或符號。                        聽覺          嗅覺       味覺       觸覺\n   應考人得自備使用簡易型電子計算機(須不具財務函數、工程函數或儲存程式功能，且不得發出聲",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "15",
-    "text": "《孟子‧梁惠王下》：「文王之囿方七十里，芻蕘者往焉，雉兔者往焉，與民同之。」此處之「芻\n    響)。若應考人於測驗時將不符規定之電子計算機放置於桌面或使用，經勸阻無效，仍執意使用者，               蕘」較近似從事下列何種工作？\n    扣除該科目成績 10 分；計算機並由監試人員保管至該節測驗結束後歸還。                       漁           樵        耕        讀\n   答案卡務必繳回，未繳回者該節以零分計算。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "16",
-    "text": "有關人物與成語配對，下列何者正確？\n壹、國文【第 1-25 題，每題 2 分，共計 25 題，占 50 分】\n                                                               徙木立信／呂不韋   韋編三絕／孔子  摩頂放踵／孟子     一毛不拔／惠施",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "有關書信寫作，下列何者正確？",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "17",
-    "text": "下列成語何者與子承父業無關？\n 在信封上的文字叫封文，信箋上的叫箋文     對長輩使用的啟封詞是「大啟」\n                                                               克紹箕裘       肯堂肯構    繼志述事         蕭規曹隨\n 對平輩使用的啟封詞是「安啟」         不論輩份，一律用「敬啟」當啟封詞表示尊敬",
-    "options": [],
+    "text": "下列成語何者與子承父業無關？",
+    "options": [
+      "在信封上的文字叫封文，信箋上的叫箋文",
+      "對長輩使用的啟封詞是「大啟」",
+      "克紹箕裘",
+      "肯堂肯構",
+      "繼志述事",
+      "蕭規曹隨",
+      "對平輩使用的啟封詞是「安啟」",
+      "不論輩份，一律用「敬啟」當啟封詞表示尊敬"
+    ],
     "answer": "4"
-  },
-  {
-    "number": "18",
-    "text": "稱讚人言論精當，具有超拔的識見，宜用以下何種成語？",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "2",
-    "text": "有關書信寫作，下列何者錯誤？\n                                                               不刊之論       不經之談     鴻鵠之志        東山之志\n 在箋文中於自稱時以側書表謙虛之意       在箋文中以「舍弟」\n                                  、「舍妹」稱自己的卑幼\n 在箋文中以「賢父子」對人自稱父子       在箋文中以「內人」稱自己的妻子",
-    "options": [],
+    "text": "有關書信寫作，下列何者錯誤？",
+    "options": [
+      "不刊之論",
+      "不經之談",
+      "鴻鵠之志",
+      "東山之志",
+      "在箋文中於自稱時以側書表謙虛之意",
+      "在箋文中以「舍弟」\n\n、「舍妹」稱自己的卑幼",
+      "在箋文中以「賢父子」對人自稱父子",
+      "在箋文中以「內人」稱自己的妻子"
+    ],
     "answer": "3"
   },
   {
     "number": "19",
-    "text": "下列何者不屬於書信的代稱？\n                                                               羔鴈         雁足      尺素           雙鯉魚",
-    "options": [],
+    "text": "下列何者不屬於書信的代稱？",
+    "options": [
+      "羔鴈",
+      "雁足",
+      "尺素",
+      "雙鯉魚"
+    ],
     "answer": "1"
   },
   {
     "number": "3",
-    "text": "隔壁方爺爺將過九十大壽，下列何者最適合做為獻壽的題辭？\n 百首同心       之子于歸     齒德俱尊           百年好合",
-    "options": [],
+    "text": "隔壁方爺爺將過九十大壽，下列何者最適合做為獻壽的題辭？",
+    "options": [
+      "百首同心",
+      "之子于歸",
+      "齒德俱尊",
+      "百年好合"
+    ],
     "answer": "3"
   },
   {
-    "number": "20",
-    "text": "有關作品集的敘述，下列何者錯誤？\n                                                               《詩經》為我國韻文之祖，為流行歌謠蒐集而成",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "4",
-    "text": "本校張老師要結婚了，下列何者適用於祝賀婚禮的題辭？\n                                                               《孟子》辭鋒犀利、波瀾壯闊，其文章以氣勢勝\n 五世其昌       杏林之光     探驪得珠           黃鶯出谷\n                                                               《論語》為語錄體，缺少結構完整之長篇據題抒論",
-    "options": [],
+    "text": "本校張老師要結婚了，下列何者適用於祝賀婚禮的題辭？",
+    "options": [
+      "《孟子》辭鋒犀利、波瀾壯闊，其文章以氣勢勝",
+      "五世其昌",
+      "杏林之光",
+      "探驪得珠",
+      "黃鶯出谷",
+      "《論語》為語錄體，缺少結構完整之長篇據題抒論"
+    ],
     "answer": "1"
   },
   {
     "number": "5",
-    "text": "下列何者不適合用於喪禮的題辭？                                           《莊子》擅長以寓言寄託道理，汪洋恣肆，富浪漫氣息\n 功勛共仰       懿德長昭       福壽全歸         高軒蒞止",
-    "options": [],
+    "text": "下列何者不適合用於喪禮的題辭？",
+    "options": [
+      "《莊子》擅長以寓言寄託道理，汪洋恣肆，富浪漫氣息",
+      "功勛共仰",
+      "懿德長昭",
+      "福壽全歸",
+      "高軒蒞止"
+    ],
     "answer": "4"
-  },
-  {
-    "number": "21",
-    "text": "下列詩句，何者有因為人生苦短，故思及時行樂之感歎？",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "6",
-    "text": "詩歌多藉景物抒發作者心中的意象或想法，對全詩主旨的敘述，下列何者正確？                       生年不滿百，常懷千歲憂。晝短苦夜長，何不秉燭遊\n 離離原上草，一歲一枯榮。野火燒不盡，春風吹又生。／單純描述火勢很大的情景                         汎覽周王傳，流觀山海圖。俯仰終宇宙，不樂復何如\n 遠上寒山石徑斜，白雲生處有人家。停車坐愛楓林晚，霜葉紅於二月花。／指花不如楓葉美麗                    神飈接丹轂，輕輦隨風移。飄颻放志意，千秋長若斯\n 春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少。／描述春天很吵，不好入睡的樣子                      長歌吟松風，曲盡河星稀。我醉君復樂，陶然共忘機\n 床前明月光，疑似地上霜。舉頭望明月，低頭思故鄉。／藉景物表達自己思念故鄉的心情",
-    "options": [],
+    "text": "詩歌多藉景物抒發作者心中的意象或想法，對全詩主旨的敘述，下列何者正確？",
+    "options": [
+      "生年不滿百，常懷千歲憂。晝短苦夜長，何不秉燭遊",
+      "離離原上草，一歲一枯榮。野火燒不盡，春風吹又生。／單純描述火勢很大的情景",
+      "汎覽周王傳，流觀山海圖。俯仰終宇宙，不樂復何如",
+      "遠上寒山石徑斜，白雲生處有人家。停車坐愛楓林晚，霜葉紅於二月花。／指花不如楓葉美麗",
+      "神飈接丹轂，輕輦隨風移。飄颻放志意，千秋長若斯",
+      "春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少。／描述春天很吵，不好入睡的樣子",
+      "長歌吟松風，曲盡河星稀。我醉君復樂，陶然共忘機",
+      "床前明月光，疑似地上霜。舉頭望明月，低頭思故鄉。／藉景物表達自己思念故鄉的心情"
+    ],
     "answer": "4"
   },
   {
-    "number": "22",
-    "text": "蘇軾〈超然臺記〉提到：「人之所欲無窮，而物之可以足吾欲者有盡，美惡之辨戰於中，而去取之",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "7",
-    "text": "下列皆為表示年齡的語詞，請按照年齡大小，由最小排列至最長？ 甲.天命之年      乙.弱冠之年   丙.     擇交乎前。則可樂者常少，而可悲者常多。」下列觀念何者最接近本段主旨？\n 耄耋之年 丁.志學之年                                                  人生不如意事十常八九            人生苦短，應及時行樂\n 甲乙丙丁        乙丁甲丙    丁乙甲丙      丁丙乙甲                       人若減少欲望，方能知足常樂         人生自是有情癡，此恨不關風與月",
-    "options": [],
+    "text": "下列皆為表示年齡的語詞，請按照年齡大小，由最小排列至最長？ 甲.天命之年      乙.弱冠之年   丙.     擇交乎前。則可樂者常少，而可悲者常多。」下列觀念何者最接近本段主旨？\n 耄耋之年 丁.志學之年",
+    "options": [
+      "人生不如意事十常八九",
+      "人生苦短，應及時行樂",
+      "甲乙丙丁",
+      "乙丁甲丙",
+      "丁乙甲丙",
+      "丁丙乙甲",
+      "人若減少欲望，方能知足常樂",
+      "人生自是有情癡，此恨不關風與月"
+    ],
     "answer": "3"
-  },
-  {
-    "number": "8",
-    "text": "下列成語，何者適合用來形容生活優渥？",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "23",
-    "text": "下列語句中，何者帶有聽覺性質的形容？\n 室如懸磬       饌玉炊金     饘粥餬口           環堵蕭然                   日出而林霏開，雲歸而巖穴暝        蕙帳空兮夜鶴怨，山人去兮曉猿驚",
-    "options": [],
+    "text": "下列語句中，何者帶有聽覺性質的形容？",
+    "options": [
+      "室如懸磬",
+      "饌玉炊金",
+      "饘粥餬口",
+      "環堵蕭然",
+      "日出而林霏開，雲歸而巖穴暝",
+      "蕙帳空兮夜鶴怨，山人去兮曉猿驚"
+    ],
     "answer": "2"
   },
   {
     "number": "9",
-    "text": "下列何者不是用來形容秋天景色的句子？                                        長煙一空，皓月千里；浮光耀金，靜影沉璧 庭中如積水空明，水中藻、荇交橫，蓋竹柏影也\n 樹樹秋聲，山山寒色            燕草如碧絲，秦桑低綠枝",
-    "options": [],
+    "text": "下列何者不是用來形容秋天景色的句子？",
+    "options": [
+      "長煙一空，皓月千里；浮光耀金，靜影沉璧",
+      "庭中如積水空明，水中藻、荇交橫，蓋竹柏影也",
+      "樹樹秋聲，山山寒色",
+      "燕草如碧絲，秦桑低綠枝"
+    ],
     "answer": "2"
   },
   {
     "number": "24",
-    "text": "子貢曰：「君子之過也，如日月之食焉。過也，人皆見之；更也，人皆仰之。」其意為何？\n 未覺池塘春草夢，階前梧葉已秋聲      碧雲天，黃葉地，秋色連波，波上含煙翠                     君子不可犯過失              君子應改正過失",
-    "options": [],
+    "text": "子貢曰：「君子之過也，如日月之食焉。過也，人皆見之；更也，人皆仰之。」其意為何？",
+    "options": [
+      "未覺池塘春草夢，階前梧葉已秋聲",
+      "碧雲天，黃葉地，秋色連波，波上含煙翠",
+      "君子不可犯過失",
+      "君子應改正過失"
+    ],
     "answer": "2"
   },
   {
     "number": "10",
-    "text": "公文的「本文」基本上可分為哪三段？                                        君子犯錯不易察覺             君子犯錯與小人同罪\n  主旨、說明、公告   主旨、說明、辦法 主旨、擬辦、附件      主旨、受文者、公告事項",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "25",
-    "text": "下列何者用字完全正確無誤？",
-    "options": [],
+    "text": "公文的「本文」基本上可分為哪三段？",
+    "options": [
+      "君子犯錯不易察覺",
+      "君子犯錯與小人同罪",
+      "主旨、說明、公告",
+      "主旨、說明、辦法",
+      "主旨、擬辦、附件",
+      "主旨、受文者、公告事項          25.下列何者用字完全正確無誤？"
+    ],
     "answer": "2"
   },
   {
     "number": "11",
-    "text": "訃文中所寫亡者「得年」〇〇歲，則亡者年齡應為：                                  面對這次器官移殖手術的失敗，王醫師心頭沉澱澱的，不想多作解釋\n  六十歲以上                五十歲以上六十歲以下                            先人篳路藍縷，斑斑血淚，載諸史冊，如我輩者睹之焉能不悽惻感慨\n  三十歲以下                三十歲以上五十歲以下                            那篇小說的題材新穎，情節奇異詭密，布局繁複卻條理井然，無洩可擊\n                                                               他心智奴鈍，尚無以保父母，下無以蓄妻弩，惶惶不可終日\n\n                                                                                    【請接續背面】\n\f貳、英文【第 26-50 題，每題 2 分，共計 25 題，占 50 分】",
-    "options": [],
+    "text": "訃文中所寫亡者「得年」〇〇歲，則亡者年齡應為：",
+    "options": [
+      "面對這次器官移殖手術的失敗，王醫師心頭沉澱澱的，不想多作解釋",
+      "六十歲以上",
+      "五十歲以上六十歲以下",
+      "先人篳路藍縷，斑斑血淚，載諸史冊，如我輩者睹之焉能不悽惻感慨",
+      "三十歲以下",
+      "三十歲以上五十歲以下",
+      "那篇小說的題材新穎，情節奇異詭密，布局繁複卻條理井然，無洩可擊",
+      "他心智奴鈍，尚無以保父母，下無以蓄妻弩，惶惶不可終日\n\n\n【請接續背面】\n貳、英文【第 26-50 題，每題 2 分，共計 25 題，占 50 分】"
+    ],
     "answer": "3"
   },
   {
     "number": "41",
-    "text": " scarce               blur                    keen                      raw",
-    "options": [],
+    "text": "",
+    "options": [
+      "scarce",
+      "blur",
+      "keen",
+      "raw"
+    ],
     "answer": "3"
   },
   {
     "number": "42",
-    "text": " from                 to                      on                        in\n一、字彙【請依照句子前後文意，選出最適當的答案】",
-    "options": [],
+    "text": "",
+    "options": [
+      "from",
+      "to",
+      "on",
+      "in\n一、字彙【請依照句子前後文意，選出最適當的答案】"
+    ],
     "answer": "4"
   },
   {
     "number": "43",
-    "text": " most                 weakest                 strongest                 warmest",
-    "options": [],
+    "text": "",
+    "options": [
+      "most",
+      "weakest",
+      "strongest",
+      "warmest"
+    ],
     "answer": "2"
   },
   {
-    "number": "26",
-    "text": "A headache, a running nose, loss of appetite and muscle pain are all ________ of a bad cold.",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "44",
-    "text": " affects              weakens                 causes                    monitors\n   structures               solutions               symptoms                stations",
-    "options": [],
+    "text": "",
+    "options": [
+      "affects",
+      "weakens",
+      "causes",
+      "monitors",
+      "structures",
+      "solutions",
+      "symptoms",
+      "stations"
+    ],
     "answer": "1"
   },
   {
     "number": "45",
-    "text": " of                   with                    at                        by",
-    "options": [],
+    "text": "",
+    "options": [
+      "of",
+      "with",
+      "at",
+      "by"
+    ],
     "answer": "2"
   },
   {
     "number": "27",
-    "text": "Many colleges in Taiwan now use GEPT or TOEIC test to ________ their students’ English proficiency.\n   access                   reject                  reduce                  assess\n                                                                                                                        四、閱讀測驗",
-    "options": [],
+    "text": "Many colleges in Taiwan now use GEPT or TOEIC test to ________ their students’ English proficiency.",
+    "options": [
+      "access",
+      "reject",
+      "reduce",
+      "assess\n\n四、閱讀測驗"
+    ],
     "answer": "4"
   },
   {
     "number": "28",
-    "text": "Thousands of people are still in need of food and ________ in many third world countries.\n   shield                   shell                   shelter                 shelf                                          Charlotte’s Web, by American writer E.",
+    "text": "Thousands of people are still in need of food and ________ in many third world countries.",
     "options": [
-      "White, is a classic children’s novel about a pig named Wilbur"
+      "shield",
+      "shell",
+      "shelter",
+      "shelf\nCharlotte’s Web, by American writer E. B. White, is a classic children’s novel about a pig named Wilbur"
     ],
     "answer": "3"
   },
   {
     "number": "29",
-    "text": "Theresa’s parents are celebrating the fifteenth ________ of their marriage.                                       and his friendship with a barn spider named Charlotte. It was listed by Publisher’s Weekly as the top-selling\n   birthday                 reunion                 competition             anniversary                              children’s paperback of all time in the year 2000.",
-    "options": [],
+    "text": "Theresa’s parents are celebrating the fifteenth ________ of their marriage.\nand his friendship with a barn spider named Charlotte. It was listed by Publisher’s Weekly as the top-selling",
+    "options": [
+      "birthday",
+      "reunion",
+      "competition",
+      "anniversary\nchildren’s paperback of all time in the year 2000."
+    ],
     "answer": "4"
   },
   {
     "number": "30",
-    "text": "Research results show that drinking a lot of water can ________ the risk of developing kidney stones.                   When a little girl, Fern Arable, learns that her father intends to kill a baby piglet because it is the runt of\n   inflate                  decrease                maximize                promote                                  the litter, she begs him to spare the piglet’s life. Mr. Arable finally relents and gives Fern the responsibility of",
-    "options": [],
+    "text": "Research results show that drinking a lot of water can ________ the risk of developing kidney stones.\nWhen a little girl, Fern Arable, learns that her father intends to kill a baby piglet because it is the runt of",
+    "options": [
+      "inflate",
+      "decrease",
+      "maximize",
+      "promote\nthe litter, she begs him to spare the piglet’s life. Mr. Arable finally relents and gives Fern the responsibility of"
+    ],
     "answer": "2"
   },
   {
     "number": "31",
-    "text": "Most young people now cannot ________ to buy a house with their current salaries.                                 raising the piglet, hoping this will show Fern “how much trouble a pig can be.”\n   assume                   affect                  appoint                 afford                                         Fern nurses the piglet, which she names Wilbur, for several weeks. Once Wilbur is old enough, Mr. Arable",
-    "options": [],
+    "text": "Most young people now cannot ________ to buy a house with their current salaries.\nraising the piglet, hoping this will show Fern “how much trouble a pig can be.”",
+    "options": [
+      "assume",
+      "affect",
+      "appoint",
+      "afford\nFern nurses the piglet, which she names Wilbur, for several weeks. Once Wilbur is old enough, Mr. Arable"
+    ],
     "answer": "4"
   },
   {
     "number": "32",
-    "text": "His aunt is good at ________ with street vendors; she always buys things at a pretty low price.                   makes Fern sell Wilbur to her uncle. At Zuckerman’s farm, Wilbur becomes lonely for friendship but none of\n   begging                  bargaining              supporting              screaming                                the farm animals will play with him. Eventually, Charlotte, a large gray spider whose web stretches above the",
-    "options": [],
+    "text": "His aunt is good at ________ with street vendors; she always buys things at a pretty low price.\nmakes Fern sell Wilbur to her uncle. At Zuckerman’s farm, Wilbur becomes lonely for friendship but none of",
+    "options": [
+      "begging",
+      "bargaining",
+      "supporting",
+      "screaming\nthe farm animals will play with him. Eventually, Charlotte, a large gray spider whose web stretches above the"
+    ],
     "answer": "2"
   },
   {
     "number": "33",
-    "text": "For many marathon runners, this sport is not about winning; finishing a long distance race itself gives them      door to Wilbur’s pigpen, extends the hand of friendship. Wilbur is at first horrified by the bloodthirsty nature of\n  a sense of ________.                                                                                                   the spider, but eventually the two become dear friends.\n   congratulation           advance                 achievement             humor                                          By chance, Wilbur discovers that he will soon be killed for Christmas dinner. Charlotte promises she will\n                                                                                                                         devise a plan to save his life, and after several days an idea comes to her. Charlotte begins weaving praise of\n                                                                                                                         Wilbur into her web, including “Some Pig!” and “TERRIFIC,” attracting publicity among Zuckerman’s\n二、文法測驗【請在下列各題中選出最適當的答案】                                                                                                  neighbors. Mr. Zuckerman becomes so preoccupied with the miracles of his famous pig he decides to enter",
-    "options": [],
+    "text": "For many marathon runners, this sport is not about winning; finishing a long distance race itself gives them      door to Wilbur’s pigpen, extends the hand of friendship. Wilbur is at first horrified by the bloodthirsty nature of\n  a sense of ________.\nthe spider, but eventually the two become dear friends.",
+    "options": [
+      "congratulation",
+      "advance",
+      "achievement",
+      "humor\nBy chance, Wilbur discovers that he will soon be killed for Christmas dinner. Charlotte promises she will\n\ndevise a plan to save his life, and after several days an idea comes to her. Charlotte begins weaving praise of\n\nWilbur into her web, including “Some Pig!” and “TERRIFIC,” attracting publicity among Zuckerman’s\n二、文法測驗【請在下列各題中選出最適當的答案】\nneighbors. Mr. Zuckerman becomes so preoccupied with the miracles of his famous pig he decides to enter"
+    ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "Let’s go and get a drink. We still have ________ time before the airplane leaves.                                 Wilbur in a competition at the County Fair. With Charlotte’s assistance, Wilbur goes to the fair and wins Mr.\n   few                        little              a little                  a few                                    Zuckerman top prize, ensuring that Wilbur will not go to slaughter.",
-    "options": [],
+    "text": "Let’s go and get a drink. We still have ________ time before the airplane leaves.\nWilbur in a competition at the County Fair. With Charlotte’s assistance, Wilbur goes to the fair and wins Mr.",
+    "options": [
+      "few",
+      "little",
+      "a little",
+      "a few\nZuckerman top prize, ensuring that Wilbur will not go to slaughter."
+    ],
     "answer": "3"
   },
   {
     "number": "35",
-    "text": "A serious car accident ________ on the road last week.                                                                  Charlotte, however, has reached the end of her natural lifespan, and after laying her eggs, she becomes too\n   was happened               had happened        has happened              happened                                 weak to go on. With help from a rat, Wilbur salvages Charlotte’s eggs and transports them back to",
-    "options": [],
+    "text": "A serious car accident ________ on the road last week.\nCharlotte, however, has reached the end of her natural lifespan, and after laying her eggs, she becomes too",
+    "options": [
+      "was happened",
+      "had happened",
+      "has happened",
+      "happened\nweak to go on. With help from a rat, Wilbur salvages Charlotte’s eggs and transports them back to"
+    ],
     "answer": "4"
   },
   {
     "number": "36",
-    "text": "The fact ________ she often helps us shows clearly that she has a kind heart.                                     Zuckerman’s barn. When Charlotte’s eggs eventually hatch the following spring, most of the baby spiders\n   which                      why                 that                      when                                     depart to build webs of their own elsewhere. Three of Charlotte’s daughters, however, stay behind at",
-    "options": [],
+    "text": "The fact ________ she often helps us shows clearly that she has a kind heart.\nZuckerman’s barn. When Charlotte’s eggs eventually hatch the following spring, most of the baby spiders",
+    "options": [
+      "which",
+      "why",
+      "that",
+      "when\ndepart to build webs of their own elsewhere. Three of Charlotte’s daughters, however, stay behind at"
+    ],
     "answer": "3"
   },
   {
     "number": "37",
-    "text": "The little girl didn’t know ________ when her mother left her alone.                                              Zuckerman’s barn as friends to Wilbur.\n   how she can do             what to do          how to do                 what she can do",
-    "options": [],
+    "text": "The little girl didn’t know ________ when her mother left her alone.\nZuckerman’s barn as friends to Wilbur.",
+    "options": [
+      "how she can do",
+      "what to do",
+      "how to do",
+      "what she can do"
+    ],
     "answer": "2"
   },
   {
-    "number": "38",
-    "text": "Anna still came to school for the final exams ________ she had a very high fever.",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "46",
-    "text": "According to the introduction, which of the following is true?\n   even                       in spite of         in that                   despite the fact that                      Charlotte’s Web is one of the best-selling books.",
-    "options": [],
+    "text": "According to the introduction, which of the following is true?",
+    "options": [
+      "even",
+      "in spite of",
+      "in that",
+      "despite the fact that",
+      "Charlotte’s Web is one of the best-selling books."
+    ],
     "answer": "1"
   },
   {
     "number": "39",
-    "text": "If my mother ________ me to take an umbrella with me last night, I would have gotten wet.                           Charlotte’s Web is written by a Canadian writer.\n   had not reminded           doesn’t remind      didn’t remind             not to remind                              Charlotte’s Web was first published as a weekly magazine.",
-    "options": [],
+    "text": "If my mother ________ me to take an umbrella with me last night, I would have gotten wet.",
+    "options": [
+      "Charlotte’s Web is written by a Canadian writer.",
+      "had not reminded",
+      "doesn’t remind",
+      "didn’t remind",
+      "not to remind",
+      "Charlotte’s Web was first published as a weekly magazine."
+    ],
     "answer": "1"
   },
   {
     "number": "40",
-    "text": "When you arrived, I ________ dinner in the kitchen. Therefore, I didn’t hear the doorbell ringing.                  Charlotte’s Web is an animal fable teaching right from wrong.\n   cook                       cooked              had cooked                was cooking",
-    "options": [],
+    "text": "When you arrived, I ________ dinner in the kitchen. Therefore, I didn’t hear the doorbell ringing.",
+    "options": [
+      "Charlotte’s Web is an animal fable teaching right from wrong.",
+      "cook",
+      "cooked",
+      "had cooked",
+      "was cooking"
+    ],
     "answer": "4"
   },
   {
     "number": "47",
-    "text": "What is the central theme of the story from beginning to end?\n                                                                                                                           The power of praise.                             Friendship and loyalty.\n                                                                                                                           Justice and animal rights.                       Responsibility as a pet owner.\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】",
-    "options": [],
+    "text": "What is the central theme of the story from beginning to end?",
+    "options": [
+      "The power of praise.",
+      "Friendship and loyalty.",
+      "Justice and animal rights.",
+      "Responsibility as a pet owner.\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】"
+    ],
     "answer": "2"
   },
   {
     "number": "48",
-    "text": "Why does Mr. Arable agree to let his daughter keep the piglet?\n         Cats are excellent hunters. Why? They have extremely        41    senses. No touch is too light for cats to\n                                                                                                                           He hopes she will find it not an easy job.        He finds it cruel to kill a weak baby piglet.\n   feel. Even through thick fur, cats feel the slight change     42   temperature. Cats hear little noises as though\n                                                                                                                           He learns that she is lonely and needs a friend.  He thinks the piglet can grow big to make money.\n   they were loud. No cats could miss the light movements of tiny mice’s feet on dry fall leaves. Taste may be a\n   cat’s    43    sense. But its nose helps. A cat usually sniffs food before eating. Cats love pleasant smells.",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "49",
-    "text": "Which of the following does NOT happen in the story?\n   When cats go outside, they follow their noses. A cat’s eyes move slowly. Its whole head moves to keep track of          Fern sells Wilbur to her uncle.               Wilbur wins a prize in a country fair.\n   a fly. Light     44    a cat’s eyes. The pupils of their eyes become thin lines in sunlight. At night they become       All of Charlotte’s children befriend Wilbur.  Charlotte spins messages about Wilbur onto her web.\n   wide and round. Cats see very well at night. Cats do not have nine lives. But         45     such sharp senses, do",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "50",
-    "text": "Which of the following is closest in meaning to “going to slaughter” in the fourth paragraph?\n   they need more than one?                                                                                                To be killed.          To go to a fair.       To shame someone.         To mate and produce babies.",
-    "options": [],
+    "text": "Why does Mr. Arable agree to let his daughter keep the piglet?\n         Cats are excellent hunters. Why? They have extremely        41    senses. No touch is too light for cats to",
+    "options": [
+      "He hopes she will find it not an easy job.",
+      "He finds it cruel to kill a weak baby piglet.\n   feel. Even through thick fur, cats feel the slight change     42   temperature. Cats hear little noises as though",
+      "He learns that she is lonely and needs a friend.",
+      "He thinks the piglet can grow big to make money.\n   they were loud. No cats could miss the light movements of tiny mice’s feet on dry fall leaves. Taste may be a\n   cat’s    43    sense. But its nose helps. A cat usually sniffs food before eating. Cats love pleasant smells.        49. Which of the following does NOT happen in the story?\n   When cats go outside, they follow their noses. A cat’s eyes move slowly. Its whole head moves to keep track of",
+      "Fern sells Wilbur to her uncle.",
+      "Wilbur wins a prize in a country fair.\n   a fly. Light     44    a cat’s eyes. The pupils of their eyes become thin lines in sunlight. At night they become",
+      "All of Charlotte’s children befriend Wilbur.",
+      "Charlotte spins messages about Wilbur onto her web.\n   wide and round. Cats see very well at night. Cats do not have nine lives. But         45     such sharp senses, do   50. Which of the following is closest in meaning to “going to slaughter” in the fourth paragraph?\n   they need more than one?",
+      "To be killed.",
+      "To go to a fair.",
+      "To shame someone.",
+      "To mate and produce babies."
+    ],
     "answer": "1"
   }
 ]

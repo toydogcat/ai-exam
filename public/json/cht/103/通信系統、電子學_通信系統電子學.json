@@ -1,12 +1,36 @@
 [
   {
-    "number": "2",
-    "text": "6 GHz",
+    "number": "1",
+    "text": "若發射機的發射功率為 10 W，則在下列四個不同距離所量測到的功率何者最低？",
     "options": [
+      "交錯(interleaving)",
+      "調變(modulation)",
+      "100 公尺",
+      "1 公里",
+      "2 公里",
+      "10 公里"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "下列功率數值中，何者最大？",
+    "options": [
+      "700 MHz",
+      "900 MHz",
+      "1.8 GHz",
+      "2.6 GHz",
       "30 dBm",
       "3 dBW",
       "100 mW",
-      "1W                    26.下列何種通訊標準未使用 OFDM 技術？\n3.下列哪個頻率的電磁波，波長最短？",
+      "1W"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "下列哪個頻率的電磁波，波長最短？",
+    "options": [
       "數位電視 DVB",
       "Bluetooth",
       "IEEE802.11a",
@@ -14,31 +38,66 @@
       "1 GHz",
       "10 MHz",
       "100 KHz",
-      "1000 Hz              27.假設 SNR=15，訊號頻寬為 10 KHz，請問此通道之容量為何？\n4.若要將 4 KHz 頻寬的傳輸線集中在 100~500 KHz 的頻帶使用 FDM 的架構傳送，最多可傳送幾組 4 KHz 頻寬",
+      "1000 Hz              27.假設 SNR=15，訊號頻寬為 10 KHz，請問此通道之容量為何？"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "若要將 4 KHz 頻寬的傳輸線集中在 100~500 KHz 的頻帶使用 FDM 的架構傳送，最多可傳送幾組 4 KHz 頻寬",
+    "options": [
       "20 Kbps",
       "40 Kbps",
       "80 Kbps",
-      "150 Kbps\n 的通道？                                                                   28.下列何者不是正交分頻多工(OFDM)技術之優點？",
+      "150 Kbps\n 的通道？"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "28",
+    "text": "下列何者不是正交分頻多工(OFDM)技術之優點？",
+    "options": [
       "50",
       "100",
       "200",
       "500",
       "對多路徑衰落的抗拒力佳",
-      "等化器容易設計\n5.下列何者屬於數位調變技術？",
+      "等化器容易設計"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "下列何者屬於數位調變技術？",
+    "options": [
       "有較好的頻寬使用效率",
       "接收機與發射機不須同步",
       "AM",
       "FM",
       "QAM",
-      "VSB                  29. AM 調變器其輸出訊號為 U(t)=5 cos 1800πt+20 cos 200πt+5 cos 2200πt，則其載波訊號 c(t)的頻率為何？\n6.一通訊系統若"
+      "VSB"
     ],
-    "answer": "2"
+    "answer": "3"
   },
   {
-    "number": "3",
-    "text": "2 Kbps",
+    "number": "6",
+    "text": "一通訊系統若 0.005 秒能傳送 2 byte 的字元，則此系統之傳送速率為何？",
     "options": [
-      "16 Kbps              30.發射機之發射功率為 20 瓦特，若發射端的天線增益為 12 dB，纜線接頭等相關的損耗為 5 dB， 請問發射端之\n7.有線通訊系統使用下列何種傳輸線能提供最大的傳輸頻寬？                                           等效發射功率 EIPR(Equivalent Isotropically Radiated Power)為何？",
+      "900 Hz",
+      "1000 Hz",
+      "1100 Hz",
+      "2000 Hz",
+      "16 bps",
+      "80 bps",
+      "3.2 Kbps",
+      "16 Kbps              30.發射機之發射功率為 20 瓦特，若發射端的天線增益為 12 dB，纜線接頭等相關的損耗為 5 dB， 請問發射端之"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "有線通訊系統使用下列何種傳輸線能提供最大的傳輸頻寬？\n等效發射功率 EIPR(Equivalent Isotropically Radiated Power)為何？",
+    "options": [
       "單芯線",
       "雙絞線",
       "光纖",
@@ -46,44 +105,374 @@
       "20 dBm",
       "32 dBm",
       "43 dBm",
-      "50 dBm\n 8.如果一頻寬為 200 Hz 的訊號要能被完整還原，其最小的取樣速率為何？                              31.已知矽在溫度 300 K 時的本質載子濃度(intrinsic carrier concentration) ni 為"
+      "50 dBm"
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
-    "number": "1",
-    "text": "5×1010 cm−3，若摻雜的受體(acceptor)",
+    "number": "31",
+    "text": "已知矽在溫度 300 K 時的本質載子濃度(intrinsic carrier concentration) ni 為 1.5×1010 cm−3，若摻雜的受體(acceptor)",
     "options": [
       "200 sps",
       "400 sps",
       "600 sps",
       "800 sps           濃度 na 為 1016cm−3，則此時少數載子(minority carrier)的濃度為何？",
-      ""
+      "2.25×104 cm−3",
+      "6.67×105 cm−3",
+      "1.5×1010 cm−3",
+      "1×1016 cm−3"
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
-    "number": "5",
-    "text": "5 V，請問下列 VO,min 的值符合 5%的穩壓率要",
+    "number": "32",
+    "text": "某 pn 接面二極體在溫度 300 K、逆向偏壓(revers-bias)電壓為 1 V 時的電流為 10−13 A，則在同樣溫度下、逆向",
     "options": [
-      "光纖到府(FTTH)",
-      "射頻辨識系統(RFID)                                                VO, nor\n16.利用 QPSK 來傳送二進位序列，若其傳送率為 2400 Hz，請問每秒能傳送多少位元？                        求者為何？",
-      "1200",
-      "4800",
-      "9600",
-      "19200",
-      ""
+      "100 KHz",
+      "1 MHz",
+      "10 MHz",
+      "100 MHz           偏壓電壓為 0.5 V 時的電流為何？"
     ],
     "answer": "3"
   },
   {
-    "number": "11",
-    "text": "4 V 10 V",
+    "number": "10",
+    "text": "若一 7 位元的二進位序列以 odd parity 的方式傳送，則在接收端收到下列何種型式，我們即可判定傳送之資料",
     "options": [
-      "操作模式與 A 類輸出級類似",
-      "輸入電壓極小時，兩個電晶體均導通",
-      ""
+      "2.5×10−14 A",
+      "5×10−14 A",
+      "10−13 A",
+      "2×10−13 A\n  可能是正確的？"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "33",
+    "text": "某一齊納二極體(Zener diode)流過 5 mA 時的跨壓為 3.65 V，若流過 10 mA 時的跨壓為 3.70 V，則其等效串聯",
+    "options": [
+      "11111111",
+      "11001101",
+      "10101010",
+      "00000000          電阻(equivalent series resistance)為何？"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "11",
+    "text": "下列數位調變技術中，一個符元(symbol)能帶的資訊量以何者最多？",
+    "options": [
+      "0",
+      "10 ",
+      "370 ",
+      "730 ",
+      "64 QAM",
+      "16 PSK",
+      "16 QAM",
+      "QPSK            34.假設交流電源 vs  110 2 sin(2  60t) V，則經半波整流後的平均輸出電壓為何？"
     ],
     "answer": "1"
+  },
+  {
+    "number": "12",
+    "text": "對講機(Walkie-talkie)是使用下列何種傳輸機制？",
+    "options": [
+      "110 2 V",
+      "110 V",
+      "110 2 π V",
+      "110 π V",
+      "單工",
+      "半雙工",
+      "全雙工",
+      "分時多工             35.如【圖 35】所示之二極體截波器(clipper)，若 vi = 10 sin (2π×60t) V 且 VB = 8 V，則 vo 的最大值為何？"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "13",
+    "text": "Pulse Code Modulation 的處理程序不包含下列哪個步驟？",
+    "options": [
+      "0V\n\n【圖 35】",
+      "取樣",
+      "量化",
+      "壓縮",
+      "編碼",
+      "2V"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "14",
+    "text": "在相同的條件下，下列哪種車速所造成的都普勒位移(Doppler Shift)最大？",
+    "options": [
+      "10 V\n+\n\n+    V +",
+      "10 Km/hr",
+      "30 Km/hr",
+      "100 Km/hr",
+      "250 Km/hr",
+      "18 V\nB\n\nv  o\n\nvi"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "15",
+    "text": "下列何者不屬於無線通訊的應用？\n              ",
+    "options": [
+      "全球定位系統(GPS)",
+      "行動電話(GSM)\nVO, max  VO, min"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "36",
+    "text": "根據穩壓率的定義：\n，若 VO,nor = 5 V、VO,max = 5.5 V，請問下列 VO,min 的值符合 5%的穩壓率要",
+    "options": [
+      "光纖到府(FTTH)",
+      "射頻辨識系統(RFID)\nVO, nor"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "16",
+    "text": "利用 QPSK 來傳送二進位序列，若其傳送率為 2400 Hz，請問每秒能傳送多少位元？\n求者為何？",
+    "options": [
+      "1200",
+      "4800",
+      "9600",
+      "19200",
+      "5.0 V",
+      "5.1 V",
+      "5.2 V",
+      "5.3 V"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "37",
+    "text": "在常用的雙極性接面電晶體(BJT)的三個半導體區域內，何者寬度最窄？",
+    "options": [
+      "2x10-5",
+      "5x10-5",
+      "2x10-6",
+      "5x10-6",
+      "射極(emitter, E)",
+      "基極(base, B)",
+      "集極(collector, C)",
+      "不一定"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "38",
+    "text": "某 BJT 的 BE 接面為逆向偏壓、BC 接面為順向偏壓，則該 BJT 的操作模式為：",
+    "options": [
+      "傳統調幅(conventional AM)",
+      "雙邊帶抑制載波(DSB-SC)",
+      "順向作用區(forward active region)",
+      "截止區(cutoff region)",
+      "單邊帶調變(SSB)",
+      "殘留邊帶調變(VSB)",
+      "逆向作用區(reverse active region)",
+      "飽和區(saturation region)\n\n【請接續背面】"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "56",
+    "text": "有關各類放大器組態的頻率響應說明，下列何者錯誤？",
+    "options": [
+      "正端電壓、負閘極電流",
+      "正端電壓、正閘極電流\nVC",
+      "共源極(common-source, CS)放大器的高頻響應受限於米勒效應(Miller effect)",
+      "負端電壓、正閘極電流",
+      "負端電壓、負閘極電流\n = 50",
+      "共源極(CS)放大器的頻寬可以藉由增加負載電阻而增加"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "41",
+    "text": "如【圖 41】所示 BJT 電路，使 VC 約為 2 V 之 RC 值為何？",
+    "options": [
+      "共基極(common-base, CB)放大器不受米勒效應的影響，因此頻寬較廣",
+      "1.2 k",
+      "1.4 k",
+      "1.6 k",
+      "1.8 k           100 k",
+      "差動放大器的頻寬可以藉由在基極接上電阻而增加"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "57",
+    "text": "下列何者非運用負回授(negative feedback)技巧的好處？",
+    "options": [
+      "提高增益",
+      "調整輸入／輸出阻抗",
+      "降低非線性失真",
+      "提高訊雜比(signal-to-noise ratio)"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "58",
+    "text": "大型積體電路(large-scale integrated circuit, LSI circuit)所含的邏輯閘數目約為：",
+    "options": [
+      "計算直流偏壓條件時，C1 與 C2 可視為開路",
+      "10 ~ 100 個",
+      "100 ~ 1000 個",
+      "1000 ~ 10000 個",
+      "10000 個以上\n\n【圖 42】",
+      "集極到基極間電壓約等於 1.4 V"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "59",
+    "text": "在邏輯帶(logic band)區域所定義的四種邏輯準位電壓參數，其間正確的大小關係為：\n\n15 V",
+    "options": [
+      "電壓增益約為−2 倍",
+      "VOH > VIH > VIL > VOL",
+      "VOH > VIH > VOL > VIL",
+      "VIH > VOH > VIL > VOL",
+      "VIH > VOH > VOL > VIL",
+      "基極電流 IB 約等於 4 µA"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "43",
+    "text": "有關 BJT 的共極集(common-collector, CC)放大器，下列敘述何者錯誤？\nC2\n\nvo",
+    "options": [
+      "輸入級為差動放大器",
+      "電壓增益的主要來源為第二級",
+      "輸入電阻小、輸出電阻大\nvi\n\nC 1  IB",
+      "AB 類輸出級含有短路保護功能",
+      "利用米勒頻率補償技術可將主要極點設計在極高頻處\n\n = 100",
+      "又稱為射極隨耦器(emitter follower)",
+      "適合作為緩衝器(buffer)以提供阻抗匹配(impedance matching)\n30 k\n\n1 k\n貳、非選擇題四大題（每大題 10 分）",
+      "功率增益約等於電流增益\n\n題目一："
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "44",
+    "text": "如【圖 44】所示以 CC 放大器為主的達林頓對(Darlington pair)放大器，則等效的共射極電流增益為何？",
+    "options": [
+      "50\n正交分頻多工（OFDM）技術為多項新型通訊系統所採用，請回答下列問題：\n\n【圖 44】\n（一）假設 OFDM 系統使用 64 個子載波，但只有 48 個子載波載送資料，其他為導引信號或保護頻",
+      "150",
+      "5000\nCC        V\n\n段，假設子載波的頻率間距為 312.5 KHz，每個資料子載波使用相同的 16 QAM 調變與 1/2 的",
+      "2\n編碼率，且為了克服符際干擾（Inter-symbol Interference, ISI）使用了 OFDM 資料訊框長度的\n\n = 100"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "有關接面場效電晶體(junction field effect transistors, JFET)結構的敘述，下列何者錯誤？\n1\n\n1/4 時間當保護區間（Guard Interval, GI），請計算此 OFDM 系統的資料傳輸率為何？【5 分】",
+    "options": [
+      "只含一個 pn 接面，是一種單極性元件(unipolar device)\n2            = 50\n\n（二）若為了提升資料傳輸率，將調變改為 64 QAM，編碼率提升到 3/4，並用了 52 個子載波來傳送",
+      "控制 pn 接面兩端的偏壓可改變 JFET 的等效電阻\n\n資料，且 GI 縮短為 OFDM 資料訊框長度的 1/8，且同時在接收與發射端各用兩根天線做獨立的",
+      "汲極(drain)與源極(source)之間的通道(channel)是主電流流經的路徑\n\n收發（不考慮天線間的干擾），請問調整後之 OFDM 系統的資料傳輸率可提升為何？【5 分】",
+      "閘極(gate)的半導體材料與通道相同"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "46",
+    "text": "一 N 型 JFET 的夾止電壓(pinch-off voltage) VP 為−5 V，當操作於歐姆區(ohmic region)或三極區(triode region)、\n  且 VGS 為一固定值−1 V 時，下列汲-源極電壓，何者可以產生最大的 ID？\n題目二：",
+    "options": [
+      "4V",
+      "3V",
+      "2V",
+      "1V\n類比訊號之波形振幅欲使用 PCM 傳輸且其訊號與量化誤差之比值需大於 40 dB，假設此類比信號之頻"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "如【圖 47】所示的 JFET 電路，IDSS = 12 mA 且 VP = −3 V，請問下列 RD 值何者可以使該 JFET 操作於夾止區？\n寬為 20 KHz，而其振幅之範圍為-10 V 到 10 V，請回答下列問題：",
+    "options": [
+      "0.9 k",
+      "1.1 k",
+      "1.3 k",
+      "1.5 k\n（一）請求出所需之最小取樣率為何？【3 分】"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "48",
+    "text": "有關金屬氧化物半導體場效電晶體(metal-oxide semiconductor field effect transistors, MOSFET)的敘述，下列何者錯誤？\n（二）若每一取樣字元可量化為 128 位階之一，請問位元傳輸速率為何？【3 分】",
+    "options": [
+      "閘極與半導體通道之間是絕緣的\n【圖 47】             （三）至少需多大的傳輸頻寬才不會造成符際干擾（ISI）？【4 分】",
+      "輸入阻抗非常低\n15 V",
+      "汲極與源極各自連接較高摻雜濃度的半導體材料\n\nRD   題目三：",
+      "空乏型(depletion type) MOSFET 的操作與 JFET 類似\nID"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "49",
+    "text": "一空乏型 NMOSFET 的 IDSS = 9 mA、VP = −3 V，當 VGS = 1 V、VDS = 4 V 時，ID 值為何？\nVD    如【圖三】所示之增強型 NMOSFET 偏壓電路，若其操作於夾止區，K = 0.5 mA / V2、VT = 3 V，請",
+    "options": [
+      "1 mA",
+      "4 mA",
+      "9 mA",
+      "16 mA\nG              求出 ID 與汲極電壓 VD 的最大容許交流振幅。【10 分】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "一空乏型 NMOSFET 的 IDSS = 9 mA、VP = −3 V，當 VDS = 4 V 時，則 VGS = 1 V 與−1 V 的 ID 比值為何？",
+    "options": [
+      "1:1",
+      "16 : 9",
+      "16 : 4",
+      "16 : 1\n題目四："
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "51",
+    "text": "一增強型(enhancement type) NMOSFET 的臨界電壓(threshold voltage) VT = 1 V，且在 VGS = 4 V 時的飽和\n\nI     \n  汲極電流為 9 mA，則 VGS = 3 V 時的 ID 為何？\n如【圖四】所示的 BJT 電流鏡(current mirror)，假設 Q1、Q2 為匹配電晶體，請證明： O ",
+    "options": [
+      "0 mA",
+      "4 mA",
+      "9 mA",
+      "16 mA\n\n【圖 52】\nIREF 2  "
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "52",
+    "text": "如【圖 52】所示電路，下列敘述何者錯誤？\ni\n【其中為共基極電流增益(common-base current gain)】【10 分】\n\n+",
+    "options": [
+      "此 NMOSFET 永遠操作於三極區",
+      "當 V 小於 VT 時，此電路視同開路\n【圖三】\n【圖四】\n\nv",
+      "此電路經常取代電阻作為負載使用\n\n15 V\n\nIO",
+      "其小信號等效電阻與直流偏壓電流的平方根成反比\nIREF"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "53",
+    "text": "在一差動放大器(differential amplifier)中，已知其共模增益(common-mode gain) Acm=−2×10−4 ，共模拒斥比\n5 M          3 k\n\nID\n  (common-mode rejection ratio, CMRR)為 100 dB，則差動增益(differential gain) Ad 為：\nVD",
+    "options": [
+      "100",
+      "50",
+      "20",
+      "10\nQ1     Q2"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "54",
+    "text": "B 類輸出級(class B output stage)在最大功率損耗時的轉換效率約為：\n\n10 M          2.5 k",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "78.5%"
+    ],
+    "answer": "2"
   }
 ]
