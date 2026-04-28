@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "text": "What is the best title for the passage?                                                                          【3】6. What is the passage mainly about?\n(1) The origins of Easter traditions                                                                                     (1) The life of Andy Warhol\n(2) Why people like Easter today                                                                                         (2) The impact of digital technology\n(3) How Easter became a Christian holiday                                                                                (3) The use of modern technology in art\n(4) Easter eggs and the chocolate-making techniques                                                                      (4) The role engineers play in modern art",
+    "answer": "1",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "2",
+    "text": "Which of the following is true?                                                                                  【2】7. Which of the following is true?\n(1) Eastre is the name of the first Easter bunny.                                                                        (1) Andy Warhol started using technology in art in late 1950s.\n(2) Easter does not fall on the same date every year.                                                                    (2) Andy Warhol’s digital art pieces were later recovered and restored.\n(3) People eat chocolate eggs today to celebrate the waking up of rabbits.                                               (3) Andy Warhol was a student of the Carnegie Mellon University.\n(4) Christians were the first to celebrate the coming of spring.                                                         (4) Andy Warhol used to work in Bell Laboratories.",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "3",
+    "text": "What can be inferred from the passage?                                                                           【1】8. What can be inferred from the passage?\n(1) Easter traditions have undergone some changes over the years.                                                        (1) Technology can help artists’ works reach more people.\n(2) Easter is now celebrated by Christian chocolate-lovers only.                                                         (2) The internet helped make Andy Warhol become popular.\n(3) The first chocolate eggs were made by the Romans.                                                                    (3) Technology is a useful tool but never a medium of art.\n(4) Church leaders preferred chocolate eggs over real eggs.                                                              (4) University professors were greatly involved in the first attempt to use technology in art.",
+    "answer": "1",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "4",
+    "text": "Why does the author mention the Roman proverb in the second paragraph?                                           【3】9. Which of the following questions can the passage answer?\n(1) To show that Romans were the first to celebrate Easter                                                               (1) How did Cory Arcangel become popular?\n(2) To demonstrate how Roman people made chocolate eggs for Easter                                                       (2) Why did engineers and scientists want to work with artists?\n(3) To prove that eating eggs was important for Christians                                                               (3) When did Andy Warhol create his digital drawings?\n(4) To explain how eggs are related to new life and Easter                                                               (4) Where were the first performances of art and technology?",
+    "answer": "4",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "5",
+    "text": "Which of the following statements is NOT supported by the passage?                                              【4】10. Which of the following is NOT supported by the passage?\n(1) Eating eggs was not allowed by church leaders in the Holy Week.                                                      (1) Cory Arcangel was an artist and a fan of Andy Warhol.\n(2) Rabbits are considered sacred animals to Christians.                                                                 (2) Andy Warhol was famous for using technology in art.\n(3) The first chocolate eggs did not taste very good.                                                                    (3) Modern technology has greatly helped artists in their creative process.\n(4) Easter always falls on Sunday.                                                                                       (4) Many engineers at Bell Laboratories were also artists.",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  }
+]

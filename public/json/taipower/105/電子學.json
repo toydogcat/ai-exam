@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "text": "下列敘述何者正確？\n(A)本質半導體的導電性會因摻雜雜質原子而降低\n(B)電洞的移動事實上是自由電子的移動\n(C)半導體的電阻溫度係數為負\n(D)半導體內的漂移電流是因不均勻濃度梯度的載子所造成",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "2",
+    "text": "某二極體通過電流為2 mA時順向偏壓為0.8 V，如果現在通過之電流改為32 mA，其順向偏壓 約為？(已知該二極體的ηVT= 0.05 V，ln2= 0.693，請計算至小數點後第2位，以下四捨五入)\n(A) 0.47 V (B) 0.94 V      (C) 1.41 V   (D) 1.88 V",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "3",
+    "text": "如右圖電路中之二極體為理想二極體，則輸出電壓V0 為？                             2.5kΩ\n(A) 1.5 V (B) 2.0 V\n(C) 2.5 V (D) 3.0 V 3kΩ   3kΩ 4V                                 Vo",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "4",
+    "text": "如右圖電路之齊納(Zener)二極體，其V Z = 30 V，其電流範圍                            2.4kΩ 為8 mA~50 mA，則負載電流I L 最大為多少？                                                       IL\n(A) 21 mA    (B) 32 mA RL\n(C) 42 mA    (D) 63 mA                                  150V         VZ",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "5",
+    "text": "如右圖為一整流電路，其中D1 為一理想二極體，若施加之交流                              10kΩ D1 電壓e為30πsin(ωt) V時，請問R L 兩端之負載電壓平均值為多少 ？                                                               20kΩ        RL=20kΩ e\n(A) 5 V         (B) 15 V\n(C) 5πV         (D) 15πV",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "6",
+    "text": "如右圖電路中有兩個齊納(Zener)二極體，其V𝑍𝑍1 = 12 V，V𝑍𝑍2 = 20 V，                 R1 R 1 = R 2 = 4 kΩ，輸入電壓Vi = 18sin(ωt) V，若兩個齊納(Zener)二極 體的順向電壓均為0 V，則輸出電壓V o 的變化範圍為？                                               Vz1\n(A) -12 V~ 18 V    (B) -15 V~ 24 V                         Vi   R2               Vo\n(C) -15 V~ 18 V    (D) -12 V~ 24 V                                         Vz2",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "7",
+    "text": "當NPN型電晶體之基­射極接面順偏，基­集極接面逆偏時，此時操作在哪一工作區？\n(A)飽和區     (B)順向主動區  (C)逆向主動區  (D)截止區 電子學 第 1 頁，共 7 頁                              【請翻頁繼續作答】",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "8",
+    "text": "某電晶體在主動區工作，且其α值為0.99，IB = 10 μA，則IC =？\n(A) 9.9 μA (B) 99 μA  (C) 990 μA       (D) 9900 μA",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "9",
+    "text": "有關理想電壓源的特性，下列何者正確？\n(A)輸出呈電容性 (B)電路內阻= ∞                 (C)輸出電流恆定          (D)電路內阻= 0",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "10",
+    "text": "當電阻值R B 約為多少時，右圖中之A類放大電路能有最大功率輸                                       VCC=18V 出(即Q點位於負載線中間處)？\n(A) 25.95 kΩ (B) 34.60 kΩ                                                 300Ω\n(C) 51.90 kΩ (D) 69.20 kΩ                                 RB V0 Vi β=120 VBE=0.7V",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "11",
+    "text": "如右圖所示電晶體電路，假設輸入信號Vs為交流小信號且                                         10V 無直流成分，又電晶體的r o 可忽略，則右圖之輸入電阻R in                              2.65kΩ C=∞ 為？ 800kΩ\n(A) β[r e +2.65 kΩ]\n(B) (1+β)[ r e +3 kΩ]                                                     3kΩ\n(C) (1+β)[ r e +2.65 kΩ]                                 800kΩ V0\n(D) (1+β)[ r e +2.65 kΩ∥3 kΩ]                     VS Rin   -10V",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "12",
+    "text": "有關BJT與FET之比較，下列何者正確？\n(A) BJT製作面積比FET小        (B)一般來說，FET作為放大器的雜訊較大\n(C) BJT是雙載子元件，FET是單載子元件 (D) FET不會發生歐力效應(Early Effect)",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "13",
+    "text": "某一增強型MOSFET之VDS = 4 V，導電參數K= 0.8 mA/V2，臨界電壓VT = 2 V，VGS = 5 V，則汲 極電流ID應為多少？\n(A) 3.6 mA  (B) 5.4 mA     (C) 7.2 mA     (D) 19.2 mA",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "14",
+    "text": "某一JFET的IDSS = 12 mA，V P = -2 V，則當汲極電流ID = 3 mA時，其V GS 為多少？\n(A) -1 V          (B) -2 V        (C) -3 V      (D) -6 V",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "15",
+    "text": "某一JFET操作在夾止(pinch-off)區，如其IDSS = 10 mA，夾止電壓V P = -5 V，V GS = -3 V，則其小 信號之互導(transconductance) gm 為？\n(A) 0.8 mA/V    (B) 1.2 mA/V  (C) 1.6 mA/V   (D) 2.0 mA/V",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "16",
+    "text": "某一電路的轉移函數為          200 𝑠𝑠    ，求其增益­頻寬乘積為？ 1+ 2𝜋𝜋×103\n(A) 100 kHz                            (B) 200 kHz\n(C) 300 kHz                            (D) 400 kHz",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "17",
+    "text": "在雙極性電晶體的共射極組態中，作用區常被用來放大信號，主要是因為在該區有何特性？\n(A) Ic約等於ICBO      (B)輸入阻抗極高\n(C) Ic與IB 無關       (D)電晶體對輸入電流反應極為靈敏",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "18",
+    "text": "有一個額定輸出為80 W的放大器連接至20 Ω的揚聲器上，若放大器的電壓增益為60 dB，則當 此放大器以額定輸出時，其輸入電壓為多少？\n(A) 40 mV  (B) 60 mV   (C) 80 mV (D) 160 mV 電子學 第 2 頁，共 7 頁",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "19",
+    "text": "如右圖所示之差動放大器，其Q 1 與Q 2 為完全匹配且均處於作用                                                                    +VCC 區，則下列何者正確？\n(A) Rc值越大則差動電壓增益值|A DM |越小                                                           RC                               RC\n(B)當R EE 的值變大時，CMRR值變小                                                    VO1                                                   VO2\n(C) Rc值越大，則共模電壓增益值|A CM |越大                                                                Q1                 Q2 V1                                             V2\n(D)當IEE 值變大，|A DM |越小 REE                    IEE -VEE",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "20",
+    "text": "如右圖之電路，假設處於理想狀況，當V o 增加至某一準位，而電路 IREF                           Io 仍正常工作下，則下列何者正確？\n(A) Io = 0.25 IREF (B) Io = 0.5 IREF\n(C) Io = IREF      (D) Io = 2 IREF Q1                                   Q2       Vo VGS",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "21",
+    "text": "對基本放大器增加負回授後，下列特性敘述何者有誤？\n(A)雜訊對電路的影響降低      (B)頻寬增加\n(C)放大器的增益會衰減       (D)增益與頻寬的乘積提高",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "22",
+    "text": "如右圖為一理想串聯饋送式A類放大器，其VCC = 30 V，負載R L = 9 Ω                                                                         VCC ，則此放大器之電晶體Q最大消耗功率約為多少？ RC\n(A) 12.5 W (B) 25 W                                                                           RB\n(C) 50 W   (D) 75 W                                                                                                             V0 Vi                                       RL Q C1",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "23",
+    "text": "A類、B類、AB類及C類等四種功率放大器，依效率大小比較為？\n(A) C > B > AB > A (B) A > AB > B > C (C) AB > C > B > A (D) B > C > AB > A",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "24",
+    "text": "右圖為一理想全波整流電路，R 1 = 500 Ω，R 2 = 800 Ω， D1                    D4 V in 為5 V，則V out 為多少？                                                I\n(A) 4 V            (B) 6 V                                                                      R2                          Vout R1\n(C) 8 V            (D) 10 V D2                  D3 Vin",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "25",
+    "text": "如右圖所示濾波器，有關其特性，下列敘述何者正確？ 1\n(A)為低通濾波器，其f 0 = 2𝜋𝜋√𝑅𝑅𝑅𝑅 1                                         C                                                 Vo\n(B)為低通濾波器，其f 0 = 2𝜋𝜋𝜋𝜋𝜋𝜋 Vi 1\n(C)為高通濾波器，其f 0 = 2𝜋𝜋√𝑅𝑅𝑅𝑅                                                                R 1\n(D)為高通濾波器，其f 0 = 2𝜋𝜋𝜋𝜋𝜋𝜋 1",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "26",
+    "text": "有一電路βAV =                     1        ，試問此電路會不會振盪？ 3+𝑗𝑗(𝜔𝜔𝜔𝜔𝜔𝜔−          ) 𝜔𝜔𝜔𝜔𝜔𝜔\n(A)會                  (B)不會                     (C)視RC數值而定                 (D)視ω數值而定 電子學 第 3 頁，共 7 頁                                            【請翻頁繼續作答】",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "27",
+    "text": "目前台灣地區的電力系統，提供之交流電源頻率為多少？\n(A) 50 Hz (B) 60 Hz (C) 120 Hz                         (D) 377 Hz",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "28",
+    "text": "有一交流電壓源 v(t)= 310 sin (ωt+30°)，求此電壓有效值約多少？(註：請計算至整數位，小數 點以下四捨五入)\n(A) 99 V      (B) 155 V          (C) 197 V (D) 219 V",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "29",
+    "text": "假設二極體的順向電阻為R 1 和逆向電阻為R 2 ，若二極體為良好情況下，當使用三用電表之電 阻檔測量二極體時，則下列敘述何者正確？\n(A) R 1 值非常大，R 2 值亦非常大\n(B) R 1 值非常小，R 2 值亦非常小\n(C) R 1 值非常大，R 2 值非常小\n(D) R 1 值非常小，R 2 值非常大",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "30",
+    "text": "如右圖所示，D為理想二極體，V i = 15 V，則電流 I 為多少？                        2kΩ                I\n(A) 0 mA  (B) 2.5 mA\n(C) 5 mA  (D) 6 mA                                                                D Vi                    3kΩ 3V",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "31",
+    "text": "設一直流電源，無載時輸出電壓為100 V，滿載時輸出電壓下降為80 V，則此電源的電壓調整 率為何？\n(A) 0 %   (B) 20 %    (C) 25 % (D) 100 %",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "32",
+    "text": "有一半波整流電路(含一個理想二極體和電容)，V m 是變壓器二次側輸出最大電壓值，請問二 極體之逆向偏壓約為多少？\n(A) 1 V m (B) 2 Vm (C) 3 Vm     (D) 4 V m",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "33",
+    "text": "下列有關BJT共集極(CC)、共基極(CB)、共射極(CE)基本組態放大電路之比較，何者正確？\n(A)電壓增益：CC > CE > CB    (B)輸出阻抗：CC > CE > CB\n(C)功率增益：CC > CE > CB    (D)輸入阻抗：CC > CE > CB",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "34",
+    "text": "如右圖所示之電路，若電晶體的β值為100，V BE = 0.7 V，                                     15V V CE(sat) = 0.2 V，齊納(Zener)二極體的崩潰電壓V Z = 7 V，則 當V i = 10 V，V o 為多少？                                              RC     1kΩ\n(A) 5.7 V            (B) 6.7 V V0\n(C) 7 V              (D) 7.7 V RB Vi 100kΩ",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "35",
+    "text": "如右圖所示之電路，若電晶體的β值為50，則當V i = 2.5 V                                      +15V ，R C 為多少？\n(A) 1 kΩ  (B) 5 kΩ                                                  RC\n(C) 10 kΩ (D) 15 kΩ RB Vi                          6V 100kΩ 0.7V 電子學 第 4 頁，共 7 頁                                 【請另頁繼續作答】",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "36",
+    "text": "如右圖所示之電路，若電晶體的β值為100，V BE = 0.7 V，當IB                               +15V 趨近於0時，V CB 為多少？\n(A) 10.3 V   (B) 11.3 V 90kΩ            8kΩ\n(C) 12.3 V   (D) 13.3 V 10kΩ            2kΩ",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "37",
+    "text": "如右圖所示之電路，若電晶體的β值為100，VBE = 0.7 V，                                            +10V 熱電壓V T = 25 mV，則基極交流電阻 r π 為多少？\n(A) 25 Ω        (B) 250 Ω                                    93kΩ                  500Ω\n(C) 500 Ω       (D) 1000 Ω",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "38",
+    "text": "電晶體共射極放大器，若加入射極電阻，但不加射極旁路電容，則下列敘述何者正確？\n(A)電壓增益降低 (B)輸出阻抗降低 (C)輸入阻抗降低 (D)非線性失真增加",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "39",
+    "text": "有一個RC串聯電路，若由電容器兩端取出輸出訊號，則此電路為何種濾波器？\n(A)低通濾波器  (B)高通濾波器  (C)帶通濾波器 (D)帶拒濾波器",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "40",
+    "text": "共模拒斥比(CMRR)越大，表示：\n(A)頻寬越大     (B)輸入阻抗越大          (C)越不易消除雜音            (D)越能消除共模信號",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "41",
+    "text": "如右圖所示，各級電壓增益A V1 、A V2 、A V3 表示             AV1=20    AV2=50    AV3=100 電壓放大倍數，則此一串級放大電路之總電壓增 益為多少？                                  Vi   第一級       第二級       第三級              Vo\n(A) 70 dB  (B) 100 dB\n(C) 120 dB (D) 170 dB",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "42",
+    "text": "有關MOSFET之敘述，下列何者錯誤？\n(A)增強型N通道MOSFET之臨界電壓值為正\n(B)增強型P通道MOSFET之V GS 若接正電壓，則無法建立通道\n(C)空乏型N通道MOSFET之V GS 可接正電壓或負電壓\n(D)空乏型MOSFET本身結構中並無預設通道存在",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "43",
+    "text": "有一增強型MOSFET之臨界電壓V T = 2 V， K = 0.5 mA/V2，g m = 1 mA/V，則V GS 為多少？\n(A) 3 V     (B) 4 V        (C) 5 V              (D) 6 V",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "44",
+    "text": "如右圖所示之電路，若I D = 0.1(V GS -1.0)2 mA，求V DS 為多少？                  +12V\n(A) 1 V   (B) 2 V\n(C) 3 V   (D) 4 V ID 100kΩ                 100kΩ VDS 20kΩ 電子學 第 5 頁，共 7 頁                            【請翻頁繼續作答】",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "45",
+    "text": "如右圖所示之電路，若g m = 2 mA/V，r d = 100 kΩ，則                                       +VDD JFET共源極放大電路的電流增益A i 為多少？ 100kΩ\n(A) -50    (B) -100 Vo\n(C) -200   (D) -500 Vi 50kΩ 200kΩ 1kΩ",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "46",
+    "text": "如右圖所示之電路，已知JFET之IDSS = 4 mA，夾止電                                             +VDD 壓V p= -4 V，汲極電阻r d = ∞，則電壓增益A V為多少                                            20kΩ ？                                                                                               Vo\n(A) 20         (B) -20\n(C) 10         (D) -10                          Vi 1MΩ                                  20kΩ 2V",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "47",
+    "text": "如右圖所示之電路，V1 = 1.0 V，V 2 = 1.5 V，V3 = 3.0 V，則V o 500kΩ                   1MΩ 輸出電壓為多少？                                                     V1\n(A) -5.5 V (B) -6.5 V                                             1MΩ\n(C) -7.0 V (D) -9.5 V                                        V2                                          Vo 500kΩ V3",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "48",
+    "text": "如右圖所示之理想運算放大器電路，在不飽和                                 5kΩ 情況下，V o 輸出電壓為多少？                          1kΩ +2V                            3kΩ\n(A) -12 V   (B) -10 V\n(C) -8 V    (D) -4 V                                                                                     Vo 2kΩ 2kΩ 1kΩ",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "49",
+    "text": "如右圖所示之電路，為下列何種電路？                                     +10V\n(A)積分電路   (B)微分電路 R2          R1      R1             R2\n(C)方波產生電路 (D)三角波產生電路 C                       C",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "50",
+    "text": "如右圖所示之相移振盪器電路，若R 1 +R 2 = 60 kΩ，則使電                                     R2 路振盪的R 1 最大值為多少？ R1\n(A) 1 kΩ    (B) 2 kΩ                                                                  C    C      C\n(C) 58 kΩ   (D) 59 kΩ R     R        R 電子學 第 6 頁，共 7 頁 【請接第 5 頁繼續作答】 電子學 第 7 頁，共 7 頁",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  }
+]

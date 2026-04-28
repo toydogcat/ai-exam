@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "text": "有關功率放大器間比較之敘述，下列何者有誤？\n(A) C類放大器效率最高        (B) A類放大器以電阻為負載之最高效率為 25 %\n(C) AB類推挽式放大器可消除交越失真 (D) B類放大器之失真程度最高",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "2",
+    "text": "有關電容濾波器之敘述，下列何者有誤？\n(A)負載電流愈大，漣波因素愈大            (B)負載電阻愈大，漣波因素愈小\n(C)電容器愈大，漣波因素愈大             (D)漣波因素愈小，電路穩定性愈好",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "3",
+    "text": "關於二極體的敘述，下列何者正確？\n(A)二極體的順向電阻，會隨順向電流增加而減少\n(B)二極體的順向電阻，會隨順向電流增加而增加\n(C)二極體的逆向電阻，會隨逆向電流增加而增加\n(D)二極體的順向電阻，與逆向電阻均為固定值",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "4",
+    "text": "下列何種振盪器之頻率穩定性最高？\n(A) RC相移振盪器 (B)石英晶體振盪器      (C)考畢子振盪器     (D)韋恩電橋振盪器",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "5",
+    "text": "在交流放大器之輸出級，下列何者型態的阻抗匹配特性最佳？\n(A)共基極放大器 (B)共射極放大器 (C)共集極放大器             (D)共源極放大器",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "6",
+    "text": "一般橋式整流器中，須使用幾個二極體？\n(A) 4個    (B) 3個            (C) 2個        (D) 1個",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "7",
+    "text": "有關負回授特性，下列何者正確？\n(A)使增益對任何變動更敏感              (B)增加雜訊效應\n(C)縮減頻寬                     (D)減少非線性失真",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "8",
+    "text": "有關一個疊接放大器結構的描述，下列何者有誤？\n(A)輸入級為共射極         (B)輸出級為共基極\n(C)提供較大的頻寬         (D)主要目的在提高電流增益",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "9",
+    "text": "如右圖所示，直流工作點設置於VGS = -1.75 V，                            VDD =16V VDS = 6 V，ID = 2.5 mA，則 Rs 值為何？         700kΩ      RD\n(A) 1 kΩ             (B) 1.5 kΩ            G       D\n(C) 2 kΩ             (D) 2.5 kΩ S 100kΩ RS 電子學   第 1 頁，共 5 頁              【請翻頁繼續作答】",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "10",
+    "text": "N通道增強型場效應電晶體(簡稱 MOSFET )的臨界電壓VT = 3 V，若電路中的VGS = 4 V時， ID = 2 mA，且MOSFET工作於飽和區，則 MOSFET 交流小信號模型中的轉移電導 gm 為何？\n(A) 1 mS        (B) 2 mS   (C) 3 mS    (D) 4 mS",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "11",
+    "text": "有一電晶體，當偏壓於作用區，測得 IB = 0.05 mA、IE = 5 mA，則此電晶體的 α 值為何？\n(A) 0.99          (B) 99             (C) 100             (D) 101",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "12",
+    "text": "有關以運算放大器組成之韋恩電橋振盪器之描述，下列何者正確？\n(A)正回授電路是LC電路      (B)負回授電路是電阻組成之分壓電路\n(C)正回授電路的相移為 90度   (D)正回授量小於負回授量",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "13",
+    "text": "一個工作在主動模式之BJT，其爾利電壓( Early Voltage )為25 V，IC= 2.5 mA，則其輸出 電阻 r0 值為何？\n(A) 0.1 kΩ (B) 1 kΩ   (C) 10 kΩ            (D) 100 kΩ",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "14",
+    "text": "電晶體在作用區的偏壓電路如右圖所示， 若電晶體的共射極電流增益β為100， 1kΩ IC 基極電流為100 μA，下列何者正確？\n(A)集極電流為 10 mA                                        RB                         20V\n(B)集極電流為 50 mA\n(C)集極電流為 100 mA\n(D)集極電流為 200 mA                                  IB",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "15",
+    "text": "有一帶通濾波器低頻截止頻率為 16 kHz，高頻截止頻率為 25 kHz，則共振頻率為何？\n(A) 16 kHz (B) 20 kHz  (C) 25 kHz   (D) 30 kHz",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "16",
+    "text": "有一三級串接放大器如右圖所示，若其電壓增 益分別為Av1 = 50，Av2 = 100，Av3 = 200，試求    AV1=50           AV2=100        AV3=200 總電壓增益為何？                            輸入 第一級                 第二級         第三級 輸出\n(A) 60 dB      (B) 80 dB\n(C) 100 dB     (D) 120 dB",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "17",
+    "text": "具電流放大，不具電壓放大的電晶體組態電路為何？\n(A)共集極電路  (B)共射極電路 (C)共基極電路                            (D)共陽極電路",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "18",
+    "text": "共射極 (CE) 放大器的高頻響應較差，其主要原因為何？\n(A)爾利效應 (Early Effect)\n(B)通道長度調變效應 (Channel Length Modulation Effect)\n(C)溫度效應 (Temperature Effect)\n(D)米勒效應 (Miller Effect)",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "19",
+    "text": "在一RC串聯電路中，若由電阻兩端取出輸出訊號，則此電路為何？\n(A)高通濾波器  (B)低通濾波器  (C)帶通濾波器 (D)帶拒濾波器",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "20",
+    "text": "BJT作為開關使用，當ON狀態時，其工作區域為何？\n(A)飽和區     (B)作用區    (C)截止區                            (D)負電阻區",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "21",
+    "text": "二極體的 ICBO 逆向電流受環境溫度之影響，下列敘述何者正確？\n(A)溫度每下降 1 °C時，則增加 1 倍  (B)溫度每上升 10 °C時，則增加 1 倍\n(C)溫度每下降 10 °C時，則增加 1 倍 (D)溫度每上升 1 °C時，則增加 1 倍",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "22",
+    "text": "BJT共射極接線組態下，射極-地間的電阻常並聯一電容，此電容之目的為何？\n(A)降低射極的直流電壓         (B)升高射極的直流電壓\n(C)提高輸入電阻值           (D)改善電壓增益 電子學    第 2 頁，共 5 頁",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "23",
+    "text": "有關FET與BJT特性比較，下列敘述何者正確？\n(A) BJT雜訊較低           (B) BJT高頻響應較差\n(C) FET輸入阻抗較高         (D) FET增益頻寬的乘積較BJT為大",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "24",
+    "text": "關於橋式整流電路，下列敘述何者有誤？\n(A)為一全波整流電路                      (B)輸出頻率為電源頻率之兩倍\n(C)輸出直流電壓 = 2 Vm /π              (D)二極體之PIV = 2 Vm",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "25",
+    "text": "有一A類放大器工作電壓為 20 V，消耗電流為 1 A，則該放大器輸出最大交流功率為何？\n(A) 5 W   (B) 10 W    (C) 15 W    (D) 20 W",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "26",
+    "text": "如右圖所示之電路中，若二極體皆為理想型，Rs = 2 kΩ，                                         D1 Rs RL = 1 kΩ，當V1 = V2 = 2 V，則Vo =？                            V1\n(A) 0.5 V         (B) 1 V\n(C) 1.5 V         (D) 2 V                                                 D2 Rs V2                    Vo RL",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "27",
+    "text": "如右圖所示之電路中，若二極體皆為理想型，Rs = 2 kΩ，                               Vs Ra = 3 kΩ，RL = 1 kΩ，當Vs = 5 V，試求解標示的電流 I？\n(A) 1 mA           (B) 1.5 mA                                 Rs\n(C) 2 mA           (D) 4 mA I Ra              RL",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "28",
+    "text": "增加PN接面二極體中雜質摻雜濃度，導致下列何者特性減少？\n(A)電位障    (B)接面電容   (C)內建電場                              (D)空乏區寬度",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "29",
+    "text": "下列敘述何者有誤？\n(A)稽納二極體常應用於穩壓電路\n(B)矽屬於直接能隙材料，故不會發光\n(C)發光二極體是利用波爾定理把電能轉換成光能\n(D)發光二極體的光波長由半導體材料之能隙大小決定",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "30",
+    "text": "在半波整流電路中，若輸入Vi(t) = 20 sinωt(V)，試問二極體所承受的峰值逆向電壓(PIV)？\n(A) 10 V  (B) 20 V           (C) 12.7 V (D) 14.1 V",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "31",
+    "text": "如右圖所示之電路，若二極體為理想型，已知                             12:1 RL = 10 kΩ，C = 100 μF，試求輸出漣波峰對峰 電壓？                                                                           VO 120V/30Hz\n(A) 0.06 V         (B) 0.12 V                                               C RL\n(C) 0.24 V         (D) 0.48 V",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "32",
+    "text": "倍壓電路中的輸出取自於下列何種元件的兩端電壓？\n(A)電阻     (B)變壓器   (C)電容                                 (D)二極體",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "33",
+    "text": "箝位電路又稱為下列何者？\n(A)交流恢復器  (B)直流恢復器               (C)剪截器                  (D)振幅限制器 電子學      第 3 頁，共 5 頁                             【請翻頁繼續作答】",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "34",
+    "text": "下列敘述何者有誤？\n(A) BJT作為放大器使用時，應工作於順向主動區\n(B) BJT作為放大器使用時，C極可當作輸入端\n(C) NPN型BJT之多數載子為電子\n(D)當BJT工作於飽和區時，電流Ic由外接電路決定",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "35",
+    "text": "BJT三種放大工作組態中，B、C、E三個端點，下列何者可作為輸入端或輸出端？\n(A) B極     (B) C極    (C) E極    (D)視工作組態決定",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "36",
+    "text": "BJT的摻雜濃度大小依序為何？\n(A) B > C > E (B) B > E > C     (C) C > E > B        (D) E > B > C",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "37",
+    "text": "如右圖所示之電路，Vs = 5 V，RE = 1 kΩ，RB = 100 kΩ，VBE(t) = 0.6 V，試                  VS 問Vc =？\n(A) 0.7 V (B) 1.5 V                                                            RE RB\n(C) 2 V   (D) 2.8 V VC",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "38",
+    "text": "下列敘述何者有誤？\n(A) BJT當開關使用時是工作於飽和區或截止區\n(B) BJT屬雙載子元件\n(C) BJT在順向主動區的偏壓是BE接面順向偏壓，BC接面逆向偏壓\n(D) BJT基極的多數載子儲存時間是影響電晶體開關切換速度的主因",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "39",
+    "text": "下列敘述何者有誤？\n(A)固定式直流偏壓電路使用元件數最少\n(B)射極回授式直流偏壓電路RE電阻提供正回授穩定功能\n(C)直流工作點可決定小訊號放大為不失真的線性放大\n(D)集極回授式直流偏壓電路中電晶體一定不會飽和",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "40",
+    "text": "BJT交流等效電路中，已知互導增益 gm = 20 mA/V，re = 49 Ω，試求 rπ？\n(A) 1.3 kΩ (B) 1.5 kΩ     (C) 2.45 kΩ     (D) 5.5 kΩ",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "41",
+    "text": "如右圖所示之電路，RB = 10 kΩ，RE = 1 kΩ，RC = 5 kΩ，                                        VO β = 200，IBQ = 13 μA，VT = 26 mV，試求輸入電阻Ri約為 RC 下列何者？                                           Vi\n(A) 2.3 kΩ         (B) 5.5 kΩ\n(C) 9.5 kΩ         (D) 13.2 kΩ                           RB          RE Ri",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "42",
+    "text": "下列敘述何者有誤？\n(A)共基極放大器可工作於較高頻率\n(B)共射極放大器，輸入與輸出電壓為反相關係\n(C)在BJT放大器中，共集極具有較低的輸出阻抗\n(D)射極隨耦器電流增益大約等於 1 電子學   第 4 頁，共 5 頁                        【請另頁繼續作答】",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "43",
+    "text": "已知單級放大電路的低頻截止頻率fL = 10 Hz，高頻截止頻率fH = 10 kHz，若使用同一單級放大 電路，串接成兩級放大電路，試求頻寬？\n(A) 6.4 kHZ (B) 8.2 kHz  (C) 9.3 kHz   (D) 11.2 kHz",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "44",
+    "text": "疊接放大電路為何種型態串級放大？\n(A) CB-CB (B) CE-CB              (C) CE-CC               (D) CE-CE",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "45",
+    "text": "如右圖所示，VDD = 5 V，RD = 2 kΩ，RG = 5 MΩ，VGS(t) = 1 V，                          DD k = 1.5 mA/V2，試求VDS？\n(A) 1.2 V        (B) 1.5 V                                                RD RG\n(C) 2 V          (D) 3 V",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "46",
+    "text": "如右圖所示，RG = 10 kΩ，RS = 1 kΩ，RL = 4 kΩ，IDQ = 2 mA ，k = 2 mA/V2，試求輸出電阻RO？\n(A) 0.2 kΩ      (B) 0.4 kΩ                          Vi\n(C) 0.6 kΩ      (D) 0.7 kΩ                           RG                        VO RS         RL RO",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "47",
+    "text": "理想OPA作為放大器使用時，應外加何種電路？\n(A)負回授電路   (B)正回授電路 (C)箝位電路                              (D)穩壓電路",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "48",
+    "text": "如右圖所示，VS = 10 mV，R1 = 1kΩ，R2 = 2 kΩ                  2                4 ，R3 = 2 kΩ，R4 = 4 kΩ，試求VO =？\n(A) -80 mV          (B) -60 mV\n(C) 30 mV           (D) 80 mV          R1                     R3 VS                                     VO",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "49",
+    "text": "由運算放大器所組成的RC相移振盪器，下列敘述何者有誤？\n(A)迴路增益βA最小為1       (B)能將直流電能轉換成交流電能\n(C)整個迴路為負回授         (D)相移180o",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "50",
+    "text": "石英晶體振盪器中，當振盪頻率介於晶體串聯共振頻率與並聯共振頻率之間時，晶體阻抗呈 現下列何種特性？\n(A)電中性   (B)電阻性    (C)電感性   (D)電容性 電子學   第 5 頁，共 5 頁",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  }
+]

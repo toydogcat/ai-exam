@@ -1,0 +1,261 @@
+[
+  {
+    "id": "16",
+    "text": "第三代行動通訊 RRM(Radio Resource Manager)的元件中，何者負責處理使用者移動問題？ 中華電信股份有限公司 101 年從業人員(基層專員)遴選甄試試題                                                            • Admission Controller ‚ Load Controller ƒ Handover Controller „ Packet Controller 遴選類別【代碼】 ：工務類專業職(四)第一類專員【C1701-C1704】                                                               【4】17.第三代行動通訊網路架構在下列哪一層進行可靠及有效的封包轉送？\n專業科目：(1)行動通信網路系統、(2)電腦通信網路                                                                            •應用層(Application Layer)  ‚擷取網路層(Access Network Layer) ＊請填寫入場通知書編號： _______________              ƒ移動層(Mobility Layer)     „骨幹層(Backbone Layer) 注意：•作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請                                                    【1】18.下列何者不包括在第三代行動通訊網路架構的系統分層中？ 監試人員處理，否則不予計分。                                                                                   •應用層(Application Layer)  ‚擷取網路層(Access Network Layer) ‚本試卷為一張雙面，測驗題型分為【四選一單選選擇題 60 題，每題配分 1 分】與【非選擇題 4                                                  ƒ移動層(Mobility Layer)     „骨幹層(Backbone Layer) 題，每題配分 10 分】。                                                                                  【3】19.下列何者最適合建構 WLAN？ ƒ選擇題限用 2B 鉛筆於答案卡上作答，請選出最適當答案，答錯不倒扣；未作答者，不予計分。                                                     • LTE         ‚ WiMAX                        ƒ Wi-Fi              „ GSM „非選擇題限用藍、黑色鋼筆或原子筆於答案卷上採橫式作答，不必抄題但須標示題號，並請從答                                                     【4】20.下列何者不是 ITU 對 RFID 所規範的頻率？ 案卷內第一頁開始書寫，違反者該科酌予扣分。                                                                            • 135KHz 以下      ‚ 2.45GHz                   ƒ 5.8GHz             „ 3.5GHz …請勿於答案卡(卷)上書寫姓名、編號或其他不應有的文字、標記、符號等，違反者該科以零分計算。",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "21",
+    "text": "下列哪一項標準與 WiMAX 關係最密切？ †應考人得自備簡易型電子計算器，但不得發出聲響，且不具財務、工程及儲存程式功能。應考人 • IEEE 802.16  ‚ IEEE 802.11                 ƒ IEEE 802.1X        „ IEEE 802.15 於測驗時將不符規定之電子計算器放置於桌面或使用，經勸阻無效，仍執意使用者，該科扣 10 分；該電子計算器並由監試人員保管至該節測驗結束後歸還。                                                                    【4】22.下列何者為 Wi-Fi 所支援之最理想安全技術？ ‡答案卡(卷)務必繳回，未繳回者該科以零分計算。                                                                          • WEP             ‚ WPA      ƒ TLS                                „ WPA2",
+    "answer": "1",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "23",
+    "text": "有關 WCDMA(Wideband Code Division Multiple Access)之敘述，下列何者錯誤？ 第 1 部份：四選一單選選擇題 60 題（每題 1 分）                                                                          •與 GSM 核心網路相容                                ‚定點時可提供 2Mbps 傳輸速度",
+    "answer": "4",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "1",
+    "text": "行動用戶在自己所註冊之電信業者網路外進行網路通訊稱為：                                                                      ƒ行動間可提供 384Kbps 的傳輸速度                        „高傳輸率所需之頻率只需 200kHz •換手(Handoff)  ‚漫遊(Roaming) ƒ交換(Switching)                           „離線(Offline)                   【2】24.下列何者能承受使用者最高的移動速度？",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "2",
+    "text": "行動用戶打開手機利用業者提供的服務找出距離自己 100 公尺內的停車場，應屬於哪一種應用？                                                    • Wi-Fi       ‚ LTE                          ƒ WiMAX              „ GSM •衛星導航         ‚無線接取      ƒ行動定位        „無線行銷                                                        【2】25.下列何者支援的頻寬種類最多？",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "3",
+    "text": "無線通訊訊號的強度，增強與衰減常採用的單位為何？                                                                         • Wi-Fi       ‚ LTE                          ƒ WiMAX              „ GSM •分貝           ‚伏特        ƒ瓦特                                        „安培                            【4】26. OFDM(Orthogonal Frequency Division Multiplexing)不具下列哪一項優點？",
+    "answer": "1",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "4",
+    "text": "有關手機產生電磁輻射的敘述，下列何者正確？                                                                            •有效解決通訊傳輸中的頻率干擾                                   ‚頻譜使用率高 •手機不會產生電磁輻射              ‚手機產生的電磁輻射屬於無熱效應的非游離輻射                                                      ƒ高資料傳輸能力                                          „調變系統複雜度較單載波系統低 ƒ手機產生的電磁輻射屬於有熱效應的非游離輻射 „手機產生的電磁輻射屬於游離輻射                                                            【2】27. WiMAX 頻譜若採 2.5~2.69 GHz 將具有下列哪一項優勢？",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "5",
+    "text": "就傳輸技術而言，下列何者非行動多媒體會選用的技術？                                                                        •穿透性佳                              ‚容易與 WLAN 設備整合 • GSM         ‚ DVB      ƒ MediaFLO                                 „ WiMAX                          ƒ不容易受干擾                            „高傳輸距離",
+    "answer": "1",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "6",
+    "text": "有關無線網路傳輸運作的敘述，下列何者正確？                                                                          【1】28.下列何者不包括在 ITU 所公告的 3G 技術？ •電磁波無法在真空中傳遞                 ‚聲波可以直接透過行動電話的天線傳遞出去，不需額外處理程序                                           • OFDMA         ‚ WCDMA                      ƒ CDMA2000           „ TD-SCDMA ƒ行動電話的天線可以直接收到 0 或 1 的數據資料，不需額外處理程序                                                                【4】29.下列哪一項不包括在 WiMAX 架構所定義的不同業者之間的邏輯區分中？ „用來傳送訊息的訊號稱為載波(carrier wave)                                                                         • NAP(Network Access Provider)  ‚ ASP(Application Service Provider)",
+    "answer": "4",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "7",
+    "text": "下列何處較適合測量通訊系統的 SNR(Signal-to-Noise Ratio)？                                                       ƒ NSP(Network Service Provider) „ WISP(Wireless Internet Service Provider) •發送端          ‚接收端               ƒ交換中心                              „傳輸介質                          【3】30.下列何者不是 WiMAX 的「網路參考模型(Network Reference Model) 」中之 CSN(Connectivity Service Network)",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "8",
+    "text": "依 Friis 提出的電磁波 Free Space Equation，訊號強度與距離關係為何？                                                  提供之功能？ •強度與距離成正比          ‚強度與距離成反比             ƒ強度與距離平方成正比 „強度與距離平方成反比                                     •配置 IP 給 MS 上對話連線的用戶             ‚對用戶、裝置和服務進行鑑別、授權和計費",
+    "answer": "4",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "9",
+    "text": "展頻技術(Spread Spectrum)的頻寬與實務上需要的最小訊號頻寬關係為何？                                                       ƒ支援 Mobile IP 的 Foreign Agent 功能 „用戶帳單和電信業間的拆帳 •兩者相等                ‚兩者成正比       ƒ展頻的頻寬大許多倍 „展頻的頻寬較小                                              【3】31. IEEE 802.11g 標準規定的最高傳輸速率為多少？",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "10",
+    "text": "一般常見行動電話的無線電波屬於：                                                                                • 11Mbps             ‚ 200Mbps  ƒ 54Mbps                          „ 100Mbps • ELF         ‚ UHF                          ƒ EHF                 „ VLF                          【1】32. IEEE 802.11g 標準所使用的操作頻段為何？",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "11",
+    "text": "下列哪一項標準與 ZigBee 技術最密切？                                                                          • 2.4GHz             ‚ 5GHz                  ƒ 13.56MHz           „ 860-960MHz • IEEE 802.11 系列 ‚ IEEE 802.12 系列            ƒ IEEE 802.15 系列      „ IEEE 802.16 系列               【1】33.藍芽(Bluetooth)所使用的操作頻段為何？",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "12",
+    "text": "下列哪一項標準與 Wi-Fi 技術最密切？                                                                           • 2.4GHz            ‚ 5GHz                   ƒ 13.56MHz           „ 860-960MHz • IEEE 802.11 系列 ‚ IEEE 802.12 系列            ƒ IEEE 802.15 系列      „ IEEE 802.16 系列               【1】34.若某一設備之 IP 位址為 200.140.140.172，子網路遮罩為 255.255.255.192，則下列哪個 IP 位址與該設備不在",
+    "answer": "1",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "13",
+    "text": "下列 3GPP 的標準中，哪一項標準與長期演進( Long Term Evolution)技術最密切？                                             同一子網路中？ • Release 98     ‚ Release 99 ƒ Release 4          „ Release 8                                      • 200.140.140.126 ‚ 200.140.140.129 ƒ 200.140.140.150  „ 200.140.140.190",
+    "answer": "4",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "14",
+    "text": "下列何者不是 HSDPA( High Speed Downlink Packet Access)相關的技術？                                        【4】35.乙太網路（Ethernet）使用的媒介存取控制（Media Access Control）的方法為何？ • AMC(Adaptive Modulation and Coding)    ‚ OFDMA(Orthogonal Frequency Division Multiple Access)     •符記(Token)        ‚ CSMA/CA   ƒ輪詢(Polling)         „ CSMA/CD ƒ HARQ(Hybrid Automatic Repeat reQuest)  „ CDMA(Code Division Multiple Access)                    【2】36.乙太網路（Ethernet）使用的實體位址（Physical Address）共有幾個位元？",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "15",
+    "text": "ITU(International Telecommunication Union)所公告與第三代行動通訊有關的標準，統稱為何？                               • 32              ‚ 48           ƒ 64            „ 128 • 3GPP                     ‚ 3GPP2               ƒ IMT2000  „ CDMA2000                                                                      【請接續背面】",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "37",
+    "text": "SNMP 屬於 ISO 網路參考模型中的哪一層協定？                                                                         【2】56. SNMP 之 Trap 訊息使用的來源埠號（source port number）及目的地埠號（destination port number）各為何？ •傳輸層(Transport Layer)         ‚網路層(Network Layer)                                                         •臨時埠號(ephemeral port #), 161        ‚臨時埠號, 162 ƒ應用層(Application Layer)       „資料鏈路層(Data Link Layer)                                                     ƒ 161, 臨時埠號                         „ 162, 臨時埠號",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "38",
+    "text": "兩個主機 A 和 B 間以速率 R bps（bits/sec）的單鏈路（single link）連接，兩個主機間距離為 D 公尺，信號傳                                【1】57.於 DNS 中，下列哪些網址是 FQDN（Fully Qualified Domain Name）？      (a) xxx   (b) xxx.yyy. (c) xxx.yyy.net 播（propagation）速度每秒 P 公尺，主機 A 發送大小為 L 位元的封包到主機 B。請問封包之傳輸延遲（transmission                                    (d) zzz.yyy.xxx.edu. delay）為何？                                                                                                 •僅(b)及(d)            ‚僅(a)及(c)     ƒ僅(c)及(d)                „僅(d) •L/R               ‚D/P              ƒP/D             „L/P                                              【2】58.若資訊係由快取記憶體中得來，則 DNS 之回應屬於哪一類？",
+    "answer": "1",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "39",
+    "text": "考慮兩個主機間之點至點(point-to-point)鏈接。若一主機發送一個由 2 Hz、4 Hz 及 7 Hz 等 3 個信號所組成的                                  •權威的（authoritative）        ‚非權威的（unauthoritative） 信號，則接收主機取樣信號之頻率至少要多少，方可正確捕捉信號？                                                                            ƒ迭代的（iterative）            „遞迴的（recursive） • 7 Hz        ‚ 13 Hz             ƒ 14 Hz       „ 56 Hz                                                 【3】59. IANA 保留 Class B 供私用之 IP 位址範圍為何？",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "40",
+    "text": "在滑動訊窗（sliding window）協定中，於發送者側（sender’s side），上一訊框發送（Last Frame Sent , LFS）、上                         • 10.16.0.0~10.31.255.255           ‚ 168.16.0.0~168.31.255.255 一確認收到（Last Acknowledgement Received, LAR）與發送訊窗大小（Send Window Size, SWS）三者間的關係為何？                          ƒ 172.16.0.0~172.31.255.255         „ 192.16.0.0~192.31.255.255 • SWS – LAR < LFS   ‚ SWS + LAR < LFS     ƒ LFS + LAR <= SWS „ LFS – LAR <= SWS                         【1】60.下列何者不可能是網路遮罩值？ (a) 255.255.255.240 (b) 255.255.242.0 (c) 255.255.255.128",
+    "answer": "4",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "41",
+    "text": "開放式最短路徑優先（Open Shortest Path First, OSPF）協定使用何種演算法計算最短路徑？                                             (d) 255.255.255.190 • Bellman-Ford 演算法                      ‚ Spanning Tree 演算法                                               •僅(b)及(d)           ‚僅(a)及(c)   ƒ僅(c)及(d)               „ (b)、(c)及(d) ƒ Dijkstra 演算法                          „ Last In First Out 演算法",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "42",
+    "text": "開放式最短路徑優先（Open Shortest Path First, OSPF）協定屬於 ISO 網路參考模型中的哪一層之協定？                                   第 2 部份：非選擇題四大題（每大題 10 分） •傳輸層(Transport Layer)                   ‚網路層(Network Layer)                                             題目一： ƒ應用層(Application Layer)                 „資料鏈路層(Data Link Layer) 請列舉並說明五項 WiMAX 「網路參考模型(Network Reference Model)」中之 ASN(Access Service Network)",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "43",
+    "text": "若 200.112.34.52 所處子網路其網路遮罩為/28，則此子網路中最後一個可指定給設備使用之 IP 位址為何？ • 212.112.34.54       ‚ 212.112.34.62 ƒ 212.112.34. 126 „ 212.112.34.254                                提供的功能。【10 分】 題目二：",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "44",
+    "text": "光纖網路中，信號頻寬為 5 GHz，於發送器（transmitter）之信號雜訊比（Signal-to-noise ratio）為 26 dB，衰 減率（Attenuation rate）為 2 dB/km，而網路中最長鏈路為 15 km。依據 Shannon's Law，可能之鏈路頻寬（link bandwidth）                    請列舉五項 WCDMA(Wideband Code Division Multiple Access)的特性。【10 分】 為何？【log2(0.4)=-1.32，log2(3.5) = 1.8，log2(1.4)=0.48，log2(2.5)=1.32，log10(0.4) = -0.4，log10(2.5) = 0.4】   題目三： • 2.28 Gbps              ‚ 2.40 Gbps            ƒ 2.56 Gbps             „ 3.62 Gbps                       造成網路延遲之因素很多，請回答下列問題：",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "45",
+    "text": "若網路之傳輸速率為 90Mbps，而每一符號需以 8 位元表示，則此網路之鮑率（baud rate）為何？                                                 （一）端對端延遲(end-to-end delay)包含哪些可能的延遲？【4 分】 • 10 Mbaud     ‚ 11.25 Mbaud ƒ 90 Mbaud  „ 720 Mbaud （二）假設鏈路(link)之資料傳輸速率為 109 bps (bits/sec)、封包大小為 8000 位元、單程傳播延遲",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "46",
+    "text": "若 IP 位址為 24.72.12.84 之設備所處子網路，其網路遮罩為/20，若將此子網路再分成 8 個子網路，其每個子 網路中共有幾個可指定給設備使用之 IP 位址？                                                                                      (propagation delay)為 15 milliseconds。不考慮 ACK 封包及處理(processing)延遲。請問使用停止 • 126                 ‚ 254        ƒ 510       „ 1022                                                        及等待(stop and wait)協定的鏈路利用率(utilization)為多少？(1 millisecond=1/1000 second)【6 分】",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "47",
+    "text": "超 5 類（Cat. 5e）UTP 線中共有幾對雙絞線？                                                                        題目四： •8                   ‚4          ƒ2                                   „1                                    IP 封包標頭（header）格式如下圖。若某 IP 封包標頭內容以 16 進位表示為：45000054 00031000 20060000",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "48",
+    "text": "TCP 協定供 telnet 協定使用之預設埠號為何？                                                                        7C4E0382 B40E0F05，則： • 21                  ‚ 22       ƒ 23                                 „ 80",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "49",
+    "text": "TCP 及 UDP 協定供超文字轉送協定（Hypertext Transfer Protocol）使用之預設埠號為何？ • 8080             ‚ 80           ƒ 23                  „0",
+    "answer": "2",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "50",
+    "text": "由網路外要送封包給 Class B 140.101.0.0 中所有 host，則封包之目的地位址應為何？ • 255.255. 255.255 ‚ 140.101.101.255 ƒ 140.101.255.255 „ 140.101.0.0",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "51",
+    "text": "光纖網路使用 CSMA / CD 之媒介存取控制（medium access control）。若距離最遠兩站台之距離為 80km。假 設信號直接由任一傳輸器向網路中所有接收器發送，以 2x108 m/sec 之速度在光纖中傳播。若傳輸器發送速率為 100 Mbps，則封包之長度最少要多少位元組(byte)，以保證傳輸器可偵測到碰撞？ • 80000 byte     ‚ 70000 byte ƒ 10000 byte           „ 50000 byte",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "52",
+    "text": "下列哪一個協定可將設備的 MAC 位址轉換成 IP 位址？ • ICMP        ‚ ARP         ƒ RARP                                    „ DNS",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "53",
+    "text": "路由表(routing table)中通常預設路由(default routing)之網路位址為何？ • 255.255.255. 255     ‚ 1.1.1.1         ƒ 0.0.0.0                    „ 255.255.255.0",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "54",
+    "text": "有關串音（crosstalk）之敘述，下列何者錯誤？ •串音係因導線感應鄰近之導線電流產生之電壓所造成                                                                                    （一）整個封包之大小為何？【2 分】 ‚傳輸速率越高，串音造成之問題越嚴重                                                                                          （二）封包可再被轉送經幾個路由器？【2 分】 ƒ近端串音（Near-end crosstalk, NEXT）係用以測量串音之參數 （三）封包之識別碼(identification number)為何？【2 分】 „ NEXT 之(dB)值越低，代表線路傳輸品質越好 （四）封包之來源位址(source address)為何？請以常用之 10 進位加句點表示法（例如：140.123.89.101)",
+    "answer": "4",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "55",
+    "text": "SNMP 之 agent 可送出下列何種訊息？             (a) GetResponse (b) SetResponse (c) Trap •僅(a)                ‚(a)(b)(c)                ƒ僅(a)(c)                „僅(c)                                   表示之。 【4 分】",
+    "answer": "3",
+    "options": [],
+    "analysis": ""
+  }
+]

@@ -1,0 +1,22 @@
+:root {
+  --vp-home-hero-name-color: #1a73e8;
+  --vp-home-hero-name-background: transparent;
+  --vp-c-brand: #1a73e8;
+}
+
+/* Hide some default VitePress styles on exam pages if needed */
+.exam-page .VPNavBar,
+.exam-page .VPSidebar,
+.exam-page .VPFooter {
+  display: none !important;
+}
+
+.exam-page .VPContent {
+  padding: 0 !important;
+  background: #f0f2f5;
+}
+
+.exam-page main {
+    width: 100% !important;
+    max-width: 100% !important;
+}

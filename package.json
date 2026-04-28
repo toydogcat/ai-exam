@@ -1,0 +1,27 @@
+{
+  "name": "ai-exam",
+  "version": "1.0.0",
+  "description": "The examination.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toydogcat/ai-exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/toydogcat/ai-exam/issues"
+  },
+  "homepage": "https://github.com/toydogcat/ai-exam#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.33"
+  }
+}

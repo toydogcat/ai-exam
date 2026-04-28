@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "text": "有關半導體特性的敘述，下列何者正確？\n(A)當加逆向偏壓於PN接面時，空乏區會變窄\n(B)在本質半導體摻雜五價元素，可形成N型半導體\n(C)在純質矽(silicon)晶片內摻入磷(P)後可產生P型半導體\n(D) N型半導體中的多數載子為電洞",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "2",
+    "text": "已知NPN電晶體的VBE = 0.7 V，VCE = 2.5 V，則此電晶體操作在哪個區域？\n(A)截止區      (B)飽和區              (C)工作區    (D)崩潰區",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "3",
+    "text": "對一具有源極旁路電容之共源極放大器，如將其旁路電容器移走時，則下列何者正確？\n(A)輸入電阻變小 (B)輸入電阻變大 (C)電壓增益降低 (D)電壓增益增加",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "4",
+    "text": "如右圖所示，假設D1與D2為理想二極體，請求出電壓V2為何？                                      5V\n(A) 1.5 V (B) 3 V\n(C) 4.5 V (D) 6 V                                         2kΩ            D2 V2 D1                3kΩ",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "5",
+    "text": "如右圖所示電路及電晶體之特性曲線，                     Vcc Ic 假設電晶體原來的工作點為Q點，則當RB                                                          B A 電阻值變大時，新的工作點應近似於下列               RB         RC                           Q 何者？                                               Vout C1\n(A) A點    (B) B點            Vi               C2 C        D\n(C) C點    (D) D點                                                                 VcE",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "6",
+    "text": "理想放大器的輸入阻抗與輸出阻抗分別為多少歐姆？\n(A) ∞、0   (B) 0、0  (C) ∞、∞                           (D) 0、∞",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "7",
+    "text": "有一差動放大器之共模拒斥比(CMRR)值為 40 dB，若差動增益為1000，則當輸入為1.001 V、 0.999 V 時，輸出值Vo為何？\n(A) 6 V        (B) 8 V (C) 10 V    (D) 12 V",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "8",
+    "text": "下列何者為電子電路中，設計正回授之目的？\n(A)使電路特性更穩定 (B)減少雜訊 (C)供作振盪器使用                       (D)增加頻寬 電子學 第 1 頁，共 6 頁                                      【請翻頁繼續作答】",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "9",
+    "text": "如右圖所示，電晶體Q1與Q2有相同特性，若VCC = 20 V，                                         VCC VEE = - 10V，電阻R1 = R2 = R3 = 5 kΩ，V1 = V2 = 0 V， 輸出電壓V0值為何？                                                    R1                         R2\n(A) 15 V         (B) 12 V                                               V0\n(C) 9 V          (D) 6 V V1                                      V2 Q1               Q2 R3 VEE",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "10",
+    "text": "右圖為理想放大器，請求該電路之電壓增益為何？                                                             10kΩ 10kΩ\n(A) - 2010 (B) - 1020\n(C) 1020   (D) 2010                                                               100Ω 1kΩ Vi OPA                               Vo",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "11",
+    "text": "如右圖所示，兩個MOSFET之寬長W/L比為(W/L)1 = 4(W/L)2，                                                      +10V 設MOSFET導通的臨界電壓Vt1 = Vt2 = 2 V，則V0值為何？\n(A) 2 V     (B) 4 V                                                                          D G         S Q1\n(C) 6 V     (D) 8 V V0 D G         S Q2",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "12",
+    "text": "某場效電晶體的導電參數K = 2 mA /𝑉𝑉 2 ，若直流工作點的汲極電流為8 mA，試求互導gm為何？\n(A) 2 mS  (B) 4 mS           (C) 6 mS  (D) 8 mS",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "13",
+    "text": "下列何種摻雜行為的改變，可增加BJT電晶體的電流增益？\n(A)基極摻雜濃度降低與射極濃度增加  (B)基極與射極摻雜濃度均增加\n(C)基極摻雜濃度增加與射極濃度降低  (D)基極與射極摻雜濃度均降低",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "14",
+    "text": "有關場效電晶體(FET)之敘述，下列何者有誤?\n(A)可分成N通道與P通道兩種        (B)輸入阻抗較雙極性電晶體(BJT)為低\n(C) MOSFET又分成空乏型與增強型兩種 (D)主要可分成JFET及MOSFET兩種",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "15",
+    "text": "如右圖所示，基極電壓為0.7 V，集極電壓為2 V，                                                                   10V 若熱電壓VT為25 mV，則rπ值為何？ 1kΩ\n(A) 25 Ω     (B) 250 Ω                                       93kΩ\n(C) 400 Ω    (D) 800 Ω",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "16",
+    "text": "下列何種振盪器不需外部觸發便可自行起振？\n(A)無穩態多諧振盪器 (B)單穩態多諧振盪器 (C)雙穩態多諧振盪器 (D)舒密特觸發器",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "17",
+    "text": "N通道空乏型MOSFET的IDSS = 8 mA，VGS(OFF) = - 4 V，而在VGS = 0 V的情況下，ID值為何？\n(A) 0 mA    (B) 2 mA           (C) 4 mA           (D) 8 mA",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "18",
+    "text": "電晶體放大電路的各種組態中，共汲極放大電路與下列何種組態的放大電路之特性最相似？\n(A)共射極    (B)共集極   (C)共基極    (D)共閘極 電子學 第 2 頁，共 6 頁",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "19",
+    "text": "某N通道JFET，VP = - 4 V，當VGS = - 1 V時，欲使該JFET工作於飽和區，所需的VDS值範圍為 何？\n(A) VDS ≥ 3 V   (B) VDS ≤ 3 V    (C) VDS ≥ 4V (D) VDS ≤ 1 V",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "20",
+    "text": "齊納(Zener)電壓調整電路如右圖所示，其中齊納二極體之                                R VZ = 10 V，IZ = 5 mA ~ 20 mA，若Vi = 100 V，請問電阻R IL 值需為多少，才能使齊納二極體在IL = 0 ~ IL(max)之間進行                                                        IZ I 調節，且IL(max)為何？ Vi                           VZ                         RL\n(A) R = 25 kΩ，IL(max) = 25 mA\n(B) R = 18 kΩ，IL(max) = 20 mA\n(C) R = 4.5 kΩ，IL(max) = 20 mA\n(D) R = 4.5 kΩ，IL(max) = 15 mA",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "21",
+    "text": "在放大器頻率響應曲線中，𝑓𝑓𝐿𝐿 表示增益低頻截止頻率， 𝑓𝑓𝐻𝐻 表示增益高頻截止頻率，此放大器 的頻帶寬度BW為何？\n(A) 2 𝑓𝑓𝐻𝐻 − 𝑓𝑓𝐿𝐿 (B) 𝑓𝑓𝐻𝐻 + 𝑓𝑓𝐿𝐿 (C) 𝑓𝑓𝐻𝐻 − 𝑓𝑓𝐿𝐿 (D) 𝑓𝑓𝐻𝐻 − 2 𝑓𝑓𝐿𝐿",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "22",
+    "text": "有一低通、三級放大電路，若輸入頻率高於高截止頻率時，則每增加10倍，增益減少多少dB？\n(A) 20    (B) 40    (C) 60   (D) 80",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "23",
+    "text": "NPN電晶體工作在飽和區時，下列敘述何者正確？\n(A) VE > VB > VC (B) VB > VC > VE (C) VB > VE > VC      (D) VC > VB > VE",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "24",
+    "text": "有關差動放大器的敘述，下列何者有誤？\n(A)共模拒斥比CMRR定義為：差模增益Ad與共模增益Ac的比值\n(B)共模拒斥比CMRR，愈大愈能抑制雜訊\n(C)共模增益Ac愈小愈好\n(D)差模增益Ad愈小愈好",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "25",
+    "text": "如右圖所示，若R1 = 3 MΩ，R2 = 1 MΩ，RD = 4 kΩ，rd → ∞，                                        VDD 求輸入阻抗為何？ i0\n(A) 750 kΩ   (B) 1 MΩ                                                 R1                  RD Co\n(C) 1.2 MΩ   (D) 1.5 MΩ                                          Ci Vo G        D Vi S R2 Zo RS Zi",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "26",
+    "text": "有關BJT共射極(CE)、共集極(CC)和共基極(CB)基本組態放大電路特性之比較，下列何者正確？\n(A)輸入阻抗：CB ＞ CE ＞ CC      (B)輸出阻抗：CE ＞ CC ＞ CB\n(C)電壓增益：CB ＞ CE ＞ CC      (D)功率增益：CC ＞ CE ＞ CB",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "27",
+    "text": "兩電壓 v1 (t) = 8 cos( 20 πt + 13° ) 及 v2 (t) = 4 sin( 20πt + 45°)，則兩電壓之相位差為多少？\n(A) 58°               (B) 45°                  (C) 32°            (D) 13°",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "28",
+    "text": "如右圖所示，交流電壓 v(t) = 150sin(377t − 30°)，                                               i(t) 交流電流 i(t) = 10sin(377t)，則負載 ZL 的特性為何？\n(A)電容性             (B)電感性\n(C)電阻性             (D)無法判定                                  v(t)                                 ZL 電子學 第 3 頁，共 6 頁                                           【請翻頁繼續作答】",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "29",
+    "text": "有一40 W功率輸出的放大器連接至10 Ω的揚聲器，若放大器的電壓增益為40 dB且額定輸出 時，求其輸入電壓為何？\n(A) 40 mV  (B) 0.1 V   (C) 0.2 V (D) 0.4 V",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "30",
+    "text": "關於FET與BJT電晶體的比較，下列何者有誤？\n(A) FET的輸入阻抗較BJT高     (B) FET比BJT較適合應用於超大型積體電路中\n(C) FET的熱穩定性較BJT好     (D) FET的增益與頻寬的乘積較BJT大",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "31",
+    "text": "某N通道JFET之夾止電壓(pinch-off voltage)VP = - 4 V、IDSS = 16 mA，當其閘極電壓 VG = - 6 V、源極電壓 VS = 0 V、汲極電壓 VD = 5 V 時，則汲極電流 ID 為何？\n(A) 0 mA        (B) 4 mA         (C) 8 mA              (D) 16 mA",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "32",
+    "text": "如右圖所示，假設運算放大器飽和時之最大輸出電壓為 ± 15 V，                                                         vi 求其遲滯電壓 VH 為何？                                                                                                   vo\n(A) 3 V     (B) 4 V\n(C) 5 V     (D) 6 V                                                                                 9kΩ 1kΩ",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "33",
+    "text": "如右圖所示，各級之電壓增益分別如圖中                                                      5：1                  2：1 之標示，則此電路之總電壓增益為何？ Vi   Av1=20         Av2=100               Av3=50     Vo\n(A) 60 dB  (B) 80 dB\n(C) 120 dB (D) 160 dB",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "34",
+    "text": "右圖中電晶體作為開關使用，欲使燈泡亮起，下列敘述何者正確？                                                                                  Vcc\n(A)基－射極接面為逆向偏壓，基－集極接面為順向偏壓\n(B)基－射極接面為逆向偏壓，基－集極接面為逆向偏壓                                                                                燈泡\n(C)基－射極接面為順向偏壓，基－集極接面為逆向偏壓\n(D)基－射極接面為順向偏壓，基－集極接面為順向偏壓 Vi",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "35",
+    "text": "如右圖所示，此電路之輸入電壓與輸出電壓轉換曲線為何？\n(A)       (B) VO                          VO -5V Vi                          Vi -5V -5V                           -5V                                               1kΩ\n(C)                         (D)                                                  Vi                               Vo VO                           VO                                                        5V 5V 5V                                           Vi 5V Vi 5V",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "36",
+    "text": "R－L－C串聯諧振電路產生諧振時，下列敘述何者有誤？\n(A)總阻抗約等於電阻值\n(B)線路電流為最小 1     𝐿𝐿\n(C)線路品質因數(Quality Factor)為 Q = 𝑅𝑅 �𝐶𝐶 1\n(D)諧振頻率為 𝑓𝑓𝑟𝑟 = 2𝜋𝜋√𝐿𝐿𝐿𝐿 Hz 電子學 第 4 頁，共 6 頁                                                【請另頁繼續作答】",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "37",
+    "text": "若運算放大器的轉動率為 0.5 V / µs，其輸出訊號為峰值 ± 5 V 的對稱三角波，則在不失真的 情況下，此訊號頻率最高為何？\n(A) 20 kHz (B) 25 kHz     (C) 30 kHz   (D) 50 kHz",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "38",
+    "text": "若量測電路中的PNP型雙極性接面電晶體，得知其射極接地，基極電壓為 0.7 V，集極電壓為 - 3 V，請問電晶體操作在哪個區域？\n(A)截止區      (B)順向主動區 (C)飽和區   (D)逆向主動區",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "39",
+    "text": "如右圖所示，VO 約為何？                            3kΩ       6kΩ -2V\n(A) - 10 V                                          +10V\n(B) - 6 V                                                                                 +10V\n(C) 10 V                                                                10kΩ\n(D) 12 V                                                                                          Vo 2kΩ -10V -10V 6kΩ                  12kΩ",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "40",
+    "text": "如右圖所示，已知該電晶體截止電壓VGS(off) = - 5 V，                                       +18V 直流閘源極電壓 VGS = - 4 V 時，ID = 0.35 mA， 則 R1/R2 值為何？                                                   R1               ID\n(A) 2                                                                       D G\n(B) 3                                        Vi C2 C1                   S\n(C) 4                                                          R2                                 Vo\n(D) 5 20kΩ                 20kΩ",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "41",
+    "text": "如右圖所示，正常工作下輸出電壓波形為三角波時，                                                              C 則其輸入電壓波形下列何者正確？\n(A)方波     (B)正弦波                                               R vi\n(C)三角波    (D)鋸齒波                                                                                   vo",
+    "answer": "A",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "42",
+    "text": "如右圖所示，當理想運算放大器在不飽和情況下，                                  10kΩ 輸出電壓 VO 為何？                                  2kΩ\n(A) - 0.5 V (B) - 1 V                 0.2V                          4kΩ Vo\n(C) - 2 V   (D) - 4 V 1kΩ 8kΩ 2kΩ",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "43",
+    "text": "NPN電晶體工作於主動區，其射極流出的電子有0.25 %在基極與電洞結合，其餘99.75 %被集 極收集，則此電晶體之 β 值為何？\n(A) 99     (B) 199  (C) 299      (D) 399",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "44",
+    "text": "有一變壓器的匝數比為10：1，若在低壓側接上一個8 Ω的揚聲器，請問在高壓側測得的阻抗 為何？\n(A) 0.8 Ω (B) 8 Ω    (C) 80 Ω   (D) 800 Ω 電子學 第 5 頁，共 6 頁                                              【請翻頁繼續作答】",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "45",
+    "text": "如右圖所示，R1 = R2 = R3 = 100 kΩ，RA = 10 kΩ，若欲設                                    RB 計輸出電壓 VO = V1 + V2 + V3 ，則 RB 為何？ RA\n(A) 5 kΩ       (B) 10 kΩ\n(C) 20 kΩ      (D) 30 kΩ                                                                   vO v1 R1 v2 R2 v3 R3",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "46",
+    "text": "如右圖所示，若電晶體保持在主動區工作，當提高 RC 值 而 VCC 及 RB 值保持不變，則下列敘述何者正確？                                                  IC\n(A)工作點不變\n(B)工作點朝飽和區反方向移動                                     RB                       Rc           Vcc\n(C)基極電流增加\n(D)工作點朝飽和區方向移動",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "47",
+    "text": "如右圖所示，若 VO = 8 V，則 Vi 應為何？                                              40kΩ\n(A) - 4 V    (B) - 3 V                                                        +12V\n(C) 1 V      (D) 2 V                                     10kΩ Vi vo -1V 10kΩ 40kΩ                -12V",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "48",
+    "text": "如右圖所示，此曲線為下列何種場效電晶體的                                               ID(mA) ID－VGS 特性曲線？(VT為臨界電壓)\n(A) N通道JFET\n(B) N通道空乏型MOSFET\n(C) P通道增強型MOSFET\n(D) N通道增強型MOSFET                                                   0   VT               VGS(V)",
+    "answer": "D",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "49",
+    "text": "某一N通道JFET的汲極飽和電流 IDSS = 16 mA，汲極電流 ID = 4 mA，若截止電壓 VGS(off) 為 - 3 V，則閘源極電壓 VGS 為何？\n(A) - 2.5 V  (B) - 1.5 V    (C) 1.5 V       (D) 2.5 V",
+    "answer": "B",
+    "options": [],
+    "analysis": ""
+  },
+  {
+    "id": "50",
+    "text": "如右圖所示，若 ID = 2 mA，RD = 5 kΩ，RS = 1 kΩ，RG = 1 MΩ， 則 VD 與 VGS (VGS = VG − VS)分別為何？                                         ID RD\n(A) - 5 V， - 2 V VD\n(B) - 5 V， 2 V                                                         VG                  15V\n(C) 5 V， - 2 V VS\n(D) 5 V， 2 V                                                  RG                   RS 電子學 第 6 頁，共 6 頁",
+    "answer": "C",
+    "options": [],
+    "analysis": ""
+  }
+]

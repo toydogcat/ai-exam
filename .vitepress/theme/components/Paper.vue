@@ -1,0 +1,290 @@
+<script setup>
+import { ref, computed, onMounted } from 'vue'
+
+const props = defineProps({
+  agency: String,
+  year: String,
+  subject: String
+})
+
+const questions = ref([])
+const userAnswers = ref({})
+const isSubmitted = ref(false)
+const examineeName = ref('')
+const ticketNumber = ref('')
+
+const fetchQuestions = async () => {
+  try {
+    const res = await fetch(`/json/${props.agency}/${props.year}/${props.subject}.json`)
+    questions.value = await res.json()
+  } catch (err) {
+    console.error('Failed to fetch questions:', err)
+  }
+}
+
+const score = computed(() => {
+  if (!isSubmitted.value) return 0
+  let correct = 0
+  questions.value.forEach((q, idx) => {
+    if (userAnswers.value[idx] === q.answer) {
+      correct++
+    }
+  })
+  return Math.round((correct / questions.value.length) * 100)
+})
+
+const generateTicket = () => {
+  ticketNumber.value = 'EXAM-' + Math.random().toString(36).substr(2, 9).toUpperCase()
+}
+
+onMounted(() => {
+  fetchQuestions()
+  generateTicket()
+})
+
+const submitExam = () => {
+  isSubmitted.value = true
+}
+</script>
+
+<template>
+  <div class="exam-paper">
+    <!-- Header Section -->
+    <div class="exam-header">
+      <div class="header-left">
+        <div class="header-item">
+          <span class="label">科目：</span>
+          <span class="value">{{ subject }}（{{ year }} 年）</span>
+        </div>
+        <div class="header-item">
+          <span class="label">應試人：</span>
+          <input v-model="examineeName" type="text" placeholder="請輸入姓名" class="input-field" :disabled="isSubmitted">
+        </div>
+        <div class="header-item">
+          <span class="label">准考證號：</span>
+          <span class="value mono">{{ ticketNumber }}</span>
+        </div>
+      </div>
+      
+      <div class="score-box" :class="{ 'visible': isSubmitted }">
+        <div class="score-label">得分</div>
+        <div class="score-value">{{ score }}</div>
+      </div>
+    </div>
+
+    <div class="instruction">
+        注意：請就各題選項中選出最適當者為答案。各題答對得該題所配分數，答錯不倒扣。
+    </div>
+
+    <!-- Two Column Content -->
+    <div class="exam-body">
+      <div class="column">
+        <div v-for="(q, index) in questions.slice(0, Math.ceil(questions.length / 2))" :key="index" class="question-item">
+          <div class="question-text">
+            <span class="q-num">{{ index + 1 }}.</span>
+            {{ q.text }}
+          </div>
+          <div class="options">
+            <label v-for="i in 4" :key="i" class="option-label" :class="{ 
+              'correct': isSubmitted && q.answer == i,
+              'wrong': isSubmitted && userAnswers[index] == i && q.answer != i,
+              'selected': userAnswers[index] == i
+            }">
+              <input type="radio" :name="'q' + index" :value="i" v-model="userAnswers[index]" :disabled="isSubmitted">
+              <span class="option-marker">({{ i }})</span>
+              <span class="option-text">選項內容待優化...</span>
+            </label>
+          </div>
+        </div>
+      </div>
+      
+      <div class="divider"></div>
+
+      <div class="column">
+        <div v-for="(q, index) in questions.slice(Math.ceil(questions.length / 2))" :key="index + Math.ceil(questions.length / 2)" class="question-item">
+          <div class="question-text">
+            <span class="q-num">{{ index + Math.ceil(questions.length / 2) + 1 }}.</span>
+            {{ q.text }}
+          </div>
+          <div class="options">
+            <label v-for="i in 4" :key="i" class="option-label" :class="{ 
+              'correct': isSubmitted && q.answer == i,
+              'wrong': isSubmitted && userAnswers[index + Math.ceil(questions.length / 2)] == i && q.answer != i,
+              'selected': userAnswers[index + Math.ceil(questions.length / 2)] == i
+            }">
+              <input type="radio" :name="'q' + (index + Math.ceil(questions.length / 2))" :value="i" v-model="userAnswers[index + Math.ceil(questions.length / 2)]" :disabled="isSubmitted">
+              <span class="option-marker">({{ i }})</span>
+              <span class="option-text">選項內容待優化...</span>
+            </label>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="exam-footer">
+      <button v-if="!isSubmitted" @click="submitExam" class="submit-btn">繳卷對答案</button>
+      <div v-else class="finish-msg">測驗結束，請檢閱解析。</div>
+    </div>
+  </div>
+</template>
+
+<style scoped>
+.exam-paper {
+  background: #fff;
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 4rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15), 0 1px 8px rgba(0,0,0,0.1);
+  min-height: 297mm; /* A4 Ratio */
+  position: relative;
+  color: #333;
+  font-family: 'BiauKai', 'Noto Sans TC', serif;
+}
+
+.exam-header {
+  border-bottom: 2px solid #000;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.header-left {
+  flex: 1;
+}
+
+.header-item {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.label { font-weight: bold; }
+.mono { font-family: monospace; }
+
+.input-field {
+  border: none;
+  border-bottom: 1px solid #666;
+  padding: 2px 5px;
+  outline: none;
+  background: transparent;
+  width: 150px;
+}
+
+.score-box {
+  width: 80px;
+  height: 80px;
+  border: 3px solid #d32f2f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #d32f2f;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.score-box.visible { opacity: 1; }
+
+.score-label { font-size: 0.8rem; font-weight: bold; }
+.score-value { font-size: 2rem; font-weight: bold; }
+
+.instruction {
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background: #f9f9f9;
+}
+
+.exam-body {
+  display: flex;
+  gap: 2rem;
+  position: relative;
+}
+
+.column {
+  flex: 1;
+}
+
+.divider {
+  width: 1px;
+  border-left: 1px dashed #999;
+}
+
+.question-item {
+  margin-bottom: 1.5rem;
+  page-break-inside: avoid;
+}
+
+.q-num {
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.options {
+  margin-top: 0.5rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.2rem;
+}
+
+.option-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.option-label:hover { background: #f0f0f0; }
+
+.option-label.selected { background: #e3f2fd; }
+
+.option-label.correct {
+  background: #e8f5e9 !important;
+  color: #2e7d32;
+  font-weight: bold;
+}
+
+.option-label.wrong {
+  background: #ffeeb3 !important;
+  color: #c62828;
+  text-decoration: line-through;
+}
+
+input[type="radio"] {
+  margin-top: 5px;
+}
+
+.exam-footer {
+  margin-top: 3rem;
+  text-align: center;
+  border-top: 1px solid #eee;
+  padding-top: 2rem;
+}
+
+.submit-btn {
+  background: #1a73e8;
+  color: #fff;
+  border: none;
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.submit-btn:hover {
+  transform: scale(1.05);
+  background: #1557b0;
+}
+
+.finish-msg {
+  color: #1a73e8;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+</style>
