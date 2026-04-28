@@ -6,7 +6,18 @@ const catalog = ref({})
 
 onMounted(async () => {
   const res = await fetch(withBase('/json/catalog.json'))
-  catalog.value = await res.json()
+  const data = await res.json()
+  // Deep sort agencies and years
+  const sortedCatalog = {}
+  Object.keys(data).forEach(agency => {
+    const agencyData = data[agency]
+    const sortedAgency = {}
+    Object.keys(agencyData).sort((a, b) => b - a).forEach(year => {
+      sortedAgency[year] = agencyData[year]
+    })
+    sortedCatalog[agency] = sortedAgency
+  })
+  catalog.value = sortedCatalog
 })
 </script>
 
