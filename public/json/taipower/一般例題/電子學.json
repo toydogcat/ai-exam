@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 6 頁(含 A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n   注",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分，共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n         試題或其他紙張作答者不予計分。\n   意",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n   事     個選項者倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止，未作答者不給\n         分亦不扣分。\n   項",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n         處所索取。\n\n\n[B]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
     "text": "有關半導體特性的敘述，下列何者正確？",
     "options": [
       "當加逆向偏壓於PN接面時，空乏區會變窄",
@@ -45,12 +9,6 @@
       "N型半導體中的多數載子為電洞\n[C]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "已知NPN電晶體的VBE =",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "2",
@@ -75,31 +33,6 @@
     "answer": "3"
   },
   {
-    "number": "4",
-    "text": "如右圖所示，假設D1與D2為理想二極體，請求出電壓V2為何？                                      5V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5 V",
-    "options": [
-      "3 V",
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "5 V",
-    "options": [
-      "6 V                                         2kΩ            D2\n                                                                                          V2\n                                                                      D1                3kΩ\n\n\n[D]"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "5",
     "text": "如右圖所示電路及電晶體之特性曲線，                     Vcc\n                                                                 Ic\n       假設電晶體原來的工作點為Q點，則當RB                                                          B\n                                                                           A\n       電阻值變大時，新的工作點應近似於下列               RB         RC                           Q\n       何者？                                               Vout\n                                        C1",
     "options": [
@@ -118,12 +51,6 @@
       ""
     ],
     "answer": "1"
-  },
-  {
-    "number": "7",
-    "text": "有一差動放大器之共模拒斥比(CMRR)值為 40 dB，若差動增益為1000，則當輸入為1.001 V、",
-    "options": [],
-    "answer": "4"
   },
   {
     "number": "8",
@@ -268,20 +195,6 @@
     "answer": "4"
   },
   {
-    "number": "4",
-    "text": "5 kΩ，IL(max) = 20 mA",
-    "options": [
-      "R ="
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "5 kΩ，IL(max) = 15 mA\n[C]",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "21",
     "text": "在放大器頻率響應曲線中，𝑓𝑓𝐿𝐿 表示增益低頻截止頻率， 𝑓𝑓𝐻𝐻 表示增益高頻截止頻率，此放大器\n        的頻帶寬度BW為何？",
     "options": [
@@ -334,20 +247,6 @@
       ""
     ],
     "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "2 MΩ",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5 MΩ                                          Ci\n                                                                                                                  Vo\n                                                                                   G        D\n                                                               Vi\n                                                                                            S\n                                                                              R2\n                                                                                                             Zo\n                                                                                                  RS\n                                                                    Zi\n\n\n\n[C]",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "26",
@@ -469,18 +368,6 @@
     "answer": "2"
   },
   {
-    "number": "37",
-    "text": "若運算放大器的轉動率為",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "38",
-    "text": "若量測電路中的PNP型雙極性接面電晶體，得知其射極接地，基極電壓為",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "39",
     "text": "如右圖所示，VO 約為何？                            3kΩ       6kΩ\n                                          -2V",
     "options": [
@@ -490,12 +377,6 @@
       "12 V                                                                                          Vo\n                                                 2kΩ\n                                                            -10V\n                                                                                                  -10V\n\n\n                                                                            6kΩ                  12kΩ\n\n[D]"
     ],
     "answer": "3"
-  },
-  {
-    "number": "40",
-    "text": "如右圖所示，已知該電晶體截止電壓VGS(off) = - 5 V，                                       +18V\n\n        直流閘源極電壓 VGS = - 4 V 時，ID =",
-    "options": [],
-    "answer": "4"
   },
   {
     "number": "41",
@@ -509,14 +390,6 @@
     "answer": "1"
   },
   {
-    "number": "42",
-    "text": "如右圖所示，當理想運算放大器在不飽和情況下，                                  10kΩ\n\n        輸出電壓 VO 為何？                                  2kΩ",
-    "options": [
-      "-"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "43",
     "text": "NPN電晶體工作於主動區，其射極流出的電子有0.25 %在基極與電洞結合，其餘99.75 %被集\n        極收集，則此電晶體之 β 值為何？",
     "options": [
@@ -524,14 +397,6 @@
       "199",
       "299",
       "399\n[D]"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "44",
-    "text": "有一變壓器的匝數比為10：1，若在低壓側接上一個8 Ω的揚聲器，請問在高壓側測得的阻抗\n        為何？",
-    "options": [
-      ""
     ],
     "answer": "4"
   },
@@ -578,44 +443,6 @@
       "N通道增強型MOSFET                                                   0   VT               VGS(V)\n\n[B]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "49",
-    "text": "某一N通道JFET的汲極飽和電流 IDSS = 16 mA，汲極電流 ID = 4 mA，若截止電壓 VGS(off)\n        為 - 3 V，則閘源極電壓 VGS 為何？",
-    "options": [
-      "-"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "5 V",
-    "options": [
-      "-"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "5 V\n[C]",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "50",

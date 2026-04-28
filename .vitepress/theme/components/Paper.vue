@@ -85,8 +85,8 @@ const submitExam = () => {
             <span class="q-num">{{ index + 1 }}.</span>
             {{ q.text }}
           </div>
-          <div class="options">
-            <label v-for="(optText, i) in (q.options && q.options.length ? q.options : ['選項 1', '選項 2', '選項 3', '選項 4'])" :key="i" class="option-label" :class="{ 
+          <div class="options" v-if="q.options && q.options.length">
+            <label v-for="(optText, i) in q.options" :key="i" class="option-label" :class="{ 
               'correct': isSubmitted && q.answer == (i + 1),
               'wrong': isSubmitted && userAnswers[index] == (i + 1) && q.answer != (i + 1),
               'selected': userAnswers[index] == (i + 1)
@@ -108,8 +108,8 @@ const submitExam = () => {
             <span class="q-num">{{ index + Math.ceil(questions.length / 2) + 1 }}.</span>
             {{ q.text }}
           </div>
-          <div class="options">
-            <label v-for="(optText, i) in (q.options && q.options.length ? q.options : ['選項 1', '選項 2', '選項 3', '選項 4'])" :key="i" class="option-label" :class="{ 
+          <div class="options" v-if="q.options && q.options.length">
+            <label v-for="(optText, i) in q.options" :key="i" class="option-label" :class="{ 
               'correct': isSubmitted && q.answer == (i + 1),
               'wrong': isSubmitted && userAnswers[index + Math.ceil(questions.length / 2)] == (i + 1) && q.answer != (i + 1),
               'selected': userAnswers[index + Math.ceil(questions.length / 2)] == (i + 1)

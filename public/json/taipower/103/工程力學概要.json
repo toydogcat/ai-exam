@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本科目禁止使用電子計算器。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "本試題共 5 頁(含 A3 紙 1 張、A4 紙 1 張)。\n注",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n意      試題或其他紙張作答者不予計分。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一個\n事      選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，不\n項      給分亦不扣分。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟該節考試結束後，始得至原試場索取。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
     "text": "一物體不受外力或所受外力合力為零時(平衡狀態)，靜者恆靜，動者恆以等速度直線運動，稱為？",
     "options": [
       "牛頓第一定律",
@@ -91,23 +55,6 @@
     "answer": "1"
   },
   {
-    "number": "6",
-    "text": "承第 4 題，若該桿件不受外力，但溫度升高 10oC，桿之熱膨脹係數為",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "0×10-5/ oC，彈性模數\n  E=2.0×106 kg/cm2，則桿內應力為多少？",
-    "options": [
-      "100 kg/cm2",
-      "200 kg/cm2",
-      "300 kg/cm2",
-      "400 kg/cm2"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "7",
     "text": "有一斷面之面積為 50cm2，對形心軸 c 軸之慣性矩為 1000cm4，則此面積對 x 軸(平行 c 軸\n  2cm 處)之慣性矩為多少？",
     "options": [
@@ -128,78 +75,6 @@
       "4 cm"
     ],
     "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "如下【圖 4】所示，欲在",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "2 t",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "4 t",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "6t",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "8 t\n                                                                                      P\n\n\n                  b/2       A   C             B                     螺栓\n C                      C             5t\n                                                     P                     P\n                  b/2       10 cm     40 cm                                               2cm\n X                      X                                                           2cm",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "10",
-    "text": "如右【圖 5】所示之簡支梁，其斷面為 10cm×10cm ，                                                                                 10cm\n                                     A                                                              B\n      則 C 點斷面上之最大剪應力為多少？                                                                   C\n                                                                            L                               10cm",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "0 MPa",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "2 MPa                                    1m         2m",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "承第 10 題，C 點斷面上之平均剪應力為多少？                                                       【圖 5】",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "2 MPa",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "12",
@@ -268,20 +143,6 @@
     "answer": "1"
   },
   {
-    "number": "18",
-    "text": "如下【圖 9】所示，Ａ物體重 200N，B 物體重 500N，A 物體與 B 物體以繩索繫結，假設繩索與滑輪\n      間無摩擦，且各接觸面間之摩擦係數為",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "19",
-    "text": "如下【圖 10】所示，一重量為 W 之鐵梯 AB 斜靠於一光滑牆面，若鐵梯達即將滑動之狀態\n      ，求地面與鐵梯間之靜摩擦係數為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
     "number": "20",
     "text": "如下【圖 11】所示桁架，請問有幾根零桿？",
     "options": [
@@ -293,18 +154,6 @@
     "answer": "3"
   },
   {
-    "number": "1",
-    "text": "5m",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "5m\n               【圖 8】                   【圖 9】             【圖 10】                                【圖 11】\n                                       工程力學概要 第 2 頁，共 5 頁",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "21",
     "text": "承第 20 題，CD 桿受力為何？",
     "options": [
@@ -314,14 +163,6 @@
       "8t (拉力)"
     ],
     "answer": "4"
-  },
-  {
-    "number": "22",
-    "text": "承第 20 題，CD 桿為一斷面積 8 ㎝ 2 之圓桿，彈性模數 E=2.0×106 kg/cm2，其軸向變形量為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
   },
   {
     "number": "23",
@@ -445,23 +286,6 @@
     "answer": "3"
   },
   {
-    "number": "34",
-    "text": "如右【圖 17】所示之側視圖與俯視圖，短方柱之斷面為 120cm×120cm(斷面積 A=14.4×103 cm2，\n   慣性矩 I =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "17",
-    "text": "28 × 106 cm4)，懸臂梁長 60cm，在其自由端 A 點處受 360t 之集中載重作用，若\n   結構自重忽略不計，試求柱底之最大壓應力為多少？",
-    "options": [
-      "125 kg/cm2",
-      "150 kg/cm2\n\n\n\n\n                                                            60cm 60cm\n                                                          5m  5m",
-      "175 kg/cm2",
-      "200 kg/cm2           A\n\n                                                                                                                     1t/m"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "35",
     "text": "承第 34 題，試求柱底之最大拉應力為多少？                              360t\n                                                                        A\n                                             120cm                                                                       D",
     "options": [
@@ -514,20 +338,6 @@
       ""
     ],
     "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "81 達因",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "9",
-    "text": "81 牛頓",
-    "options": [],
-    "answer": "4"
   },
   {
     "number": "40",
@@ -638,43 +448,5 @@
       "加速度"
     ],
     "answer": "4"
-  },
-  {
-    "number": "50",
-    "text": "有一斷面如下【圖 23】所示，求其面積之形心 Y 為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 cm",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "5 cm",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "5 cm",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "5 cm\n\n                               5kg\n                               4\n                                                                                          2cm\n                           3\n         1m\nA                                      B\n                                                        100kg\n                                                                                         4cm\n                  O                                                  200kg       100kg\n                                                                                                        Y\n                      2m\n                                                                             D\n         5m                5m                   A   B            C\n\n\n                                                                                             1cm 2cm 1cm\n              【圖 21】                                    【圖 22】                                  【圖 23】\n\n\n\n\n                                           工程力學概要 第 5 頁，共 5 頁",
-    "options": [],
-    "answer": "3"
   }
 ]

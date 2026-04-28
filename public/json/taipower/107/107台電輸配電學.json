@@ -66,12 +66,6 @@
     "answer": "1"
   },
   {
-    "number": "7",
-    "text": "161kV 地 下 電 纜 輸 電 線 路 長 10km ， 頻 率 60Hz ， 靜 電 容 量 為",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "0",
     "text": "2μF/km，試求其無載充電電流約為多少 A？",
     "options": [
@@ -259,46 +253,6 @@
     "answer": "4"
   },
   {
-    "number": "26",
-    "text": "有一 300kW，功率因數",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "6 的負載，欲將功率因數改善為 1 時，應加\n          裝多少容量之電容器？",
-    "options": [
-      "300kVAR",
-      "400kVAR",
-      "500kVAR",
-      "600kVAR"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "27",
-    "text": "某工廠於功率因數為",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "5 落後時，其線路電力損失為 36kW，若將功率\n          因數改善為",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "75 落後，則改善後之線路電力損失為多少 kW？",
-    "options": [
-      "16",
-      "24",
-      "54",
-      "81"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "28",
     "text": "三台 2400/240V 之單相變壓器，其連接方式為 Y−Δ 接，若一次側線電\n107\n年\n          流為 50A，則二次側線電流為多少 A？\n試",
     "options": [
@@ -376,29 +330,6 @@
     "answer": "2"
   },
   {
-    "number": "38",
-    "text": "設三相輸電線路負載為 120kW，功率因數為",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "6 落後，今欲以相同視\n    在功率將功率因數提高到",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "85 落後，則能增加多少有效功率輸出？",
-    "options": [
-      "50kW",
-      "60kW",
-      "80kW",
-      "100kW"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "40",
     "text": "電力系統在重載時可並聯下列何種設備，以補償線路電壓降？",
     "options": [
@@ -443,17 +374,6 @@
     "answer": "3"
   },
   {
-    "number": "0",
-    "text": "27，如將基準值改為 18kV 及 120MVA，則新的*\"標么值\n試         為多少 pu？\n題",
-    "options": [
-      "0.03",
-      "0.045",
-      "0.1",
-      "0.15"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "49",
     "text": "15kW 之電熱器，每天使用 8 小時，為響應政府節能政策，每天減少使\n          用 2 小時，30 天可節省多少電費(假設電費每度 3 元)？",
     "options": [
@@ -473,68 +393,6 @@
       "",
       "試題答案\n\n題號     1       2       3      4       5          6    7         8   9    10\n\n解答     B      C       D       C       A          D    B         A   C    B\n\n題號     11     12      13      14      15         16   17       18   19   20\n\n解答     D      C       A       B       C          D    B         A   A    C\n\n題號     21     22      23      24      25         26   27       28   29   30\n\n解答     C      D       B       C       D          B    A         D   D    B\n\n題號     31     32      33      34      35         36   37       38   39   40\n\n解答     C      B       C       C       A          A    B         A   D    D\n\n題號     41     42      43      44      45         46   47       48   49   50\n                                                                              107\n                                                                               年\n解答     B      A       B       C       C          B    D         A   C    A\n                                                                               試\n                                                                               題\n     試題解析\n\n題次                                     解析內容\n2                                              1 inch 2\n       1MCM = 1000CM = 1000   Mil2 = 1000   (         )\n                              4                4     1000\n               "
     ],
-    "answer": "1"
-  },
-  {
-    "number": "25",
-    "text": "4mm 2\n        1000   (      ) ",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "5067 mm 2 ",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "5  j2()\n      19         40 3 ( A )\n            I               3 ( A)\n                   200\n                       5\n      27                         PFold 2",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "5 2\n            Pnew  Pold  (            )  36kW  (      )  16kW\n                                 PFnew",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "75\n      28    I 2  I1  N  3  500 3  866",
-    "options": [
-      "38                   PF1"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "85\n            P  P  (          1)  120KW  (       1)  50KW\n                           PF2",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "6\n      48          V\n                 ( new           )2             (18kV12kV) 2\n                          Vold\n            r                                                ",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "52  4  9\n                   Snew                   120MVA\n                          Sold                        480MVA\n                              Xd//( old )",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "27\n             Xd//( new )                          ",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "03\n                                      r           9\n\n\n\n\n107\n年\n試\n題\n\n\n\n\n                                                         107 -8",
-    "options": [],
     "answer": "1"
   }
 ]

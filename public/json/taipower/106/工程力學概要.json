@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 6 頁(含 A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n      注",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於\n               本試題或其他紙張作答者不予計分。\n      意",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n      事        個選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，\n               不給分亦不扣分。\n      項",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當處所\n               索取。\n\n\n2 [B]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
     "text": "有一均質之棒狀試體進行扭力試驗至破壞時，若該試體屬脆性材料，其破裂面之外觀描述，\n         下列何者正確？",
     "options": [
       "與軸向成 90°之平面",
@@ -146,18 +110,6 @@
     "answer": "3"
   },
   {
-    "number": "11",
-    "text": "右圖為一桁架結構，有關DE桿之受力大小，",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "12",
-    "text": "右圖為一桁架結構，有關DF桿之受力大小，",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "13",
     "text": "右圖為一左右對稱桁架結構，其中AD桿長為1 m，AB桿                               A                                                           B\n           長為√3 ，BC桿長為1 m，CD桿長為1 m，有關BE桿之受\n           力大小，下列何者正確？                                                                       C",
     "options": [
@@ -178,38 +130,6 @@
     "answer": "3"
   },
   {
-    "number": "3",
-    "text": "5 N",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "5 N",
-    "options": [
-      "7 N                                          A                                      B\n                                                                                L/3                  L/3                     L/3\n\n\n\n\n                                    工程力學概要   第 2 頁，共 6 頁\n21 [B]"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "15",
-    "text": "如右圖所示，L = 3 m、M0 = 8 N-m、W0 = 6 N/m，其 B 點                                                       W0\n           反力大小為何？                                                          M0",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "5 N",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
     "number": "11",
     "text": "5 N",
     "options": [
@@ -226,15 +146,6 @@
       ""
     ],
     "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "5 P",
-    "options": [
-      "P",
-      ""
-    ],
-    "answer": "2"
   },
   {
     "number": "17",
@@ -257,18 +168,6 @@
       "256"
     ],
     "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5m\n                                                                                                                    O\n                                                                                                      2m\n\n\n7 [B]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "19",
-    "text": "有一鋼棒長 50 cm，直徑 2 cm，今受一張力作用後，軸向伸長",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "20",
@@ -323,94 +222,6 @@
       "8",
       "9\n                                                                                               c\n                                                                                                                    x\n                                                                                   0                     9\n\n25 [C]"
     ],
-    "answer": "4"
-  },
-  {
-    "number": "25",
-    "text": "如右圖所示，C點為形心，其座標為(a,b) ，則 a + b = ？                                              y\n                                                                                                            (6,7)",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "2",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "3",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "6",
-    "text": "1",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "8",
-    "text": "1\n                                                                                       4\n                                                                                                     c\n                                                                                       0                             x\n                                                                                                            6\n\n27 [A]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "26",
-    "text": "如右圖所示，求A點反力大小為何(N)？                                                             3 N/m",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "04",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "51",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "06",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "33\n                                                       A\n                                                                                                          B",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "5m",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "5m",
-    "options": [],
     "answer": "4"
   },
   {
@@ -487,34 +298,6 @@
       "1/2\n28 [C]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "34",
-    "text": "有一材質均勻鋼棒長 10 m ，若無外力下，經均勻加熱後溫度升高 100                      ，其長度伸長",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "2 10 cm/cm",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "0 10 cm/cm",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "2 10 cm/cm\n31 [D]",
-    "options": [],
-    "answer": "4"
   },
   {
     "number": "35",

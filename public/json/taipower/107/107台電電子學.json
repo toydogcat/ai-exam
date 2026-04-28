@@ -11,12 +11,6 @@
     "answer": "3"
   },
   {
-    "number": "2",
-    "text": "已知某一信號的週期是",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "0",
     "text": "04 秒，其頻率為下列何者？",
     "options": [
@@ -50,12 +44,6 @@
     "answer": "2"
   },
   {
-    "number": "5",
-    "text": "某一直流電源供應器未接任何負載時，輸出電壓為 30V，接上滿負載\n   後，輸出電壓為",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "28",
     "text": "5V，則其 V.R.%約為下列何者？",
     "options": [
@@ -74,23 +62,6 @@
       "150nA",
       "192nA",
       "180nA"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "7",
-    "text": "有一個矽二極體在室溫 25℃時，端電壓為",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "77V，當溫度上升至 95℃\n   時，端電壓為下列何者？                                          107\n                                                         年\n 註：                                                      試\n                                                         題",
-    "options": [
-      "0.7V",
-      "0.688V",
-      "0.658V",
-      "0.595V"
     ],
     "answer": "1"
   },
@@ -124,23 +95,6 @@
       "3V",
       "5V",
       "6V"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "如右圖所示，Vi=2V，二極體切入電壓",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "7V，\n          VO 為下列何者？.",
-    "options": [
-      "5V",
-      "2V",
-      "1.3V",
-      "0.7V"
     ],
     "answer": "1"
   },
@@ -299,17 +253,6 @@
     "answer": "1"
   },
   {
-    "number": "28",
-    "text": "有一 30W 輸出的放大器連接至 30Ω 揚聲器上，若放大器的電壓增益\n          為 40dB，試求額定輸出時其輸入電壓為下列何者？",
-    "options": [
-      "75mV",
-      "150mV",
-      "300mV",
-      "400mV"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "30",
     "text": "所謂半功率點是指增益衰減至中頻增益的多少倍？",
     "options": [
@@ -431,17 +374,6 @@
     "answer": "3"
   },
   {
-    "number": "0",
-    "text": "2V，要使輸出電壓能達到最大值，則輸入脈波的寬度\n    最小值為下列何者？",
-    "options": [
-      "50ns",
-      "100ns",
-      "200ns",
-      "500ns"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "49",
     "text": "下圖中的 OPA 皆為理想運算放大器，其電壓增益 VO/VS 為下列何者？",
     "options": [
@@ -462,166 +394,5 @@
       "2RC\n\n\n\n\n                      107 -7\n                         104\n\n\n\n\n                               年\n                        試題\n           第二部分         歷屆試題\n\n           試題答案\n      題號"
     ],
     "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "2.",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "4.",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "6.",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "7",
-    "text": "8.",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "10.\n      解答     D          A              A         D            A           C      D       D     A     B\n      題號",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "11",
-    "text": "12.",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "13",
-    "text": "14.",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "15",
-    "text": "16.",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "17",
-    "text": "18.",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "19",
-    "text": "20.\n      解答     B          D              D         A            D           D      A       B     C     D\n      題號",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "25",
-    "text": "26.",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "27",
-    "text": "28.",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "31",
-    "text": "32.",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "33",
-    "text": "34.",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "35",
-    "text": "36.",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "41",
-    "text": "42.",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "43",
-    "text": "44.",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "45",
-    "text": "46.",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "49",
-    "text": "50.\n      解答     C          B              B         D            B           B      D       C     D     B\n           試題解析\n\n      題次                                                    解析內容\n      3                                                     t\n            V (t)  100 sin( t  270O )  100 sin( 2         270O )\n                                                            T",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "01(sec)\n             100 sin( 360O                  270O )  100 sin 90O  100(V )",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "01(sec)\n\n\n      5            VE  VF 30(V) ",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "28",
-    "text": "5( V)\n            VR                            ",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "05263 ",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "3%\n                     VF",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "28",
-    "text": "5(V)\n                           Tnew                  90 o C\n      6\n            I new  I old  2 T  3n( A)  2 30 C  3  64n( A )  192n( A )\n                                                   o\n                             old\n\n\n\n\n      9        max[6(V),4(V),2(V),-2(V)] - 1(V) 5  1\n            I                                  ",
-    "options": [
-      " 5m",
-      "1k                    1k\n      11    V[D1 (K) & D2",
-      "]  V[D3 (K) & D4",
-      "]  Vo  Vi  2(V)\n\n      15    VO  2 "
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5mA  2mA\n                                        2           62                   2\n\n\n\n                                                          107 -8\n                                                                年\n                                                             104\n\n\n\n\n                                                            試題\n                                                            試題\n             107 年試題\n\n\n\n\n                       107\n                        年\n                        試\n                        題\n\n\n\n\n107 -9\n   104\n\n\n\n\n         年\n  試題",
-    "options": [],
-    "answer": "3"
   }
 ]

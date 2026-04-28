@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 6 頁(含 A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n    注",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分，共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n           試題或其他紙張作答者不予計分。\n    意",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n    事      個選項者倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止，未作答者不給\n           分亦不扣分。\n    項",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n           處所索取。\n\n\n[C]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
     "text": "以「共軛梁法」求得共軛梁上任一點之剪力，其代表原梁同位置之何項數值？",
     "options": [
       "應力",
@@ -102,23 +66,6 @@
     "answer": "1"
   },
   {
-    "number": "7",
-    "text": "如右圖所示之簡支梁，其梁內最大撓曲正向應力 σ 為多少 𝑘𝑘𝑘𝑘� 2 ？\n                                        𝑐𝑐𝑐𝑐\n                                                              w=10 kN/m",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "5\n                                                                                                    20 cm",
-    "options": [
-      "25",
-      "2500                                                                      12 cm\n                                                                  4m\n\n[D]"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "8",
     "text": "一圓形剖面，面積為 60 𝑐𝑐𝑐𝑐2，今受剪力 360 N，求其剖面上之最大剪應力為多少 𝑁𝑁�𝑐𝑐𝑐𝑐2 ？",
     "options": [
@@ -128,44 +75,6 @@
       "8\n[B]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "9",
-    "text": "兩物體 a 及 b，物體 a 自斷崖峭壁頂端自由落下，經過 1 秒後，物體 b 在同一個地點以\n       20 𝑚𝑚⁄𝑠𝑠𝑠𝑠𝑠𝑠 之速度垂直投下，求距峭壁頂端以下多遠距離 (m)，物體 b 能追上物體 a？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "37",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "10",
-    "text": "74",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "18",
-    "text": "9",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "21",
-    "text": "48\n[C]",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "10",
@@ -199,44 +108,6 @@
       "1600\n                                                      A                                           B\n                                                                      12 m\n\n[A]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "13",
-    "text": "如右圖所示，求斜線區域之形心位置 y 座標為何？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "14 r",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "38 r\n                                                          r",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "52 r",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "76 r\n                                                          r\n                                                                                                          x\n                                                                               O\n                                                                  r       r        r        r\n[C]",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "14",
@@ -283,14 +154,6 @@
     "answer": "2"
   },
   {
-    "number": "18",
-    "text": "如右圖所示，正方形斷面之懸臂梁，於自由端受集中載重 P，假設此梁由理想彈塑性材料所\n        組成，若降伏應力 𝜎𝜎𝑦𝑦 = 100 𝑀𝑀𝑀𝑀𝑀𝑀，h = 10 𝑐𝑐𝑐𝑐，L = 5 𝑚𝑚，求 P 之極限值為多少 kN？\n                                                                                                     P",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
     "number": "19",
     "text": "如右圖所示，簡支梁於 ����\n                   BC 段受均布彎矩，其梁內最大彎矩值為多少 t ∙ m？",
     "options": [
@@ -300,24 +163,6 @@
       "5                                            B                        C"
     ],
     "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "5m               5m",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "5m\n[A]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "20",
-    "text": "某 材 料 彈 性模 數 E = 180 GPa ，蒲松 比(Poisson’s Ratio) υ =",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "21",
@@ -331,43 +176,6 @@
     "answer": "3"
   },
   {
-    "number": "22",
-    "text": "如右圖所示之支架，由 ���� OA 和 ����\n                             BC 兩桿件鉸接於中點 D，桿件長度均為 2 m；連接 A 端與 C 端\n        之 AC 繩索長度為",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "2 m；支架上圓球半徑為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "2m               A",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "5",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "8",
-    "text": "25\n                                                                                        1m                   1m",
-    "options": [
-      "12",
-      "16                                                                        w\n                                                                                                 D\n                                                                                        1m                   1m\n\n                                                                                    O                               B\n\n\n                                     工程力學概要 第 3 頁，共 6 頁                                     【請翻頁繼續作答】\n[D]"
-    ],
-    "answer": "4"
-  },
-  {
     "number": "23",
     "text": "如右圖所示之構架，其 A、B、C 點均為鉸接，求 C 點之反力為多少 N？\n                                                                                 5kN\n           5√2             50√2",
     "options": [
@@ -375,27 +183,6 @@
       ""
     ],
     "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "5m",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5m\n                            6                                                            B\n\n           500√2           5000√2",
-    "options": [
-      "",
-      "3m\n            6                   6\n                                                                                                        C\n                                                                  6m\n                                                                                              3m\n\n\n\n                                                                            A\n\n\n[A]"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "24",
-    "text": "如右圖所示，A、B 兩物體質量分別為 20 kg 與 10 kg，繫於繞過滑輪之繩索兩端並靜置於斜\n        面上，已知兩物體與斜面之靜摩擦係數 µ =",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "25",
@@ -451,20 +238,6 @@
       "300 kgf                                12m       12m          12m\n\n\n                                                                                   F F= 200\n                                                                                     = 200 kgfkg\n\n                                工程力學概要 第 4 頁，共 6 頁                               【請另頁繼續作答】\n[C]"
     ],
     "answer": "3"
-  },
-  {
-    "number": "30",
-    "text": "如右圖，ㄧ梯重 160 kgf，牆面與梯之摩擦力不計(光滑面)，梯與地板之                                                                       B\n        靜摩擦係數為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "31",
-    "text": "一長度為1 m之桿件，因受軸向拉力作用伸長2 mm，試求其軸向應變為何？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
   },
   {
     "number": "32",
@@ -533,44 +306,6 @@
     "answer": "1"
   },
   {
-    "number": "38",
-    "text": "如右圖之靜不定梁，F = 100 kg作用力於C點，試求B端之反力為何？\n                                                                                       100 kg",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "30",
-    "text": "25 kg",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "31",
-    "text": "25 kg",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "32",
-    "text": "25 kg",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "33",
-    "text": "25 kg                                                  C                           B\n                                                                             3m                  3m\n[A]",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "39",
     "text": "下列何者為滾動摩擦係數單位？",
     "options": [
@@ -611,23 +346,6 @@
       "二次方拋物線",
       "三次方拋物線",
       "水平線\n\n[C]"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "43",
-    "text": "如右圖，有三支直徑d =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "2 cm之螺栓連接三鈑，\n        受 P =9000 kg作用，求每支螺栓之剪應力為何？                 P/2\n                                                                      P",
-    "options": [
-      "398 kg/cm2",
-      "663 kg/cm2               P/2",
-      "1327 kg/cm2",
-      "1990 kg/cm2\n[A]"
     ],
     "answer": "3"
   },

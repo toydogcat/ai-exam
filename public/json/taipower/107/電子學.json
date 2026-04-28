@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 6 頁(含 A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n      注     試題或其他紙張作答者不予計分。\n      意",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n      事     個選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，\n            不給分亦不扣分。\n      項",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n            處所索取。\n\n\n[A]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
     "text": "若有一電荷載有4 × 1016 個電子，試求該電荷帶有多少電量？",
     "options": [
       "-1.8× 10−20庫倫",
@@ -47,12 +11,6 @@
     "answer": "2"
   },
   {
-    "number": "2",
-    "text": "已知某一信號的週期是",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "0",
     "text": "04秒，其頻率為下列何者？",
     "options": [
@@ -60,29 +18,6 @@
       "40 Hz",
       "250 Hz",
       "400 Hz\n                                       0)\n[C]"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "已知一交流電壓𝒱(𝑡)= 100sin(𝜔𝑡 − 270         V，週期T =",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "01秒，當t =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "01秒時，𝒱(𝑡)之瞬間電\n       壓值為下列何者？",
-    "options": [
-      "100 V",
-      "-100 V",
-      "50 V",
-      "-50 V\n[]"
     ],
     "answer": "2"
   },
@@ -98,44 +33,6 @@
     "answer": "2"
   },
   {
-    "number": "5",
-    "text": "某一直流電源供應器未接任何負載時，輸出電壓為 30 V，接上滿負載後，輸出電壓為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "28",
-    "text": "5 V\n        ，則其V.R.%約為下列何者？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "3 %",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "5 %",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "95 %",
-    "options": [
-      "-2.5 %\n[]"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "6",
     "text": "某矽二極體在溫度 30 ℃時的逆向飽和電流為 3 nA，若溫度上升至 90 ℃時，則逆向飽和電流\n        為下列何者？",
     "options": [
@@ -144,50 +41,6 @@
       "192 nA",
       "180 nA\n[]"
     ],
-    "answer": "2"
-  },
-  {
-    "number": "7",
-    "text": "有一個矽二極體在室溫 25 ℃時，端電壓為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "77 V，當溫度上升至 95 ℃時，端電壓為下列何\n        者？\n        註: 𝑉𝐷(𝑇2 ) = 𝑉𝐷(𝑇1 ) + (𝑇2 − 𝑇1 ) × (−2.5𝑚𝑉/℃)",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "7 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "688 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "658 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "595 V\n[]",
-    "options": [],
     "answer": "2"
   },
   {
@@ -224,20 +77,6 @@
     "answer": "1"
   },
   {
-    "number": "1",
-    "text": "3 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "7 V\n\n\n\n\n[]",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "14",
     "text": "已知全波整流中，輸出電壓有效值 𝑉 ，平均值為 𝑉 ，則 𝑉𝑟𝑚𝑠 為下列何者？\n                        𝑟𝑚𝑠     𝑎𝑣           𝑉𝑎𝑣\n        𝜋             𝜋             √2                𝜋",
     "options": [
@@ -249,46 +88,6 @@
     "answer": "1"
   },
   {
-    "number": "7",
-    "text": "05 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "14",
-    "text": "1 V",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "28",
-    "text": "2 V",
-    "options": [
-      "40 V\n\n\n[]"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "7，β = 100，𝑅𝐵 =\n       200 𝑘Ω，𝑅𝐶 = 4 𝑘Ω，則集極電壓𝑉𝐶 約為下列何者？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "4 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
     "number": "3",
     "text": "5 V",
     "options": [
@@ -298,44 +97,6 @@
     "answer": "4"
   },
   {
-    "number": "0",
-    "text": "7 𝑉，β = 99\n       ，求𝐼𝐵 電流約為下列何者？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "003 mA",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "022 mA",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "3 mA",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "7 mA\n\n\n\n\n[]",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "19",
     "text": "承上題，𝐼𝐶 電流值約為下列何者？",
     "options": [
@@ -343,127 +104,6 @@
       ""
     ],
     "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "2 mA",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "2 mA",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "5 mA\n[]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "20",
-    "text": "某一電晶體經量測結果其β值為99，請問電晶體之α值為下列何者？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "6",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "7",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "8",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "99\n[]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "995，基極電流I𝐵 =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "04 mA，集極電流I𝐶 =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "0 mA，則該電晶體工作於下列\n       何區？",
-    "options": [
-      "飽和區",
-      "作用區",
-      "截止區",
-      "線性區\n[]"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "25",
-    "text": "有一電晶體偏壓於作用區，測得𝐼𝐵 =",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "05 mA、I𝐸 = 5 mA，則此電晶體的α參數值為下列何\n       者？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "01",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "99",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "9",
-    "options": [
-      "100\n[]"
-    ],
-    "answer": "4"
   },
   {
     "number": "28",
@@ -488,44 +128,6 @@
     "answer": "2"
   },
   {
-    "number": "36",
-    "text": "有一JFET之汲極偏壓電流𝐼𝐷𝑆𝑆 = 3 𝑚𝐴，其中𝑉𝐺𝑆(𝑂𝐹𝐹) = −3 V，當此JFET工作於𝑉𝐺𝑆 = −1 V\n       時，其順向轉移互導gm為多少毫姆歐？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "33",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "67",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "55",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "85\n\n\n\n\n                              電子學 第 4 頁，共 6 頁                【請另頁繼續作答】\n[]",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "2",
     "text": "5 𝑚𝐴/𝑉(即μ = 25)，其電壓增益Av=| 𝑉𝑖 |\n    為下列何者？",
     "options": [
@@ -533,85 +135,5 @@
       ""
     ],
     "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "5",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "5\n\n\n\n\n[]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 𝑚𝐴；𝐼𝐸 =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "99 𝑚𝐴",
-    "options": [
-      "𝐼𝐶 = 1 𝑚𝐴；𝐼𝐸 ="
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "08 𝑚𝐴",
-    "options": [
-      "𝐼𝐶 = 2 𝑚𝐴； 𝐼𝐸 ="
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "02 𝑚𝐴",
-    "options": [
-      "𝐼𝐶 ="
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "98 𝑚𝐴；𝐼𝐸 =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "49 𝑚𝐴\n\n\n\n\n[]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "10",
-    "text": "1 mV",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "01 mV",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "100",
-    "text": "1 mV",
-    "options": [
-      "101 mV\n[]"
-    ],
-    "answer": "1"
   }
 ]

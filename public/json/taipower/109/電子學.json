@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 5 頁(A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n       注",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分，共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n             試題或其他紙張作答者不予計分。\n       意",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n       事     個選項者倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止，未作答者不給\n             分亦不扣分。\n       項",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n             處所索取。\n\n\n[D]",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "1",
     "text": "假設電晶體的α參數由0.99變化到0.98，則β參數之變化為何？",
     "options": [
       "由49變化到88",
@@ -70,81 +34,12 @@
   },
   {
     "number": "4",
-    "text": "小林想設計一個穩定電壓的全波整流輸出電路，其輸出的直流平均電壓VDC =",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "7 V，則其輸\n         入的交流正弦波的峰對峰值電壓約為何？",
-    "options": [
-      "4 V",
-      "6 V",
-      "8 V",
-      "12 V\n[B]"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "某P通道增強型MOSFET，導電參數K =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "4",
     "text": "5 mA",
     "options": [
       "2 mA",
       ""
     ],
     "answer": "4"
-  },
-  {
-    "number": "6",
-    "text": "如右圖所示，若V 10 sin V，二極體為理想狀態，試                             R =1kΩ\n []      求流過負載的峰值電流為何？",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "7",
-    "text": "如右圖所示，試求集極電流的飽和值為何？                                        20V\n []",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "96 mA\n                                                                           IC",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "96 mA",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "96 mA                             510kΩ                4kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "96 mA\n                                                         β =100\n\n                                                                      1kΩ\n\n\n\n\n[A]",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "8",
@@ -177,37 +72,6 @@
       "由逆向飽和電流決定",
       "隨順向偏壓降低而增加\n[D]"
     ],
-    "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "某電晶體電路測得電流增益為200，集極電流為10 mA，試求射極電流為何？",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "9",
-    "text": "9 mA",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "9",
-    "text": "95 mA",
-    "options": [
-      "10 mA",
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "10",
-    "text": "05 mA\n[B]",
-    "options": [],
     "answer": "1"
   },
   {
@@ -275,56 +139,6 @@
       "- 20\n                                                                1kΩ\n\n\n\n[D]]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "5 V，RS =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "5 kΩ，則   為何？                      20V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "8",
-    "text": "5 V\n                                                                         RD        6kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "5 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "10",
-    "text": "5 V                                                            D",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "5 V                                                  G\n                                                                               S\n                                                        1M Ω\n                                                                                R s =",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "5 k Ω\n\n\n\n\n[D]",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "19",
@@ -404,23 +218,6 @@
     "answer": "1"
   },
   {
-    "number": "7",
-    "text": "07 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "414 V",
-    "options": [
-      "1 V",
-      ""
-    ],
-    "answer": "4"
-  },
-  {
     "number": "31",
     "text": "關於雙極性接面電晶體(BJT)射極基極介面為逆向偏壓，集極基極介面為逆向偏壓時，請問\n []     BJT處於何種區域模式？",
     "options": [
@@ -454,14 +251,6 @@
     "answer": "3"
   },
   {
-    "number": "4",
-    "text": "5 V",
-    "options": [
-      "5 V\n[C]"
-    ],
-    "answer": "4"
-  },
-  {
     "number": "37",
     "text": "一功率放大器之直流輸入功率為100 W，交流輸出功率為86 W，其類型為何？\n []",
     "options": [
@@ -484,12 +273,6 @@
     "answer": "2"
   },
   {
-    "number": "42",
-    "text": "NPN電晶體工作於主動區，其射極流出的電子有0.125 %在基極與電洞結合，其餘",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "43",
     "text": "如右圖所示，假設兩顆理想二極體具有完全一樣之特性，且並未發生\n []     崩潰，請問何者所跨的壓降較大？\n                                                                            D1        D2",
     "options": [
@@ -499,14 +282,6 @@
       "無法確定\n\n[C]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "44",
-    "text": "假設V(t) =V sin 的均方根值為v1，當V(t)通過一個理想全波整流器後，其輸出電壓之均方\n []     根值為v2，則v1/ v2為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
   },
   {
     "number": "46",

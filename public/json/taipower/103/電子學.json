@@ -1,57 +1,5 @@
 [
   {
-    "number": "1",
-    "text": "本科目禁止使用電子計算器。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "本試題共 5 頁(含 A3 紙 1 張、A4 紙 1 張)。\n注",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n意        試題或其他紙張作答者不予計分。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一個\n事        選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，不\n項        給分亦不扣分。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟該節考試結束後，始得至原試場索取。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "頻率為 200 MHz 之訊號，其波長為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 公尺",
-    "options": [
-      "15 公尺"
-    ],
-    "answer": "3"
-  },
-  {
     "number": "2",
     "text": "某一電路的輸入電壓波形方程式為 V(t)＝100 2 sin(314t + 15°)伏特，則此電路在 t＝1/600 秒\n  時的電壓值約為？",
     "options": [
@@ -128,12 +76,6 @@
     "answer": "3"
   },
   {
-    "number": "9",
-    "text": "一電源電路之輸出電壓為 10 +",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "1",
     "text": "4 ％",
     "options": [
@@ -141,12 +83,6 @@
       ""
     ],
     "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "8 ％\n          10 : 1\n\n                   C1                                C3\n                                                                                    AC\n                                                                                    AC\n                                                                                    110V\n  100V                      D1                 D2              D3             D4    110V\n  60HZ\n                                                                                    60Hz\n                                                                                    60HZ\n                                                                                                                                              RL   VO\n                                                                                                                                          C\n                                 C2                                 C4\n                                                     Vo\n\n                            【圖 4】                                                                            【圖 5】",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "10",
@@ -226,44 +162,6 @@
     "answer": "2"
   },
   {
-    "number": "17",
-    "text": "承第 16 題，若 VCC＝12 V，VBE＝0.7 V，β＝100，RB＝100 kΩ，RC＝400 kΩ，則 IC 約為？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "8 mA",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "6 mA",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "11",
-    "text": "3 mA",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "15",
-    "text": "8 mA\n\n\n\n                                                               電子學 第 2 頁，共 5 頁",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "18",
     "text": "維持韋恩電橋震盪器工作之電壓增益(AV)，最小需要多少？",
     "options": [
@@ -275,58 +173,6 @@
     "answer": "1"
   },
   {
-    "number": "1",
-    "text": "6k\n           RB                               Vo\n           100k\n      Vi                                                                              vi                      C                   vo\n                                           VZ = 4V        R2\n                β = 100\n\n\n\n                  【圖 8】                                         【圖 9】                                【圖 10】",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "19",
-    "text": "如【圖 8】所示，若 VCE(sat)=0.2 V，VBE=0.7 V、Vi=2.7 V，則 Vo 約為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "20",
-    "text": "如【圖 9】所示之電路，VCC＝10 V，R1＝R2＝100 kΩ，RC＝1 kΩ，電晶體為矽質，β＝50，\n   則其集極與射極之電位差 VCE 約為？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "5 V",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "6 V",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "7 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "8 V",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "21",
     "text": "如【圖 10】所示，若 R=40 Ω，C=8 μF，則濾波器的截止頻率(cut-off frequency)約為？",
     "options": [
@@ -336,14 +182,6 @@
       "500 Hz\n\n                      +Vcc                                                                                                       Vcc\n                                                      2kΩ                        iT\n                                                                                 a                                                 2kΩ\n                                                      i                                                           R1         R2          C3\n                                                                                                                                               Vo\n                                                          4vT       50i         10Ω        vT                               C2\n                                                                                                         C1\n                                                                                                Vi\n     Ri                                                                          b                                     R3\n                                     10Ω                                                                                     R4           C4\n\n\n\n            【圖 11】                                              【圖 12】                                                 【圖 13】"
     ],
     "answer": "4"
-  },
-  {
-    "number": "22",
-    "text": "如【圖 11】所示，若三個電晶體之特性完全相同，其低頻小訊號混合 π 參數的 rb=0，ro=∞，\n   β=100，rπ 忽略不計，則輸入阻抗為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
   },
   {
     "number": "23",
@@ -377,14 +215,6 @@
       "(2,4)"
     ],
     "answer": "4"
-  },
-  {
-    "number": "26",
-    "text": "如【圖 12】所示，請問其戴維寧等效電阻 Rab 為？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
   },
   {
     "number": "27",
@@ -474,44 +304,6 @@
     "answer": "2"
   },
   {
-    "number": "35",
-    "text": "某一 JFET 之 IDSS＝10 mA，Vgs（OFF）＝-5 V，試計算在偏壓點 Vgs＝-2 V 的 gm 值為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "2 mS",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "8 mS",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "4 mS",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "6 mS",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "36",
     "text": "FET 電晶體與 BJT 電晶體兩者比較，下列何者有誤？",
     "options": [
@@ -528,15 +320,6 @@
     "options": [
       "2 V",
       ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "414 V",
-    "options": [
-      "-2 V",
-      "0 V"
     ],
     "answer": "3"
   },
@@ -607,12 +390,6 @@
     "answer": "1"
   },
   {
-    "number": "6",
-    "text": "8 kΩ",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "44",
     "text": "承第 43 題，電壓增益 AV=？",
     "options": [
@@ -653,36 +430,6 @@
       "265 kHz～397.5 kHz",
       ""
     ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "6 MHz～2.5 MHz",
-    "options": [
-      "442 GHz～995 GHz"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "48",
-    "text": "如【圖 21】所示電路，其輸出端之工作週期為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "33",
-    "text": "3 ％",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "16",
-    "text": "7 ％",
-    "options": [],
     "answer": "2"
   },
   {

@@ -1,36 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 4 頁(A3 紙 1 張)。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n      注",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n              試題或其他紙張作答者不予計分。\n      意",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n              處所索取。\n\n\n[A]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
     "text": "下列何者有誤？",
     "options": [
       "慣性矩為純量",
@@ -107,15 +77,6 @@
     "answer": "2"
   },
   {
-    "number": "9",
-    "text": "8",
-    "options": [
-      "98",
-      "980\n[C]"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "20",
     "text": "下列何者正確？",
     "options": [
@@ -125,68 +86,5 @@
       "力偶矩非向量\n[]"
     ],
     "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "2",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "6\n[]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "8",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "6",
-    "text": "4",
-    "options": [
-      "8",
-      "64",
-      "80\n[]"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "5 10",
-    "options": [
-      "7 10",
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "05 10",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "1 10\n[]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "25\n                                                    A                   B",
-    "options": [
-      ""
-    ],
-    "answer": "2"
   }
 ]

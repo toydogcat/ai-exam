@@ -1,116 +1,12 @@
 [
   {
     "number": "1",
-    "text": "本試題共 6 頁(含 A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n      注",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於\n               本試題或其他紙張作答者不予計分。\n      意",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n      事        個選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，\n               不給分亦不扣分。\n      項",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當處所\n               索取。\n\n\n2 [D]",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "有一脈波寬度為100 μs，工作週期為50 %，則此脈波之頻率為何？",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "如右圖所示電路，若二極體之導通電壓為0.7 V                     500Ω\n         ，則輸出電壓值Vo為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "7 V",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "7 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "6",
-    "text": "7 V",
-    "options": [
-      "10 V                 12V                        V0"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "5kΩ\n                                                      6V    6V\n\n\n\n8 [A]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "有一電源電路之輸出電壓V(t)= 10＋0.2sin(ωt)伏特，則其漣波因數百分比約為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "1",
     "text": "41 %",
     "options": [
       "2 %",
       ""
     ],
     "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "24 %",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "21 %\n11 [B]",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "4",
@@ -122,44 +18,6 @@
       "10 %\n                                                                                    +VCC\n14 [C]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "如右圖所示電路，假設射極電壓V E = -0.7 V，β = 50，V CC = 10 V，則V C 約\n                                                                                     5kΩ\n          為多少？\n                                                                                         VC",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "37 V",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "82 V",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "44 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "73 V\n                                                                                    VE\n                                                                                     10kΩ\n\n                                                                                    -10V\n\n17 [D]",
-    "options": [],
-    "answer": "4"
   },
   {
     "number": "6",
@@ -217,14 +75,6 @@
     "answer": "3"
   },
   {
-    "number": "11",
-    "text": "如右圖所示電路，若Q1與Q2完全相同，則Vo的週期約為多少？                                           VCC",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
     "number": "2",
     "text": "1 RC",
     "options": [
@@ -232,14 +82,6 @@
       ""
     ],
     "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "4 RC",
-    "options": [
-      ""
-    ],
-    "answer": "4"
   },
   {
     "number": "12",
@@ -308,36 +150,6 @@
     "answer": "4"
   },
   {
-    "number": "18",
-    "text": "如右圖所示之LED驅動電路，使LED發亮的電壓為 2 V，電流為 15 mA                                   +5V\n\n          ，假設飽和電晶體之VCE(sat)電壓降可忽略不計，VBE(sat) =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "19",
-    "text": "如右圖所示之放大電路，已知電晶體的β值為109，此電路的rπ為                                          10V",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "1 kΩ，則此放大電路的輸出阻抗Zo約為多少？                                     R1",
-    "options": [
-      "1 kΩ",
-      "100 Ω\n                                                            Vi",
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "9",
-    "text": "9 Ω",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
     "number": "20",
     "text": "有一電路之電流增益Ai = 49，輸入阻抗為2 kΩ，輸出阻抗為18 kΩ，則此電路之電壓增益為何？",
     "options": [
@@ -391,12 +203,6 @@
       "輸出電壓Vo ="
     ],
     "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "25 mV\n25 [A]",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "25",
@@ -476,20 +282,6 @@
     "answer": "4"
   },
   {
-    "number": "32",
-    "text": "有一電晶體，適當偏壓於作用區，測得IB =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "9",
-    "options": [
-      "100\n48 [A]"
-    ],
-    "answer": "3"
-  },
-  {
     "number": "33",
     "text": "下列何種電路不具備電流放大的功能？",
     "options": [
@@ -521,156 +313,6 @@
       "飽和區(saturation region)內\n40 [B]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "36",
-    "text": "如右圖所示電路，電晶體的 = 100，集極電流為 2 mA，VCE = 4 V，RC兩端                                    VCC\n                                                                                            12V\n           之電壓為 4 V，VBE =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "37",
-    "text": "如右圖所示電路，電晶體的  = 120，VCE(sat) =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "6 V，當Vi",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "7kΩ\n           = 2 V，Vo約為多少？\n                                                                                              V0",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "8 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "6 V                                  100kΩ      I",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "3 V",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "7",
-    "text": "3 V                             Vi\n\n\n\n\n30 [B]",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "38",
-    "text": "如右圖所示電路，電晶體的  = 120，VCE(sat) =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "6 V，當Vi",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "7kΩ\n           = 3 V，Vo約為多少？                                                                      V0",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "8 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "3 V                                  100kΩ      I\n                                                                   Vi",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "6 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "3 V\n\n\n                                  電子學    第 4 頁，共 6 頁                        【請另頁繼續作答】\n31 [D]",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "39",
-    "text": "如右圖所示電路，電晶體的  = 120，VCE(sat) =",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "6 V，當Vi",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "7kΩ\n           = 3 V時，電流I約為多少？\n                                                                                        V0",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "3 mA",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "17 mA                                100kΩ     I",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "9 mA",
-    "options": [
-      "0 mA                              Vi\n\n\n\n\n46 [A]"
-    ],
-    "answer": "2"
   },
   {
     "number": "40",
@@ -717,23 +359,6 @@
     "answer": "3"
   },
   {
-    "number": "44",
-    "text": "有一採用共源極放大電路之場效電晶體，其參數gm =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 m ，rd = 10 kΩ，已知電路中不存在源極\n           電阻RS，而汲極電阻RD = 10 kΩ，請問該電路之電壓增益AV為何？",
-    "options": [
-      "-30",
-      "-18.75",
-      "-7.5",
-      "-5\n\n                                        電子學   第 5 頁，共 6 頁                    【請翻頁繼續作答】\n35 [D]"
-    ],
-    "answer": "4"
-  },
-  {
     "number": "45",
     "text": "下列敘述，何者有誤？",
     "options": [
@@ -765,23 +390,5 @@
       "-1\n                                                                            R4\n                                                           C2\n\n\n42 [C]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "48",
-    "text": "右圖為理想放大器所構建之韋恩電橋(Wien-bridge)振\n           盪器，若R1 = 4 kΩ，R2 =1 kΩ，R4 = 10 kΩ，C1 =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "49",
-    "text": "右圖為理想放大器所構建之韋恩電橋(Wien-bridge)振                       R1\n           盪器，若R1 = 4 kΩ，R2 =1 kΩ，R4 = 10 kΩ，C1 =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "50",
-    "text": "右圖為理想放大器所構建之韋恩電橋(Wien-bridge)振                       R1\n           盪器，若R1 = 4 kΩ，R2 =1 kΩ，R4 = 10 kΩ，C1 =",
-    "options": [],
-    "answer": "2"
   }
 ]

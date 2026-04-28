@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 4 頁(A3 紙 1 張)。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n        注     試題或其他紙張作答者不予計分。\n        意",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n        事     個選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，\n              不給分亦不扣分。\n        項",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n              處所索取。\n\n\nB",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
     "text": "下列變壓器中性點接地方式，於電力系統發生單相接地故障時，何者故障電流最大？",
     "options": [
       "不接地",
@@ -45,34 +9,6 @@
       "電阻接地\nC [B]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "所謂圓密爾是以直徑為1密爾( = 1 吋)所決定之圓面積，其1圓密爾等於多少？(π =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "14159)\n                              1000",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "50",
-    "text": "67× 10−6平方公分",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "50",
-    "text": "67× 10−6 平方公厘\nD [C]",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "3",
@@ -185,43 +121,6 @@
     "answer": "2"
   },
   {
-    "number": "18",
-    "text": "承上(17)題，𝑍 =",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "5 + 𝑗2 (Ω)，𝑌1 = 𝑗1 (℧ )，𝑌2 = 𝑗1.2 (℧ )，請問線路常數B為下列何者？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5 + 𝑗2",
-    "options": [
-      "3 − 𝑗5",
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "4 − 𝑗4",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "4 − 𝑗1.8\nA []",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "19",
     "text": "如右圖所示，為一平衡三相電路，利用200/5 A 比流器量測線路電流，                               R            S        T    ia\n         若一次側電流均為40√3 A，則電流表○\n                            A 之讀值應為多少A？\n                                                                                                      ic",
     "options": [
@@ -252,80 +151,6 @@
       "80 kW",
       "100 kW\nD []"
     ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "34",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "72",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "86",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "38\nD []",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "95",
-    "text": "31",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "89",
-    "text": "4\nB []",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "03",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "045",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "1",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "15\nC []",
-    "options": [],
     "answer": "1"
   },
   {

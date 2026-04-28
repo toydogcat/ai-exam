@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 6 頁(A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n   注",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分，共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n            試題或其他紙張作答者不予計分。\n   意",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n   事        個選項者倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止，未作答者不給\n            分亦不扣分。\n   項",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n            處所索取。\n\n\n[A]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
     "text": "材料受外力作用而變形，當外力除去時，材料之變形依舊，不能恢復之性質稱為何？",
     "options": [
       "塑性",
@@ -45,62 +9,6 @@
       "彈性\n[B]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "如右圖所示，T形面積之形心位置為何？",
-    "options": [
-      "̅ ="
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "8 cm， =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "2 cm",
-    "options": [
-      "̅ ="
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "2 cm， = 4 cm",
-    "options": [
-      "̅ ="
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "2 cm， =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "8 cm",
-    "options": [
-      "̅ ="
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "8 cm， =",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "3",
-    "text": "2 cm\n\n\n\n\n[C]",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "3",
@@ -202,48 +110,6 @@
     "answer": "4"
   },
   {
-    "number": "12",
-    "text": "某正方形斷面桿件承受軸向壓力作用，材料蒲松比μ=1 / 4，彈性模數 E = 270 GPa，當應力\n        達到30 MPa時，斷面邊長增加",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "36",
-    "text": "6 cm",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "24",
-    "text": "6 cm",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "16",
-    "text": "2 cm",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "14",
-    "text": "4 cm\n\n[A]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "13",
-    "text": "如右圖所示，一物體受到三方向軸力作用， = 400 kN，                                    z\n                                                                                  Fz\n           = 1200 kN，Fz = 80 kN，物體彈性模數為 10 GPa，蒲松比     100mm\n        為",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "14",
     "text": "如右圖所示，應力元素之彈性模數為 E，蒲松比μ，其體積應變\n        為何？\n                                                                                  z",
     "options": [
@@ -286,27 +152,6 @@
     "answer": "2"
   },
   {
-    "number": "3",
-    "text": "5 mm",
-    "options": [
-      "5 mm",
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "5 mm\n[C]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "18",
-    "text": "一均質彈性材料之蒲松比為",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "19",
     "text": "某材料受剪力作用後產生0.002 rad之剪應變，若其剪應力為 500 MPa，其材料之剪力模數G應\n        為何？",
     "options": [
@@ -327,44 +172,6 @@
       "與最小主應力相同\n\n[C]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "21",
-    "text": "如右圖所示，AB段為實心銅管，直徑 4 cm，BC段為中空鋁管，外徑 3 cm，內徑 2 cm，\n        則銅管最大軸向應力為多少？                         4 cm\n                                      Cu                    3 cm\n        ( ：拉應力， ：壓應力)                                 Al          2 cm",
-    "options": [
-      "50 MPa"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "14kN",
-    "options": [
-      "-25 MPa                A        B"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "28kN C",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "42kN",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "12",
-    "text": "5 MPa",
-    "options": [
-      "-10 MPa\n\n[D]"
-    ],
-    "answer": "4"
   },
   {
     "number": "22",
@@ -477,38 +284,6 @@
     "answer": "3"
   },
   {
-    "number": "32",
-    "text": "如右圖所示之簡支梁，其最大彎矩發生的位置與A點                                                             10 t\n                                                            2 0 t /m\n        距離為何？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "6 m                             A                                                                 B",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "3 m",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "8 m                                                    6 m               2 m          2 m",
-    "options": [
-      "8 m\n[D]"
-    ],
-    "answer": "3"
-  },
-  {
     "number": "33",
     "text": "如右圖所示，梁中最大彎矩位於何處？                             60 kg /m",
     "options": [
@@ -540,23 +315,6 @@
       "中點\n[B]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "36",
-    "text": "如右圖所示，寬 12 cm 高 20 cm之矩形懸臂梁自由端承受一集中載\n        重P，該梁之容許彎曲應力為",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5 GPa，則最大容許載重P為何？",
-    "options": [
-      "100 kN",
-      "80 kN",
-      "60 kN",
-      "50 kN\n[C]"
-    ],
-    "answer": "1"
   },
   {
     "number": "37",
@@ -688,12 +446,6 @@
       "最大靜摩擦係數",
       "靜摩擦係數\n[D]"
     ],
-    "answer": "4"
-  },
-  {
-    "number": "49",
-    "text": "如右圖所示，物體與斜面間之最大靜摩擦係數為",
-    "options": [],
     "answer": "4"
   },
   {

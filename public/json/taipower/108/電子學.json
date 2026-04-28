@@ -1,88 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 6 頁(A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n    注",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分，共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n          試題或其他紙張作答者不予計分。\n    意",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n    事     個選項者倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止，未作答者不給\n          分亦不扣分。\n    項",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n          處所索取。\n\n\n[C]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "若有一訊號其i t   4     2sin10t ，其平均值、有效值分別為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "√2",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "√18",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "√20\n[B]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "帶電量1.6 10-19庫倫的電子，通過1伏特的電位差，所需的能量為何？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "6 10-19電子伏特(eV)",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
     "text": "6 10-19焦耳",
     "options": [
       "1焦耳",
@@ -236,61 +154,6 @@
     "answer": "1"
   },
   {
-    "number": "16",
-    "text": "如右圖所示之電路，若BJT之β=1000，VBE=0.7 V，則VCE                                            15V\n\n        約為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "5 V                                                                        6kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "2 V                                                    30kΩ\n                                                                                                      Vo",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "3 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "4 V                                           Vi                               V CE\n                                                                                V BE\n                                                                    15kΩ\n                                                                                         4kΩ\n\n\n\n\n[B]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "17",
-    "text": "承第16題，假設不考慮VA (Early Effect)效應，其電壓增益              約為何？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5",
-    "options": [
-      "10",
-      "50\n[D]"
-    ],
-    "answer": "3"
-  },
-  {
     "number": "18",
     "text": "某N通道接面型場效電晶體(JFET)之夾止電壓(Pinch-Off Voltage) Vp= -4 V且源極電壓Vs= 0 V\n        ，則下列何者情況下，電晶體可工作於飽和區？",
     "options": [
@@ -313,54 +176,6 @@
     "answer": "2"
   },
   {
-    "number": "9",
-    "text": "3kΩ                   4kΩ                                                                    6MΩ\n                         V CE\n     Vi                                       Vo                             IC               Vi\n                                                         RB\n                                                                                         V0                           V BE\n                  V BE                                         IB\n                                        1kΩ                                         C1              Z2\n                                                   Vi                        V CE                                                              Vo\n                                                                                                                              Z1\n                                                        C2          V BE                                  3MΩ\n                                                                                                                                       4kΩ   4kΩ\n\n\n\n\n                  【圖 1】                                       【圖 2】                                             【圖 3】\n\n[C]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "20",
-    "text": "如【圖1】所示，若BJT之β= 50，切入電壓VBE =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "8 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "3 V",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "6",
-    "text": "8 V",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "3 V\n[D]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "21",
-    "text": "如【圖2】所示，若BJT之β= 100，VCE = 5 V，VBE =",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "22",
     "text": "如【圖3】所示，兩BJT之β= 80， VBE皆為0.7 V，若不需考慮VA (Early Effect)，且rπ很小可\n        忽略的情況下，則輸入阻抗Z1為何？",
     "options": [
@@ -369,37 +184,6 @@
       "162 kΩ",
       "324 kΩ\n[A]"
     ],
-    "answer": "3"
-  },
-  {
-    "number": "23",
-    "text": "承第22題，輸入阻抗Z2之值約為何？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "73 MΩ",
-    "options": [
-      "3 MΩ",
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "4 MΩ",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "12",
-    "text": "8 MΩ\n[A]",
-    "options": [],
     "answer": "3"
   },
   {
@@ -423,12 +207,6 @@
       "轉動率(Slew Rate, SR)\n                                                                                                        1kΩ       9k Ω             10kΩ\n[B]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "26",
-    "text": "如右圖所示之理想運算放大器電路，其電壓增益 之值\n     為何？",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "27",
@@ -462,14 +240,6 @@
       "飽和區、歐姆區\n                           電子學 第 3 頁，共 6 頁                     【請翻頁繼續作答】\n[B]"
     ],
     "answer": "3"
-  },
-  {
-    "number": "30",
-    "text": "如右圖所示放大電路，Vio為考慮運算放大器輸入抵補                                                            150kΩ\n\n        電壓後之等效電壓值。若Vi(t) = 0 V時，測得                                            50kΩ\n        Vo(t) = 20 mV，則Vio為何？                                        Vi(t)\n                                                                                                                   Vo(t)",
-    "options": [
-      ""
-    ],
-    "answer": "2"
   },
   {
     "number": "2",
@@ -548,68 +318,6 @@
     "answer": "2"
   },
   {
-    "number": "37",
-    "text": "如【圖6】所示，VD = 15 V，VGS = -3 V，則Rs為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 kΩ",
-    "options": [
-      "2 kΩ",
-      "3 kΩ",
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "5 kΩ\n[C]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "38",
-    "text": "如【圖7】所示，若MOSFET之臨限電壓(Threshold Voltage)為2 V，閘源極間電壓VGS = 4 V時\n        ，其汲極電流ID(on) = 20 mA，則此電路之汲源極間電壓VDS及汲極電流ID分別約為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "4 V、18.4 mA",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "3 V、18.4 mA",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "4 V、15.3 mA",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "5 V、15.3 mA\n[D]",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "39",
     "text": "如【圖8】所示，若一電阻電容耦合串級放大器電路之頻率響應，fL 與 fH 分別為低頻與高頻\n        截止頻率，則電路的低頻增益衰減現象由下列何者所造成？",
     "options": [
@@ -619,23 +327,6 @@
       "耦合電容\n\n\n                     VDD                                        +VDD\n\n                          RD\n                                                           40kΩ\n                               Vo                                                                               +VDD\n           RG                                                                        Vo\n                 G       D                                                                       Ci\n                                                           G      D           io            Vi              G     D\n                         S            Vi\n                                           ii                     S                                               S    Co\n          Vs                                                                        20kΩ                                         Vo\n                                                500kΩ\n                                                           1kΩ                                                              Zo\n          V GG                                                                                         1MΩ\n                                                                                                                  1kΩ\n\n\n\n\n           【圖 9】                                        【圖 10】                                            【圖 11】\n\n[C]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "40",
-    "text": "如【圖9】所示，RG= 10 kΩ，RD= 5 kΩ，若JFET之rds= 20 kΩ，gm=",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5(mA/V)，電壓增益\n     為何？",
-    "options": [
-      "-2",
-      "-4",
-      "-6",
-      "-8\n[D]"
-    ],
-    "answer": "3"
   },
   {
     "number": "41",
@@ -669,36 +360,6 @@
       "電流增益低於1\n[B]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "44",
-    "text": "某N通道增強型MOSFET放大電路，MOSFET之臨限電壓(Threshold Voltage)Vt = 2 V，參數\n        K=0.3 (mA/V2)，若MOSFET工作於夾止區(飽和區)，且閘源極間電壓VGS = 4 V，則轉移電導\n        gm為何？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "2 mA/V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "8 mA/V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "4 mA/V\n[C]",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "45",

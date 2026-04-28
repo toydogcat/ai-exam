@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本科目禁止使用電子計算機。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "本試題共 6 頁(含 A3 紙 1 張、A4 紙 1 張)。\n     注",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於\n     意     本試題或其他紙張作答者不予計分。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n     事     個選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，\n     項     不給分亦不扣分。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場索取。\n\n\n[C]",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "1",
     "text": "材料受力發生變形，當外力去除後，變形完全復原之現象稱為？",
     "options": [
       "塑性",
@@ -100,44 +64,6 @@
       "D點至E點為應變硬化現象\n\n\n[D]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "7",
-    "text": "一均勻銅棒長8 m，若在不受外力下，經均勻加熱後溫度升高100 ℃，其長度伸長0.2 cm，請\n       問其熱膨脹係數 α 為何？",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "0×10-6 cm/ cm℃",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5×10-6 cm/ cm℃",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "0×10-6 cm/ cm℃",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "5×10-6 cm/ cm℃\n[C]",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "8",
@@ -224,14 +150,6 @@
       "木塊開始運動瞬間",
       "木塊等速運動時",
       "木塊靜止時\n[B]"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "16",
-    "text": "有一鋼棒長40 cm，直徑2 cm，今受一張力作用後，軸向伸長0.05 cm，橫向同時收縮0.0005 cm\n        ，則其蒲松比(Poisson’s ratio) ν為何？",
-    "options": [
-      ""
     ],
     "answer": "2"
   },
@@ -344,30 +262,6 @@
       "受力可變形，但不致破壞之物體\n[D]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "27",
-    "text": "下列單位換算中，何者有誤？",
-    "options": [
-      "1 lb ="
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "45 N",
-    "options": [
-      "1 ft ="
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "9",
-    "text": "81 N",
-    "options": [
-      "1 MPa = 1×109 N/ m2\n                                    工程力學概要 第 3 頁，共 6 頁                            【請翻頁繼續作答】\n[B]"
-    ],
-    "answer": "2"
   },
   {
     "number": "28",
@@ -522,93 +416,6 @@
       "𝛾𝛾𝑥𝑥𝑥𝑥 = 2𝜀𝜀𝑏𝑏 − 𝜀𝜀𝑎𝑎 − 𝜀𝜀𝑐𝑐     45°\n                                                                                                    X\n                                                                      O\n                                                                                       C\n[B]"
     ],
     "answer": "3"
-  },
-  {
-    "number": "42",
-    "text": "有一系統如右圖所示，大球O1 半徑6 m，重150 kgf，小球O2 半徑4 m，                                  16 m\n        重50 kgf，所有接觸面均為光滑面，有關各接觸力，下列何者有誤？",
-    "options": [
-      "R A ="
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "37",
-    "text": "5 kgf",
-    "options": [
-      "R B = 50 kgf",
-      "R C ="
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "37",
-    "text": "5 kgf",
-    "options": [
-      "R D = 200 kgf                                               O2       C\n                                                                                       B\n                                                                     A         O1\n\n\n                                                                               D\n\n\n\n\n                                     工程力學概要 第 5 頁，共 6 頁                        【請翻頁繼續作答】\n                    �⃑= 35 kgf，作用方向由A\n[B]"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "43",
-    "text": "有一空間力如右圖所示，力F                               Y       6m   B F\n       點指向B點，則該力沿X、Y、Z分力之大小為何？",
-    "options": [
-      "F x ="
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "20",
-    "text": "F y =",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "F z = -15                                2m\n                                                                           X",
-    "options": [
-      "F x ="
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "30",
-    "text": "F y =",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "F z = -15",
-    "options": [
-      "F x ="
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "20",
-    "text": "F y =",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "F z = 15                            3m",
-    "options": [
-      "F x ="
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "30",
-    "text": "F y =",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "20",
-    "text": "F z = 15         A\n                                          Z\n[A]",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "44",

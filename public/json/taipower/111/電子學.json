@@ -1,87 +1,5 @@
 [
   {
-    "number": "1",
-    "text": "本試題共 4 頁(A3 紙 1 張)。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n    注",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分，共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n    意     試題或其他紙張作答者不予計分。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n    事     個選項者不倒扣，未作答者不給分亦不扣分。\n    項",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n          處所索取。\n\n\n[C]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "一稽納二極體，溫度40 ℃時，崩潰電壓為8 V，溫度30 ℃時，崩潰電壓為7.8 V，試求此稽納\n       二極體40 ℃時之溫度係數為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "使用一交直流電表測量一濾波電路的輸出訊號，獲得35 V直流電壓及5 V峰值之交流電壓，\n       試求其漣波百分比約為何？",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "7",
-    "text": "10 %",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "8",
-    "text": "6 %",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "9",
-    "text": "3 %",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "1 %\n[D]",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "3",
     "text": "下列敘述何者正確？",
     "options": [
@@ -91,60 +9,6 @@
       "全波整流輸出頻率較半波整流高\n[B]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "某橋式整流器之負載電阻為10 KΩ，假設輸入電源為Vi =120sin(2 π× 60 t)，若要使整流後之漣\n       波電壓Vr(p-p)限制在3 V內，試求其並聯之最少電容值為何？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "25",
-    "text": "6 μF",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "33",
-    "text": "4 μF",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "45",
-    "text": "2 μF",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "某BJT共射極組態工作於主動區，直流偏壓基極電流為10 μA，集極電流為1 mA，且熱電壓\n       VT= 25 mV，試求BJT之射極交流電阻re 約為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "24",
-    "text": "7 Ω",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "8",
-    "text": "4 Ω\n[B]",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "6",
@@ -174,18 +38,6 @@
       ""
     ],
     "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "5 mS\n[C]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "8",
-    "text": "某一正回授放大器電路形成之振盪器，其回授增益β =",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "9",
@@ -221,44 +73,6 @@
     "answer": "1"
   },
   {
-    "number": "12",
-    "text": "如右圖所示，電晶體工作於作用區，β= 99，re=30 Ω。若此\n        放大電路之電壓增益 Av= 100，試求其RC約為何？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "1 KΩ",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "3 KΩ",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "6",
-    "text": "4 KΩ",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "8",
-    "text": "6 KΩ\n[D]",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "13",
     "text": "關於變壓器耦合放大器之敘述，下列何者正確？",
     "options": [
@@ -290,42 +104,6 @@
       "電壓增益大約相同\n\n[B]"
     ],
     "answer": "3"
-  },
-  {
-    "number": "16",
-    "text": "於主動區工作之電晶體電流增益α =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "005 mA",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "505 mA",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "005 mA",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "505 mA\n[D]",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "17",
@@ -482,12 +260,6 @@
     "answer": "1"
   },
   {
-    "number": "31",
-    "text": "如右圖所示，某 RC 相移振盪器，為一理想運算放大器，若 R= 650 Ω，\n        C=",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "32",
     "text": "關於石英晶體及石英晶體振盪器之敘述，下列何者有誤？",
     "options": [
@@ -586,20 +358,6 @@
     "answer": "4"
   },
   {
-    "number": "1",
-    "text": "414 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "828 V\n[A]",
-    "options": [],
-    "answer": "4"
-  },
-  {
     "number": "41",
     "text": "有一簡單電路如右圖所示，若輸入電壓Vi為一正弦波 220sin120πt，試求其\n        經流RL之電流頻率為何？",
     "options": [
@@ -608,24 +366,6 @@
       "120 Hz",
       "240 Hz\n[B]"
     ],
-    "answer": "1"
-  },
-  {
-    "number": "42",
-    "text": "有兩個特性完全相同的電晶體，連接成如右圖之電路，該兩晶體的\n        特性如下：VBE=",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "25 mA\n\n[A]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "43",
-    "text": "若半導體之本質載子濃度為",
-    "options": [],
     "answer": "1"
   },
   {
@@ -649,18 +389,6 @@
       "R 及R 的值均非常大\n[C]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "45",
-    "text": "如右圖所示，Vi =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "2 sin(ωt) V，二極體切入電壓Vi =",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "46",

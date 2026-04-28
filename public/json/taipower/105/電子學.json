@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本科目禁止使用電子計算機。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "本試題共 6 頁(含 A3 紙 1 張、A4 紙 1 張)。\n    注",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於\n    意     本試題或其他紙張作答者不予計分。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n    事     個選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，\n    項     不給分亦不扣分。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場索取。\n\n\n[C]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
     "text": "下列敘述何者正確？",
     "options": [
       "本質半導體的導電性會因摻雜雜質原子而降低",
@@ -44,76 +8,6 @@
       "半導體的電阻溫度係數為負",
       "半導體內的漂移電流是因不均勻濃度梯度的載子所造成\n[B]"
     ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "某二極體通過電流為2 mA時順向偏壓為0.8 V，如果現在通過之電流改為32 mA，其順向偏壓\n       約為？(已知該二極體的ηVT=",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "41 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "88 V\n[A]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "如右圖電路中之二極體為理想二極體，則輸出電壓V0 為？",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "5kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "0 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "5 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "0 V\n                                                                            3kΩ   3kΩ\n                                                      4V                                 Vo\n\n\n\n\n[C]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "如右圖電路之齊納(Zener)二極體，其V Z = 30 V，其電流範圍",
-    "options": [],
     "answer": "3"
   },
   {
@@ -161,14 +55,6 @@
     "answer": "2"
   },
   {
-    "number": "8",
-    "text": "某電晶體在主動區工作，且其α值為0.99，IB = 10 μA，則IC =？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
     "number": "9",
     "text": "9 μA",
     "options": [
@@ -177,58 +63,6 @@
       "9900 μA\n[D]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "9",
-    "text": "有關理想電壓源的特性，下列何者正確？",
-    "options": [
-      "輸出呈電容性",
-      "電路內阻= ∞",
-      "輸出電流恆定",
-      "電路內阻= 0\n[D]"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "10",
-    "text": "當電阻值R B 約為多少時，右圖中之A類放大電路能有最大功率輸                                       VCC=18V\n        出(即Q點位於負載線中間處)？",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "25",
-    "text": "95 kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "34",
-    "text": "60 kΩ                                                 300Ω",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "如右圖所示電晶體電路，假設輸入信號Vs為交流小信號且                                         10V\n\n        無直流成分，又電晶體的r o 可忽略，則右圖之輸入電阻R in",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "65kΩ\n                                                                                  C=∞\n        為？\n                                                                 800kΩ",
-    "options": [
-      "β[r e +2.65 kΩ]",
-      "(1+β)[ r e +3 kΩ]                                                     3kΩ",
-      "(1+β)[ r e +2.65 kΩ]                                 800kΩ\n                                                                                             V0",
-      "(1+β)[ r e +2.65 kΩ∥3 kΩ]                     VS\n\n                                                                     Rin   -10V\n\n\n\n[C]"
-    ],
-    "answer": "2"
   },
   {
     "number": "12",
@@ -242,42 +76,6 @@
     "answer": "3"
   },
   {
-    "number": "13",
-    "text": "某一增強型MOSFET之VDS = 4 V，導電參數K=",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "6 mA",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "4 mA",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "7",
-    "text": "2 mA",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "19",
-    "text": "2 mA\n[A]",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "14",
     "text": "某一JFET的IDSS = 12 mA，V P = -2 V，則當汲極電流ID = 3 mA時，其V GS 為多少？",
     "options": [
@@ -287,36 +85,6 @@
       "-6 V\n[C]"
     ],
     "answer": "1"
-  },
-  {
-    "number": "15",
-    "text": "某一JFET操作在夾止(pinch-off)區，如其IDSS = 10 mA，夾止電壓V P = -5 V，V GS = -3 V，則其小\n        信號之互導(transconductance) gm 為？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "2 mA/V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "6 mA/V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "0 mA/V\n[B]",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "16",
@@ -363,14 +131,6 @@
     "answer": "3"
   },
   {
-    "number": "20",
-    "text": "如右圖之電路，假設處於理想狀況，當V o 增加至某一準位，而電路\n                                                                                               IREF                           Io\n        仍正常工作下，則下列何者正確？",
-    "options": [
-      "Io ="
-    ],
-    "answer": "3"
-  },
-  {
     "number": "21",
     "text": "對基本放大器增加負回授後，下列特性敘述何者有誤？",
     "options": [
@@ -380,24 +140,6 @@
       "增益與頻寬的乘積提高\n[B]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "22",
-    "text": "如右圖為一理想串聯饋送式A類放大器，其VCC = 30 V，負載R L = 9 Ω                                                                         VCC\n        ，則此放大器之電晶體Q最大消耗功率約為多少？\n                                                                                                                          RC",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "12",
-    "text": "5 W",
-    "options": [
-      "25 W                                                                           RB",
-      "50 W",
-      "75 W                                                                                                             V0\n\n                                                                                          Vi                                       RL\n                                                                                                                          Q\n                                                                                                    C1\n\n\n[A]"
-    ],
-    "answer": "3"
   },
   {
     "number": "23",
@@ -486,15 +228,6 @@
     "answer": "3"
   },
   {
-    "number": "2",
-    "text": "5 mA",
-    "options": [
-      "5 mA",
-      "6 mA                                                                D\n                                                         Vi                    3kΩ\n                                                                                          3V\n\n\n\n[C]"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "31",
     "text": "設一直流電源，無載時輸出電壓為100 V，滿載時輸出電壓下降為80 V，則此電源的電壓調整\n        率為何？",
     "options": [
@@ -526,94 +259,6 @@
       "輸入阻抗：CC > CE > CB\n[A]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "34",
-    "text": "如右圖所示之電路，若電晶體的β值為100，V BE =",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "5",
-    "text": "7 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "6",
-    "text": "7 V\n                                                                                          V0",
-    "options": [
-      "7 V",
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "7",
-    "text": "7 V\n                                                                    RB\n                                                          Vi\n                                                                  100kΩ\n\n\n\n[C]",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "35",
-    "text": "如右圖所示之電路，若電晶體的β值為50，則當V i =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "5 V                                      +15V\n        ，R C 為多少？",
-    "options": [
-      "1 kΩ",
-      "5 kΩ                                                  RC",
-      "10 kΩ",
-      "15 kΩ\n                                                                   RB\n                                                         Vi                          6V\n                                                                 100kΩ"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "36",
-    "text": "如右圖所示之電路，若電晶體的β值為100，V BE =",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "3 V",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "11",
-    "text": "3 V\n                                                              90kΩ            8kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "12",
-    "text": "3 V",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "13",
-    "text": "3 V\n\n\n                                                              10kΩ            2kΩ\n\n\n\n\n[B]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "37",
-    "text": "如右圖所示之電路，若電晶體的β值為100，VBE =",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "38",
@@ -671,18 +316,6 @@
     "answer": "4"
   },
   {
-    "number": "43",
-    "text": "有一增強型MOSFET之臨界電壓V T = 2 V， K =",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "44",
-    "text": "如右圖所示之電路，若I D =",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "45",
     "text": "如右圖所示之電路，若g m = 2 mA/V，r d = 100 kΩ，則                                       +VDD\n        JFET共源極放大電路的電流增益A i 為多少？\n                                                                                      100kΩ",
     "options": [
@@ -703,24 +336,6 @@
       "-10                          Vi\n                                                              1MΩ                                  20kΩ\n\n                                                                          2V\n\n\n\n\n[D]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "47",
-    "text": "如右圖所示之電路，V1 =",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "0 V，V 2 =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 V，V3 =",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "3",

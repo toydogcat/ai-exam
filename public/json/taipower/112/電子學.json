@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 5 頁(A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n    注",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分，共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n    意     試題或其他紙張作答者不予計分。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n    事     個選項者不倒扣，未作答者不給分亦不扣分。\n    項",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n          處所索取。\n\n\n[D]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
     "text": "有關功率放大器間比較之敘述，下列何者有誤？",
     "options": [
       "C類放大器效率最高",
@@ -124,36 +88,6 @@
     "answer": "4"
   },
   {
-    "number": "9",
-    "text": "如右圖所示，直流工作點設置於VGS = -1.75 V，                            VDD =16V\n       VDS = 6 V，ID =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "5 mA，則 Rs 值為何？         700kΩ      RD",
-    "options": [
-      "1 kΩ",
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 kΩ            G       D",
-    "options": [
-      "2 kΩ",
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "5 kΩ\n                                                          S\n                                               100kΩ\n                                                          RS\n\n\n                           電子學   第 1 頁，共 5 頁              【請翻頁繼續作答】\n[D]",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "10",
     "text": "N通道增強型場效應電晶體(簡稱 MOSFET )的臨界電壓VT = 3 V，若電路中的VGS = 4 V時，\n        ID = 2 mA，且MOSFET工作於飽和區，則 MOSFET 交流小信號模型中的轉移電導 gm 為何？",
     "options": [
@@ -165,12 +99,6 @@
     "answer": "4"
   },
   {
-    "number": "11",
-    "text": "有一電晶體，當偏壓於作用區，測得 IB =",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "12",
     "text": "有關以運算放大器組成之韋恩電橋振盪器之描述，下列何者正確？",
     "options": [
@@ -180,20 +108,6 @@
       "正回授量小於負回授量\n[C]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "13",
-    "text": "一個工作在主動模式之BJT，其爾利電壓( Early Voltage )為25 V，IC=",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "5 mA，則其輸出\n        電阻 r0 值為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
   },
   {
     "number": "14",
@@ -328,22 +242,6 @@
     "answer": "1"
   },
   {
-    "number": "26",
-    "text": "如右圖所示之電路中，若二極體皆為理想型，Rs = 2 kΩ，                                         D1\n                                                                          Rs\n     RL = 1 kΩ，當V1 = V2 = 2 V，則Vo =？                            V1",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5 V",
-    "options": [
-      "2 V                                                 D2\n                                                                          Rs\n                                                                V2                    Vo\n                                                                                      RL\n\n[A]"
-    ],
-    "answer": "4"
-  },
-  {
     "number": "27",
     "text": "如右圖所示之電路中，若二極體皆為理想型，Rs = 2 kΩ，                               Vs\n        Ra = 3 kΩ，RL = 1 kΩ，當Vs = 5 V，試求解標示的電流 I？",
     "options": [
@@ -351,15 +249,6 @@
       ""
     ],
     "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "5 mA                                 Rs",
-    "options": [
-      "2 mA",
-      "4 mA\n\n                                                                I\n                                                                      Ra              RL\n\n[D]"
-    ],
-    "answer": "4"
   },
   {
     "number": "28",
@@ -392,28 +281,6 @@
       ""
     ],
     "answer": "2"
-  },
-  {
-    "number": "12",
-    "text": "7 V",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "14",
-    "text": "1 V\n[C]",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "31",
-    "text": "如右圖所示之電路，若二極體為理想型，已知                             12:1\n        RL = 10 kΩ，C = 100 μF，試求輸出漣波峰對峰\n        電壓？                                                                           VO\n                                             120V/30Hz",
-    "options": [
-      ""
-    ],
-    "answer": "3"
   },
   {
     "number": "32",
@@ -471,27 +338,6 @@
     "answer": "4"
   },
   {
-    "number": "37",
-    "text": "如右圖所示之電路，Vs = 5 V，RE = 1 kΩ，RB = 100 kΩ，VBE(t) =",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "5 V                                                            RE\n                                                                             RB",
-    "options": [
-      "2 V",
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "8 V\n                                                                                        VC\n\n\n\n\n[D]",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "38",
     "text": "下列敘述何者有誤？",
     "options": [
@@ -514,82 +360,6 @@
     "answer": "2"
   },
   {
-    "number": "40",
-    "text": "BJT交流等效電路中，已知互導增益 gm = 20 mA/V，re = 49 Ω，試求 rπ？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "3 kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "5 kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "45 kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "5 kΩ\n[C]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "41",
-    "text": "如右圖所示之電路，RB = 10 kΩ，RE = 1 kΩ，RC = 5 kΩ，                                        VO\n        β = 200，IBQ = 13 μA，VT = 26 mV，試求輸入電阻Ri約為\n                                                                                   RC\n        下列何者？                                           Vi",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "3 kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "5 kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "9",
-    "text": "5 kΩ",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "13",
-    "text": "2 kΩ                           RB          RE\n                                                        Ri\n\n\n[D]",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "42",
     "text": "下列敘述何者有誤？",
     "options": [
@@ -601,44 +371,6 @@
     "answer": "4"
   },
   {
-    "number": "43",
-    "text": "已知單級放大電路的低頻截止頻率fL = 10 Hz，高頻截止頻率fH = 10 kHz，若使用同一單級放大\n        電路，串接成兩級放大電路，試求頻寬？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "6",
-    "text": "4 kHZ",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "8",
-    "text": "2 kHz",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "9",
-    "text": "3 kHz",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "11",
-    "text": "2 kHz\n[B]",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "44",
     "text": "疊接放大電路為何種型態串級放大？",
     "options": [
@@ -648,45 +380,6 @@
       "CE-CE\n[C]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "45",
-    "text": "如右圖所示，VDD = 5 V，RD = 2 kΩ，RG = 5 MΩ，VGS(t) = 1 V，                          DD\n        k =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 mA/V2，試求VDS？",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "2 V",
-    "options": [
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "5 V                                                RD\n                                                                             RG",
-    "options": [
-      "2 V",
-      "3 V\n\n\n\n\n[A]"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "46",
-    "text": "如右圖所示，RG = 10 kΩ，RS = 1 kΩ，RL = 4 kΩ，IDQ = 2 mA\n        ，k = 2 mA/V2，試求輸出電阻RO？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
   },
   {
     "number": "47",

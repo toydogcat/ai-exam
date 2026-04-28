@@ -1,42 +1,6 @@
 [
   {
     "number": "1",
-    "text": "本試題共 5 頁(A3 紙 1 張、A4 紙 1 張)。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "本科目禁止使用電子計算器。\n    注",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "3",
-    "text": "本試題為單選題共 50 題，每題 2 分，共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n    意     試題或其他紙張作答者不予計分。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "4",
-    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一\n    事     個選項者不倒扣，未作答者不給分亦不扣分。\n    項",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "本試題採雙面印刷，請注意正、背面試題。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "考試結束前離場者，試題須隨答案卡繳回，俟本節考試結束後，始得至原試場或適當\n          處所索取。\n\n\n[C]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
     "text": "氮化鎵(GaN)係由氮和鎵所組成之化合物，為使晶體結構中部分的鎵(Ga)原子被其他原子取代\n       以形成 N 型半導體，可摻雜下列何種材料？",
     "options": [
       "鎘(Cd)",
@@ -69,28 +33,6 @@
     "answer": "3"
   },
   {
-    "number": "4",
-    "text": "有一全波整流器，輸入訊號為 60 Hz，輸出電壓峰值為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 V，輸出負載為 5 kΩ 及漣波電壓限\n       制為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "5 μF",
-    "options": [
-      "5 μF",
-      "25 μF",
-      "50 μF\n[C]"
-    ],
-    "answer": "4"
-  },
-  {
     "number": "5",
     "text": "有關箝位器功能之敘述，下列何者正確？",
     "options": [
@@ -98,21 +40,6 @@
       "半波整流",
       "調整直流準位",
       "低頻濾波\n[C]"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "有一電路如右圖所示，rπ = 1 k Ω，R =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "01 kΩ",
-    "options": [
-      "3 kΩ",
-      "21 kΩ          Vi\n                                                                              R\n\n                                                              Zi\n                                                                    V0\n\n[C]"
     ],
     "answer": "3"
   },
@@ -150,87 +77,6 @@
     "answer": "2"
   },
   {
-    "number": "10",
-    "text": "有一電路如右圖所示，已知 ID =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "2 mA，VG = 0 V，VT = -0.6 V，                                     +3.4V\n        |VGS - VT | =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "67 kΩ",
-    "options": [
-      "4 kΩ                                    R2\n                                                                                                            vo\n                                                                                          R3           C1\n                                                                     Vi +\n\n                                                                                        -3.4V\n\n[C]"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "11",
-    "text": "有一電路如右圖所示，IREF =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "8 mA                              IREF\n                                                                            MREF        M12                 vo\n                                                                                                      I1\n\n                                                                           2(W      W\n                                                                             L ) 6( L )\n\n\n[C]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "12",
-    "text": "有一電路如右圖所示，V1 =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 V，V2 =",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "5 V，V3 = 2 V，                                 R1            R4\n                                                                      V1\n      R1 = R2 = R3 = 3 kΩ，R4 =1 kΩ，試求 Vo 為何？                                      R2\n                                                                      V2",
-    "options": [
-      "-6 V",
-      "-3 V                                           +             V0\n                                                                                  R3\n                                                                      V3",
-      "-2 V",
-      "0 V\n[C]"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "13",
-    "text": "有 一 電 路 如 右 圖 所 示 ， 已 知 PMOS 參 數 VA = 20 V ， 電 晶 體                                                 5V\n        |VA | = 100 V，β = 100，VT = 25 mV，下列何者有誤？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "5 mA\n\n\n[B]",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "14",
-    "text": "有 一 電 路 如 右 圖 所 示 ， VBE =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "6 V，R1 = 10 kΩ，R2 = 100 Ω，試求 rπ 為何？",
-    "options": [
-      ""
-    ],
-    "answer": "3"
-  },
-  {
     "number": "15",
     "text": "有一共射極(CE)放大器如右圖所示，下列敘述                                      Vcc\n        何者有誤？\n                                                              RB1             RC",
     "options": [
@@ -240,20 +86,6 @@
       "Rin = RB1 ‖RB2 ‖rπ Rsig Vsig\n                                                              RB2\n                                                                              RE       CE        Ro1        Ro2\n                                                        Rin\n\n[A]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "16",
-    "text": "有一負回授放大器，其閉迴路增益 Af = 100，開迴路增益 A = 104 ，試求回授因子 β 為何？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "9\n[C]",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "17",
@@ -344,12 +176,6 @@
     "answer": "4"
   },
   {
-    "number": "1",
-    "text": "06 mV\n[A]",
-    "options": [],
-    "answer": "3"
-  },
-  {
     "number": "25",
     "text": "如右圖所示之電路係屬下列何種型態？                                                                          C",
     "options": [
@@ -372,14 +198,6 @@
     "answer": "1"
   },
   {
-    "number": "27",
-    "text": "雙極性接面電晶體(BJT)運作於主動模式，若 β 參數由 99 變化到 49，則 α 參數之變化為何？",
-    "options": [
-      "由"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "28",
     "text": "有關理想運算放大器之敘述，下列何者有誤？",
     "options": [
@@ -388,12 +206,6 @@
       "頻帶寬度無窮大",
       "開迴路電壓增益無窮大\n[A]"
     ],
-    "answer": "1"
-  },
-  {
-    "number": "29",
-    "text": "電壓 V(t) = 80 sin(   + 30°) V，週期 T =",
-    "options": [],
     "answer": "1"
   },
   {
@@ -529,15 +341,6 @@
     "answer": "2"
   },
   {
-    "number": "2",
-    "text": "5 kΩ",
-    "options": [
-      "5 kΩ",
-      "25 kΩ\n[D]"
-    ],
-    "answer": "4"
-  },
-  {
     "number": "42",
     "text": "電晶體共射極放大電路於射極電阻 RE 增加一射極旁路電容 CE ，其主要功用為下列何者？",
     "options": [
@@ -549,28 +352,6 @@
     "answer": "4"
   },
   {
-    "number": "43",
-    "text": "有一 n 通道接面場效電晶體(JFET)之汲極電流 IDSS = 4 mA，其中 VGS(OFF) = ‐4 V，當 JFET 運\n        作於 VGS = ‐2 V 時，試求順向轉移互導 gm 為何？",
-    "options": [
-      ""
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "5 mƱ",
-    "options": [
-      "2 mƱ\n[B]"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "44",
-    "text": "有一 n 通道空乏型金屬氧化半導體場效電晶體(MOSFET)運作於夾止飽和區，其導電參\n        數 K =",
-    "options": [],
-    "answer": "2"
-  },
-  {
     "number": "45",
     "text": "在矽半導體材料中摻入五價雜質，其半導體類型、電性及內部多數載子之敘述，下列何者正\n        確？",
     "options": [
@@ -580,20 +361,6 @@
       "n型半導體、電中性、電子\n[B]"
     ],
     "answer": "4"
-  },
-  {
-    "number": "46",
-    "text": "有一 p 通道增強型金屬氧化半導體場效電晶體(MOSFET)，其參數 K =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "4",
-    "text": "5 mA",
-    "options": [
-      "6 mA\n[A]"
-    ],
-    "answer": "3"
   },
   {
     "number": "47",
@@ -616,12 +383,6 @@
       "C 類放大器的工作操作點定於截止區之下\n[A]"
     ],
     "answer": "2"
-  },
-  {
-    "number": "49",
-    "text": "有一雙極性接面電晶體(BJT)，β = 100，已知室溫下熱電壓 VT = 25 mV，若 IC =",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "50",
