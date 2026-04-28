@@ -82,7 +82,7 @@ const submitExam = () => {
       <div class="column">
         <div v-for="(q, index) in questions.slice(0, Math.ceil(questions.length / 2))" :key="index" class="question-item">
           <div class="question-text">
-            <span class="q-num">{{ index + 1 }}.</span>
+            <span class="q-num">{{ q.number }}.</span>
             {{ q.text }}
           </div>
           <div class="options" v-if="q.options && q.options.length">
@@ -105,7 +105,7 @@ const submitExam = () => {
       <div class="column">
         <div v-for="(q, index) in questions.slice(Math.ceil(questions.length / 2))" :key="index + Math.ceil(questions.length / 2)" class="question-item">
           <div class="question-text">
-            <span class="q-num">{{ index + Math.ceil(questions.length / 2) + 1 }}.</span>
+            <span class="q-num">{{ q.number }}.</span>
             {{ q.text }}
           </div>
           <div class="options" v-if="q.options && q.options.length">
