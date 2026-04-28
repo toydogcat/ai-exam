@@ -1,40 +1,271 @@
 [
   {
-    "number": "6",
-    "text": "所謂：「天下好吃的菜都是一樣的，只有不好吃的菜才個個不同。」其意思最相近的是：",
-    "options": [
-      "世界各地都有好吃的菜，不局限於單一地區\n二、閱讀測驗【二大篇共 10 題，每題 2 分】",
-      "地域的差異性造成每個人對於食物口味的不同\n第一篇：",
-      "每個人覺得不好吃的菜，都不盡相同，不能一概而論\n  金溪民方仲永，世隸耕。仲永生五年，未嘗識書具，忽啼求之。父異焉，借旁近與之，即書詩四句，並",
-      "真正美味的食物並不會因時、地、人的差異而有不同的評價\n自為其名。其詩以養父母、收族為意，傳一鄉秀才觀之。自是指物作詩立就，其文理皆有可觀者。邑人奇之，              7.下列敘述，何者最符合本文的觀點？\n稍稍賓客其父，或以錢幣乞之。父利其然也，日扳仲永環謁於邑人，不使學。予聞之也久，明道中，從先人",
-      "小人物永遠不可能擴大其見識",
-      "見識是一個人能力的最底部基礎\n還家，於舅家見之，十二三矣。令作詩，不能稱前時之聞。又七年，還自揚州，復到舅家，問焉。曰：「泯",
-      "見識只有好壞，沒有上下高低之別",
-      "有見識的人，未來較具有發展潛力\n然眾人矣。」王子曰：仲永之通悟，受之天也。其受之天也，賢於材人遠矣，卒之為眾人，則其受於人者不"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "8",
-    "text": "有關作者對「見識」的敘述，完全正確的是：\n至也。彼其受之天也，如此其賢也；不受之人，且為眾人。今夫不受之天，固眾人，又不受之人，得為眾人",
-    "options": [
-      "美國的史前巨石，是舊石器時代的遺蹟\n而已邪？（王安石〈傷仲永〉）",
-      "漢文帝時代的書寫用具與技巧遠高於同時期的中東",
-      "死海經卷將文字寫於羊皮，並不遜於刻字於竹簡"
-    ],
-    "answer": "3"
-  },
-  {
     "number": "1",
     "text": "下列「」中的字詞之詞性與字義的解釋，正確者為：",
     "options": [
-      "瀏覽羅浮宮的瓷器之後，必了解西方技藝是落後於中國的",
       "世「隸」耕：名詞，奴隸",
       "不能稱前時之「聞」：動詞，用鼻子嗅",
       "或以錢幣「乞」之：名詞，乞丐",
       "日「扳」仲永環謁於邑人：動詞，拉"
     ],
     "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "下列「」中的字，並未使用「轉品」修辭者為：",
+    "options": [
+      "邑人「奇」之",
+      "以錢幣「乞」之",
+      "「環」謁于邑人",
+      "稍稍「賓客」其父\n貳、英文【四選一單選選擇題 25 題，每題 2 分】\n一、字彙測驗【請依照句子前後文意，選出最適當的答案】"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "11",
+    "text": "All banks were closed on Sunday. He could",
+    "options": [
+      "allocate",
+      "triumph"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "12",
+    "text": "The singer made a _____ recovery after th\nnow.",
+    "options": [
+      "terrestrial",
+      "bleak"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "13",
+    "text": "The _____ of people who can ride this ele",
+    "options": [
+      "maximum",
+      "weight"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "14",
+    "text": "What time is it? It is 8:15pm – a _____ a",
+    "options": [
+      "half",
+      "fourth"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "15",
+    "text": "I would like to make an _____ with the de",
+    "options": [
+      "engagement",
+      "appointment"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "After a 26-hour long flight, Jennifer was",
+    "options": [
+      "decomposed",
+      "exhausted"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "17",
+    "text": "That rumor about Sophia’s abuse of her do",
+    "options": [
+      "available",
+      "inevitable"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "18",
+    "text": "You have bought three items and the payme",
+    "options": [
+      "mounts",
+      "amounts\n二、文法測驗【請依照句子前後文意，選出最適當的答案】"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "19",
+    "text": "No one in this world, _____ his closest f",
+    "options": [
+      "not even",
+      "even so"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "20",
+    "text": "Our teacher insisted that we ______ every",
+    "options": [
+      "coming to",
+      "come to"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "21",
+    "text": "I know it’s urgent, so I will send the pa",
+    "options": [
+      "until",
+      "as soon as"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "22",
+    "text": "I have gotten used to _____ tea during th",
+    "options": [
+      "drink",
+      "drinking"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "23",
+    "text": "Kristine visits her mom _____.",
+    "options": [
+      "twice a week",
+      "two in a week"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "24",
+    "text": "That award-winning movie _____ by a young",
+    "options": [
+      "directs",
+      "was directed"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "25",
+    "text": "That is the house _____ a murderer killed",
+    "options": [
+      "that",
+      "which\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】\nComputers can now beat the best human minds\nchess. They can also    26     tasks that are d\nautonomous machines have difficulty learning to\ndo. Human co-operation       28     easy, but i\nnorms, deeply rooted instincts, and social mech\nbehavior. Such common sense mechanisms aren’t e\nprograms that effectively play the board games\ngame of poker, often    30     to consistently"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "26",
+    "text": "",
+    "options": [
+      "perform",
+      "sidetrack"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "27",
+    "text": "",
+    "options": [
+      "just",
+      "those"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "28",
+    "text": "",
+    "options": [
+      "ensures",
+      "appears"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "29",
+    "text": "",
+    "options": [
+      "counts with",
+      "prevents from"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "30",
+    "text": "",
+    "options": [
+      "seem",
+      "stay"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "文中「從先人還家，於舅家見之，十二三矣」其「十二三」代表一個概數，約十二、十三歲，下列\n「」中數字用法與之相同者為：",
+    "options": [
+      "將 軍「 百」 戰 死 ， 壯 士 十 年 歸",
+      "「三 五」 明 月 滿 ， 四 五 蟾 兔缺",
+      "蓋 余 所 至 ， 比 好 游 者 尚 不 能 「 十 一」",
+      "美 人「 二 八」 顏 如 花 ， 泣 向 花 前 畏 花 落\n___________"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "這篇文章說明先天才具仍需要後天學習才能保持，並傳達後天學習之重要性。下列文句最能支持「後\n天學習之重要性」的是：\n題 2 分，",
+    "options": [
+      "仲永生五年，未嘗識書具，忽啼求之\n計 100 分。",
+      "自是指物作詩立就，其文理皆有可觀者",
+      "父異焉，借旁近與之，即書詩四句，並自為其名",
+      "其受之天也，賢於材人遠矣，卒之為眾人，則其受於人者不至也"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "關於前項為〈傷仲永〉一文文句，後項為相關闡述，配對正確者為：",
+    "options": [
+      "彼其受之天也，如此其賢也；不受之人，且為眾人／玉不琢不成器",
+      "父異焉，借旁近與之，即書詩四句，並自為其名／皇天不負苦心人",
+      "其詩以養父母、收族為意，傳一鄉秀才觀之／家徒四壁，以乞討為業",
+      "又七年，還自揚州，復到舅家，問焉。曰：「泯然眾人矣。」／勤能補拙\n第二篇：\n觀察一個人的潛力，不妨端詳一下他有沒有「見識」。\n「見識」可以說是人的智慧核心中的結晶。這種氣\n質也是一個人能力的最上層品位。一個真正有見識的人必然「大」、「深」，也「遠」。\n「見識」當然也有上下高低之別。大人物要有闊大的見識；小人物倘能在微時即氣宇不凡，將來也會變\n大。我時常遺憾到現在還沒讀過一本專門研究見識的專書，可能由於「見識」的形成與介分說來似乎十分簡\n單－－祇要「見多識廣」就行了，所以成書似不太容易。不過一個人如果多讀史書、傳記、上佳的文學作品\n一定會增長見聞。當然，最好的方法還是親炙過有見識的高明，聆聽其言，研察其行，受益會更直接。\n再者，有機會「用心」周遊列國也很重要。如果你在英國沙利土伯瑞平原看過那史前巨石(Stonehenge)，\n你會對新石器時代的人類多一分敬意；如果你細心瀏覽過羅浮宮的瓷器，你會謙虛地承認原來瓷器並不是咱\n們所獨擅，西方也有西方的精緻技藝。我認識一位在耶路撒冷西伯萊大學參與研究「死海經卷」的學人也驚\n嘆於在相當中國漢文帝時代，中東便已經有了那麼完美寫在羊皮上的文字和書寫技巧了。彼時的我們大概剛\n剛發明紙，主要的書寫媒體可能祇是竹簡和帛。有人說西餐一定不好吃，那也是「所見甚小」之言。如果他\n在瑞士或米蘭吃過「上好」的法國菜或義大利菜，他當會憬然於原來「色香味」並非中國菜所獨有。套一句\n托爾斯泰式的句子；「天下好吃的菜都是一樣的，只有不好吃的菜才個個不同。」（張繼高〈見識〉）"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "所謂：「天下好吃的菜都是一樣的，只有不好吃的菜才個個不同。」其意思最相近的是：",
+    "options": [
+      "世界各地都有好吃的菜，不局限於單一地區",
+      "地域的差異性造成每個人對於食物口味的不同",
+      "每個人覺得不好吃的菜，都不盡相同，不能一概而論",
+      "真正美味的食物並不會因時、地、人的差異而有不同的評價"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "7",
+    "text": "下列敘述，何者最符合本文的觀點？",
+    "options": [
+      "小人物永遠不可能擴大其見識",
+      "見識是一個人能力的最底部基礎",
+      "見識只有好壞，沒有上下高低之別",
+      "有見識的人，未來較具有發展潛力"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "8",
+    "text": "有關作者對「見識」的敘述，完全正確的是：",
+    "options": [
+      "美國的史前巨石，是舊石器時代的遺蹟",
+      "漢文帝時代的書寫用具與技巧遠高於同時期的中東",
+      "死海經卷將文字寫於羊皮，並不遜於刻字於竹簡",
+      "瀏覽羅浮宮的瓷器之後，必了解西方技藝是落後於中國的"
+    ],
+    "answer": "3"
   },
   {
     "number": "9",
@@ -48,195 +279,63 @@
     "answer": "1"
   },
   {
-    "number": "2",
-    "text": "下列「」中的字，並未使用「轉品」修辭者為：",
-    "options": [
-      "邑人「奇」之",
-      "以錢幣「乞」之",
-      "「環」謁于邑人",
-      "稍稍「賓客」其父"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "10",
     "text": "根據本文，增廣見識最好、受益最直接的方法是：",
     "options": [
       "閱讀研究見識的專書",
       "行萬里路遍遊世界各地",
       "待在見識高明者身邊觀摩和學習",
-      "飽讀見識高明者所撰寫的著作及其傳記\n\n【請接續背面】\n貳、英文【四選一單選選擇題 25 題，每題 2 分】\n四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\n一、字彙測驗【請依照句子前後文意，選出最適當的答案】\nEarthquakes are the shaking and moving of the ground when energy is released in waves. These waves are"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "11",
-    "text": "All banks were closed on Sunday. He could only hope the ATMs were working so he could _____ some cash.         called seismic waves. These waves are similar to ocean waves, which move through water. However, seismic waves",
-    "options": [
-      "allocate",
-      "triumph",
+      "飽讀見識高明者所撰寫的著作及其傳記\n【請接續背面】\n四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\nEarthquakes are the shaking and moving of the ground when energy is released in waves. These waves are\nonly hope the ATMs were working so he could _____ some cash.         called seismic waves. These waves are similar to ocean waves, which move through water. However, seismic waves",
       "withdraw",
-      "subside\nmove through the ground. Most earthquakes are caused by the movement of large sections of the Earth’s crust,"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "12",
-    "text": "The singer made a _____ recovery after the serious car accident. It’s hard to believe he’s perfectly healthy\n\ncalled plates. The place where two plates meet is called a fault. Faults look like large cracks in the ground. If the\n  now.",
-    "options": [
-      "terrestrial",
-      "bleak",
+      "subside                             move through the ground. Most earthquakes are caused by the movement of large sections of the Earth’s crust,\ne serious car accident. It’s hard to believe he’s perfectly healthy\ncalled plates. The place where two plates meet is called a fault. Faults look like large cracks in the ground. If the",
       "wimpy",
-      "miraculous\ntwo plates move in different directions, they build up energy at the fault line. When enough energy builds up, the"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "13",
-    "text": "The _____ of people who can ride this elevator is 20, so you have to wait for the next one.\nstress on the fault becomes too great and it ruptures. This releases the energy and the ground starts to shake.",
-    "options": [
-      "maximum",
-      "weight",
+      "miraculous                          two plates move in different directions, they build up energy at the fault line. When enough energy builds up, the\nvator is 20, so you have to wait for the next one.                    stress on the fault becomes too great and it ruptures. This releases the energy and the ground starts to shake.",
       "amount",
-      "scale\nEarthquakes can also be caused by other natural events, such as landslides and volcanoes. The first movement"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "14",
-    "text": "What time is it? It is 8:15pm – a _____ after eight at night.\n\nof an earthquake, called the main shock, is often followed by smaller ground trembles, called aftershocks. These",
-    "options": [
-      "half",
-      "fourth",
+      "scale                                    Earthquakes can also be caused by other natural events, such as landslides and volcanoes. The first movement\nfter eight at night.\nof an earthquake, called the main shock, is often followed by smaller ground trembles, called aftershocks. These",
       "fifteen",
-      "quarter"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "15",
-    "text": "I would like to make an _____ with the dentist to see if there is a cavity in my teeth.\naftershocks signal that the plates are settling into their new positions. After the main shock, aftershocks can",
-    "options": [
-      "engagement",
-      "appointment",
+      "quarter\nntist to see if there is a cavity in my teeth.                        aftershocks signal that the plates are settling into their new positions. After the main shock, aftershocks can",
       "assignment",
-      "elaboration\ncontinue for days. According to some estimates, 500,000 earthquakes occur each year around the world. Most are"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "16",
-    "text": "After a 26-hour long flight, Jennifer was totally _____.\nvery mild and are only recorded on scientific instruments. Only about 100,000 can be felt by humans. Among these,",
-    "options": [
-      "decomposed",
-      "exhausted",
+      "elaboration                         continue for days. According to some estimates, 500,000 earthquakes occur each year around the world. Most are\ntotally _____.                                                       very mild and are only recorded on scientific instruments. Only about 100,000 can be felt by humans. Among these,",
       "complained",
-      "waived"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "17",
-    "text": "That rumor about Sophia’s abuse of her dog was _____ because everyone knew she loved animals.\nonly about 19 cause major damage in a year.",
-    "options": [
-      "available",
-      "inevitable",
+      "waived\ng was _____ because everyone knew she loved animals.                  only about 19 cause major damage in a year.",
       "groundless",
-      "exceptional\nMajor earthquakes in populated areas can cause huge destruction. Buildings collapse, roads and bridges buckle"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "18",
-    "text": "You have bought three items and the payment total _____ to NT$3,400.\nand crack, and electrical and gas lines break and cause fires. If an earthquake happens in the ocean, it makes a series",
-    "options": [
-      "mounts",
-      "amounts",
+      "exceptional                              Major earthquakes in populated areas can cause huge destruction. Buildings collapse, roads and bridges buckle\nnt total _____ to NT$3,400.                                           and crack, and electrical and gas lines break and cause fires. If an earthquake happens in the ocean, it makes a series",
       "culminates",
-      "concludes\n\nof huge ocean waves called a tsunami. A tsunami travels until it finally reaches land, where it causes large flooding.\n二、文法測驗【請依照句子前後文意，選出最適當的答案】\nScientists are searching for ways to predict earthquakes. They study the historical patterns of earthquakes and"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "19",
-    "text": "No one in this world, _____ his closest friend, knows about his big secret.\nmonitor the movement of the plates with seismic equipment. While they cannot predict an exact date of a future",
-    "options": [
-      "not even",
-      "even so",
+      "concludes\nof huge ocean waves called a tsunami. A tsunami travels until it finally reaches land, where it causes large flooding.\nScientists are searching for ways to predict earthquakes. They study the historical patterns of earthquakes and\nriend, knows about his big secret.                                    monitor the movement of the plates with seismic equipment. While they cannot predict an exact date of a future",
       "even if",
-      "don’t even"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "20",
-    "text": "Our teacher insisted that we ______ every class on time.\nearthquake, they have a better understanding of when earthquakes are more likely to happen.",
-    "options": [
-      "coming to",
-      "come to",
+      "don’t even\nclass on time.                                                       earthquake, they have a better understanding of when earthquakes are more likely to happen.",
       "to come to",
       "came to"
     ],
-    "answer": "2"
+    "answer": "3"
   },
   {
-    "number": "21",
-    "text": "I know it’s urgent, so I will send the parcel to you _____ it arrives.",
+    "number": "31",
+    "text": "What is this passage about?\nrcel to you _____ it arrives.",
     "options": [
       "What earthquakes are and what effects they can cause.",
-      "until",
-      "as soon as",
       "unless",
       "in case",
-      "The negative impacts of earthquakes."
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "22",
-    "text": "I have gotten used to _____ tea during these two years.",
-    "options": [
-      "drink",
-      "drinking",
+      "The negative impacts of earthquakes.\nese two years.",
       "have been drinking",
       "have drunk",
-      "How to estimate the coming of an earthquake."
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "23",
-    "text": "Kristine visits her mom _____.",
-    "options": [
+      "How to estimate the coming of an earthquake.",
       "How to prevent earthquakes.",
-      "twice a week",
-      "two in a week",
       "two times for a week",
       "twice weekly"
     ],
     "answer": "1"
   },
   {
-    "number": "24",
-    "text": "That award-winning movie _____ by a young Chinese rising star.",
+    "number": "32",
+    "text": "Which of the following is NOT a cause of an earthquake?\nChinese rising star.",
     "options": [
       "plate movements",
       "volcanoes",
-      "directs",
-      "was directed",
       "directed",
-      "had been directed"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "25",
-    "text": "That is the house _____ a murderer killed three college students.",
-    "options": [
+      "had been directed\nthree college students.",
       "hurricanes",
       "landslides",
-      "that",
-      "which",
       "where",
       "who"
     ],
@@ -244,83 +343,45 @@
   },
   {
     "number": "33",
-    "text": "About earthquakes, which of the following statements is NOT true?\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】",
+    "text": "About earthquakes, which of the following statements is NOT true?",
     "options": [
-      "When energy is released in waves from grounds, an earthquake may happen.\n     Computers can now beat the best human minds in the most intellectually challenging games like",
-      "Earthquakes can be caused by the movement of the earth’s plates.\n chess. They can also    26     tasks that are difficult for adult humans to learn, such as driving cars. Yet",
-      "When plates move in similar directions, earthquakes happen.\n autonomous machines have difficulty learning to co-operate. That’s something          27     young children",
-      "Aftershocks from an earthquake can last for several days.\n do. Human co-operation       28     easy, but it’s very difficult to imitate because it       29    cultural\n norms, deeply rooted instincts, and social mechanisms that express disapproval of non -collaborative"
+      "When energy is released in waves from grounds, an earthquake may happen.\nin the most intellectually challenging games like",
+      "Earthquakes can be caused by the movement of the earth’s plates.\nifficult for adult humans to learn, such as driving cars. Yet",
+      "When plates move in similar directions, earthquakes happen.\nco-operate. That’s something          27     young children",
+      "Aftershocks from an earthquake can last for several days.\nt’s very difficult to imitate because it       29    cultural\nanisms that express disapproval of non -collaborative"
     ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "Which of the following descriptions is NOT true about a tsunami?\n behavior. Such common sense mechanisms aren’t easily built into machines. Thus, the same AI software",
+    "text": "Which of the following descriptions is NOT true about a tsunami?\nasily built into machines. Thus, the same AI software",
     "options": [
-      "A tsunami is caused by an earthquake that happens in an ocean.\n programs that effectively play the board games of chess and checkers, Atari video games, and the card",
-      "A tsunami will not stop until it meets a land.\n game of poker, often    30     to consistently co-operate when it’s necessary.",
-      "A tsunami can often result in flooding."
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "26",
-    "text": "",
-    "options": [
-      "perform",
-      "sidetrack",
+      "A tsunami is caused by an earthquake that happens in an ocean.\nof chess and checkers, Atari video games, and the card",
+      "A tsunami will not stop until it meets a land.\nco-operate when it’s necessary.",
+      "A tsunami can often result in flooding.",
       "hinder",
       "input",
-      "A tsunami includes a main shock and aftershocks."
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "27",
-    "text": "",
-    "options": [
-      "just",
-      "those",
+      "A tsunami includes a main shock and aftershocks.",
       "even",
       "if"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
-    "number": "28",
-    "text": "",
+    "number": "35",
+    "text": "Which of the following adjectives can best describe the feeling of the researchers studying earthquakes?",
     "options": [
-      "ensures",
-      "appears",
       "instills",
       "confronts",
       "Puzzled",
-      "Funny"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "29",
-    "text": "",
-    "options": [
-      "counts with",
-      "prevents from",
+      "Funny",
       "relies on",
       "turns into",
       "Hopeful",
-      "Amused"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "30",
-    "text": "",
-    "options": [
-      "seem",
-      "stay",
+      "Amused",
       "manage",
       "fail"
     ],
-    "answer": "4"
+    "answer": "3"
   }
 ]

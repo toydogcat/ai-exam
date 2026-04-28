@@ -1,10 +1,178 @@
 [
   {
+    "number": "11",
+    "text": "The president of our company plans to hol\nour product development.",
+    "options": [
+      "produce",
+      "tablet"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "12",
+    "text": "The government agency was criticized for\nthe election.",
+    "options": [
+      "purposefully",
+      "restlessly"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "13",
+    "text": "Don’t be so _____. There’s still hope. If",
+    "options": [
+      "virtuous",
+      "aligned"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "14",
+    "text": "As usual, the chairman would _____ a spee",
+    "options": [
+      "unpack",
+      "deliver"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "15",
+    "text": "Due to the pandemic, the students were un\nrace instead.",
+    "options": [
+      "dilated",
+      "chapped"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "16",
+    "text": "It would be very difficult to visit these\napart.",
+    "options": [
+      "attics",
+      "sightings"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "17",
+    "text": "With this small device, you can _____ mis\nlooking for your keys or phones again.",
+    "options": [
+      "track",
+      "obscure\n二、文法測驗【請在下列各題中選出最適當的答案】"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "18",
+    "text": "The hospital _____ the famous writer says",
+    "options": [
+      "treated",
+      "that treating"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "The chemical used to contaminate the prod",
+    "options": [
+      "no is yet",
+      "not was yet"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "20",
+    "text": "_____ the popularity of the victim, local",
+    "options": [
+      "Given",
+      "To give"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "21",
+    "text": "The shop that had been severely criticize\nfood products.",
+    "options": [
+      "rejecting",
+      "that rejected"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "22",
+    "text": "The fences are very low and therefore ___",
+    "options": [
+      "seem no be",
+      "are not seem to"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "23",
+    "text": "_____ the distance from home, _____ water",
+    "options": [
+      "The greater… the more",
+      "The great… more"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "24",
+    "text": "Archie will become a prince _____ his gra",
+    "options": [
+      "as well as",
+      "as soon as"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "25",
+    "text": "The arena _____ the tennis player for her",
+    "options": [
+      "was named after",
+      "naming for\n二、閱讀測驗【二大篇共 10 題，每題 2 分】\n第一篇：\n子皮欲使尹何為邑。子產曰：「少，未知可否。」子皮曰：「願，吾愛之，不吾叛也。使夫往而學焉，\n___________   夫亦愈知治矣。」子產曰：「不可。人之愛人，求利之也。今吾子愛人則以政。猶未能操刀而使割也，其傷\n實多。子之愛人，傷之而已，其誰敢求愛於子？子於鄭國，棟也。棟折榱崩，僑將厭焉，敢不盡言？子有美\n錦，不使人學製焉。大官大邑，身之所庇也，而使學者製焉。其為美錦，不亦多乎？僑聞學而後入政，未聞\n題 2 分，        以政學者也。若果行此，必有所害。譬如田獵，射御貫，則能獲禽；若未嘗登車射御，則敗績厭覆是懼，何\n計 100 分。      暇思獲？」（注：僑為子產自稱；厭＝壓）（《左傳．子產論尹何為邑》）"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "有關上文字句的解釋，下列何者正確？",
+    "options": [
+      "「射御貫，則能獲禽」指具膽識者才有所獲",
+      "「子有美錦，不使人學製焉」主因物以稀為貴",
+      "「使夫往而學焉，夫亦愈知治矣」是盼其學治相長",
+      "「棟折榱崩」，「棟、榱」意為棟樑之材，比喻的是子產"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "根據上文，請問子皮選尹何所根據的標準為何？\n執",
+    "options": [
+      "其所喜愛且對其忠誠者",
+      "敬愛他者且有學習意願者",
+      "樂於愛人，且不會背叛國家者",
+      "為民所愛，且知道如何治理國家者"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "3",
+    "text": "子產何以認為尹何不適合為邑長？",
+    "options": [
+      "尹何雖良善但非棟樑之材",
+      "尹何猶少尚未具治理之能",
+      "尹何雖具文資卻缺乏武智",
+      "尹何因惑於所溺恃寵而驕"
+    ],
+    "answer": "2"
+  },
+  {
     "number": "4",
-    "text": "下列何者最能解釋子皮做法的因果關係？\n一、短文寫作【30 分】",
+    "text": "下列何者最能解釋子皮做法的因果關係？",
     "options": [
       "覆巢底下無完卵",
-      "君臣上下交相賊\n   「換位思考」\n        ，指站在對方立場，設身處地的一種思考方式。人跟人相處，有時需要從他人的角度和立",
+      "君臣上下交相賊",
       "愛之卻適足以害之",
       "預防勝於亡羊補牢"
     ],
@@ -12,12 +180,12 @@
   },
   {
     "number": "5",
-    "text": "下列何者最能闡述子產所言「學製美錦」與「田獵射御」兩個譬喻的背後旨意？\n場來看待問題，這樣就更能體會對方的需求，也不會有過多的責怪。因此如何換位思考，讓這個社會更有同",
+    "text": "下列何者最能闡述子產所言「學製美錦」與「田獵射御」兩個譬喻的背後旨意？",
     "options": [
       "貪贓枉法者，需加以制裁",
-      "以不忍人之心，行不忍人之政\n理心，少一點苛責，已成為你我共同思考的問題。請以「換位思考」為題，寫一篇短文，分享你的經驗（或",
+      "以不忍人之心，行不忍人之政",
       "學焉而後臣之，故可不勞而王",
-      "不教而殺謂之虐；不戒視成謂之暴\n\n見聞）、體會。文長在 300 字左右。\n第二篇：\n\n晉太元中，武陵人捕魚爲業。緣溪行，忘路之遠近，忽逢桃花林。夾岸數百步，中無雜樹，芳草鮮美，\n\n落英繽紛，漁人甚異之。復前行，欲窮其林。林盡水源，便得一山。山有小口，彷彿若有光，便捨船，從口\n\n入。\n\n初極狹，纔通人。復行數十步，豁然開朗。土地平曠，屋舍儼然，有良田、美池、桑竹之屬，阡陌交通，\n\n雞犬相聞。其中往來種作，男女衣著，悉如外人，黃髮垂髫，並怡然自樂。見漁人，乃大驚，問所從來，具\n\n答之。便要還家，設酒、殺雞、作食。村中聞有此人，咸來問訊。自云先世避秦時亂，率妻子邑人來此絕境，\n\n不復出焉，遂與外人間隔。問今是何世？乃不知有漢，無論魏、晉。此人一一爲具言所聞，皆歎惋。餘人各\n\n復延至其家，皆出酒食。停數日，辭去。此中人語云：「不足爲外人道也。」\n\n既出，得其船，便扶向路，處處誌之。及郡下，詣太守，說如此。太守即遣人隨其往，尋向所誌，遂迷\n\n不復得路。南陽劉子驥，高尚士也，聞之，欣然規往，未果，尋病終。後遂無問津者。   （陶淵明〈桃花源記〉）"
+      "不教而殺謂之虐；不戒視成謂之暴\n第二篇：\n晉太元中，武陵人捕魚爲業。緣溪行，忘路之遠近，忽逢桃花林。夾岸數百步，中無雜樹，芳草鮮美，\n落英繽紛，漁人甚異之。復前行，欲窮其林。林盡水源，便得一山。山有小口，彷彿若有光，便捨船，從口\n入。\n初極狹，纔通人。復行數十步，豁然開朗。土地平曠，屋舍儼然，有良田、美池、桑竹之屬，阡陌交通，\n雞犬相聞。其中往來種作，男女衣著，悉如外人，黃髮垂髫，並怡然自樂。見漁人，乃大驚，問所從來，具\n答之。便要還家，設酒、殺雞、作食。村中聞有此人，咸來問訊。自云先世避秦時亂，率妻子邑人來此絕境，\n不復出焉，遂與外人間隔。問今是何世？乃不知有漢，無論魏、晉。此人一一爲具言所聞，皆歎惋。餘人各\n復延至其家，皆出酒食。停數日，辭去。此中人語云：「不足爲外人道也。」\n既出，得其船，便扶向路，處處誌之。及郡下，詣太守，說如此。太守即遣人隨其往，尋向所誌，遂迷\n不復得路。南陽劉子驥，高尚士也，聞之，欣然規往，未果，尋病終。後遂無問津者。   （陶淵明〈桃花源記〉）"
     ],
     "answer": "4"
   },
@@ -72,31 +240,13 @@
       "沿途標誌並不夠明確",
       "入山口太小，已被遮蔽",
       "桃花源內的住民已搬遷",
-      "自然隨性之人較易接近完美，刻意追求者反不得其門而入\n\n【請接續背面】\n 貳、英文【四選一單選選擇題 25 題，每題 2 分】\n\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】\n一、字彙【請依照句子前後文意，選出最適當的答案】\nGood writing evokes emotion. Good writing connects things. Good writing tells a story that the reader can"
+      "自然隨性之人較易接近完美，刻意追求者反不得其門而入\n【請接續背面】\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】\nGood writing evokes emotion. Good writing connects things. Good writing tells a story that the reader can\nd a news _____ on Sunday to announce a major breakthrough in              relate to. Too often, writers only    26      themselves against other writers. Those with better vocabularies and\nslicker prose appear to be the best of the group. But it’s actually wrong to think that good writing, and becoming\na good writer,     27    formal education. Good writers don’t       28     quote Shakespeare, nor do they use four-",
+      "conference",
+      "bottle                                    and five-syllable words. They don’t try to impress their readers with beautiful verses that rhyme and flow\ndelaying processing of the case _____ to help the president win           effortlessly from beginning to end. Good writers,       29     any good communicator, worry about one thing and\none thing only: connecting their audience to the story. Good writers construct their writing in a way that’s\nunderstood by their target audience. Big words, little words, and        30     made up words can be used. While",
+      "amusingly",
+      "sincerely\nsmooth prose is certainly fun to read, it’s not always necessary in order to be understood.\nwe try harder again, we might actually make it."
     ],
     "answer": "4"
-  },
-  {
-    "number": "11",
-    "text": "The president of our company plans to hold a news _____ on Sunday to announce a major breakthrough in              relate to. Too often, writers only    26      themselves against other writers. Those with better vocabularies and\n our product development.\nslicker prose appear to be the best of the group. But it’s actually wrong to think that good writing, and becoming\n\na good writer,     27    formal education. Good writers don’t       28     quote Shakespeare, nor do they use four-",
-    "options": [
-      "produce",
-      "tablet",
-      "conference",
-      "bottle\nand five-syllable words. They don’t try to impress their readers with beautiful verses that rhyme and flow"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "12",
-    "text": "The government agency was criticized for delaying processing of the case _____ to help the president win           effortlessly from beginning to end. Good writers,       29     any good communicator, worry about one thing and\n the election.\none thing only: connecting their audience to the story. Good writers construct their writing in a way that’s\n\nunderstood by their target audience. Big words, little words, and        30     made up words can be used. While",
-    "options": [
-      "purposefully",
-      "restlessly",
-      "amusingly",
-      "sincerely\n\nsmooth prose is certainly fun to read, it’s not always necessary in order to be understood."
-    ],
-    "answer": "1"
   },
   {
     "number": "26",
@@ -106,8 +256,6 @@
       "judge",
       "regret",
       "inform",
-      "virtuous",
-      "aligned",
       "integral",
       "pessimistic"
     ],
@@ -131,7 +279,7 @@
       "timidly",
       "unevenly",
       "necessarily",
-      "roughly"
+      "roughly\nch at the opening ceremony tonight."
     ],
     "answer": "3"
   },
@@ -143,8 +291,6 @@
       "at",
       "till",
       "though",
-      "unpack",
-      "deliver",
       "reset",
       "bolt"
     ],
@@ -157,82 +303,28 @@
       "never",
       "than",
       "through",
-      "even"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "15",
-    "text": "Due to the pandemic, the students were unable to compete in person, so the school decided to hold a _____       四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\n race instead.\nWith new appearances of underground and local idols, the idol industry is attracting many young people",
-    "options": [
-      "dilated",
-      "chapped",
+      "even\nable to compete in person, so the school decided to hold a _____       四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\nWith new appearances of underground and local idols, the idol industry is attracting many young people",
       "virtual",
-      "negated\nwhose dream of becoming a popular idol is no longer so impossible. The growing industry, however, has many\n\nproblems. Author and idol authority Nakamori Akio talks about those problems."
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "16",
-    "text": "It would be very difficult to visit these two cities in one day. They’re on two different _____ and very far            “First of all, people don’t really understand what an idol is or does. I define an idol as a job in which you\n apart.\nwork to get people to like you.” Nakamori warns those who want to become idols to be careful in choosing an\n\nagent and points out the importance of the contract. “The problem now is that there are too many idols. The idol",
-    "options": [
-      "attics",
-      "sightings",
+      "negated                                 whose dream of becoming a popular idol is no longer so impossible. The growing industry, however, has many\nproblems. Author and idol authority Nakamori Akio talks about those problems.\ntwo cities in one day. They’re on two different _____ and very far            “First of all, people don’t really understand what an idol is or does. I define an idol as a job in which you\nwork to get people to like you.” Nakamori warns those who want to become idols to be careful in choosing an\nagent and points out the importance of the contract. “The problem now is that there are too many idols. The idol",
       "observations",
-      "continents\ngroup AKB48 alone has several hundred members. And while there is no accurate count, if you include local"
+      "continents                                  group AKB48 alone has several hundred members. And while there is no accurate count, if you include local\nplaced items easily so you won’t have to spend minutes or hours          idols and so-called underground idols, the number is probably over 10,000. Problems are increasing in direct\nproportion to the numbers and the increase in nonprofessional operations.”\nNakamori suggests that to help sustain the industry, schools should allow “idol clubs” as part of their",
+      "wrinkle",
+      "detach                                      extracurricular activities as one way to ensure adult supervision and responsible management. “Extracurricular\nclubs in schools are managed by teachers. A school also provides a safe environment that would allow for a\ncertain degree of self-management by the students. Schools already have drama clubs and dance clubs. I think the\nreason schools don’t yet have idol clubs is the general idea that being an idol is somehow a ‘lightweight’\ntests indicate that he was poisoned.                                    profession. But idols do many things. Some dance and sing; others compose music or design costumes. Some",
+      "treating",
+      "was treated                             even act as producers. I don’t see why these activities couldn’t be combined into a school idol club.”\nAnother factor that has hindered the formation of idol clubs at schools is the conservative nature of the\nuct _____ identified, according to the committee of investigation.       industry. “That’s because an idol is viewed as a role model,” says Nakamori. “The tendency is to imitate and copy,",
+      "has not yet been",
+      "yet has no be                           which reduces the creative aspects of the profession. The current idol image is no different from what we had\nback in the 1970s with Pink Lady or the Candies. AKB48, with its large numbers, is based on a system developed\nauthorities are now urgently called upon to investigate this crime.     long ago by the Takarazuka revue （寶塚歌劇團）. As staged entertainment, I don’t see much development since",
+      "Giving",
+      "Is given                                the 1970s.”"
     ],
     "answer": "4"
   },
   {
-    "number": "17",
-    "text": "With this small device, you can _____ misplaced items easily so you won’t have to spend minutes or hours          idols and so-called underground idols, the number is probably over 10,000. Problems are increasing in direct\n\nproportion to the numbers and the increase in nonprofessional operations.”\n looking for your keys or phones again.\nNakamori suggests that to help sustain the industry, schools should allow “idol clubs” as part of their",
-    "options": [
-      "track",
-      "obscure",
-      "wrinkle",
-      "detach\nextracurricular activities as one way to ensure adult supervision and responsible management. “Extracurricular\n\nclubs in schools are managed by teachers. A school also provides a safe environment that would allow for a\n二、文法測驗【請在下列各題中選出最適當的答案】\ncertain degree of self-management by the students. Schools already have drama clubs and dance clubs. I think the\n\nreason schools don’t yet have idol clubs is the general idea that being an idol is somehow a ‘lightweight’"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "18",
-    "text": "The hospital _____ the famous writer says tests indicate that he was poisoned.\nprofession. But idols do many things. Some dance and sing; others compose music or design costumes. Some",
-    "options": [
-      "treated",
-      "that treating",
-      "treating",
-      "was treated\neven act as producers. I don’t see why these activities couldn’t be combined into a school idol club.”\n\nAnother factor that has hindered the formation of idol clubs at schools is the conservative nature of the"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "19",
-    "text": "The chemical used to contaminate the product _____ identified, according to the committee of investigation.       industry. “That’s because an idol is viewed as a role model,” says Nakamori. “The tendency is to imitate and copy,",
-    "options": [
-      "no is yet",
-      "not was yet",
-      "has not yet been",
-      "yet has no be\nwhich reduces the creative aspects of the profession. The current idol image is no different from what we had\n\nback in the 1970s with Pink Lady or the Candies. AKB48, with its large numbers, is based on a system developed"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "20",
-    "text": "_____ the popularity of the victim, local authorities are now urgently called upon to investigate this crime.     long ago by the Takarazuka revue （寶塚歌劇團）. As staged entertainment, I don’t see much development since",
-    "options": [
-      "Given",
-      "To give",
-      "Giving",
-      "Is given\nthe 1970s.”"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "21",
-    "text": "The shop that had been severely criticized on the internet _____ claims on Friday that they had sold expired",
+    "number": "31",
+    "text": "What is the passage mainly about?\nd on the internet _____ claims on Friday that they had sold expired",
     "options": [
       "How to become an idol quickly",
-      "Where do idols come from\n food products.",
+      "Where do idols come from",
       "The ideal idols in Japan",
       "The idol industry and its problems"
     ],
@@ -242,40 +334,27 @@
     "number": "32",
     "text": "Which of the following is NOT mentioned as a problem of the idol industry?",
     "options": [
-      "rejecting",
-      "that rejected",
       "be rejected",
       "rejected",
-      "Some agents are not managing the idol business professionally enough."
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "22",
-    "text": "The fences are very low and therefore _____ very hard to climb over.",
-    "options": [
+      "Some agents are not managing the idol business professionally enough.\n__ very hard to climb over.",
       "There are too many idols on the market.",
       "Many young people who want to become idols cannot write songs.",
-      "seem no be",
-      "are not seem to",
       "seem be not",
       "do not seem to be",
-      "The idol industry is too conservative."
+      "The idol industry is too conservative.\nyou might need for the trip."
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "33",
     "text": "What can be inferred about idol clubs in schools?",
     "options": [
       "Currently more than a few schools have idol clubs.",
-      "The greater… the more",
       "More… more",
       "People generally think being an idol is a highly serious profession.",
-      "The great… more",
       "Much… much the",
       "Idol clubs can provide a relatively safe environment for students who want to become idols.",
-      "Idol clubs can train teachers to become good agents for idols."
+      "Idol clubs can train teachers to become good agents for idols.\nndfather Prince Charles becomes King of England."
     ],
     "answer": "3"
   },
@@ -283,21 +362,11 @@
     "number": "34",
     "text": "According to the passage, which of the following is true about idols?",
     "options": [
-      "as well as",
-      "as soon as",
       "so as to",
       "might as well",
       "The image of idols has not changed much in the past few decades.",
-      "Most people know so well what idols do that they don’t want to become idols."
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "25",
-    "text": "The arena _____ the tennis player for her outstanding achievement and contribution.",
-    "options": [
+      "Most people know so well what idols do that they don’t want to become idols.\noutstanding achievement and contribution.",
       "Nowadays idols only sing and dance.",
-      "was named after",
       "which named as",
       "It is becoming more difficult to become idols because there are fewer chances."
     ],
@@ -307,7 +376,6 @@
     "number": "35",
     "text": "Why does Nakamori mention AKB48?",
     "options": [
-      "naming for",
       "to name in",
       "To show how much idols have changed over the years.",
       "To illustrate some problems with the idol industry.",

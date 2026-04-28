@@ -1,25 +1,34 @@
 [
   {
-    "number": "10",
-    "text": "251.251.253        ƒ",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "544Mbps               „ 45Mbps\n  •使用者開啟系統權限                               ‚藍芽漏洞                                          【2】27.下列何者是網際網路之傳輸控制協定(TCP)可以支援的控制功能？\n  ƒ PIN 碼太短                                „ Google 在台灣不販賣需付費的 APP                          •資料鏈結(link)控制              ‚流量(flow)控制             ƒ頻寬(bandwidth)控制 „延遲時間(delay)控制\n【2】6.多家手機大廠於出廠時為手機安裝 Carrier IQ 軟體，造成使用者的什麼權益受損？                                          【3】28.有關 IEEE 無線區域網路(WLAN)標準系列傳輸速度之比較，下列何者正確？\n  •使用權                      ‚隱私權           ƒ著作權                   „營業秘密                     •",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "12",
-    "text": "5                   【36】 double z = 2;                   • 1NF                   ‚ 2NF               ƒ 3NF                    „ BCNF\n  ƒ 12                                             „ 10                                  y = x / z;\n                                                                                         x = 5 * y;\n【4】37.下列何者不是 C++預設的轉型關鍵字？                                                                                      第 2 部份：非選擇題四大題（每大題 10 分）\n  • const_cast                ‚ dynamic_cast       ƒ reinterpret_cast      „ explicit_cast\n【3】38.下列哪一個變數名稱違反 C 語言命名規則？                                                                                    題目一：\n  • _ptr                      ‚ PTR                ƒ 2ptr                  „ ptr2                                （一）乙太網路媒介存取機制 CSMA/CD 中的 CD 代表什麼？如何運作？【4 分】\n【4】39.下列哪個 Java 的變數命名是正確的？\n                                                                                                                 （二）乙太網路標準中為何要限制其最小訊框不得小於 64 bytes？【3 分】\n  • *abcd                     ‚ &abcd              ƒ package               „ _abcd\n【3】40.下列哪一個 C 語言片段程式錯誤？                                                                                          （三）何謂 VLSM(Variable Length Subnet Mask)技術？ 【3 分】\n  • x = ++a;                  ‚ y = a++;           ƒ a + b = z;            „ w = a/b;\n【2】41.在 Java thread 中，下列何者用來建立和啟動新 thread 的執行？\n  • run()                     ‚ start()            ƒ execute()             „ notify()                          題目二：\n【2】42.若 Student 為 Person 的衍生類別(Derived Class)，且 Undergraduate 為 Student 的衍生類別，下列 Java 程式哪一                       （一）何謂「網管資訊庫(Management Information Base, MIB)」？【3 分】\n  個錯誤？\n                                                                                                                 （二）何謂「雜湊函數(Hash Function)」？請舉一例說明之。【3 分】\n  • Person p1 = new Student();                     ‚ Undergraduate u1 = new Student ();\n  ƒ Person p2 = new Undergraduate();               „ Object ob = new Student();                                  （三）何謂「阻斷服務(Denial of Service, DoS)」？請舉一例說明之。【4 分】\n【4】43.下列何者不是 C++ 保留的關鍵字？\n  • asm                       ‚ explicit           ƒ typeid                „ include\n【2】44.有關 C++字串操作的函數，下列敘述何者錯誤？                                                                                  題目三：\n  • strlen 用來取得字串的長度                               ‚ strupr 用來將大寫字母轉換為小寫字母                                       某公司每月須進行《薪資計算》工作，其中經理人月薪為底薪加 30,000 元主管加給，一般員工月薪為\n  ƒ strcpy 用來將字串的內容複製到另一個字串中                       „ strchr 可找出字串裡某個特定字元\n【3】45.針對資料結構中，堆疊(Stack)及佇列(Queue)的敘述，下列何者錯誤？                                                                   底薪加 10,000 元專業加給。請以 C++或 Java 設計下列程式：\n  •堆疊的特性是後進先出，佇列的特性是先進先出                           ‚無論是堆疊或佇列皆可實作出 Linked List                                    （一）請設計一個基礎類別 Employee【2 分】，內含計算薪資的虛擬函式(virtual function) calculateSalary()。\n  ƒ作業系統常用佇列來記錄各個程序(Process)的資訊\n  „程式語言的直譯器是利用堆疊技術來記錄函數呼叫時的資訊                                                                                    （二）請設計經理人衍生類別(derived class)Manager【2 分】，及一般員工衍生類別 Staff【2 分】，分別\n【2】46.在關聯式資料庫(relational database)中，主鍵(primary key)的值不可以為 NULL，這種限制稱為何種 constraint？                                    繼承於第（一）小題之基礎類別，並實作(implement) 計算薪資的虛擬函式。\n  • Entity Integration        ‚ Entity Integrity   ƒ Key Integration       „ Key Integrity\n【1】47.若資料庫中只有資料表 R 與 S，資料表 R 中沒有外來鍵(foreign key)，資料表 S 中有外來鍵參照(reference)到 R，                                    （三）運用多型(polymorphism)技術設計一主程式，底薪設定為 24,000 元，能計算【2 分】並印出【2\n  今對資料庫做：",
+    "number": "16",
+    "text": "下列何者只能使用於 TCP/IP 網路，但卻是目前網路使用最廣泛的「認證」技術？\n         中華電信股份有限公司 101 年從業人員(基層專員)遴選甄試試題\n                                                                                            • KDC(Key Distribution Center)                     ‚ Kerberos V4 認證系統\n遴選類別【代碼】 ：資訊類專業職(三)專員【C2401】                                                                ƒ Needham-Schroeder 認證協定                           „ Time stamp 技術\n專業科目：",
     "options": [
-      "刪除 R 中的資料；",
-      "刪除 S 中的資料，則哪種操作會導致違反 referential integrity constraint？                                        分】此公司經理人與員工之薪資。\n  •僅 A                        ‚僅 B                 ƒ A, B 都會               „ A, B 都不會\n【3】48.使用 SQL 制訂 foreign key 時，可在 ON DELETE 子句中用：\n  • REJECT 及 ACCEPT                                ‚ ASSERT 及 TRIGGER                                          題目四：\n  ƒ RESTRICT 及 CASCADE                             „ CASCADE 及 TRIGGER                                           若某企業資料庫中紀錄員工資料的關聯式(relational)資料表(table)之 schema 如下：\n【2】49. Relation algebra 中的 DIVISION 可以用哪些 operations 取代？\n  • SELECT, PROJECT, MINUS                                                                                         Employee (EmpNum, Name, Salary, SupNum)\n  ‚ PROJECT, MINUS, CROSS PRODUCT                                                                                  各屬性(attribute)之意義依序為員工代碼、姓名、月薪、直屬長官員工代號，其中 EmpNum 為主鍵(PK)；\n  ƒ PROJECT, INTERSECTION, CROSS PRODUCT\n  „ SELECT, INTERSECTION, CROSS PRODUCT                                                                        SupNum 為外來鍵(FK)，參照到 Employee 的 EmpNum。請寫一 SQL 命令，查出每一位月薪在 50,000 元以\n【2】50.若要以 binary(二元) relationship 取代 ternary(三元) relationship，必須運用：                                            上的員工（有管轄員工者）所直接管轄的員工，查詢結果包括上司姓名及下屬姓名，且必須依上司姓名順\n  • Multiple inheritance      ‚ Weak entity type   ƒ Superclass            „ Subclass\n【1】51.下列何者是資料庫的 transaction 必須具備的特性？",
+      "網路與資訊安全、",
+      "程式設計概論及資料庫管理"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "56",
+    "text": "下列何者為 ER model 中關係型態(relationship type)的限制(constraint)？",
+    "options": [
+      "cardinality ratio",
+      "participation\n  •8                                               ‚5                         i % 2 ? x = x + 1 : x = x + 2;\n  ƒ 10                                             „ 12                       cout << x << endl;",
+      "referential"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "51",
+    "text": "下列何者是資料庫的 transaction 必須具備的特性？",
+    "options": [
       "Atomicity",
       "Isolation",
-      "Transparency                                  序再依下屬姓名順序排列。【10 分】\n  •僅 A、B                      ‚僅 B、C               ƒ僅 A、C                  „ A、B、C\n【2】52.相對於檔案處理方式，下列何者不是資料庫強調的特性？\n  •具自我描述(self-describing)能力                        ‚適於資料分割(separating)\n  ƒ適於資料分享(sharing)                                 „對資料提供多視觀(views)\n【4】53.三層式綱要結構(three-schema architecture)區分 External, Conceptual, Internal 三層 schema，因此具有下列何項\n  特性？\n  • Application Dependence                         ‚ Application Independence\n  ƒ Data Dependence                                „ Data Independence\n【2】54.下列何種 SQL 命令會改變資料庫綱要(Schema)？\n  • INSERT 及 UPDATE                                ‚ CREATE TABLE 及 ALTER TABLE\n  ƒ SELECT 及 UPDATE                                „ ALTER TABLE 及 UPDATE"
+      "Transparency                                  序再依下屬姓名順序排列。【10 分】\n  •僅",
+      "B                      ‚僅",
+      "C               ƒ僅",
+      "C                  „",
+      ""
     ],
     "answer": "1"
   }

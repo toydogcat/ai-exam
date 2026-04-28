@@ -1,15 +1,66 @@
 [
   {
+    "number": "1",
+    "text": "What is the best title for the passage?",
+    "options": [
+      "The origins of Easter traditions",
+      "Why people like Easter today",
+      "How Easter became a Christian holiday",
+      "Easter eggs and the chocolate-making techniques"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "Which of the following is true?",
+    "options": [
+      "Eastre is the name of the first Easter bunny.",
+      "Easter does not fall on the same date every year.",
+      "People eat chocolate eggs today to celebrate the waking",
+      "Christians were the first to celebrate the coming of sp"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "What can be inferred from the passage?",
+    "options": [
+      "Easter traditions have undergone some changes over the",
+      "Easter is now celebrated by Christian chocolate-lovers",
+      "The first chocolate eggs were made by the Romans.",
+      "Church leaders preferred chocolate eggs over real eggs."
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "Why does the author mention the Roman proverb in the",
+    "options": [
+      "To show that Romans were the first to celebrate Easter",
+      "To demonstrate how Roman people made chocolate eggs for",
+      "To prove that eating eggs was important for Christians",
+      "To explain how eggs are related to new life and Easter"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "Which of the following statements is NOT supported b",
+    "options": [
+      "Eating eggs was not allowed by church leaders in the Ho",
+      "Rabbits are considered sacred animals to Christians.",
+      "The first chocolate eggs did not taste very good.",
+      "Easter always falls on Sunday.\n第二題：英翻中【40 分】\nHeadwinds to robust near-term growth include COVID-19-related lockdowns early this year, lingering\nconsumer and business uncertainties, diminishing fiscal support, and the strains of rising public and private debt.\nYet, the reopening of economies and the availability of vaccines will gradually unleash a new wave of spending on\ntourism and services. With more spending opportunities, household saving rates will retreat from the unusually high\nlevels of"
+    ],
+    "answer": "2"
+  },
+  {
     "number": "6",
     "text": "What is the passage mainly about?",
     "options": [
-      "The origins of Easter traditions",
       "The life of Andy Warhol",
-      "Why people like Easter today",
       "The impact of digital technology",
-      "How Easter became a Christian holiday",
       "The use of modern technology in art",
-      "Easter eggs and the chocolate-making techniques",
       "The role engineers play in modern art"
     ],
     "answer": "3"
@@ -18,29 +69,21 @@
     "number": "7",
     "text": "Which of the following is true?",
     "options": [
-      "Eastre is the name of the first Easter bunny.",
       "Andy Warhol started using technology in art in late 1950s.",
-      "Easter does not fall on the same date every year.",
-      "Andy Warhol’s digital art pieces were later recovered and restored.",
-      "People eat chocolate eggs today to celebrate the waking up of rabbits.",
-      "Andy Warhol was a student of the Carnegie Mellon University.",
-      "Christians were the first to celebrate the coming of spring.",
+      "Andy Warhol’s digital art pieces were later recovered and restored.\nup of rabbits.",
+      "Andy Warhol was a student of the Carnegie Mellon University.\nring.",
       "Andy Warhol used to work in Bell Laboratories."
     ],
     "answer": "2"
   },
   {
     "number": "8",
-    "text": "What can be inferred from the passage?",
+    "text": "What can be inferred from the passage?\nyears.",
     "options": [
-      "Easter traditions have undergone some changes over the years.",
-      "Technology can help artists’ works reach more people.",
-      "Easter is now celebrated by Christian chocolate-lovers only.",
+      "Technology can help artists’ works reach more people.\nonly.",
       "The internet helped make Andy Warhol become popular.",
-      "The first chocolate eggs were made by the Romans.",
       "Technology is a useful tool but never a medium of art.",
-      "Church leaders preferred chocolate eggs over real eggs.",
-      "University professors were greatly involved in the first attempt to use technology in art."
+      "University professors were greatly involved in the first attempt to use technology in art.\nsecond paragraph?"
     ],
     "answer": "1"
   },
@@ -48,28 +91,20 @@
     "number": "9",
     "text": "Which of the following questions can the passage answer?",
     "options": [
-      "To show that Romans were the first to celebrate Easter",
-      "How did Cory Arcangel become popular?",
-      "To demonstrate how Roman people made chocolate eggs for Easter",
+      "How did Cory Arcangel become popular?\nEaster",
       "Why did engineers and scientists want to work with artists?",
-      "To prove that eating eggs was important for Christians",
       "When did Andy Warhol create his digital drawings?",
-      "To explain how eggs are related to new life and Easter",
-      "Where were the first performances of art and technology?"
+      "Where were the first performances of art and technology?\ny the passage?"
     ],
     "answer": "3"
   },
   {
     "number": "10",
-    "text": "Which of the following is NOT supported by the passage?",
+    "text": "Which of the following is NOT supported by the passage?\nly Week.",
     "options": [
-      "Eating eggs was not allowed by church leaders in the Holy Week.",
       "Cory Arcangel was an artist and a fan of Andy Warhol.",
-      "Rabbits are considered sacred animals to Christians.",
       "Andy Warhol was famous for using technology in art.",
-      "The first chocolate eggs did not taste very good.",
       "Modern technology has greatly helped artists in their creative process.",
-      "Easter always falls on Sunday.",
       "Many engineers at Bell Laboratories were also artists."
     ],
     "answer": "4"

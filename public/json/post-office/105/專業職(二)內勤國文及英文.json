@@ -1,51 +1,34 @@
 [
   {
-    "number": "15",
-    "text": "關漢卿＜四塊玉．閒適＞：「南畝耕，東山臥，世態人情經歷多。閒將往事思量過，賢的是他，愚的是我，爭",
+    "number": "1",
+    "text": "下列各組「」內的字，讀音相同的是：",
     "options": [
       "「佚」名／瓜「瓞」綿綿",
-      "「邪」佞／驚「訝」不已\n\n什麼？」短短的曲詞中，用了兩個古人的典故，這二人是：",
+      "「邪」佞／驚「訝」不已",
       "「鵪」鶉／「閹」然媚世",
-      "地「氈」／「饘」粥糊口",
-      "蘇軾、辛棄疾",
-      "屈原、賈誼",
-      "韓愈、柳宗元",
-      "陶淵明、謝安"
+      "地「氈」／「饘」粥糊口"
     ],
     "answer": "4"
   },
   {
-    "number": "16",
-    "text": "莊子＜讓王＞：「曾子居衛，縕袍無表，顏色腫噲，手足胼胝；三日不舉火，十年不製衣。」這段在描寫曾子",
+    "number": "2",
+    "text": "下列成語，前後意思相同的是：",
     "options": [
       "時移世變／星移斗轉",
       "不分軒輊／不明就裡",
       "甑塵釜魚／鐘鳴鼎食",
-      "兔走烏飛／日居月諸\n\n的處境是："
+      "兔走烏飛／日居月諸"
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "3",
-    "text": "「人怕出名，豬怕肥」這解釋是「人怕出名就好像豬怕肥」，在日常生活中常用這種比喻的意涵；下列何者也",
-    "options": [
-      "食前方丈",
-      "身無長物",
-      "披髮纓冠",
-      "削足適履\n 是同樣的用法？"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "17",
-    "text": "彭邦禎＜月之故鄉＞：「天上一個月亮／水裡一個月亮／天上的月亮在水裡／水裡的月亮在天上／低頭看水裡",
+    "text": "「人怕出名，豬怕肥」這解釋是「人怕出名就好像豬怕肥」，在日常生活中常用這種比喻的意涵；下列何者也\n是同樣的用法？",
     "options": [
       "人善被人欺，馬善被人騎",
-      "跑得了和尚，跑不了廟\n\n／抬頭看天上／看月亮，思故鄉／一個在水裡／一個在天上」，這首詩的旨趣，與下列何者有異曲同工之妙？",
+      "跑得了和尚，跑不了廟",
       "不經一事，不長一智",
-      "賣布不帶尺──存心不量",
-      "不知何處吹蘆管，一夜征人盡望鄉",
-      "但使龍城飛將在，不教胡馬度陰山"
+      "賣布不帶尺──存心不量"
     ],
     "answer": "1"
   },
@@ -53,49 +36,28 @@
     "number": "4",
     "text": "在日常生活中，應用文是我們常使用的，下列何者應用錯誤？",
     "options": [
-      "美人捲珠簾，深坐顰蛾眉",
-      "丁丁向晚急還稀，啄遍庭槐未肯歸",
-      "北宋 趙明誠與李清照二人之間的關係，可用「鶼鰈情深」來形容"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "18",
-    "text": "「櫛風沐雨」、「懸樑刺骨」、「首如飛蓬」、「朝如青絲暮如雪」、「萬條垂下綠絲縧」上面詞語中，有幾",
-    "options": [
-      "東晉 王羲之與王徽之的關係，旁人可用「賢喬梓」來稱呼\n\n個是隱藏「頭髮」之意？",
+      "北宋 趙明誠與李清照二人之間的關係，可用「鶼鰈情深」來形容",
+      "東晉 王羲之與王徽之的關係，旁人可用「賢喬梓」來稱呼",
       "明 歸有光在母親過世後，為悼念其母高尚品德，所以寫一篇「先妣事略」",
-      "二個",
-      "三個",
-      "四個",
-      "五個",
       "以孔子這樣的名人過世，我們若要送輓辭，可贈「懿德長昭」"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
     "number": "5",
     "text": "「觴」字當名詞用，作「酒杯」解釋；若作動詞用，可解釋「飲酒」。下列「」內的觴，哪一個是當「動詞」用？",
     "options": [
-      "橫「不敏」，昭告神明，發誓述作",
       "又有清流激湍，映帶左右，引以為流「觴」曲水",
-      "「足下」方溫經，猥不敢相煩",
       "一「觴」一詠，亦足以暢敘幽情",
-      "庶竭「駑鈍」，攘除姦凶，興復漢室，還于舊都",
       "引「觴」滿酌，頹然就醉",
-      "凡我多士，及我友朋，惟仁惟孝，義勇奉公，以發揚種性，此則「不佞」之幟也",
       "齊侯以晏子之「觴」而觴桓子"
     ],
     "answer": "2"
   },
   {
     "number": "6",
-    "text": "某人來到某處，見一幅對聯寫著：「德配天地，泗水文章昭日月／道貫古今，杏壇禮樂冠華夷」，請問此對聯\n\n說」的意思是：\n 所描述的人物應該是：",
+    "text": "某人來到某處，見一幅對聯寫著：「德配天地，泗水文章昭日月／道貫古今，杏壇禮樂冠華夷」，請問此對聯\n所描述的人物應該是：",
     "options": [
-      "小麥成長的意思",
-      "拜官進爵的意思",
-      "店鋪商販的意思",
-      "街談巷語，瑣碎言論的意思",
       "孔子",
       "孟子",
       "荀子",
@@ -105,12 +67,320 @@
   },
   {
     "number": "7",
-    "text": "有「臺灣新文學之父」美譽的小說家＿＿＿，終其一生，以文學作品對抗日本的「殖民統治」；＜一桿稱仔＞",
+    "text": "有「臺灣新文學之父」美譽的小說家＿＿＿，終其一生，以文學作品對抗日本的「殖民統治」；＜一桿稱仔＞\n是其代表作之一。此空格最適合填入的作家是：",
+    "options": [
+      "吳晟",
+      "徐志摩",
+      "賴和",
+      "洪醒夫"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "8",
+    "text": "顧炎武在＜廉恥＞有這一段話：「頃讀《顏氏家訓》有云：「『齊朝一士大夫，嘗謂吾曰：「我有一兒，年已\n十七，頗曉書疏。教其鮮卑語及彈琵琶，稍欲通解，以此伏事公卿，無不寵愛。」吾時俯而不答。』」顧炎武的「俯\n而不答」表示對這位齊朝大夫的看法是：",
+    "options": [
+      "無恥之恥，無恥也",
+      "行己有恥，有所不取",
+      "士而無恥，故無所不為",
+      "其恕乎！己所不欲，勿施於人"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "9",
+    "text": "在文句中，常用到「偏義複詞」，但意思只取其中一字之意，如「老闆從不惜員工的『去留』。」這意思偏重\n在「去」之意。下列何者也是同樣的用法？",
+    "options": [
+      "宮中府中，俱為一體，陟罰「臧否」  ，不宜異同",
+      "這個想法在她心中已經「醞釀」許久",
+      "今有一人，入人「園圃」 ，竊其桃李",
+      "就別再嘔氣了，握個手泯「恩仇」吧"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "25",
+    "text": "下列哪一段詩句最能詮釋：「人類一直在追逐著可望不可及的理想」？",
+    "options": [
+      "悄悄的我走了／正如我悄悄的來／我揮一揮衣袖／不帶走一片雲彩",
+      "我達達的馬蹄是美麗的錯誤／我不是歸人，是個過客",
+      "你站在橋上看風景／看風景人在樓上看你／明月裝飾了你的窗子／你裝飾了別人的夢",
+      "地平線長久在遠處退縮地引逗著我們／活著。不斷地追逐／感覺它已接近而抬眼還是那麼遠離\n貳、英文【第 26-50 題，每題 2 分，共計 25 題，占 50 分】\n一、字彙【請依照句子前後文意，選出最適當的答案】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "26",
+    "text": "________ school constitutes an advanced program of",
+    "options": [
+      "Graduate",
+      "Stadium",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "27",
+    "text": "I was looking for a birthday present for my mother",
+    "options": [
+      "historical",
+      "suitable",
+      ""
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "28",
+    "text": "Twice a week the children are tested in basic math",
+    "options": [
+      "dumpling",
+      "tunnel",
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "29",
+    "text": "The recession has led to many small businesses goi",
+    "options": [
+      "thoughtful",
+      "bankrupt",
+      ""
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "30",
+    "text": "What a sensational story! It has all the ________",
+    "options": [
+      "damages",
+      "hobbies",
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "31",
+    "text": "To be ________ honest, I was too scared to say any",
+    "options": [
+      "completely",
+      "multiply",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "32",
+    "text": "This jacket is ________. You can wear it in rainy",
+    "options": [
+      "passionate",
+      "superficial",
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "33",
+    "text": "He didn’t answer my email, so I sent a ________ me",
+    "options": [
+      "test",
+      "tester",
+      "二、文法測驗【請在下列各題中選出最適當的答案】"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "34",
+    "text": "Only by making others happy ________ happiness for",
+    "options": [
+      "you can create",
+      "you create",
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "35",
+    "text": "The air in the mountains is much colder than _____",
+    "options": [
+      "which",
+      "what",
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "36",
+    "text": "John F. Kennedy was sworn in as the 35th president",
+    "options": [
+      "in his forty",
+      "on his forty",
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "37",
+    "text": "The high school graduates may dance ________ they",
+    "options": [
+      "whoever",
+      "whomever",
+      "【1,3】38. Catherine was ________ that she was always on to",
+      "so diligent a student",
+      "a so diligent student",
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "39",
+    "text": "He didn’t get good scores this time. He planned to",
+    "options": [
+      "as hardly as",
+      "as hard as",
+      ""
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "40",
+    "text": "Americans eat ________ more sugar than they need.",
+    "options": [
+      "far",
+      "too",
+      "三、克漏字測驗【請依照段落上下文意，選出最適當的答案】\nThe unique and often beautifully painted Wind Li\nthat you’ll stumble into more than one"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "10",
+    "text": "蘇軾＜日喻＞：「道之難見也甚於日。」句中的「於」是「比」的意思。下列何者也做同樣的解釋？",
+    "options": [
+      "不拘「於」時，請學於余，余嘉其能行古道",
+      "從先人還家，「於」舅家見之，十二三矣",
+      "今之眾人，其下聖人也亦遠矣，而恥學「於」師",
+      "弟子不必不如師，師不必賢「於」弟子"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "11",
+    "text": "「（甲）忽羯鼓一聲，歌喉□發（乙）蘇秦對其嫂嫂的前□後恭，深不以為然。」請於二個□的空格內，選出\n正確的用字。",
+    "options": [
+      "倨／詎",
+      "劇／據",
+      "遽／倨",
+      "詎／遽"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "12",
+    "text": "「四海之內皆兄弟」是常用的一句詞，下列何者與「四海」之意無關？",
+    "options": [
+      "宇內",
+      "八荒",
+      "九五",
+      "六合"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "13",
+    "text": "某航空公司為招攬旅客，欲製作一系列廣告，下列哪一個標題最適合？",
+    "options": [
+      "咫尺天涯",
+      "天涯比鄰",
+      "乘風破浪",
+      "不脛而走"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "魏武嘗過曹娥碑下，楊修從。碑背上見題作「黃絹幼婦外孫齏臼」八字。這八字意謂：",
+    "options": [
+      "少婦美女",
+      "絕妙好辭",
+      "文彩絕佳",
+      "愛美少女"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "15",
+    "text": "關漢卿＜四塊玉．閒適＞：「南畝耕，東山臥，世態人情經歷多。閒將往事思量過，賢的是他，愚的是我，爭\n什麼？」短短的曲詞中，用了兩個古人的典故，這二人是：",
+    "options": [
+      "蘇軾、辛棄疾",
+      "屈原、賈誼",
+      "韓愈、柳宗元",
+      "陶淵明、謝安"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "16",
+    "text": "莊子＜讓王＞：「曾子居衛，縕袍無表，顏色腫噲，手足胼胝；三日不舉火，十年不製衣。」這段在描寫曾子\n的處境是：",
+    "options": [
+      "食前方丈",
+      "身無長物",
+      "披髮纓冠",
+      "削足適履"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "17",
+    "text": "彭邦禎＜月之故鄉＞：「天上一個月亮／水裡一個月亮／天上的月亮在水裡／水裡的月亮在天上／低頭看水裡\n／抬頭看天上／看月亮，思故鄉／一個在水裡／一個在天上」，這首詩的旨趣，與下列何者有異曲同工之妙？",
+    "options": [
+      "不知何處吹蘆管，一夜征人盡望鄉",
+      "但使龍城飛將在，不教胡馬度陰山",
+      "美人捲珠簾，深坐顰蛾眉",
+      "丁丁向晚急還稀，啄遍庭槐未肯歸"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "18",
+    "text": "「櫛風沐雨」、「懸樑刺骨」、「首如飛蓬」、「朝如青絲暮如雪」、「萬條垂下綠絲縧」上面詞語中，有幾\n個是隱藏「頭髮」之意？",
+    "options": [
+      "二個",
+      "三個",
+      "四個",
+      "五個"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "文章中常見到自稱時，用「自謙」的詞語，下列何者「未」用此自謙的詞語？",
+    "options": [
+      "橫「不敏」，昭告神明，發誓述作",
+      "「足下」方溫經，猥不敢相煩",
+      "庶竭「駑鈍」，攘除姦凶，興復漢室，還于舊都",
+      "凡我多士，及我友朋，惟仁惟孝，義勇奉公，以發揚種性，此則「不佞」之幟也"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "20",
+    "text": "程晉芳曾對儒林外史作者吳敬梓的際遇，說：「外史紀儒林，刻劃何工妍！吾為斯人悲，竟以稗說傳。」這「稗\n說」的意思是：",
+    "options": [
+      "小麥成長的意思",
+      "拜官進爵的意思",
+      "店鋪商販的意思",
+      "街談巷語，瑣碎言論的意思"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "21",
+    "text": "「繁飾禮樂以淫人，久喪偽哀以謾親」，這種說法是出自「九流十家」的哪一家？",
     "options": [
       "儒家",
       "道家",
       "墨家",
-      "法家\n 是其代表作之一。此空格最適合填入的作家是："
+      "法家"
     ],
     "answer": "3"
   },
@@ -118,10 +388,6 @@
     "number": "22",
     "text": "如果要造一句有關「風聲」的疊詞，我們會選用下列哪一個詞？",
     "options": [
-      "吳晟",
-      "徐志摩",
-      "賴和",
-      "洪醒夫",
       "呦呦",
       "關關",
       "幽幽",
@@ -131,14 +397,12 @@
   },
   {
     "number": "23",
-    "text": "魏徵＜諫太宗十思疏＞：「何必勞神苦思，代下司職，役聰明之耳目，虧無為之大道哉？」這是一句反問句，\n 十七，頗曉書疏。教其鮮卑語及彈琵琶，稍欲通解，以此伏事公卿，無不寵愛。」吾時俯而不答。』」顧炎武的「俯\n\n意在凸顯治國要道是：\n 而不答」表示對這位齊朝大夫的看法是：",
+    "text": "魏徵＜諫太宗十思疏＞：「何必勞神苦思，代下司職，役聰明之耳目，虧無為之大道哉？」這是一句反問句，\n意在凸顯治國要道是：",
     "options": [
       "風行草偃",
       "鳴琴垂拱",
       "化性起偽",
-      "刑賞不察",
-      "無恥之恥，無恥也",
-      "行己有恥，有所不取"
+      "刑賞不察"
     ],
     "answer": "2"
   },
@@ -146,25 +410,12 @@
     "number": "24",
     "text": "下列各組文句，何者前後文意相通？",
     "options": [
-      "士而無恥，故無所不為",
-      "其恕乎！己所不欲，勿施於人",
-      "寄蜉蝣於天地，渺滄海之一粟／人生寄一世，奄忽若飆塵"
+      "寄蜉蝣於天地，渺滄海之一粟／人生寄一世，奄忽若飆塵",
+      "逝者如斯，而未嘗往也／逝者如斯夫，不舍晝夜",
+      "月出於東山之上，徘徊於斗牛之間／河漢清且淺，相去復幾許",
+      "飄飄乎如遺世獨立，羽化登仙／俱懷逸興壯思飛，欲上青天覽明月\n【請接續背面】"
     ],
     "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "在文句中，常用到「偏義複詞」，但意思只取其中一字之意，如「老闆從不惜員工的『去留』。」這意思偏重",
-    "options": [
-      "逝者如斯，而未嘗往也／逝者如斯夫，不舍晝夜\n 在「去」之意。下列何者也是同樣的用法？",
-      "月出於東山之上，徘徊於斗牛之間／河漢清且淺，相去復幾許",
-      "宮中府中，俱為一體，陟罰「臧否」  ，不宜異同",
-      "這個想法在她心中已經「醞釀」許久",
-      "飄飄乎如遺世獨立，羽化登仙／俱懷逸興壯思飛，欲上青天覽明月",
-      "今有一人，入人「園圃」 ，竊其桃李",
-      "就別再嘔氣了，握個手泯「恩仇」吧\n\n【請接續背面】"
-    ],
-    "answer": "4"
   },
   {
     "number": "41",
@@ -173,8 +424,7 @@
       "off guard",
       "out of reach",
       "in detail",
-      "by chance",
-      "悄悄的我走了／正如我悄悄的來／我揮一揮衣袖／不帶走一片雲彩"
+      "by chance"
     ],
     "answer": "4"
   },
@@ -185,8 +435,7 @@
       "to bring",
       "brought",
       "bringing",
-      "being brought",
-      "我達達的馬蹄是美麗的錯誤／我不是歸人，是個過客"
+      "being brought"
     ],
     "answer": "3"
   },
@@ -197,8 +446,7 @@
       "creatures",
       "gestures",
       "mixtures",
-      "temperatures",
-      "你站在橋上看風景／看風景人在樓上看你／明月裝飾了你的窗子／你裝飾了別人的夢"
+      "temperatures"
     ],
     "answer": "1"
   },
@@ -209,8 +457,7 @@
       "who",
       "which",
       "where",
-      "what",
-      "地平線長久在遠處退縮地引逗著我們／活著。不斷地追逐／感覺它已接近而抬眼還是那麼遠離"
+      "what"
     ],
     "answer": "3"
   },
@@ -221,193 +468,70 @@
       "Firstly",
       "Shortly",
       "Additionally",
-      "Remarkably\n\n\n貳、英文【第 26-50 題，每題 2 分，共計 25 題，占 50 分】\n四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\n一、字彙【請依照句子前後文意，選出最適當的答案】\nWidow Sheila Young wasn’t enthusiastic about the idea of online dating. But she took the courage and met a man\n\nwho changed her life."
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "26",
-    "text": "________ school constitutes an advanced program of study focused on a particular academic discipline or profession.\n\nSheila, 73, had lost her husband to bowel cancer 18 months earlier. After more than 40 years of marriage, she",
-    "options": [
-      "Graduate",
-      "Stadium",
-      "Permission",
-      "Cradle\n\nmissed the companionship, conversation and comfort of having someone to share her life."
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "27",
-    "text": "I was looking for a birthday present for my mother but I didn't find anything ________.\n\n“A niece had tried online dating,” says Sheila. “It didn’t work for her, but one evening I had a couple of glasses of",
-    "options": [
-      "historical",
-      "suitable",
-      "apparent",
-      "humorous\n\nred wine and thought, ‘go for it girl.’ I didn’t tell anyone in case it didn’t work out. I said in my profile simply, ‘I want"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "28",
-    "text": "Twice a week the children are tested in basic mathematical skills such as ________.\n\nsomeone to make me laugh again.’ ”",
-    "options": [
-      "dumpling",
-      "tunnel",
-      "addition",
-      "principle\n\nOver a period of three weeks, her inbox was filled with inappropriate messages. Sheila despaired. Then she found"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "29",
-    "text": "The recession has led to many small businesses going ________.\n\nRoy Millard, 75. Or rather, he found her. Roy, whose wife Jenny died of ovarian cancer seven years ago, signed up to",
-    "options": [
-      "thoughtful",
-      "bankrupt",
-      "imaginative",
-      "organic\n\nthe dating site without telling a soul."
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "30",
-    "text": "What a sensational story! It has all the ________ of a soap opera.\n\nLike Sheila, Roy was looking for a companion, someone to giggle with, to laugh at his jokes. Living 32 miles",
-    "options": [
-      "damages",
-      "hobbies",
-      "populations",
-      "elements\n\napart, yet they were perfect for each other."
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "31",
-    "text": "To be ________ honest, I was too scared to say anything.\n\nWhen Sheila’s photograph popped up, he stopped short. He was smitten.",
-    "options": [
-      "completely",
-      "multiply",
-      "apply",
-      "costly\n\nLuckily, Sheila liked the look of him too. “It was his eyes, I think,” she says. “Such a twinkle in them.”"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "32",
-    "text": "This jacket is ________. You can wear it in rainy days without getting wet.\n\nAfter three weeks of messaging and talking on the phone, the pair arranged to meet halfway at a garden centre in",
-    "options": [
-      "passionate",
-      "superficial",
-      "underneath",
-      "waterproof\n\nOctober 2012. When Sheila pulled in, Roy was already waiting by his car. “We were both nervous,” admits Sheila."
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "33",
-    "text": "He didn’t answer my email, so I sent a ________ message to his cell phone.\n\n“But once we sat down for a coffee, it just felt natural.” Roy adds: “Neither of us wanted the date to end, so we drove",
-    "options": [
-      "test",
-      "tester",
-      "text",
-      "textile\n\nto a pub for lunch.”\n二、文法測驗【請在下列各題中選出最適當的答案】\nSoon they met each other’s families who got on well right away. They both have lots of great friends and family,"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "34",
-    "text": "Only by making others happy ________ happiness for yourself.\nand now they are combined. With visits from friends and family and eating out regularly, the couple are rarely at",
-    "options": [
-      "you can create",
-      "you create",
-      "you can be creating",
-      "can you create\nhome."
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "35",
-    "text": "The air in the mountains is much colder than ________ in the plains.\n“I can’t believe that my life has changed so much,” she says. “When I think of people in my situation being",
-    "options": [
-      "which",
-      "what",
-      "that",
-      "those\nlonely, I feel so lucky.”"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "36",
-    "text": "John F. Kennedy was sworn in as the 35th president of the United States ________.\nRoy adds, “We plucked up the courage to do something, and it worked out. Look at the life we have now.”",
-    "options": [
-      "in his forty",
-      "on his forty",
-      "in his forties",
-      "on his forties"
+      "Remarkably\n四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\nWidow Sheila Young wasn’t enthusiastic about the idea of online dating. But she took the courage and met a man\nwho changed her life.\nstudy focused on a particular academic discipline or profession.\nSheila, 73, had lost her husband to bowel cancer 18 months earlier. After more than 40 years of marriage, she\nPermission",
+      "Cradle\nmissed the companionship, conversation and comfort of having someone to share her life.\nbut I didn't find anything ________.\n“A niece had tried online dating,” says Sheila. “It didn’t work for her, but one evening I had a couple of glasses of\napparent",
+      "humorous\nred wine and thought, ‘go for it girl.’ I didn’t tell anyone in case it didn’t work out. I said in my profile simply, ‘I want\nematical skills such as ________.\nsomeone to make me laugh again.’ ”\naddition",
+      "principle\nOver a period of three weeks, her inbox was filled with inappropriate messages. Sheila despaired. Then she found\nng ________.\nRoy Millard,"
     ],
     "answer": "3"
   },
   {
     "number": "46",
-    "text": "How did Sheila and Roy meet?",
+    "text": "How did Sheila and Roy meet?\nwith whoever",
     "options": [
-      "whoever",
-      "whomever",
-      "with whoever",
       "with whomever",
       "At a church service.",
-      "Through a friend.\n【1,3】38. Catherine was ________ that she was always on top of her class back in her school days.",
+      "Through a friend.\np of her class back in her school days.",
       "Via an online dating service.",
-      "By joining the same singing contest.",
-      "so diligent a student",
-      "a so diligent student",
-      "such a diligent student",
+      "By joining the same singing contest.\nsuch a diligent student",
       "a such diligent student"
     ],
     "answer": "3"
   },
   {
-    "number": "39",
-    "text": "He didn’t get good scores this time. He planned to study ________ his classmates.",
+    "number": "47",
+    "text": "What did they both look for in a companion?\nstudy ________ his classmates.",
     "options": [
       "Knowledge.",
       "Laughter.",
       "Security.",
-      "Wealth.",
-      "as hardly as",
-      "as hard as",
-      "so harder as",
+      "Wealth.\nso harder as",
       "so hardly as"
     ],
     "answer": "2"
   },
   {
-    "number": "40",
-    "text": "Americans eat ________ more sugar than they need.",
+    "number": "48",
+    "text": "What did Sheila and Roy have when they went out the first time?",
     "options": [
       "Afternoon tea.",
-      "Brunch.",
-      "far",
-      "too",
-      "very",
+      "Brunch.\nvery",
       "very much",
       "Coffee and lunch.",
       "Tea and dinner."
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "49",
-    "text": "Which of the following statements is NOT true?\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】",
+    "text": "Which of the following statements is NOT true?",
     "options": [
-      "Sheila and Roy had good first impression of each other.\n         The unique and often beautifully painted Wind Lion Gods of Kinmen are quite something to behold, and the chances are",
-      "Their former spouses died of cancer.\n   that you’ll stumble into more than one 41 . These white granite statues are dotted around the ancient villages of Kinmen",
-      "Their children persuaded them to meet each other.\n   and were traditionally created in the hopes of 42 good luck, fertility and other benefits to the Kinmen villagers. Often",
-      "They joined the service without telling anyone.\n   marked on guide maps, locating these colorful 43 can be a great way to hike around the island. Alternatively if pressed\n   for time, you can simply visit the new Wind Lion God Park located near the ShangYi Airport 44 all 63 official statues        50. To Sheila and Roy, what did it take to be happy again?\n   have been recreated for easy viewing. 45 , if you can find every original Wind Lion God on the island and bring photo",
+      "Sheila and Roy had good first impression of each other.\non Gods of Kinmen are quite something to behold, and the chances are",
+      "Their former spouses died of cancer.\ne granite statues are dotted around the ancient villages of Kinmen",
+      "Their children persuaded them to meet each other.\nluck, fertility and other benefits to the Kinmen villagers. Often",
+      "They joined the service without telling anyone.\ne a great way to hike around the island. Alternatively if pressed\nark located near the ShangYi Airport 44 all 63 official statues"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "50",
+    "text": "To Sheila and Roy, what did it take to be happy again?\nfind every original Wind Lion God on the island and bring photo",
+    "options": [
       "Courage.",
       "Time.",
       "Money.",
-      "Prayer.\n   proof to the park, they’ll happily give you a reward for your efforts."
+      "Prayer.\nor your efforts."
     ],
-    "answer": "3"
+    "answer": "1"
   }
 ]

@@ -1,193 +1,13 @@
 [
   {
     "number": "1",
-    "text": "本科目禁止使用電子計算器。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "本試題共 2 頁(A4 紙 1 張)。\n注",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "3",
-    "text": "本試題分為填充、問答與計算 2 大題，各類配分於題目處標明。\n意",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "7",
-    "text": "考試結束前離場者，試題須隨答案卷繳回，俟該節考試結束後，始得至原試場索取。\n\n一、填充題：60%(20 題，每題 3 分，共 60 分)",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "在 1 L 的 1 N 硫酸水溶液中含有硫酸____克。(S=32、H=1、O=16)",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "根據氣體動力論，可知氣體的動能會隨溫度提升而增加。故一般而言，氣體在液體中的溶解\n  度會隨溫度提升而____。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "3",
-    "text": "在 25 ℃時，A 液體之飽和蒸汽壓為",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "2 大氣壓，B 液體之飽和蒸汽壓為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "1 大氣壓。現有一\n  25 ℃混合溶液內僅含 A、B 兩成分，量測該混合溶液之蒸氣壓為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "12 大氣壓，假設該溶液為\n  理想溶液且其蒸氣亦為理想氣體，試問溶液內 B 液體之莫耳分率為____。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "某化合物經元素分析得知含碳",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "6 g、氫",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "6 g、氧",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "8",
-    "text": "已知 C(s) +",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "5O2(g) → CO(g) ∆H= -26 kcal/mol，C(s) + O2(g) → CO2(g) ∆H= -94 kcal/mol，則\n  CO(g) +",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "5O2(g) → CO2(g) 之∆H 為 ____ kcal/mol。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "9",
-    "text": "近年來，由於工業發展大量排放的二氧化碳等溫室氣體會吸收輻射中的____，導致全球溫暖\n  化效應日益嚴重。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "已知",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "00 M 硫酸溶液的密度為",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "07 g/cm3，則其重量莫耳濃度為____。\n   (計算至小數點後第 2 位，以下四捨五入。S=32、O=16、H=1)",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "11",
-    "text": "CaF2 之飽和溶液中含[Ca2+]=",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "0×10-4 M，則其 Ksp= ____。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "3",
-    "text": "86 安培的電流電解 CuSO4 水溶液 10 秒，會於陰極析出____ 莫耳的銅。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "5 M 的 NaOH 與 200 mL",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "5 M 的 HCl 均勻混合後，其混合溶液之 pH 值=____。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
     "text": "以 1 g 的某固體純物質在定壓下進行熱分析實驗，該實驗以 500 cal/min 之定功率熱源加熱，\n  加熱過程中定時記錄其溫度變化可獲得該物質加熱曲線，亦即其加熱曲線可由下表中各點以\n  直線連接獲得，並假設所有溫度變化均被及時量測。試依此加熱曲線求取該物質之：",
     "options": [
       "汽化熱為多少 cal/g？（3 分）",
       "液體比熱為多少 cal/g-˚C？（3 分）",
       "另取 10 g 該物質於相同壓力下，由 30 ℃加熱至 50 ℃所需總熱量為多少 cal？（4 分）\n     時間（min）         0    2    4    6    8    10   12\n      溫度（℃） 25            45   45   85   85   85   105"
     ],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "某弱酸 HA 的解離常數為",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "1",
-    "text": "0×10-6，今將",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "0",
-    "text": "1 莫耳的 NaA 固體加入",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "1",
-    "text": "0 M 的 HA 溶液 1 L 中，\n  假設不考慮溶液體積變化，試問所得溶液之 pH 值約為多少（5 分）？並解釋加入 NaA 固體\n  對弱酸 HA 的解離度所造成的影響為何（5 分）？",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "在",
-    "options": [],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "2",
@@ -197,6 +17,16 @@
       "請寫出以 Na2S2O3 滴定 I2 的氧化還原方程式（3 分）",
       "請計算 Na2S2O3 的體積莫耳濃度(M)（4 分）"
     ],
-    "answer": "1"
+    "answer": "2"
+  },
+  {
+    "number": "4",
+    "text": "試解釋下列名詞：",
+    "options": [
+      "BOD5（3 分）",
+      "方法偵測極限 (MDL)（3 分）",
+      "檢量線（4 分）"
+    ],
+    "answer": "4"
   }
 ]
