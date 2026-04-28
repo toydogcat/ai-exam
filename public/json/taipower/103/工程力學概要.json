@@ -3,25 +3,25 @@
     "number": "1",
     "text": "本科目禁止使用電子計算器。",
     "options": [],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "2",
     "text": "本試題共 5 頁(含 A3 紙 1 張、A4 紙 1 張)。\n注",
     "options": [],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "3",
     "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n意      試題或其他紙張作答者不予計分。",
     "options": [],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "4",
     "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一個\n事      選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，不\n項      給分亦不扣分。",
     "options": [],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "5",
@@ -33,7 +33,7 @@
     "number": "6",
     "text": "考試結束前離場者，試題須隨答案卡繳回，俟該節考試結束後，始得至原試場索取。",
     "options": [],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "1",
@@ -44,7 +44,7 @@
       "牛頓第三定律",
       "牛頓萬有引力定律"
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "2",
@@ -55,7 +55,7 @@
       "bh",
       "hb\n    3             3                                 12                     12"
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "3",
@@ -66,7 +66,7 @@
       "bh",
       "hb\n      3           3             12            12"
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "4",
@@ -77,7 +77,7 @@
       "4 t(拉力)",
       "4 t(壓力)"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "5",
@@ -94,7 +94,7 @@
     "number": "6",
     "text": "承第 4 題，若該桿件不受外力，但溫度升高 10oC，桿之熱膨脹係數為",
     "options": [],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "1",
@@ -105,7 +105,7 @@
       "300 kg/cm2",
       "400 kg/cm2"
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "7",
@@ -116,7 +116,7 @@
       "1000 cm4",
       "1200 cm4"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "8",
@@ -127,7 +127,7 @@
       "3 cm",
       "4 cm"
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "9",
@@ -136,20 +136,12 @@
     "answer": "4"
   },
   {
-    "number": "0",
-    "text": "3 cm 厚之鈑貫穿一 2 cm×2 cm 之方孔，鈑之抗剪強度為\n  2000kg/cm2，則所需之最小 P 力為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
     "number": "1",
     "text": "2 t",
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "2",
@@ -157,7 +149,7 @@
     "options": [
       ""
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "3",
@@ -165,19 +157,13 @@
     "options": [
       ""
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "4",
     "text": "8 t\n                                                                                      P\n\n\n                  b/2       A   C             B                     螺栓\n C                      C             5t\n                                                     P                     P\n                  b/2       10 cm     40 cm                                               2cm\n X                      X                                                           2cm",
     "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "3cm\n            h\n                                    【圖 2】                   【圖 3】                   【圖 4】\n          【圖 1】\n\n                                工程力學概要 第 1 頁，共 5 頁                                 【請翻頁繼續作答】\n                                                                      5kN            9kN",
-    "options": [],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "10",
@@ -185,23 +171,7 @@
     "options": [
       ""
     ],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "5 MPa",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "7 MPa",
-    "options": [
-      ""
-    ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "1",
@@ -209,23 +179,11 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "1",
     "text": "2 MPa                                    1m         2m",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "5m",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "5m",
     "options": [],
     "answer": "1"
   },
@@ -235,37 +193,13 @@
     "options": [
       ""
     ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "4 MPa",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "6 MPa",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "8 MPa",
-    "options": [
-      ""
-    ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "1",
     "text": "2 MPa",
     "options": [],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "12",
@@ -276,7 +210,7 @@
       "60 MPa",
       "80 MPa"
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "13",
@@ -298,7 +232,7 @@
       "F1= P＋    ，F2= P－                                           50cm\n             5    2     5      2\n                                       【圖 6】                        【圖 7】\n             4   Q      3     Q",
       "F1= P－    ，F2= P＋\n             5    2     5       2"
     ],
-    "answer": "2"
+    "answer": "1"
   },
   {
     "number": "15",
@@ -309,7 +243,7 @@
       "150N",
       "180N"
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "16",
@@ -331,23 +265,12 @@
       "150 3 kg",
       "150kg"
     ],
-    "answer": "3"
+    "answer": "1"
   },
   {
     "number": "18",
     "text": "如下【圖 9】所示，Ａ物體重 200N，B 物體重 500N，A 物體與 B 物體以繩索繫結，假設繩索與滑輪\n      間無摩擦，且各接觸面間之摩擦係數為",
     "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "3，求使 B 物體即將向左滑動之 P 力為何？",
-    "options": [
-      "330N",
-      "380N",
-      "430N",
-      "480N"
-    ],
     "answer": "1"
   },
   {
@@ -359,36 +282,6 @@
     "answer": "3"
   },
   {
-    "number": "0",
-    "text": "275",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "325",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "375",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "425",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "20",
     "text": "如下【圖 11】所示桁架，請問有幾根零桿？",
     "options": [
@@ -397,19 +290,19 @@
       "3",
       "4\n                                                            B\n                         300kg/m\n                                                                                           B            C        D\n  600kg\n    30°                                                                                                                         3m\nAH A                                    A                                   4m\n                              B                                                  A                          G    F        E\n                                                                                               H\n                                   P                    W                                                                  3t\n                                        B        A\n     AV                  BV                                                           4m           4m       4m       4m\n          2m   2m   6m"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "1",
     "text": "5m",
     "options": [],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "1",
     "text": "5m\n               【圖 8】                   【圖 9】             【圖 10】                                【圖 11】\n                                       工程力學概要 第 2 頁，共 5 頁",
     "options": [],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "21",
@@ -420,7 +313,7 @@
       "8t (壓力)",
       "8t (拉力)"
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "22",
@@ -431,36 +324,6 @@
     "answer": "3"
   },
   {
-    "number": "0",
-    "text": "1 cm (伸長)",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "1 cm (縮短)",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "2 cm (伸長)",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "2 cm (縮短)",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "23",
     "text": "材料存在初始應力，經一段時間後，變形量未明顯變化，但應力逐漸減少，最後達一定值，\n   此現象稱為？",
     "options": [
@@ -469,7 +332,7 @@
       "疲勞",
       "潛變"
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "24",
@@ -480,7 +343,7 @@
       "130 kg/cm2",
       "120 kg/cm2                                               L             L\n                                                                                                                 D\n\n                                              【圖 12】                          【圖 13】"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "25",
@@ -491,7 +354,7 @@
       "230 kg/cm2",
       "220 kg/cm2"
     ],
-    "answer": "2"
+    "answer": "1"
   },
   {
     "number": "26",
@@ -513,7 +376,7 @@
       "",
       "水平形心軸                                                                              z\n        4I           8I\n                                                                                                         b"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
     "number": "28",
@@ -535,7 +398,7 @@
       "",
       "48EI          384EI     8EI                                             6EI"
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "30",
@@ -546,7 +409,7 @@
       "",
       "4I         8I          16I                                            8I"
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "31",
@@ -557,7 +420,7 @@
       "",
       "L     L\n                                                      【圖 15】\n\n\n\n                          工程力學概要 第 3 頁，共 5 頁                                         【請翻頁繼續作答】\n                                                                                                            T"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "32",
@@ -579,13 +442,13 @@
       "",
       "πD 3\n                          πD 3\n                                         πD 3\n                                                      πD3"
     ],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "34",
     "text": "如右【圖 17】所示之側視圖與俯視圖，短方柱之斷面為 120cm×120cm(斷面積 A=14.4×103 cm2，\n   慣性矩 I =",
     "options": [],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "17",
@@ -596,7 +459,7 @@
       "175 kg/cm2",
       "200 kg/cm2           A\n\n                                                                                                                     1t/m"
     ],
-    "answer": "3"
+    "answer": "1"
   },
   {
     "number": "35",
@@ -607,7 +470,7 @@
       "125 kg/cm2",
       "150 kg/cm2"
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "36",
@@ -629,7 +492,7 @@
       "106",
       "109                                                                                  d\n                                                                                                        D"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
     "number": "38",
@@ -640,7 +503,7 @@
       "B",
       "B"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "39",
@@ -650,7 +513,7 @@
       "1 牛頓",
       ""
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "9",
@@ -675,7 +538,7 @@
       "",
       "R           r            D         d"
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "41",
@@ -686,7 +549,7 @@
       "斷面慣性矩愈大，則材料愈不易彎曲",
       "梁之彎曲度愈大，則曲率 κ 愈大，曲率半徑 ρ 愈小\n\n\n\n                          工程力學概要 第 4 頁，共 5 頁                                            【請另頁繼續作答】"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "42",
@@ -697,7 +560,7 @@
       "一般而言，動摩擦力小於最大靜摩擦力",
       "最大靜摩擦力與接觸面間之正壓力成反比"
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "43",
@@ -708,7 +571,7 @@
       "εv= (1 − 2ν) (σx＋σy－σz)",
       "εv= (1 − 2ν) (σx＋σy＋σz)\n                   E                              E"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
     "number": "44",
@@ -719,7 +582,7 @@
       "90o",
       "180o"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "45",
@@ -730,7 +593,7 @@
       "15kg-m",
       "20kg-m"
     ],
-    "answer": "2"
+    "answer": "1"
   },
   {
     "number": "46",
@@ -741,7 +604,7 @@
       "RB=2.0kg",
       "RB=2.5kg"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
     "number": "47",
@@ -752,7 +615,7 @@
       "200kg(拉力)",
       "200kg (壓力)"
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "48",
@@ -763,7 +626,7 @@
       "力矩",
       "長度"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
     "number": "49",
@@ -782,7 +645,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "1",
@@ -790,7 +653,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "2",
@@ -798,7 +661,7 @@
     "options": [
       ""
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "3",
@@ -806,12 +669,12 @@
     "options": [
       ""
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "4",
     "text": "5 cm\n\n                               5kg\n                               4\n                                                                                          2cm\n                           3\n         1m\nA                                      B\n                                                        100kg\n                                                                                         4cm\n                  O                                                  200kg       100kg\n                                                                                                        Y\n                      2m\n                                                                             D\n         5m                5m                   A   B            C\n\n\n                                                                                             1cm 2cm 1cm\n              【圖 21】                                    【圖 22】                                  【圖 23】\n\n\n\n\n                                           工程力學概要 第 5 頁，共 5 頁",
     "options": [],
-    "answer": "4"
+    "answer": "3"
   }
 ]

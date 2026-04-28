@@ -8,22 +8,21 @@ onMounted(async () => {
   const res = await fetch(withBase('/json/catalog.json'))
   const data = await res.json()
   const raw = data['post-office'] || {}
-  // Sort years descending
-  const sorted = {}
-  Object.keys(raw).sort((a, b) => b - a).forEach(year => {
-    sorted[year] = raw[year]
-  })
+  // Convert to array and sort descending
+  const sorted = Object.keys(raw)
+    .map(year => ({ year, subjects: raw[year] }))
+    .sort((a, b) => parseInt(b.year) - parseInt(a.year))
   catalog.value = sorted
 })
 </script>
 
 # 郵局歷年考古題
 
-<div v-for="(subjects, year) in catalog" :key="year" class="year-row">
-  <h3>{{ year }} 年</h3>
+<div v-for="item in catalog" :key="item.year" class="year-row">
+  <h3>{{ item.year }} 年</h3>
   <div class="subject-list">
-    <a v-for="sub in subjects" :key="sub" 
-       :href="withBase('/exams/post-office-' + year + '-' + sub.replace(/\//g, '-').replace(/ /g, '-'))"
+    <a v-for="sub in item.subjects" :key="sub" 
+       :href="withBase('/exams/post-office-' + item.year + '-' + sub.replace(/\//g, '-').replace(/ /g, '-'))"
        class="exam-link">
       {{ sub }}
     </a>

@@ -3,7 +3,7 @@
     "number": "1",
     "text": "本科目禁止使用電子計算器。",
     "options": [],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "2",
@@ -15,19 +15,19 @@
     "number": "3",
     "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n意        試題或其他紙張作答者不予計分。",
     "options": [],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "4",
     "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一個\n事        選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，不\n項        給分亦不扣分。",
     "options": [],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "5",
     "text": "本試題採雙面印刷，請注意正、背面試題。",
     "options": [],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "6",
@@ -41,23 +41,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "015 公尺",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "15 公尺",
-    "options": [
-      ""
-    ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "1",
@@ -65,7 +49,7 @@
     "options": [
       "15 公尺"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "2",
@@ -86,7 +70,7 @@
       "可能帶正電亦可能帶負電",
       "帶正電的離子"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "4",
@@ -97,7 +81,7 @@
       "2n",
       "n\n                      D1                                                                               1KΩ\n                           4k\n                                                            1kΩ\n                      D2   1k                                                                                VZ1\n                                                 Vo\n                                                                                            Vi ( t )               Vo ( t )\n                                                                            1kΩ   VO\n    15V         1V\n                                                      12V                                                    VZ2\n                                 1k\n\n\n\n\n                     【圖 1】                                        【圖 2】                                   【圖 3】"
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "5",
@@ -108,7 +92,7 @@
       "3 V",
       "2 V"
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "6",
@@ -130,7 +114,7 @@
       "集極面積寬度最大",
       "射極接地式放大器又稱射極隨耦器"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "8",
@@ -141,28 +125,12 @@
       "",
       "Vo ( t )                         Vo ( t )                        Vo ( t )                 Vo ( t )\n\n                                     10V                             10V                      10 V\n\n                                     4V                                                        4V\n      0                               0                                0                         0\n    -4V\n                                ωt                                ωt -4V               ωt                                     ωt\n    -10V\n                                                                                             -1 0 V\n\n\n                                                  電子學 第 1 頁，共 5 頁                                            【請翻頁繼續作答】"
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "9",
     "text": "一電源電路之輸出電壓為 10 +",
     "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "1sin(ωt)伏特，則其漣波百分比約為多少？",
-    "options": [
-      ""
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "7 ％",
-    "options": [
-      ""
-    ],
     "answer": "1"
   },
   {
@@ -172,7 +140,7 @@
       "2 ％",
       ""
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "2",
@@ -189,7 +157,7 @@
       "30 2 V",
       "40 2 V"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
     "number": "11",
@@ -200,7 +168,7 @@
       "20 ％",
       "25 ％"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "12",
@@ -211,7 +179,7 @@
       "RL=20 kΩ、C=20 μF",
       "RL=1 kΩ、C=1 μF\n\n                                                                                                             IC\n                   C\n                                                                         RB        Rc                  VCC\n                                      D                                                    IC    Vcc\n                                                                                                       RC\n           Vi           R                                 Vo                                                        Q2\n                                  4V                                                                                           Q1\n\n\n                                                                                                         0                                    VCE (V)\n                        【圖 6】                                                                   【圖 7】                               VCC"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "13",
@@ -222,7 +190,7 @@
       "",
       "Vo                                         Vo                                         Vo                              Vo\n\n                                                                                        +24V                              0                             t\n   +16V\n                                                                                                                         -4V\n                                              +4V\n                                                0                                   t\n     0                                    t                                             +4V\n   -4V\n                                              -16V\n                                                                                          0                         t   -24V"
     ],
-    "answer": "2"
+    "answer": "1"
   },
   {
     "number": "14",
@@ -255,7 +223,7 @@
       "增加 RC",
       "減少 RC"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "17",
@@ -279,7 +247,7 @@
     "options": [
       ""
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "11",
@@ -287,7 +255,7 @@
     "options": [
       ""
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "15",
@@ -307,16 +275,10 @@
     "answer": "1"
   },
   {
-    "number": "0",
-    "text": "8\n                                                                    V cc\n                          Vcc=8.2V\n                                                                                                     R\n                            RC                            R1               Rc",
-    "options": [],
-    "answer": "1"
-  },
-  {
     "number": "1",
     "text": "6k\n           RB                               Vo\n           100k\n      Vi                                                                              vi                      C                   vo\n                                           VZ = 4V        R2\n                β = 100\n\n\n\n                  【圖 8】                                         【圖 9】                                【圖 10】",
     "options": [],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "19",
@@ -324,17 +286,7 @@
     "options": [
       ""
     ],
-    "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "7 V",
-    "options": [
-      "4 V",
-      "5 V",
-      "2 V"
-    ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "20",
@@ -342,7 +294,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "3",
@@ -350,7 +302,7 @@
     "options": [
       ""
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "4",
@@ -358,7 +310,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "5",
@@ -366,7 +318,7 @@
     "options": [
       ""
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "6",
@@ -383,7 +335,7 @@
       "400 Hz",
       "500 Hz\n\n                      +Vcc                                                                                                       Vcc\n                                                      2kΩ                        iT\n                                                                                 a                                                 2kΩ\n                                                      i                                                           R1         R2          C3\n                                                                                                                                               Vo\n                                                          4vT       50i         10Ω        vT                               C2\n                                                                                                         C1\n                                                                                                Vi\n     Ri                                                                          b                                     R3\n                                     10Ω                                                                                     R4           C4\n\n\n\n            【圖 11】                                              【圖 12】                                                 【圖 13】"
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "22",
@@ -394,16 +346,6 @@
     "answer": "3"
   },
   {
-    "number": "0",
-    "text": "1 MΩ",
-    "options": [
-      "1 MΩ",
-      "10 MΩ",
-      "100 MΩ"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "23",
     "text": "某一射極耦合電路，其輸入阻抗為 10 kΩ，負載為 10 Ω，電壓增益為 10，則功率增益為多少？",
     "options": [
@@ -412,7 +354,7 @@
       "60 dB",
       "50 dB"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "24",
@@ -423,7 +365,7 @@
       "阻抗匹配容易",
       "可隔絕直流"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "25",
@@ -434,7 +376,7 @@
       "(4,7)",
       "(2,4)"
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "26",
@@ -442,17 +384,7 @@
     "options": [
       ""
     ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "5 Ω",
-    "options": [
-      "5 Ω",
-      "50 Ω",
-      "500 Ω"
-    ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "27",
@@ -473,15 +405,7 @@
       "60 Ω",
       ""
     ],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "6 KΩ",
-    "options": [
-      "6 KΩ"
-    ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "29",
@@ -492,7 +416,7 @@
       "-60",
       "-100"
     ],
-    "answer": "3"
+    "answer": "4"
   },
   {
     "number": "30",
@@ -503,7 +427,7 @@
       "73",
       "83"
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "31",
@@ -525,7 +449,7 @@
       "13 Ω",
       "26 kΩ"
     ],
-    "answer": "3"
+    "answer": "1"
   },
   {
     "number": "33",
@@ -555,7 +479,7 @@
     "options": [
       ""
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "1",
@@ -563,7 +487,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "1",
@@ -571,7 +495,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "2",
@@ -585,7 +509,7 @@
     "number": "5",
     "text": "6 mS",
     "options": [],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "36",
@@ -596,7 +520,7 @@
       "BJT 操作速度較快",
       "FET 為電壓控制，BJT 為電流控制"
     ],
-    "answer": "2"
+    "answer": "1"
   },
   {
     "number": "37",
@@ -614,7 +538,7 @@
       "-2 V",
       "0 V"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "38",
@@ -636,7 +560,7 @@
       "-5.5 V",
       "-6.0 V"
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "40",
@@ -647,7 +571,7 @@
       "共模拒斥比為∞",
       "增益頻寬為 0\n\n\n                                               電子學 第 4 頁，共 5 頁                                     【請另頁繼續作答】"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "41",
@@ -658,12 +582,6 @@
       "7 V",
       "13 V\n                        +15V                                                  +12V\n                                                                                                                     Vo1     25kΩ"
     ],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "2μF\n\n                                                                        ID        R D = 7k Ω\n                                 RD =500Ω\n\n\n\n\n                                                                                                         OPA1\n                             D                                                                 Vo                          R1 =50kΩ\n          C1                                                     C1\n   Vin                                                   Vi                        C2                                                    OPA2     Vo2\n                                  C2\n                                            Vo\n                   RG                                          2M Ω               RS\n                   =100MΩ                                                                                                  R2 =10kΩ\n\n\n                  【圖 17】                                              【圖 18】                                                 【圖 19】",
-    "options": [],
     "answer": "1"
   },
   {
@@ -686,7 +604,7 @@
       "5 kΩ",
       ""
     ],
-    "answer": "3"
+    "answer": "1"
   },
   {
     "number": "6",
@@ -703,7 +621,7 @@
       "-3",
       "-4"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "45",
@@ -714,7 +632,7 @@
       "震盪週期為 4 ms",
       "震盪頻率為 500 Hz\n\n              R                                                                                                                         80kΩ\n                                                                                        +12V\n   Vin\n                            OPA                                                                                                        +10V\n         Zi\n              3R                                 V out        Vi=10sin ωt V                                            40kΩ\n                                  3R                                                 OPA            Vo          3V\n                                                         10V                                                           10kΩ            OPA              Vo\n                                                                       R                                        2V\n                                                                              R\n                                                                                        -12V                           10kΩ\n                                   R                                                                                                    -10V\n\n\n              【圖 20】                                                   【圖 21】                                                         【圖 22】"
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "46",
@@ -725,7 +643,7 @@
       "2 R",
       "R"
     ],
-    "answer": "3"
+    "answer": "1"
   },
   {
     "number": "47",
@@ -735,7 +653,7 @@
       "265 kHz～397.5 kHz",
       ""
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "1",
@@ -743,7 +661,7 @@
     "options": [
       "442 GHz～995 GHz"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "48",
@@ -751,7 +669,7 @@
     "options": [
       ""
     ],
-    "answer": "3"
+    "answer": "1"
   },
   {
     "number": "33",
@@ -765,7 +683,7 @@
     "number": "16",
     "text": "7 ％",
     "options": [],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "49",
@@ -776,7 +694,7 @@
       "3 V",
       "6 V"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "50",
@@ -787,6 +705,6 @@
       "290 μV",
       "360 μV\n\n\n                                                          電子學 第 5 頁，共 5 頁"
     ],
-    "answer": "4"
+    "answer": "3"
   }
 ]

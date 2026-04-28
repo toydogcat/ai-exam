@@ -3,13 +3,13 @@
     "number": "1",
     "text": "本科目禁止使用電子計算器。",
     "options": [],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "2",
     "text": "本試題共 4 頁(A3 紙 1 張)。\n注",
     "options": [],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "3",
@@ -21,19 +21,19 @@
     "number": "4",
     "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一個\n事     選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，不\n項     給分亦不扣分。",
     "options": [],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "5",
     "text": "本試題採雙面印刷，請注意正、背面試題。",
     "options": [],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "6",
     "text": "考試結束前離場者，試題須隨答案卡繳回，俟該節考試結束後，始得至原試場索取。",
     "options": [],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "1",
@@ -44,19 +44,19 @@
       "5 2",
       ""
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "2",
     "text": "5 3",
     "options": [],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "2",
     "text": "一車起始以等速行駛，然後以",
     "options": [],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "1",
@@ -67,7 +67,7 @@
       "10 m/s",
       "5 m/s"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "3",
@@ -89,7 +89,7 @@
       "1:1",
       "3 :2"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "5",
@@ -100,7 +100,7 @@
       "kx/m2",
       "v2/x"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "6",
@@ -111,7 +111,7 @@
       "位移大小為 30 公尺，方向為向西",
       "位移大小為 20 公尺，方向為向西"
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "7",
@@ -122,7 +122,7 @@
       "3 m/sec",
       "2 m/sec"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "8",
@@ -133,7 +133,7 @@
       "50 kgw",
       "20 kgw                【圖 1】    B 20cm\n\n                                                                  4cm"
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "9",
@@ -144,7 +144,7 @@
       "kgw",
       "kgw\n        3                        3                  3"
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "10",
@@ -188,7 +188,7 @@
       "-2 π rad/s2",
       "2 π rad/s2"
     ],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "14",
@@ -216,7 +216,7 @@
       "1400 nt(牛頓)",
       "1500 nt(牛頓)"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "16",
@@ -244,13 +244,13 @@
       "2 秒",
       ""
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "2",
     "text": "5 秒",
     "options": [],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "18",
@@ -269,7 +269,7 @@
     "options": [
       ""
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "20",
@@ -293,7 +293,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "20",
@@ -309,7 +309,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "19",
@@ -317,7 +317,7 @@
     "options": [
       ""
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "20",
@@ -386,7 +386,7 @@
       "3 m/s2",
       ""
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "4",
@@ -394,7 +394,7 @@
     "options": [
       "6 m/s2                         F"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "23",
@@ -412,17 +412,6 @@
     "text": "一物體重 20 牛頓，與地面之最大靜摩擦係數 μ s =",
     "options": [],
     "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "4，在水平方向施以 2 牛頓的力，則摩擦\n   力為何？",
-    "options": [
-      "8 牛頓",
-      "6 牛頓",
-      "4 牛頓",
-      "2 牛頓"
-    ],
-    "answer": "1"
   },
   {
     "number": "25",
@@ -571,7 +560,7 @@
       "450 伏特",
       "550 伏特"
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "38",
@@ -595,7 +584,7 @@
     "options": [
       ""
     ],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "1",
@@ -603,13 +592,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
-  },
-  {
-    "number": "0",
-    "text": "72 o C\n\n\n                          物理 第 3 頁，共 4 頁                      【請翻頁繼續作答】",
-    "options": [],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "39",
@@ -665,7 +648,7 @@
       "1:4",
       "4:1"
     ],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "number": "43",
@@ -689,7 +672,7 @@
     "options": [
       ""
     ],
-    "answer": "4"
+    "answer": "2"
   },
   {
     "number": "5",
@@ -697,13 +680,13 @@
     "options": [
       ""
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "6",
     "text": "6Ⅹ10 −2 焦耳",
     "options": [],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "44",
@@ -732,23 +715,6 @@
     "text": "一匝數 200 匝、面積 500 平方公分之線圈，置於",
     "options": [],
     "answer": "3"
-  },
-  {
-    "number": "0",
-    "text": "8 特斯拉之均勻磁場中，並與磁場互相垂直\n   ，若將此線圈於",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "0",
-    "text": "4 秒內轉為與磁場平行，則此線圈於時間內所產生之平均感應電動勢為何?",
-    "options": [
-      "10 伏特",
-      "15 伏特",
-      "20 伏特",
-      "25 伏特"
-    ],
-    "answer": "1"
   },
   {
     "number": "47",
@@ -791,13 +757,13 @@
     "options": [
       ""
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "6",
     "text": "28Ⅹ10 −6 特斯拉",
     "options": [],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "49",
@@ -819,6 +785,6 @@
       "N 極、N 極",
       "S 極、N 極\n                                                     G                    G\n                                                    檢流計                  檢流計\n                             物理 第 4 頁，共 4 頁"
     ],
-    "answer": "4"
+    "answer": "2"
   }
 ]

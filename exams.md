@@ -7,17 +7,14 @@ const catalog = ref({})
 onMounted(async () => {
   const res = await fetch(withBase('/json/catalog.json'))
   const data = await res.json()
-  // Deep sort agencies and years
-  const sortedCatalog = {}
-  Object.keys(data).forEach(agency => {
-    const agencyData = data[agency]
-    const sortedAgency = {}
-    Object.keys(agencyData).sort((a, b) => b - a).forEach(year => {
-      sortedAgency[year] = agencyData[year]
-    })
-    sortedCatalog[agency] = sortedAgency
+  const sorted = Object.keys(data).map(agency => {
+    const years = data[agency]
+    const sortedYears = Object.keys(years)
+      .map(year => ({ year, subjects: years[year] }))
+      .sort((a, b) => parseInt(b.year) - parseInt(a.year))
+    return { agency, years: sortedYears }
   })
-  catalog.value = sortedCatalog
+  catalog.value = sorted
 })
 </script>
 
@@ -25,14 +22,14 @@ onMounted(async () => {
 
 請選擇考科開始模擬測驗：
 
-<div v-for="(years, agency) in catalog" :key="agency" class="agency-section">
-  <h2>{{ agency === 'post-office' ? '郵局' : agency === 'taipower' ? '台電' : '中華電信' }}</h2>
+<div v-for="agencyItem in catalog" :key="agencyItem.agency" class="agency-section">
+  <h2>{{ agencyItem.agency === 'post-office' ? '郵局' : agencyItem.agency === 'taipower' ? '台電' : '中華電信' }}</h2>
   
-  <div v-for="(subjects, year) in years" :key="year" class="year-row">
-    <h3>{{ year }} 年</h3>
+  <div v-for="yearItem in agencyItem.years" :key="yearItem.year" class="year-row">
+    <h3>{{ yearItem.year }} 年</h3>
     <div class="subject-list">
-      <a v-for="sub in subjects" :key="sub" 
-         :href="withBase('/exams/' + agency + '-' + year + '-' + sub.replace(/\//g, '-').replace(/ /g, '-'))"
+      <a v-for="sub in yearItem.subjects" :key="sub" 
+         :href="withBase('/exams/' + agencyItem.agency + '-' + yearItem.year + '-' + sub.replace(/\//g, '-').replace(/ /g, '-'))"
          class="exam-link">
         {{ sub }}
       </a>
