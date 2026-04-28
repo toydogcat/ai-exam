@@ -1,37 +1,62 @@
 [
   {
-    "id": "1",
-    "text": "What is the average number of times a person passes gas per day?                                                     【2】6. What is the main reason celebrity gossip is so popular?\n(1) a little over a dozen times                                                                                              (1) It offers important secrets about becoming a star.\n(2) just shy of 20 times                                                                                                     (2) People feel close to celebrities and are interested in their lives.\n(3) no more than 5 times                                                                                                     (3) Such gossip stories are often banned and so attracted more readers.\n(4) right around 10 times                                                                                                    (4) Everyone has a chance to write and report this type of news.",
-    "answer": "1",
+    "number": "1",
+    "text": "What is the average number of times a person passes gas per day?",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "2",
-    "text": "What is one cause of increased gas in nervous people?                                                                【3】7. Which of the following might NOT be the primary subjects of the gossip media?\n(1) They drink more water.                                                                                                   (1) A president of a country.\n(2) They breathe in more air.                                                                                                (2) A world’s top player in tennis.\n(3) They eat more food.                                                                                                      (3) A music teacher in a high school.\n(4) They sleep less.                                                                                                         (4) A screen couple in Hollywood.",
-    "answer": "2",
+    "number": "6",
+    "text": "What is the main reason celebrity gossip is so popular?\n  a little over a dozen times                                                                                               It offers important secrets about becoming a star.\n  just shy of 20 times                                                                                                      People feel close to celebrities and are interested in their lives.\n  no more than 5 times                                                                                                      Such gossip stories are often banned and so attracted more readers.\n  right around 10 times                                                                                                     Everyone has a chance to write and report this type of news.",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "3",
-    "text": "Which of the following foods are more likely to cause stinkier gas?                                                  【3】8. What role do the paparazzi play in celebrity gossip?\n(1) Rice and potatoes.                                                                                                       (1) They make up fake stories about celebrities in gossip magazines.\n(2) Candy and chocolate.                                                                                                     (2) They as loyal fans protect celebrities from the public.\n(3) Tofu and soy milk.                                                                                                       (3) They take pictures of celebrities, helping to show them to the public.\n(4) Omelets and steaks.                                                                                                      (4) They manage the schedules and careers of celebrities.",
-    "answer": "4",
+    "number": "2",
+    "text": "What is one cause of increased gas in nervous people?",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "4",
-    "text": "What happens to gas when you hold it in?                                                                             【4】9. How do some celebrities in Hollywood and London respond to false gossip stories?\n(1) It goes out from the mouth as burps and bad breaths.                                                                     (1) They offer correct details to the editor.\n(2) It becomes toxic and cause sickness in the long run.                                                                     (2) They make apologies to the public.\n(3) It returns to the intestines and is eventually released.                                                                 (3) They ignore the stories completely.\n(4) It mixes with other materials and turns into liquid.                                                                     (4) They may hire legal experts to sue or stop publishers.",
-    "answer": "3",
+    "number": "7",
+    "text": "Which of the following might NOT be the primary subjects of the gossip media?\n  They drink more water.                                                                                                    A president of a country.\n  They breathe in more air.                                                                                                 A world’s top player in tennis.\n  They eat more food.                                                                                                       A music teacher in a high school.\n  They sleep less.                                                                                                          A screen couple in Hollywood.",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "5",
-    "text": "What is the author’s attitude toward passing gas?                                                                   【1】10. What is the author’s conclusion on celebrity gossip in today’s world?\n(1) It has to be done at the right place and right time.                                                                     (1) Media is everywhere to provide gossip news, and people just love it.\n(2) There’s no need to feel embarrassed about it.                                                                            (2) Gossip stories are expected to become fewer due to legal issues.\n(3) It should be studied as a scientific subject.                                                                            (3) Celebrities should stand up together against the gossip media.\n(4) We should do it as much as possible for our health.                                                                      (4) People will eventually lose interest in celebrity gossip.",
-    "answer": "2",
+    "number": "3",
+    "text": "Which of the following foods are more likely to cause stinkier gas?",
     "options": [],
-    "analysis": ""
+    "answer": "4"
+  },
+  {
+    "number": "8",
+    "text": "What role do the paparazzi play in celebrity gossip?\n  Rice and potatoes.                                                                                                        They make up fake stories about celebrities in gossip magazines.\n  Candy and chocolate.                                                                                                      They as loyal fans protect celebrities from the public.\n  Tofu and soy milk.                                                                                                        They take pictures of celebrities, helping to show them to the public.\n  Omelets and steaks.                                                                                                       They manage the schedules and careers of celebrities.",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "4",
+    "text": "What happens to gas when you hold it in?",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "9",
+    "text": "How do some celebrities in Hollywood and London respond to false gossip stories?\n  It goes out from the mouth as burps and bad breaths.                                                                      They offer correct details to the editor.\n  It becomes toxic and cause sickness in the long run.                                                                      They make apologies to the public.\n  It returns to the intestines and is eventually released.                                                                  They ignore the stories completely.\n  It mixes with other materials and turns into liquid.                                                                      They may hire legal experts to sue or stop publishers.",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "What is the author’s attitude toward passing gas?",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "10",
+    "text": "What is the author’s conclusion on celebrity gossip in today’s world?\n  It has to be done at the right place and right time.                                                                      Media is everywhere to provide gossip news, and people just love it.\n  There’s no need to feel embarrassed about it.                                                                             Gossip stories are expected to become fewer due to legal issues.\n  It should be studied as a scientific subject.                                                                             Celebrities should stand up together against the gossip media.\n  We should do it as much as possible for our health.                                                                       People will eventually lose interest in celebrity gossip.",
+    "options": [],
+    "answer": "1"
   }
 ]

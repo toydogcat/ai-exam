@@ -1,268 +1,367 @@
 [
   {
-    "id": "1",
-    "text": "當外部入侵資訊系統事件發生時，下列何者最能幫助了解入侵的狀況？                                                           • B2B                ‚ B2C        ƒ C2B          „ C2C •防火牆(Firewall)                            ‚系統日誌(System Logs)                               【2】28.藍牙最適合使用於下列何種無線環境？ ƒ入侵偵測系統(IDS)                              „防毒軟體(Anti-virus)                                  •無線區域網路              ‚無線個人網路      ƒ無線都會網路        „無線廣域網路",
-    "answer": "2",
+    "number": "20",
+    "text": "下列何者不是行動裝置的作業系統？\n                                                                                               • Android            ‚ Windows RT ƒ iOS          „ OS X\n遴選類別【代碼】：資訊類專業職(三)專員【E5904】",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "2",
-    "text": "下列哪一種營運持續方式最昂貴？                                                                         【1】29.有一種裝置在有線網路環境中不需要，而特定為無線網路所使用。此裝置可為下列何者？ •熱備援地點                     ‚冷備援地點         ƒ彈性備援地點                     „分層備援地點                •連接點(Access Point)                ‚防火牆(Firewall)",
-    "answer": "1",
-    "options": [],
-    "analysis": ""
+    "number": "21",
+    "text": "網路線上交談時，若想讓交談對方看到即時動態影像，最主要應使用何種設備？\n專業科目：",
+    "options": [
+      "計算機概論",
+      "程式設計概論及資料庫管理                                                                  •數位相機                ‚數位攝影機       ƒ掃描器           „視訊攝影機\n                                                       ◎請填寫入場通知書編號：________________"
+    ],
+    "answer": "4"
   },
   {
-    "id": "3",
-    "text": "請問下列哪項弱點會直接影響瀏覽器(如下載惡意病毒碼)？                                                               ƒ閘道器(Gateway)                     „交換器(Switch) • Security Misconfiguration               ‚ Broken Authentication and Session Management   【2】30.下列何者不是基本的邏輯運算？ ƒ SQL Injection                           „ Cross-Site Scripting (XSS)                       • NOT 運算             ‚ XOR 運算     ƒ AND 運算       „ OR 運算",
-    "answer": "4",
+    "number": "22",
+    "text": "當網路不通時，若想知道網路何處不通，最應該使用下列何種指令來進行追蹤？\n 注意：•作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請監試人員                                           • tracert            ‚ ping       ƒ ipconfig     „ winipcfg\n     處理，否則不予計分。",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "4",
-    "text": "下列不同數字系統的數值，何者數值最大？                                                                     【2】31.就下列 C 語言程式碼片段，當執行完所有 for 迴圈後，變數 sum 的值為何？\n• 342(5)                   ‚ 123(8)       ƒ 96(10)                    „ 1010110(2)                        sum=0;",
-    "answer": "1",
+    "number": "23",
+    "text": "網際網路(Internet)所使用的通訊協定是下列何者？\n    ‚本試卷為一張雙面，測驗題型分為【四選一單選選擇題 60 題，每題 1 分，合計 60 分】與【非選擇題 4\n     題，每題 10 分，合計 40 分】。                                                                       • SMTP               ‚ TCP/IP     ƒ SNMP         „ AP\n    ƒ選擇題限以 2B 鉛筆於答案卡上作答，請選出最適當答案，答錯不倒扣；未作答者，不予計分。",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "5",
-    "text": "一個組織想要瞭解自己的員工對於各種資訊安全攻擊方法的反應，應如何進行最適當？                                                                 for (i=0; i<5; i++) •弱點掃描                      ‚黑帽測試          ƒ白帽測試                       „滲透測試                                 for (j=0; j<i; j++) sum++;",
-    "answer": "4",
+    "number": "24",
+    "text": "系統開發時，利用一些圖形符號來表示處理問題的步驟稱為：\n    „非選擇題限以藍、黑色鋼筆或原子筆於答案卷上採橫式作答，並請從答案卷內第一頁開始書寫，違反者該                                            •流程圖                 ‚介面          ƒ程序            „模組\n     科酌予扣分，不必抄題但須標示題號。\n    …請勿於答案卡(卷)書寫應考人姓名、入場通知書號碼或與答案無關之任何文字或符號。",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "6",
-    "text": "為了避免實體主記憶體空間不足而無法執行程式，所發展出來的技術為何？ •6                             ‚ 10 •快閃記憶體                     ‚快取記憶體         ƒ虛擬記憶體                      „可調式記憶體 ƒ 15                           „ 21",
-    "answer": "3",
+    "number": "25",
+    "text": "下列何種應用軟體通常是由大學、政府單位或研究機構使用國家經費所研發，使用者可以無限制使用並可隨意\n    †應考人僅得使用簡易型電子計算器 (不具任何財務函數、工程函數功能、儲存程式功能)，但不得發出聲響；                                         散發？\n     若應考人於測驗時將不符規定之電子計算器放置於桌面或使用，經勸阻無效，仍執意使用者，該科扣 10                                           •免費軟體                ‚公共領域軟體      ƒ開放原始碼軟體       „共享軟體\n     分；該電子計算器並由監試人員保管至該節測驗結束後歸還。",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "7",
-    "text": "作業系統的排程演算法中，下列哪一種理論上能得到最短的平均等待時間？                                                       【3】32.在執行下列 C 語言程式碼片段過程中，“if(n)”指令會被執行幾次？ •先到先做(FCFS)                ‚最短工作先做(SJF)   ƒ巡迴式排程(RR)                  „優先權(Priority)",
-    "answer": "2",
+    "number": "26",
+    "text": "若大樓停電時，公司的電腦仍需持續運作，則需使用下列哪一項設備？\n    ‡答案卡(卷)務必繳回，未繳回者該科以零分計算。\n                                                                                               • ABS                ‚ USB        ƒ HUB          „ UPS\n壹、四選一單選選擇題 60 題（每題 1 分）",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "8",
-    "text": "企業組織針對進階的持續性滲透攻擊(APT)因應，何者錯誤？                                                                          float RSUM(float list[], int n) •防火牆愈多道愈安全                                ‚應提升全組織的資安素養                                                    {if (n) return RSUM(list,n – 1) + list[n – 1]; ƒ要預防員工成為脆弱點                               „需隨時注意漏洞更新                                                           return list[0];}",
-    "answer": "1",
+    "number": "27",
+    "text": "ebay 及 Yahoo 拍賣網站的性質是屬於電子商務中的哪一種類型？",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "9",
-    "text": "系統發展生命週期並不包含下列哪個階段？ •系統分析                      ‚系統設計          ƒ系統運行與維護                    „系統終止                  • n-1           ‚n               ƒ n+1      „ n+2",
-    "answer": "4",
+    "number": "1",
+    "text": "當外部入侵資訊系統事件發生時，下列何者最能幫助了解入侵的狀況？                                                           • B2B                ‚ B2C        ƒ C2B          „ C2C\n  •防火牆(Firewall)                            ‚系統日誌(System Logs)",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "10",
-    "text": "一張解析度 800*600、全彩（使用 24 位元）影像的圖片，所需儲存的空間大約是多少位元組？                                       【2】33.在 JAVA 中假設有五個執行緒(threads)都在等待同一個物件，當這個物件的 notify method 被呼叫時，下列敘述 • 1 MB                     ‚ 1.4MB        ƒ 48MB                      „ 72MB                 何者正確？",
-    "answer": "2",
+    "number": "28",
+    "text": "藍牙最適合使用於下列何種無線環境？\n  ƒ入侵偵測系統(IDS)                              „防毒軟體(Anti-virus)                                  •無線區域網路              ‚無線個人網路      ƒ無線都會網路        „無線廣域網路",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "11",
-    "text": "下列何者不是巨量資料(Big Data)的特性？                                                                 •一定是第一個被生成的執行緒會變成 runnable 的狀態 •巨量(Volume)                ‚即時性(Velocity) ƒ多樣性(Variety)               „可用性(usability)        ‚有一個執行緒會變成 runnable 的狀態，但一般使用者無法確知是哪一個 ƒ一定是等待最久的那個執行緒會變成 runnable 的狀態",
-    "answer": "4",
+    "number": "2",
+    "text": "下列哪一種營運持續方式最昂貴？",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "12",
-    "text": "下列何者並非美國國家技術標準局(NIST)定義的雲端運算之服務模式(service models)？                                       „所有的執行緒都會變成 runnable 的狀態 • Software as a Service                   ‚ Platform as a Service",
-    "answer": "3",
+    "number": "29",
+    "text": "有一種裝置在有線網路環境中不需要，而特定為無線網路所使用。此裝置可為下列何者？\n  •熱備援地點                     ‚冷備援地點         ƒ彈性備援地點                     „分層備援地點                •連接點(Access Point)                ‚防火牆(Firewall)",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "34",
-    "text": "下列 JAVA 程式片段，其輸出結果為何？ ƒ Security as a Service                   „ Infrastructure as a Service",
-    "answer": "2",
+    "number": "3",
+    "text": "請問下列哪項弱點會直接影響瀏覽器(如下載惡意病毒碼)？                                                               ƒ閘道器(Gateway)                     „交換器(Switch)\n  • Security Misconfiguration               ‚ Broken Authentication and Session Management",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "13",
-    "text": "通常在接收電子郵件時，是使用下列哪一種協定？                                                                            public class A{ • SMTP                     ‚ POP3         ƒ FTP                       „ ARP                             static void method() throws Exception{",
-    "answer": "2",
+    "number": "30",
+    "text": "下列何者不是基本的邏輯運算？\n  ƒ SQL Injection                           „ Cross-Site Scripting (XSS)                       • NOT 運算             ‚ XOR 運算     ƒ AND 運算       „ OR 運算",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "14",
-    "text": "將資料以表格方式儲存，並透過參考的關係來查詢相關資料，是屬於何種的資料模型？                                                                 try { throw new Exception();} •階層式                       ‚關聯式           ƒ網狀式                        „物件導向式                               catch(Exception e) {System.out.print( “Exception”+ “, ”);}",
-    "answer": "2",
+    "number": "4",
+    "text": "下列不同數字系統的數值，何者數值最大？",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "15",
-    "text": "對於有 n 層的二元樹，其節點數最多有幾個？                                                                                 finally{System.out.print(“finally”);}} • 2n                       ‚ n2           ƒ 2n-1                      „ n2-1                            public static void main(String[ ] args) throws Exception {method();}}",
-    "answer": "3",
-    "options": [],
-    "analysis": ""
+    "number": "31",
+    "text": "就下列 C 語言程式碼片段，當執行完所有 for 迴圈後，變數 sum 的值為何？\n  • 342(5)                   ‚ 123(8)       ƒ 96(10)                    „ 1010110",
+    "options": [
+      "sum=0;"
+    ],
+    "answer": "2"
   },
   {
-    "id": "16",
-    "text": "下列關於雜湊(Hash)函數的敘述，何者錯誤？ •固定長度                                     ‚可以解密                                             • Exception                   ‚ Exception, finally      ƒ finally                 „編譯過程即出現錯誤 ƒ正常情況下雜湊結果為唯一值                            „常用於驗證資料完整性",
-    "answer": "2",
+    "number": "5",
+    "text": "一個組織想要瞭解自己的員工對於各種資訊安全攻擊方法的反應，應如何進行最適當？                                                                 for (i=0; i<5; i++)\n  •弱點掃描                      ‚黑帽測試          ƒ白帽測試                       „滲透測試                                 for (j=0; j<i; j++) sum++;",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "17",
-    "text": "二元搜尋樹中若每個節點均存放數字，若想得到依序排列出的數字，應採用何種追蹤？                                                 【4】35.有一 File 類別物件 f，它將以方法 exists 檢查該檔案是否存在，下列 JAVA 程式碼何者最適宜？ •前序追蹤                      ‚中序追蹤          ƒ後序追蹤                       „深度追蹤                  • Exception e= new IOException( “File not found!”);",
-    "answer": "2",
+    "number": "6",
+    "text": "為了避免實體主記憶體空間不足而無法執行程式，所發展出來的技術為何？\n                                                                                               •6                             ‚ 10\n  •快閃記憶體                     ‚快取記憶體         ƒ虛擬記憶體                      „可調式記憶體\n                                                                                               ƒ 15                           „ 21",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "18",
-    "text": "下列常用埠號(Port)與服務，何者對應錯誤？                                                                   if (!f.exists()) throw e; • 443-HTTPS                ‚ 123-NTP      ƒ 161-SMTP                  „ 21-FTP              ‚ if (!f.exists()) throw “File not found!”);",
-    "answer": "3",
+    "number": "7",
+    "text": "作業系統的排程演算法中，下列哪一種理論上能得到最短的平均等待時間？",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "19",
-    "text": "下列關於電子郵件的敘述，何者錯誤？                                                                       ƒ if (!f.exists()) throw new IOException (); •電子信件一定是郵件的寄件者所寄發的                        ‚為安全考量，不要啟用收信軟體的預覽機制                              „ if (!f.exists()) throw new IOException ( “File ” +f.getName()+ “not found!”); ƒ數位簽章過的電子郵件，在收件軟體下會有特殊圖案標示 „可以透過 S/MIME 傳送加密的電子郵件                                                                                                                           【請接續背面】",
-    "answer": "1",
+    "number": "32",
+    "text": "在執行下列 C 語言程式碼片段過程中，“if(n)”指令會被執行幾次？\n  •先到先做(FCFS)                ‚最短工作先做(SJF)   ƒ巡迴式排程(RR)                  „優先權(Priority)",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "36",
-    "text": "下列 JAVA 程式片段，執行後 sum 的值為何？                                                                               【2】54.若資料表內屬性間存在“部份相依性”(partial dependency)，則執行哪一項“正規化”可將之移除掉？ • 1NF (first normal form)                       ‚ 2NF (second normal form) int sum=0;                                                                                   ƒ 3NF (third normal form)                       „ 4NF (fourth normal form) try {                                                                                      【1】55.將資料表 R1 與 R2 執行“差集”(difference)運算，試問 R1 – R2 之計算結與下列何者相等？ int x=1;                                                                               • R1 – (R1 ∩ R2)          ‚ R2 – (R1 ∩ R2)      ƒ R1 – (R1 ∪ R2)         „ R2 – (R1 ∪ R2) x=x/sum;                                                                            【3】56.設資料表 R1 有 a 項欄位、b 筆資料錄；R2 有 c 項欄位、d 筆資料錄，令 C = R1 × R2 (Cartesian product)，則資 sum +=2;}                                                                              料表 C 有 e 項欄位、f 筆資料錄，下列何者正確？ catch (Exception e) {sum=sum+3;}                                                             • e = a × c、f = b × d     ‚ e = a × c、f = b + d ƒ e = a + c、f = b × d    „ e = a + c、f = b + d finally { sum +=1}                                                                         【2】57.若欲將一資料表之結構且連同其表內資料一併作“刪除”，則應下達何種 SQL 指令？ • SKIP TABLE              ‚ DROP TABLE          ƒ ABORT TABLE            „ DELETE TABLE •2                          ‚3                          ƒ4                        „5                         【3】58.設某一 SQL 查詢指令為“SELECT * … ”，請問“SELECT *”所代表之意義為何？",
-    "answer": "3",
+    "number": "8",
+    "text": "企業組織針對進階的持續性滲透攻擊(APT)因應，何者錯誤？                                                                          float RSUM(float list[], int n)\n  •防火牆愈多道愈安全                                ‚應提升全組織的資安素養                                                    {if (n) return RSUM(list,n – 1) + list[n – 1];\n  ƒ要預防員工成為脆弱點                               „需隨時注意漏洞更新                                                           return list[0];}",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "37",
-    "text": "在 C 語言中，下列何者可以作為列舉常數(enumeration constant)？                                                                •列出“主鍵”欄位值                                      ‚列出“部份”欄位值 •一字串(string)                ‚一識別字(identifier)           ƒ一整數(integer)             „一浮點數(floating point)        ƒ列出“全部”欄位值                                      „列出“外來鍵”欄位值",
-    "answer": "2",
+    "number": "9",
+    "text": "系統發展生命週期並不包含下列哪個階段？\n  •系統分析                      ‚系統設計          ƒ系統運行與維護                    „系統終止                  • n-1           ‚n               ƒ n+1      „ n+2",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "38",
-    "text": "在 C 語言中，“*”做為運算符號時，具下列何種功能？                                                                              【1】59.於 SQL 查詢指令的基本語法中，下列何者為正確的表示式？ •處理緩衝區所餘存的資料及釋放                                         ‚當字串連結運算                                               • SELECT * FROM …                               ‚ SELECT * WHERE … ƒ取得變數位址                                                 „取得指標(Pointer)變數值                                      ƒ SELECT * ORDER BY …                           „ SELECT * GROUP BY …",
-    "answer": "4",
+    "number": "10",
+    "text": "一張解析度 800*600、全彩（使用 24 位元）影像的圖片，所需儲存的空間大約是多少位元組？",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "39",
-    "text": "下列 JAVA 例外(exception)的程式碼寫法，何者錯誤？                                                                        【4】60.有關 SQL 查詢句之子句間“執行次序”，請問下列所示何者正確？ • try {obj.anymethod();} catch(Exception e){} finally{} ‚ try {obj.anymethod();} catch(Exception e){}          • SELECT→FROM→WHERE→ORDER BY                    ‚ FROM→ SELECT→WHERE→ORDER BY ƒ try {obj.anymethod();} finally{}                      „ try {obj.anymethod();}                               ƒ FROM→WHERE→ SELECT→ORDER BY                   „ FROM→WHERE→ORDER BY→SELECT",
-    "answer": "4",
+    "number": "33",
+    "text": "在 JAVA 中假設有五個執行緒(threads)都在等待同一個物件，當這個物件的 notify method 被呼叫時，下列敘述\n  • 1 MB                     ‚ 1.4MB        ƒ 48MB                      „ 72MB                 何者正確？",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "40",
-    "text": "下列哪一種物件會產生改變事件 ChangeEvent？ • javax.swing.JSlider                                   ‚ javax.swing.JScrollBar ƒ javax.swing.JScrollPane.ScrollBar                     „ javax.awt.Scrollbar                                貳、非選擇題四大題（每大題 10 分）",
-    "answer": "1",
+    "number": "11",
+    "text": "下列何者不是巨量資料(Big Data)的特性？                                                                 •一定是第一個被生成的執行緒會變成 runnable 的狀態\n  •巨量(Volume)                ‚即時性(Velocity) ƒ多樣性(Variety)               „可用性(usability)        ‚有一個執行緒會變成 runnable 的狀態，但一般使用者無法確知是哪一個\n                                                                                               ƒ一定是等待最久的那個執行緒會變成 runnable 的狀態",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "41",
-    "text": "下列哪一個類別不會產生 ActionEvent 事件？ •JMenu                      ‚JTextField                 ƒJButton                  „JTextArea 題目一：",
-    "answer": "4",
+    "number": "12",
+    "text": "下列何者並非美國國家技術標準局(NIST)定義的雲端運算之服務模式(service models)？                                       „所有的執行緒都會變成 runnable 的狀態\n  • Software as a Service                   ‚ Platform as a Service",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "42",
-    "text": "下列 JAVA 介面(interface)的做法，何者錯誤？                                                                             隨著科技發展日新月異與資訊系統的廣泛建置，資訊系統的安全議題日益重要，請詳述 • private interface Exam {int i=5; String mth(int j)}   ‚ public interface Exam {int i; String mth(int j)}   資訊資源在安全防護上有哪些重要的工具與技術？【10 分】 ƒ interface Exam {int i=5}                              „ interface Exam {String mth( )}",
-    "answer": "2",
+    "number": "34",
+    "text": "下列 JAVA 程式片段，其輸出結果為何？\n  ƒ Security as a Service                   „ Infrastructure as a Service",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "43",
-    "text": "在 JAVA 中，下列關於建構子(constructor)的敘述，何者錯誤？ •建構子可以覆載(overload)，以提供初始類別物件的各種方法                                                                            題目二： ‚建構子是與類別同名的方法 ƒ當物件建立時，其成員由建構子方法初始化                                                                                           雲端運算日益受到重視，請回答下列問題： „建構子必須指定傳回型態或傳回值                                                                                               （一）根據美國國家技術標準局(National Institute of Standards and Technology, NIST)所定",
-    "answer": "4",
+    "number": "13",
+    "text": "通常在接收電子郵件時，是使用下列哪一種協定？                                                                            public class A{\n  • SMTP                     ‚ POP3         ƒ FTP                       „ ARP                             static void method() throws Exception{",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "44",
-    "text": "下列 Visual Basic 程式碼片段，具何種功能？ 義的內容，雲端運算有哪五大重點特徵(Essential Characteristics)？【5 分】 Private Sub Form_Click()                                                                   （二）另 根 據 NIST 所 定 義 的 內 容 ， 雲 端 運 算 服 務 有 哪 四 大 部 署 方 式 (Deployment Print “Taiwan First!” End Sub                                                                                       Models)？【5 分】 •無法執行                                   ‚鍵盤將表單拖曳時，顯示 Taiwan First! ƒ將滑鼠指標滑過表單時，顯示 Taiwan First!            „將滑鼠指標在表單上點選時，顯示 Taiwan First! 題目三：",
-    "answer": "4",
+    "number": "14",
+    "text": "將資料以表格方式儲存，並透過參考的關係來查詢相關資料，是屬於何種的資料模型？                                                                 try { throw new Exception();}\n  •階層式                       ‚關聯式           ƒ網狀式                        „物件導向式                               catch(Exception e) {System.out.print( “Exception”+ “, ”);}",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "45",
-    "text": "在 Visual Basic 中，若欲避免表單視窗被遮蓋後留下空白區時，則應設定下列何種屬性？ • AutoRedraw=True                       ‚ ControlBox=True                                                      請以 C 語言設計一可以回傳第 n 個費式數列之值 an 的副程式 “int fibonacci( int n )”，但 ƒ Appearance=1                          „ ClipControls=True                                                  限制不可使用遞迴呼叫(recursive call)設計技巧。費式數列之值定義如下：",
-    "answer": "1",
+    "number": "15",
+    "text": "對於有 n 層的二元樹，其節點數最多有幾個？                                                                                 finally{System.out.print(“finally”);}}\n  • 2n                       ‚ n2           ƒ 2n-1                      „ n2-1                            public static void main(String[ ] args) throws Exception {method();}}",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "46",
-    "text": "於資料庫系統 ANSI/SPARC 三層架構中，用以呈現“個別使用者觀點”應為下列何層？ •概念層(conceptual level)                  ‚實體層(physical level)                                                   a1=1； ƒ內部層(internal level)                    „外部層(external level)                                                   a2=1；",
-    "answer": "4",
+    "number": "16",
+    "text": "下列關於雜湊(Hash)函數的敘述，何者錯誤？\n  •固定長度                                     ‚可以解密                                             • Exception                   ‚ Exception, finally      ƒ finally                 „編譯過程即出現錯誤\n  ƒ正常情況下雜湊結果為唯一值                            „常用於驗證資料完整性",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "47",
-    "text": "有關於資料庫系統設計(database design)之程序，下列所示之流程，何者正確？ •概念設計→需求分析→邏輯設計→實體設計                    ‚需求分析→概念設計→邏輯設計→實體設計 當 i>2 ai=a i-1+a i-2 ƒ概念設計→需求分析→實體設計→邏輯設計                    „需求分析→概念設計→實體設計→邏輯設計                                                   【10 分】",
-    "answer": "2",
+    "number": "17",
+    "text": "二元搜尋樹中若每個節點均存放數字，若想得到依序排列出的數字，應採用何種追蹤？",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "48",
-    "text": "於關聯式資料表中，若有設定“外來鍵”(Foreign Key, F.K.)，請問 F.K.有何功能性？ •為資料加密                 ‚為資料掃毒           ƒ為資料作排序(sort)        „為資料建立鏈結(link)",
-    "answer": "4",
+    "number": "35",
+    "text": "有一 File 類別物件 f，它將以方法 exists 檢查該檔案是否存在，下列 JAVA 程式碼何者最適宜？\n  •前序追蹤                      ‚中序追蹤          ƒ後序追蹤                       „深度追蹤                  • Exception e= new IOException( “File not found!”);",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "49",
-    "text": "於關聯式資料表中，表內所呈現的外來鍵(F.K.)欄位值，請問 F.K.值有何限制？                                                                題目四： •須為唯一的(unique)，且不可為空值(null)             ‚須為唯一的(unique)，且可為空值(null)                                               假設關聯式資料庫有一資料表名為“會員”，該表之屬性欄位為: {會員編號、會員姓名、 ƒ無須為唯一的(unique)，且不可為空值(null)            „無須為唯一的(unique)，且可為空值(null)",
-    "answer": "4",
+    "number": "18",
+    "text": "下列常用埠號(Port)與服務，何者對應錯誤？                                                                   if (!f.exists()) throw e;\n  • 443-HTTPS                ‚ 123-NTP      ƒ 161-SMTP                  „ 21-FTP              ‚ if (!f.exists()) throw “File not found!”);",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "50",
-    "text": "若資料屬性(例如：地址)尚可再作“分割”，且分割後的資料單位仍有意義，則稱該屬性為何？                                                              會員性別、入會日期、繳費等別、會員 E-mail}。範例資料錄如: {M0123、金佳讚、男、 •複合屬性(composite attribute)              ‚衍生屬性(derived attribute)                                             2013.06.18、全額、jczing@tabf.com.tw}。 ƒ簡單屬性(simple attribute)                 „橋接屬性(bridge attribute)",
-    "answer": "1",
+    "number": "19",
+    "text": "下列關於電子郵件的敘述，何者錯誤？                                                                       ƒ if (!f.exists()) throw new IOException ();\n  •電子信件一定是郵件的寄件者所寄發的                        ‚為安全考量，不要啟用收信軟體的預覽機制                              „ if (!f.exists()) throw new IOException ( “File ” +f.getName()+ “not found!”);\n  ƒ數位簽章過的電子郵件，在收件軟體下會有特殊圖案標示\n  „可以透過 S/MIME 傳送加密的電子郵件                                                                                                                           【請接續背面】",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "51",
-    "text": "於實體關係(entity-relationship, ER)模型中，常以“長方形”(rectangular)圖來表示何種組成元素？ （一）請以 SQL 語法表示：查詢於“2013 年 1~6 月”入會的全體“女性”會員之編號、姓名 •實體(entity)            ‚屬性(attribute)   ƒ主鍵(primary key)     „關係(relationship)                                         與 E-mail 等資料。【5 分】",
-    "answer": "1",
+    "number": "36",
+    "text": "下列 JAVA 程式片段，執行後 sum 的值為何？",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "52",
-    "text": "將資料表依據屬性間之功能相依性(function dependency)，適度地進行“正規化”(normalization)之目的為何？                                        （二）請以 SQL 語法表示：查詢各不同“繳費等別”之會員“繳費人數”。假設“繳費等別” •提高資料加密                ‚提高資料壓縮          ƒ降低冗餘資料              „降低病毒資料",
-    "answer": "3",
+    "number": "54",
+    "text": "若資料表內屬性間存在“部份相依性”(partial dependency)，則執行哪一項“正規化”可將之移除掉？\n                                                                                                                 • 1NF (first normal form)                       ‚ 2NF (second normal form)\n                    int sum=0;                                                                                   ƒ 3NF (third normal form)                       „ 4NF (fourth normal form)\n                    try {",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "53",
-    "text": "將資料表進行正規化(normalization)之程序，下列所示之順序，何者正確？                                                                          劃分為: {全額、半額、續約、VIP、軍公教、員工}。 【5 分】 • BCNF→1NF→2NF→3NF                      ‚1NF→ BCNF→2NF→3NF ƒ1NF→2NF→ BCNF→3NF                      „1NF→2NF→3NF →BCNF",
-    "answer": "4",
+    "number": "55",
+    "text": "將資料表 R1 與 R2 執行“差集”(difference)運算，試問 R1 – R2 之計算結與下列何者相等？\n                          int x=1;                                                                               • R1 – (R1 ∩ R2)          ‚ R2 – (R1 ∩ R2)      ƒ R1 – (R1 ∪ R2)         „ R2 – (R1 ∪ R2)\n                           x=x/sum;",
     "options": [],
-    "analysis": ""
+    "answer": "1"
+  },
+  {
+    "number": "56",
+    "text": "設資料表 R1 有 a 項欄位、b 筆資料錄；R2 有 c 項欄位、d 筆資料錄，令 C = R1 × R2 (Cartesian product)，則資\n                          sum +=2;}                                                                              料表 C 有 e 項欄位、f 筆資料錄，下列何者正確？\n                    catch (Exception e) {sum=sum+3;}                                                             • e = a × c、f = b × d     ‚ e = a × c、f = b + d ƒ e = a + c、f = b × d    „ e = a + c、f = b + d\n                    finally { sum +=1}",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "57",
+    "text": "若欲將一資料表之結構且連同其表內資料一併作“刪除”，則應下達何種 SQL 指令？\n                                                                                                                 • SKIP TABLE              ‚ DROP TABLE          ƒ ABORT TABLE            „ DELETE TABLE\n  •2                          ‚3                          ƒ4                        „5",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "58",
+    "text": "設某一 SQL 查詢指令為“SELECT * … ”，請問“SELECT *”所代表之意義為何？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "37",
+    "text": "在 C 語言中，下列何者可以作為列舉常數(enumeration constant)？                                                                •列出“主鍵”欄位值                                      ‚列出“部份”欄位值\n  •一字串(string)                ‚一識別字(identifier)           ƒ一整數(integer)             „一浮點數(floating point)        ƒ列出“全部”欄位值                                      „列出“外來鍵”欄位值",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "38",
+    "text": "在 C 語言中，“*”做為運算符號時，具下列何種功能？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "59",
+    "text": "於 SQL 查詢指令的基本語法中，下列何者為正確的表示式？\n  •處理緩衝區所餘存的資料及釋放                                         ‚當字串連結運算                                               • SELECT * FROM …                               ‚ SELECT * WHERE …\n  ƒ取得變數位址                                                 „取得指標(Pointer)變數值                                      ƒ SELECT * ORDER BY …                           „ SELECT * GROUP BY …",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "39",
+    "text": "下列 JAVA 例外(exception)的程式碼寫法，何者錯誤？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "60",
+    "text": "有關 SQL 查詢句之子句間“執行次序”，請問下列所示何者正確？\n  • try {obj.anymethod();} catch(Exception e){} finally{} ‚ try {obj.anymethod();} catch(Exception e){}          • SELECT→FROM→WHERE→ORDER BY                    ‚ FROM→ SELECT→WHERE→ORDER BY\n  ƒ try {obj.anymethod();} finally{}                      „ try {obj.anymethod();}                               ƒ FROM→WHERE→ SELECT→ORDER BY                   „ FROM→WHERE→ORDER BY→SELECT",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "40",
+    "text": "下列哪一種物件會產生改變事件 ChangeEvent？\n  • javax.swing.JSlider                                   ‚ javax.swing.JScrollBar\n  ƒ javax.swing.JScrollPane.ScrollBar                     „ javax.awt.Scrollbar                                貳、非選擇題四大題（每大題 10 分）",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "41",
+    "text": "下列哪一個類別不會產生 ActionEvent 事件？\n  •JMenu                      ‚JTextField                 ƒJButton                  „JTextArea\n                                                                                                               題目一：",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "42",
+    "text": "下列 JAVA 介面(interface)的做法，何者錯誤？                                                                             隨著科技發展日新月異與資訊系統的廣泛建置，資訊系統的安全議題日益重要，請詳述\n  • private interface Exam {int i=5; String mth(int j)}   ‚ public interface Exam {int i; String mth(int j)}   資訊資源在安全防護上有哪些重要的工具與技術？【10 分】\n  ƒ interface Exam {int i=5}                              „ interface Exam {String mth( )}",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "43",
+    "text": "在 JAVA 中，下列關於建構子(constructor)的敘述，何者錯誤？\n  •建構子可以覆載(overload)，以提供初始類別物件的各種方法                                                                            題目二：\n  ‚建構子是與類別同名的方法\n  ƒ當物件建立時，其成員由建構子方法初始化                                                                                           雲端運算日益受到重視，請回答下列問題：\n  „建構子必須指定傳回型態或傳回值                                                                                               （一）根據美國國家技術標準局(National Institute of Standards and Technology, NIST)所定",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "44",
+    "text": "下列 Visual Basic 程式碼片段，具何種功能？\n                                                                                                                    義的內容，雲端運算有哪五大重點特徵(Essential Characteristics)？【5 分】\n                      Private Sub Form_Click()                                                                   （二）另 根 據 NIST 所 定 義 的 內 容 ， 雲 端 運 算 服 務 有 哪 四 大 部 署 方 式 (Deployment\n                      Print “Taiwan First!”\n                      End Sub                                                                                       Models)？【5 分】\n  •無法執行                                   ‚鍵盤將表單拖曳時，顯示 Taiwan First!\n  ƒ將滑鼠指標滑過表單時，顯示 Taiwan First!            „將滑鼠指標在表單上點選時，顯示 Taiwan First!\n                                                                                                               題目三：",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "45",
+    "text": "在 Visual Basic 中，若欲避免表單視窗被遮蓋後留下空白區時，則應設定下列何種屬性？\n  • AutoRedraw=True                       ‚ ControlBox=True                                                      請以 C 語言設計一可以回傳第 n 個費式數列之值 an 的副程式 “int fibonacci( int n )”，但\n  ƒ Appearance=1                          „ ClipControls=True                                                  限制不可使用遞迴呼叫(recursive call)設計技巧。費式數列之值定義如下：",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "46",
+    "text": "於資料庫系統 ANSI/SPARC 三層架構中，用以呈現“個別使用者觀點”應為下列何層？\n  •概念層(conceptual level)                  ‚實體層(physical level)                                                   a1=1；\n  ƒ內部層(internal level)                    „外部層(external level)                                                   a2=1；",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "47",
+    "text": "有關於資料庫系統設計(database design)之程序，下列所示之流程，何者正確？\n  •概念設計→需求分析→邏輯設計→實體設計                    ‚需求分析→概念設計→邏輯設計→實體設計\n                                                                                                                 當 i>2 ai=a i-1+a i-2\n  ƒ概念設計→需求分析→實體設計→邏輯設計                    „需求分析→概念設計→實體設計→邏輯設計                                                   【10 分】",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "48",
+    "text": "於關聯式資料表中，若有設定“外來鍵”(Foreign Key, F.K.)，請問 F.K.有何功能性？\n  •為資料加密                 ‚為資料掃毒           ƒ為資料作排序(sort)        „為資料建立鏈結(link)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "49",
+    "text": "於關聯式資料表中，表內所呈現的外來鍵(F.K.)欄位值，請問 F.K.值有何限制？                                                                題目四：\n  •須為唯一的(unique)，且不可為空值(null)             ‚須為唯一的(unique)，且可為空值(null)                                               假設關聯式資料庫有一資料表名為“會員”，該表之屬性欄位為: {會員編號、會員姓名、\n  ƒ無須為唯一的(unique)，且不可為空值(null)            „無須為唯一的(unique)，且可為空值(null)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "若資料屬性(例如：地址)尚可再作“分割”，且分割後的資料單位仍有意義，則稱該屬性為何？                                                              會員性別、入會日期、繳費等別、會員 E-mail}。範例資料錄如: {M0123、金佳讚、男、\n  •複合屬性(composite attribute)              ‚衍生屬性(derived attribute)                                             2013.06.18、全額、jczing@tabf.com.tw}。\n  ƒ簡單屬性(simple attribute)                 „橋接屬性(bridge attribute)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "51",
+    "text": "於實體關係(entity-relationship, ER)模型中，常以“長方形”(rectangular)圖來表示何種組成元素？\n                                                                                                                  （一）請以 SQL 語法表示：查詢於“2013 年 1~6 月”入會的全體“女性”會員之編號、姓名\n  •實體(entity)            ‚屬性(attribute)   ƒ主鍵(primary key)     „關係(relationship)                                         與 E-mail 等資料。【5 分】",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "52",
+    "text": "將資料表依據屬性間之功能相依性(function dependency)，適度地進行“正規化”(normalization)之目的為何？                                        （二）請以 SQL 語法表示：查詢各不同“繳費等別”之會員“繳費人數”。假設“繳費等別”\n  •提高資料加密                ‚提高資料壓縮          ƒ降低冗餘資料              „降低病毒資料",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "53",
+    "text": "將資料表進行正規化(normalization)之程序，下列所示之順序，何者正確？                                                                          劃分為: {全額、半額、續約、VIP、軍公教、員工}。 【5 分】\n  • BCNF→1NF→2NF→3NF                      ‚1NF→ BCNF→2NF→3NF\n  ƒ1NF→2NF→ BCNF→3NF                      „1NF→2NF→3NF →BCNF",
+    "options": [],
+    "answer": "4"
   }
 ]

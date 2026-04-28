@@ -20,7 +20,7 @@ onMounted(async () => {
     <h3>{{ year }} 年</h3>
     <div class="subject-list">
       <a v-for="sub in subjects" :key="sub" 
-         :href="'/docs/' + agency + '-' + year + '-' + sub.replace(/\//g, '-').replace(/ /g, '-') + '.html'"
+         :href="agency + '-' + year + '-' + sub.replace(/\//g, '-').replace(/ /g, '-')"
          class="exam-link">
         {{ sub }}
       </a>

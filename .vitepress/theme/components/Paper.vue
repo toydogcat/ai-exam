@@ -85,14 +85,14 @@ const submitExam = () => {
             {{ q.text }}
           </div>
           <div class="options">
-            <label v-for="i in 4" :key="i" class="option-label" :class="{ 
-              'correct': isSubmitted && q.answer == i,
-              'wrong': isSubmitted && userAnswers[index] == i && q.answer != i,
-              'selected': userAnswers[index] == i
+            <label v-for="(optText, i) in (q.options && q.options.length ? q.options : ['選項 1', '選項 2', '選項 3', '選項 4'])" :key="i" class="option-label" :class="{ 
+              'correct': isSubmitted && q.answer == (i + 1),
+              'wrong': isSubmitted && userAnswers[index] == (i + 1) && q.answer != (i + 1),
+              'selected': userAnswers[index] == (i + 1)
             }">
-              <input type="radio" :name="'q' + index" :value="i" v-model="userAnswers[index]" :disabled="isSubmitted">
-              <span class="option-marker">({{ i }})</span>
-              <span class="option-text">選項內容待優化...</span>
+              <input type="radio" :name="'q' + index" :value="i + 1" v-model="userAnswers[index]" :disabled="isSubmitted">
+              <span class="option-marker">({{ i + 1 }})</span>
+              <span class="option-text">{{ optText }}</span>
             </label>
           </div>
         </div>
@@ -107,14 +107,14 @@ const submitExam = () => {
             {{ q.text }}
           </div>
           <div class="options">
-            <label v-for="i in 4" :key="i" class="option-label" :class="{ 
-              'correct': isSubmitted && q.answer == i,
-              'wrong': isSubmitted && userAnswers[index + Math.ceil(questions.length / 2)] == i && q.answer != i,
-              'selected': userAnswers[index + Math.ceil(questions.length / 2)] == i
+            <label v-for="(optText, i) in (q.options && q.options.length ? q.options : ['選項 1', '選項 2', '選項 3', '選項 4'])" :key="i" class="option-label" :class="{ 
+              'correct': isSubmitted && q.answer == (i + 1),
+              'wrong': isSubmitted && userAnswers[index + Math.ceil(questions.length / 2)] == (i + 1) && q.answer != (i + 1),
+              'selected': userAnswers[index + Math.ceil(questions.length / 2)] == (i + 1)
             }">
-              <input type="radio" :name="'q' + (index + Math.ceil(questions.length / 2))" :value="i" v-model="userAnswers[index + Math.ceil(questions.length / 2)]" :disabled="isSubmitted">
-              <span class="option-marker">({{ i }})</span>
-              <span class="option-text">選項內容待優化...</span>
+              <input type="radio" :name="'q' + (index + Math.ceil(questions.length / 2))" :value="i + 1" v-model="userAnswers[index + Math.ceil(questions.length / 2)]" :disabled="isSubmitted">
+              <span class="option-marker">({{ i + 1 }})</span>
+              <span class="option-text">{{ optText }}</span>
             </label>
           </div>
         </div>
@@ -233,10 +233,20 @@ const submitExam = () => {
   display: flex;
   align-items: flex-start;
   gap: 0.5rem;
-  padding: 4px 8px;
+  padding: 6px 10px;
   border-radius: 4px;
   cursor: pointer;
   transition: background 0.2s;
+  font-size: 0.95rem;
+}
+
+.option-marker {
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.option-text {
+  flex: 1;
 }
 
 .option-label:hover { background: #f0f0f0; }

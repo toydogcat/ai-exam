@@ -1,72 +1,62 @@
 [
   {
-    "id": "6",
+    "number": "6",
     "text": "How long did it take from the 9/11 attack to the beginning of construction of 1 WTC?",
-    "answer": "3",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "1",
-    "text": "Which culture is NOT mentioned for the use of cosmetics in ancient times?\n(1) More than 14 years.                                 (2) Just short of a decade.\n(1) Roman                     (2) Italian                 (3) Indian                  (4) Egyptian\n(3) A little less than five years.                      (4) Nearly a quarter of a century.",
-    "answer": "2",
+    "number": "1",
+    "text": "Which culture is NOT mentioned for the use of cosmetics in ancient times?\n                                                                                                                                More than 14 years.                                  Just short of a decade.\n   Roman                      Italian                  Indian                   Egyptian\n                                                                                                                                A little less than five years.                       Nearly a quarter of a century.",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "2",
+    "number": "2",
     "text": "Which of the following words is NOT used as a verb to describe the action of putting on makeup?",
-    "answer": "4",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "7",
-    "text": "What do those iconic buildings (in the first paragraph) refer to?\n(1) wear                      (2) apply                   (3) paint                   (4) drop\n(1) The famous skyscrapers across Manhattan.            (2) The landmark monuments across the U.S.",
-    "answer": "4",
+    "number": "7",
+    "text": "What do those iconic buildings (in the first paragraph) refer to?\n   wear                       apply                    paint                    drop\n                                                                                                                                The famous skyscrapers across Manhattan.             The landmark monuments across the U.S.",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "3",
-    "text": "What kind of material is “kohl,” “chalk” or “henna”?\n(3) The prestigious museums near WTC                    (4) The twin towers of the old WTC\n(1) powder                    (2) oil                     (3) lotion                  (4) poison",
-    "answer": "1",
+    "number": "3",
+    "text": "What kind of material is “kohl,” “chalk” or “henna”?\n                                                                                                                                The prestigious museums near WTC                     The twin towers of the old WTC\n   powder                     oil                      lotion                   poison",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "8",
+    "number": "8",
     "text": "Which of the following did NOT pose challenges to the construction of 1 WTC?",
-    "answer": "2",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "4",
-    "text": "What is true about belladonna?\n(1) The preparatory cleaning.                           (2) The shortage of budget\n(1) It is a name of a woman.                            (2) It means beautiful eyes.\n(3) The gigantic heavy parts                            (4) The underground transportation\n(3) It is an Italian word.                              (4) Its eye drops could hurt one’s pupils.",
-    "answer": "3",
+    "number": "4",
+    "text": "What is true about belladonna?\n                                                                                                                                The preparatory cleaning.                            The shortage of budget\n   It is a name of a woman.                             It means beautiful eyes.\n                                                                                                                                The gigantic heavy parts                             The underground transportation\n   It is an Italian word.                               Its eye drops could hurt one’s pupils.",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "9",
+    "number": "9",
     "text": "What is NOT true about 1 WTC?",
-    "answer": "3",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "5",
-    "text": "What is NOT true about the cosmetic beauty in England during the late 16th century?\n(1) It is a very solid and sturdy building.\n(1) Many women loved to have their hair dyed red like Queen Elizabeth I’s.\n(2) The construction cost was extremely high.\n(2) A special hair dye for women contained toxins that caused hair loss.\n(3) It is worthless in the eyes of many New Yorkers.\n(3) Queen Elizabeth I ordered to add poison to the hair dye used by commoner women.\n(4) The construction of it took an unprecedented step.\n(4) Both Queen Elizabeth I and women using red hair dye eventually put on fake hair.",
-    "answer": "3",
+    "number": "5",
+    "text": "What is NOT true about the cosmetic beauty in England during the late 16th century?\n                                                                                                                                It is a very solid and sturdy building.\n   Many women loved to have their hair dyed red like Queen Elizabeth I’s.\n                                                                                                                                The construction cost was extremely high.\n   A special hair dye for women contained toxins that caused hair loss.\n                                                                                                                                It is worthless in the eyes of many New Yorkers.\n   Queen Elizabeth I ordered to add poison to the hair dye used by commoner women.\n                                                                                                                                The construction of it took an unprecedented step.\n   Both Queen Elizabeth I and women using red hair dye eventually put on fake hair.",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "10",
-    "text": "What is the author’s tone in the ending paragraph?\n(1) positive                   (2) sarcastic              (3) humorous                  (4) doubtful",
-    "answer": "1",
+    "number": "10",
+    "text": "What is the author’s tone in the ending paragraph?\n                                                                                                                                positive                    sarcastic               humorous                   doubtful",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   }
 ]

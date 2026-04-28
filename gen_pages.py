@@ -2,7 +2,7 @@ import os
 import json
 
 JSON_DIR = "/home/toymsi/documents/examination/json"
-DOCS_DIR = "/home/toymsi/documents/examination/Github/ai-exam/docs"
+DOCS_DIR = "/home/toymsi/documents/examination/Github/ai-exam/exams"
 
 def generate_pages():
     for agency in os.listdir(JSON_DIR):

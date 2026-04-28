@@ -1,345 +1,296 @@
 [
   {
-    "id": "1",
-    "text": "材料受力發生變形，當外力去除後，變形完全復原之現象稱為？\n(A)塑性     (B)線彈性   (C)彈性     (D)剛性",
-    "answer": "C",
+    "number": "1",
+    "text": "材料受力發生變形，當外力去除後，變形完全復原之現象稱為？\n       (A)塑性     (B)線彈性   (C)彈性     (D)剛性",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "2",
-    "text": "材料存在初始應力，經過一段時間後，變形量未明顯變化，但應力逐漸減少，最後達到一定 值，此現象稱為？\n(A)彈性    (B)鬆弛     (C)疲勞    (D)潛變",
-    "answer": "B",
+    "number": "2",
+    "text": "材料存在初始應力，經過一段時間後，變形量未明顯變化，但應力逐漸減少，最後達到一定\n       值，此現象稱為？\n       (A)彈性    (B)鬆弛     (C)疲勞    (D)潛變",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "3",
-    "text": "有關桁架(truss)結構之基本假設，下列敘述何者有誤？\n(A)每一根桿件皆為二力桿          (B)桿件本身重量可忽略\n(C)節點(joint)可承受彎矩      (D)所有載重均作用於節點上",
-    "answer": "C",
+    "number": "3",
+    "text": "有關桁架(truss)結構之基本假設，下列敘述何者有誤？\n       (A)每一根桿件皆為二力桿          (B)桿件本身重量可忽略\n       (C)節點(joint)可承受彎矩      (D)所有載重均作用於節點上",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "4",
-    "text": "有關應變之單位，下列何者正確？\n(A) mm    (B) N/ m2                      (C) kgf/ cm2        (D)無單位",
-    "answer": "D",
+    "number": "4",
+    "text": "有關應變之單位，下列何者正確？\n       (A) mm    (B) N/ m2                      (C) kgf/ cm2        (D)無單位",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "5",
-    "text": "如右圖細長均質桿，長度L，斜靠在光滑牆面上，與地面夾角為 θ，桿與地面間之靜摩擦係數為μ，若想保持靜止平衡，請問μ 至少要大於多少才夠？ L\n(A) tanθ      (B) tan(2θ)\n(C) tan(θ/ 2) (D) 1/ (2 tanθ) θ",
-    "answer": "D",
+    "number": "5",
+    "text": "如右圖細長均質桿，長度L，斜靠在光滑牆面上，與地面夾角為\n       θ，桿與地面間之靜摩擦係數為μ，若想保持靜止平衡，請問μ\n       至少要大於多少才夠？\n                                                                               L\n       (A) tanθ      (B) tan(2θ)\n       (C) tan(θ/ 2) (D) 1/ (2 tanθ)\n\n                                                                                   θ",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "6",
-    "text": "如右圖所示，應力σ-應變ε圖中，下列敘述何者有誤？\n(A) A點為比例限度(proportional limit)\n(B) B點為降伏應力(yielding stress)\n(C) D點為極限應力(ultimate stress)\n(D) D點至E點為應變硬化現象",
-    "answer": "D",
+    "number": "6",
+    "text": "如右圖所示，應力σ-應變ε圖中，下列敘述何者有誤？\n       (A) A點為比例限度(proportional limit)\n       (B) B點為降伏應力(yielding stress)\n       (C) D點為極限應力(ultimate stress)\n       (D) D點至E點為應變硬化現象",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "7",
-    "text": "一均勻銅棒長8 m，若在不受外力下，經均勻加熱後溫度升高100 ℃，其長度伸長0.2 cm，請 問其熱膨脹係數 α 為何？\n(A) 1.0×10-6 cm/ cm℃ (B) 1.5×10-6 cm/ cm℃ (C) 2.0×10-6 cm/ cm℃ (D) 2.5×10-6 cm/ cm℃",
-    "answer": "D",
+    "number": "7",
+    "text": "一均勻銅棒長8 m，若在不受外力下，經均勻加熱後溫度升高100 ℃，其長度伸長0.2 cm，請\n       問其熱膨脹係數 α 為何？\n       (A) 1.0×10-6 cm/ cm℃ (B) 1.5×10-6 cm/ cm℃ (C) 2.0×10-6 cm/ cm℃ (D) 2.5×10-6 cm/ cm℃",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "8",
-    "text": "在Timoshenko符號系統下，梁之剪力圖V(x)與彎矩圖M(x)的關係是？ d2 M                d2 V                  dM                  dV\n(A)     2\n= V(x)    (B)          = M(x)   (C)        = V(x)   (D)        = M(x) dx                  dx2                   dx                  dx 工程力學概要 第 1 頁，共 6 頁                               【請翻頁繼續作答】",
-    "answer": "C",
+    "number": "8",
+    "text": "在Timoshenko符號系統下，梁之剪力圖V(x)與彎矩圖M(x)的關係是？\n            d2 M                d2 V                  dM                  dV\n      (A)     2\n                = V(x)    (B)          = M(x)   (C)        = V(x)   (D)        = M(x)\n            dx                  dx2                   dx                  dx\n\n                                      工程力學概要 第 1 頁，共 6 頁                               【請翻頁繼續作答】",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "9",
-    "text": "有關梁之剪力圖V(x)與彎矩圖M(x)性質，下列敘述何者有誤？\n(A)剪力圖上若有跳躍點(jump)，表示梁於此處受集中載重作用\n(B)剪力圖中，剪力V= 0之點，彎矩M發生極大值\n(C)彎矩圖中，彎矩M= 0之點為變形曲線之反曲點\n(D)彎矩圖上若有跳躍點(jump)，表示梁於此處受集中彎矩作用",
-    "answer": "B",
+    "number": "9",
+    "text": "有關梁之剪力圖V(x)與彎矩圖M(x)性質，下列敘述何者有誤？\n       (A)剪力圖上若有跳躍點(jump)，表示梁於此處受集中載重作用\n       (B)剪力圖中，剪力V= 0之點，彎矩M發生極大值\n       (C)彎矩圖中，彎矩M= 0之點為變形曲線之反曲點\n       (D)彎矩圖上若有跳躍點(jump)，表示梁於此處受集中彎矩作用",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "10",
-    "text": "一物體置於水平桌面上，若桌面逐漸增加傾斜角度至θ(θ為桌面與水平面之夾角)時，物體 開始滑動，則物體與桌面之靜摩擦係數為何？\n(A) sinθ (B) cosθ  (C) tanθ  (D) 1/ tanθ",
-    "answer": "C",
+    "number": "10",
+    "text": "一物體置於水平桌面上，若桌面逐漸增加傾斜角度至θ(θ為桌面與水平面之夾角)時，物體\n        開始滑動，則物體與桌面之靜摩擦係數為何？\n        (A) sinθ (B) cosθ  (C) tanθ  (D) 1/ tanθ",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "11",
-    "text": "如右圖所示，長L之懸臂梁承受均佈載重W，若剛度EI為常數，請問 W 最大撓度為何？ WL3             WL4\n(A)             (B) 8EI             8EI WL4             WL3                                               L\n(C)             (D) 3EI             3EI",
-    "answer": "B",
+    "number": "11",
+    "text": "如右圖所示，長L之懸臂梁承受均佈載重W，若剛度EI為常數，請問\n                                                                                 W\n        最大撓度為何？\n           WL3             WL4\n     (A)             (B)\n           8EI             8EI\n           WL4             WL3                                               L\n     (C)             (D)\n           3EI             3EI",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "12",
-    "text": "如右圖所示，長L之懸臂梁在自由端受一集中載重P，若剛度EI為                                                    P 常數，請問最大撓度為何？ PL2             PL3\n(A)             (B) 3EI             2EI                                           L PL3             PL3\n(C)             (D) 3EI             8EI",
-    "answer": "C",
+    "number": "12",
+    "text": "如右圖所示，長L之懸臂梁在自由端受一集中載重P，若剛度EI為                                                    P\n        常數，請問最大撓度為何？\n           PL2             PL3\n     (A)             (B)\n           3EI             2EI                                           L\n           PL3             PL3\n     (C)             (D)\n           3EI             8EI",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "13",
-    "text": "如右圖所示，有一梁長度L，承受均佈載重W，剛度EI，則B點之                                       W 支承反力為何？                                                                               B 3WL             WL A\n(A)             (B) 8               8 WL              3WL                                           L\n(C)             (D) 3                4",
-    "answer": "A",
+    "number": "13",
+    "text": "如右圖所示，有一梁長度L，承受均佈載重W，剛度EI，則B點之                                       W\n        支承反力為何？                                                                               B\n           3WL             WL\n                                                           A\n     (A)             (B)\n            8               8\n           WL              3WL                                           L\n     (C)             (D)\n           3                4",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "14",
-    "text": "有關材料之單軸向拉伸試驗，下列敘述何者有誤？\n(A)應力-應變曲線之最高點應力為材料抗拉強度\n(B)比例限度(proportional limit)前，應力-應變曲線斜率即為材料之楊氏係數(Young’s modulus)\n(C)脆性材料(brittle material)如混凝土、陶瓷，一般沒有明顯降伏點(yielding point)\n(D)中低碳鋼材料降伏(yielding)後緊接著產生頸縮(necking)現象",
-    "answer": "D",
+    "number": "14",
+    "text": "有關材料之單軸向拉伸試驗，下列敘述何者有誤？\n        (A)應力-應變曲線之最高點應力為材料抗拉強度\n        (B)比例限度(proportional limit)前，應力-應變曲線斜率即為材料之楊氏係數(Young’s modulus)\n        (C)脆性材料(brittle material)如混凝土、陶瓷，一般沒有明顯降伏點(yielding point)\n        (D)中低碳鋼材料降伏(yielding)後緊接著產生頸縮(necking)現象",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "15",
-    "text": "有一木塊靜置於一平面上，現用一力將木塊拉動，則接觸面間產生之最大靜摩擦力係發生於：\n(A)木塊加速運動時 (B)木塊開始運動瞬間 (C)木塊等速運動時 (D)木塊靜止時",
-    "answer": "B",
+    "number": "15",
+    "text": "有一木塊靜置於一平面上，現用一力將木塊拉動，則接觸面間產生之最大靜摩擦力係發生於：\n        (A)木塊加速運動時 (B)木塊開始運動瞬間 (C)木塊等速運動時 (D)木塊靜止時",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "16",
-    "text": "有一鋼棒長40 cm，直徑2 cm，今受一張力作用後，軸向伸長0.05 cm，橫向同時收縮0.0005 cm ，則其蒲松比(Poisson’s ratio) ν為何？\n(A) 0.1       (B) 0.2        (C) 0.3 (D) 0.4",
-    "answer": "B",
+    "number": "16",
+    "text": "有一鋼棒長40 cm，直徑2 cm，今受一張力作用後，軸向伸長0.05 cm，橫向同時收縮0.0005 cm\n        ，則其蒲松比(Poisson’s ratio) ν為何？\n        (A) 0.1       (B) 0.2        (C) 0.3 (D) 0.4",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "17",
-    "text": "某一懸臂梁承受載重如右圖所示，請問梁所受之最大剪力V max                                                3 kN 5 kN / m 為何？\n(A) 8 kN  (B) 15 kN\n(C) 18 kN (D) 20 kN 3m                     3m",
-    "answer": "C",
+    "number": "17",
+    "text": "某一懸臂梁承受載重如右圖所示，請問梁所受之最大剪力V max                                                3 kN\n                                                          5 kN / m\n        為何？\n        (A) 8 kN  (B) 15 kN\n        (C) 18 kN (D) 20 kN\n                                                          3m                     3m",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "18",
-    "text": "有一梁如右圖所示，B點為鉸接(hinge)，請問固定端A點之彎矩                                 12 kN 為多少kN-m？ A              B                    C\n(A) 24    (B) 36\n(C) 48    (D) 72 6m         2m              4m 工程力學概要 第 2 頁，共 6 頁",
-    "answer": "C",
+    "number": "18",
+    "text": "有一梁如右圖所示，B點為鉸接(hinge)，請問固定端A點之彎矩                                 12 kN\n        為多少kN-m？\n                                                      A              B                    C\n        (A) 24    (B) 36\n        (C) 48    (D) 72\n                                                          6m         2m              4m\n\n                                 工程力學概要 第 2 頁，共 6 頁",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "19",
-    "text": "有一桁架(truss)系統如右圖所示，試問Bb桿件之內力為多少？                              A           B   C          D       E\n(A) 0 kN             (B) 15 kN\n(C) 30 kN            (D) 45 kN                                                               d 4m                                  60 kN c b a 1m 1m 1m 1m",
-    "answer": "A",
+    "number": "19",
+    "text": "有一桁架(truss)系統如右圖所示，試問Bb桿件之內力為多少？                              A           B   C          D       E\n\n    (A) 0 kN             (B) 15 kN\n    (C) 30 kN            (D) 45 kN                                                               d\n                                                                 4m                                  60 kN\n                                                                                      c\n\n                                                                                  b\n                                                                      a\n\n                                                                          1m 1m 1m 1m",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "20",
-    "text": "有一長L之懸臂梁承受一均變載重W，斷面為b× h如右圖所示 W ，請問A斷面之最大撓曲應力為多少？ WL2                  2WL2                      A                                                   h\n(A)                  (B)                                                                         b bh2                  bh2                                            L WL2                  WL2\n(C)                  (D) 2bh2                 4bh2",
-    "answer": "A",
+    "number": "20",
+    "text": "有一長L之懸臂梁承受一均變載重W，斷面為b× h如右圖所示\n                                                                  W\n        ，請問A斷面之最大撓曲應力為多少？\n          WL2                  2WL2                      A                                                   h\n    (A)                  (B)                                                                         b\n          bh2                  bh2                                            L\n          WL2                  WL2\n    (C)                  (D)\n          2bh2                 4bh2",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "21",
-    "text": "有關平面應力分析之應力莫耳圓(Mohr Circle)特性，莫耳圓之半徑為何？\n(A)材料之最大剪應力 (B)材料之主應力值 (C)材料之主應力差值 (D)材料之主應變",
-    "answer": "A",
+    "number": "21",
+    "text": "有關平面應力分析之應力莫耳圓(Mohr Circle)特性，莫耳圓之半徑為何？\n        (A)材料之最大剪應力 (B)材料之主應力值 (C)材料之主應力差值 (D)材料之主應變",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "22",
-    "text": "如右圖所示，一平面應力元素，請問最大剪應力τ max 為何？                                    σyy =10 ksi\n(A) 10 ksi (B) 15 ksi\n(C) 25 ksi (D) 30 ksi σxx                              σxx =40 ksi σyy",
-    "answer": "C",
+    "number": "22",
+    "text": "如右圖所示，一平面應力元素，請問最大剪應力τ max 為何？                                    σyy =10 ksi\n        (A) 10 ksi (B) 15 ksi\n        (C) 25 ksi (D) 30 ksi\n                                                         σxx                              σxx =40 ksi\n\n                                                                          σyy",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "23",
-    "text": "如右圖所示，桿ABC，A、C兩端固定，在B點處承受軸向力P，                                2 EA            B EA 則A點反力為何？ P                    2P                                A    P                                      C\n(A)                  (B) 3                    3 P                    P\n(C)                  (D)                                                  L                L 2                    4",
-    "answer": "B",
+    "number": "23",
+    "text": "如右圖所示，桿ABC，A、C兩端固定，在B點處承受軸向力P，                                2 EA            B\n                                                                                               EA\n        則A點反力為何？\n          P                    2P                                A    P                                      C\n    (A)                  (B)\n          3                    3\n          P                    P\n    (C)                  (D)                                                  L                L\n          2                    4",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "24",
-    "text": "如右圖所示，A、B兩串聯桿件受軸力P作用，產生10 mm之伸長                                                   B桿 A桿 量，試求A桿之伸長量為多少？                                       P                                                   P\n(A) 3 mm  (B) 4 mm                                            2 EA\n(C) 5 mm  (D) 6 mm                                                                3 EA L                L",
-    "answer": "D",
+    "number": "24",
+    "text": "如右圖所示，A、B兩串聯桿件受軸力P作用，產生10 mm之伸長                                                   B桿\n                                                                      A桿\n        量，試求A桿之伸長量為多少？                                       P                                                   P\n        (A) 3 mm  (B) 4 mm                                            2 EA\n        (C) 5 mm  (D) 6 mm                                                                3 EA\n                                                                          L                L",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "25",
-    "text": "梁結構(beam)在對稱彎曲前提下承受不均勻彎曲，關於橫斷面之撓曲剪應力τ，下列敘述何 者有誤？(剪力V、一次矩Q、慣性矩I、斷面積A)\n(A)剪力流(shear flow)f = VQ/ I，最大剪力流必發生在中性軸\n(B)若梁為矩形斷面，則最大剪應力τ max = 3V/ 2A\n(C)若梁為圓形斷面，則最大剪應力τ max = 4V/ 3A\n(D)對於任何斷面形狀，最大剪應力τ max 必發生在中性軸",
-    "answer": "D",
+    "number": "25",
+    "text": "梁結構(beam)在對稱彎曲前提下承受不均勻彎曲，關於橫斷面之撓曲剪應力τ，下列敘述何\n        者有誤？(剪力V、一次矩Q、慣性矩I、斷面積A)\n        (A)剪力流(shear flow)f = VQ/ I，最大剪力流必發生在中性軸\n        (B)若梁為矩形斷面，則最大剪應力τ max = 3V/ 2A\n        (C)若梁為圓形斷面，則最大剪應力τ max = 4V/ 3A\n        (D)對於任何斷面形狀，最大剪應力τ max 必發生在中性軸",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "26",
-    "text": "剛體(rigid body)之定義為何？\n(A)物體受力後任兩點相對位置不發生變化者\n(B)鋼質之物體\n(C)物體受力後變形量無法恢復\n(D)受力可變形，但不致破壞之物體",
-    "answer": "A",
+    "number": "26",
+    "text": "剛體(rigid body)之定義為何？\n        (A)物體受力後任兩點相對位置不發生變化者\n        (B)鋼質之物體\n        (C)物體受力後變形量無法恢復\n        (D)受力可變形，但不致破壞之物體",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "27",
-    "text": "下列單位換算中，何者有誤？\n(A) 1 lb = 4.45 N    (B) 1 ft = 0.3048 m\n(C) 1 kgf = 9.81 N   (D) 1 MPa = 1×109 N/ m2 工程力學概要 第 3 頁，共 6 頁                            【請翻頁繼續作答】",
-    "answer": "D",
+    "number": "27",
+    "text": "下列單位換算中，何者有誤？\n    (A) 1 lb = 4.45 N    (B) 1 ft = 0.3048 m\n    (C) 1 kgf = 9.81 N   (D) 1 MPa = 1×109 N/ m2\n                                    工程力學概要 第 3 頁，共 6 頁                            【請翻頁繼續作答】",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "28",
-    "text": "如右圖所示，一重量W之均質圓球，若靜置於光滑面所形成之V形 槽中，試求在接觸點A，由光滑面施加在圓球作用力R A 為多少W？\n(A) 1⁄2   (B) √3⁄2 B\n(C) 3⁄4   (D) √3⁄4                                                    A           W 60° 30°",
-    "answer": "B",
+    "number": "28",
+    "text": "如右圖所示，一重量W之均質圓球，若靜置於光滑面所形成之V形\n        槽中，試求在接觸點A，由光滑面施加在圓球作用力R A 為多少W？\n        (A) 1⁄2   (B) √3⁄2\n                                                                                               B\n        (C) 3⁄4   (D) √3⁄4                                                    A           W\n                                                                                                        60°\n                                                                        30°",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "29",
-    "text": "如右圖所示，連桿OA長度5 L，不考慮自重，以鉸接(hinge)                                                            B 方式支撐於O點，另一端有載重W，且連桿C點以纜線連接至                        O                 C                30°           A B點，若整體平衡而維持靜止不動，則BC纜線之拉力為何？\n(A) 5W⁄√3 (B) 8W                                           2L                     3L\n(C) 10W   (D) 5W                                                                                    W",
-    "answer": "D",
+    "number": "29",
+    "text": "如右圖所示，連桿OA長度5 L，不考慮自重，以鉸接(hinge)                                                            B\n        方式支撐於O點，另一端有載重W，且連桿C點以纜線連接至                        O                 C                30°           A\n        B點，若整體平衡而維持靜止不動，則BC纜線之拉力為何？\n        (A) 5W⁄√3 (B) 8W                                           2L                     3L\n        (C) 10W   (D) 5W                                                                                    W",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "30",
-    "text": "有一吊繩如右圖所示，AD呈水平，滑輪B無摩擦，若平衡而維持 B 靜止不動，則物體C的質量為多少kg？\n(A) 50    (B) 67                                                                            4 D                      A 3                   C\n(C) 75    (D) 80 40 kg",
-    "answer": "A",
+    "number": "30",
+    "text": "有一吊繩如右圖所示，AD呈水平，滑輪B無摩擦，若平衡而維持\n                                                                                                                B\n        靜止不動，則物體C的質量為多少kg？\n        (A) 50    (B) 67                                                                            4\n                                                                   D                      A 3                   C\n        (C) 75    (D) 80\n\n\n                                                                                          40 kg",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "31",
-    "text": "如右圖所示，有一半圓形，C 為形心，r 為半徑，有關                                            y 斷面的平面性質，下列敘述何者有誤？ 4𝑟𝑟              1\n(A)形心距𝑦𝑦\n�=              (B) Ix =       πr 4 3𝜋𝜋              8 1                              πr2 y                     x\n(C) Iy = πr 4         (D)面積A =                             r 8                               2                                 C",
-    "answer": "B",
+    "number": "31",
+    "text": "如右圖所示，有一半圓形，C 為形心，r 為半徑，有關                                            y\n    斷面的平面性質，下列敘述何者有誤？\n                    4𝑟𝑟              1\n    (A)形心距𝑦𝑦\n          �=              (B) Ix =       πr 4\n                    3𝜋𝜋              8\n            1                              πr2\n                                                                                          y                     x\n    (C) Iy = πr 4         (D)面積A =                             r\n            8                               2                                 C",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "32",
-    "text": "有一受力系統如右圖所示，請問支承B點反力                     1t / m 12 t - m 大小為何？                A                             B C                        D\n(A) 3 t  (B) 4 t\n(C) 5 t  (D) 6 t                         4m        1m            3m               2m",
-    "answer": "A",
+    "number": "32",
+    "text": "有一受力系統如右圖所示，請問支承B點反力                     1t / m\n                                                                                                        12 t - m\n        大小為何？                A                             B C                        D\n        (A) 3 t  (B) 4 t\n        (C) 5 t  (D) 6 t                         4m        1m            3m               2m",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "33",
-    "text": "有一簡支梁承受外力如右圖所示，請問梁之剪力圖應為下列何者？\n(A)       (B)                                                             P                 P A                                            B\n(C)                   (D) a                              a",
-    "answer": "A",
+    "number": "33",
+    "text": "有一簡支梁承受外力如右圖所示，請問梁之剪力圖應為下列何者？\n        (A)       (B)                                                             P                 P\n                                                                   A                                            B\n    (C)                   (D)\n                                                                         a                              a",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "34",
-    "text": "有一受力系統如右圖所示，請問AB梁中點處彎矩大小為何？                                                                 1t/m 6t\n(A) 24 t-m (B) 36 t-m       A                                                                           B\n(C) 40 t-m (D) 48 t-m                             5m                              10 m 20 m",
-    "answer": "C",
+    "number": "34",
+    "text": "有一受力系統如右圖所示，請問AB梁中點處彎矩大小為何？                                                                 1t/m\n                                                                   6t\n        (A) 24 t-m (B) 36 t-m       A                                                                           B\n        (C) 40 t-m (D) 48 t-m                             5m                              10 m\n                                                                          20 m",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "35",
-    "text": "有一簡支梁承受外力如右圖所示，請問梁之彎矩圖應為下列何者？                                                         Mo\n(A)       (B) L\n(C)                   (D)                                                 2 L 工程力學概要 第 4 頁，共 6 頁                                    【請另頁繼續作答】",
-    "answer": "B",
+    "number": "35",
+    "text": "有一簡支梁承受外力如右圖所示，請問梁之彎矩圖應為下列何者？                                                         Mo\n        (A)       (B)\n                                                                              L\n    (C)                   (D)                                                 2\n                                                                                          L\n\n                                工程力學概要 第 4 頁，共 6 頁                                    【請另頁繼續作答】",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "36",
-    "text": "有一系統受力如右圖所示，AB 為均勻桿件，兩端由線材懸 吊，兩線材之材料及截面積均相同，忽略桿件自重，請問 2 m                                                               3m 要在距 A 端施加一垂直力 P 而使 AB 桿能保持水平的距離 X A x                                                       B 為何？ P 10 m\n(A) 2 m    (B) 3 m\n(C) 4 m    (D) 5 m",
-    "answer": "C",
+    "number": "36",
+    "text": "有一系統受力如右圖所示，AB 為均勻桿件，兩端由線材懸\n    吊，兩線材之材料及截面積均相同，忽略桿件自重，請問 2 m                                                               3m\n    要在距 A 端施加一垂直力 P 而使 AB 桿能保持水平的距離 X A x                                                       B\n    為何？\n                                                                      P 10 m\n    (A) 2 m    (B) 3 m\n    (C) 4 m    (D) 5 m",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "37",
-    "text": "有一桁架系統承受載重如右圖所示，請問桁架中零桿個數 3m                                       a 為多少？\n(A) 1    (B) 3\n(C) 5    (D) 7                                              6t 6t 6t 6t 6t 2m 2m 2m 2m 2m 2m",
-    "answer": "B",
+    "number": "37",
+    "text": "有一桁架系統承受載重如右圖所示，請問桁架中零桿個數\n                                  3m                                       a\n        為多少？\n        (A) 1    (B) 3\n        (C) 5    (D) 7                                              6t 6t 6t 6t 6t\n                                                                 2m 2m 2m 2m 2m 2m",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "38",
-    "text": "有一桁架系統承受載重如右圖所示，請問 a 桿內力大小為 3m                                     a 何？\n(A) 2 t   (B) 3 t\n(C) 4 t   (D) 5 t                                           6t 6t 6t 6t 6t 2m 2m 2m 2m 2m 2m",
-    "answer": "D",
+    "number": "38",
+    "text": "有一桁架系統承受載重如右圖所示，請問 a 桿內力大小為\n                                    3m                                     a\n        何？\n        (A) 2 t   (B) 3 t\n        (C) 4 t   (D) 5 t                                           6t 6t 6t 6t 6t\n                                                                 2m 2m 2m 2m 2m 2m",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "39",
-    "text": "有一等腰三角形如右圖所示，請問其對X軸之慣性矩𝐼𝐼𝑋𝑋 為何？                                             Y,Yc bh3                  bh3                                             O                    X\n(A)                  (B) 2                    4 bh3                  bh3                                    h\n(C)                  (D)                                                        C               Xc 8                   12 b",
-    "answer": "B",
+    "number": "39",
+    "text": "有一等腰三角形如右圖所示，請問其對X軸之慣性矩𝐼𝐼𝑋𝑋 為何？                                             Y,Yc\n          bh3                  bh3                                             O                    X\n    (A)                  (B)\n           2                    4\n          bh3                  bh3                                    h\n    (C)                  (D)                                                        C               Xc\n           8                   12\n\n                                                                                   b",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "40",
-    "text": "有關材料之剪力模數(G)、彈性模數(E)及蒲松比(ν)之關係式，下列何者正確？ (1+2ν)               2(1+ν)               E                    E\n(A) E =              (B) E =              (C) G =            (D) G = G                    G                2(1+ν)             (1+2ν)",
-    "answer": "C",
+    "number": "40",
+    "text": "有關材料之剪力模數(G)、彈性模數(E)及蒲松比(ν)之關係式，下列何者正確？\n                (1+2ν)               2(1+ν)               E                    E\n    (A) E =              (B) E =              (C) G =            (D) G =\n                  G                    G                2(1+ν)             (1+2ν)",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "41",
-    "text": "如右圖所示，使用3個一組之電阻組合應變計，量測平面應變分量，若                                    Y 3個應變計A、B及C所量得應變分別為𝜀𝜀𝑎𝑎 、𝜀𝜀𝑏𝑏 及𝜀𝜀𝑐𝑐 ，有關平面應變分量 A ，下列何者有誤？                                                B\n(A) 𝜀𝜀𝑥𝑥𝑥𝑥 = 𝜀𝜀𝑐𝑐 (B) 𝜀𝜀𝑦𝑦𝑦𝑦 = 𝜀𝜀𝑎𝑎                45°\n(C) 𝛾𝛾𝑥𝑥𝑥𝑥 = 𝜀𝜀𝑏𝑏 (D) 𝛾𝛾𝑥𝑥𝑥𝑥 = 2𝜀𝜀𝑏𝑏 − 𝜀𝜀𝑎𝑎 − 𝜀𝜀𝑐𝑐     45° X O C",
-    "answer": "C",
+    "number": "41",
+    "text": "如右圖所示，使用3個一組之電阻組合應變計，量測平面應變分量，若                                    Y\n    3個應變計A、B及C所量得應變分別為𝜀𝜀𝑎𝑎 、𝜀𝜀𝑏𝑏 及𝜀𝜀𝑐𝑐 ，有關平面應變分量 A\n    ，下列何者有誤？                                                B\n    (A) 𝜀𝜀𝑥𝑥𝑥𝑥 = 𝜀𝜀𝑐𝑐 (B) 𝜀𝜀𝑦𝑦𝑦𝑦 = 𝜀𝜀𝑎𝑎                45°\n    (C) 𝛾𝛾𝑥𝑥𝑥𝑥 = 𝜀𝜀𝑏𝑏 (D) 𝛾𝛾𝑥𝑥𝑥𝑥 = 2𝜀𝜀𝑏𝑏 − 𝜀𝜀𝑎𝑎 − 𝜀𝜀𝑐𝑐     45°\n                                                                                                    X\n                                                                      O\n                                                                                       C",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "42",
-    "text": "有一系統如右圖所示，大球O1 半徑6 m，重150 kgf，小球O2 半徑4 m，                                  16 m 重50 kgf，所有接觸面均為光滑面，有關各接觸力，下列何者有誤？\n(A) R A = 37.5 kgf (B) R B = 50 kgf\n(C) R C = 37.5 kgf (D) R D = 200 kgf                                               O2       C B A         O1 D 工程力學概要 第 5 頁，共 6 頁                        【請翻頁繼續作答】 �⃑= 35 kgf，作用方向由A",
-    "answer": "B",
+    "number": "42",
+    "text": "有一系統如右圖所示，大球O1 半徑6 m，重150 kgf，小球O2 半徑4 m，                                  16 m\n        重50 kgf，所有接觸面均為光滑面，有關各接觸力，下列何者有誤？\n        (A) R A = 37.5 kgf (B) R B = 50 kgf\n        (C) R C = 37.5 kgf (D) R D = 200 kgf                                               O2       C\n                                                                                       B\n                                                                     A         O1\n\n\n                                                                               D\n\n\n\n\n                                     工程力學概要 第 5 頁，共 6 頁                        【請翻頁繼續作答】\n\f                    �⃑= 35 kgf，作用方向由A",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "43",
-    "text": "有一空間力如右圖所示，力F                               Y       6m   B F 點指向B點，則該力沿X、Y、Z分力之大小為何？\n(A) F x = 20、F y = 10、F z = -15                                2m X\n(B) F x = 30、F y = 10、F z = -15\n(C) F x = 20、F y = 10、F z = 15                            3m\n(D) F x = 30、F y = 20、F z = 15         A Z",
-    "answer": "B",
+    "number": "43",
+    "text": "有一空間力如右圖所示，力F                               Y       6m   B F\n       點指向B點，則該力沿X、Y、Z分力之大小為何？\n       (A) F x = 20、F y = 10、F z = -15                                2m\n                                                                           X\n       (B) F x = 30、F y = 10、F z = -15\n       (C) F x = 20、F y = 10、F z = 15                            3m\n       (D) F x = 30、F y = 20、F z = 15         A\n                                          Z",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "44",
-    "text": "任何一力必須具備的三要素，下列何者有誤？\n(A)時間     (B)大小    (C)方向                  (D)作用點",
-    "answer": "A",
+    "number": "44",
+    "text": "任何一力必須具備的三要素，下列何者有誤？\n        (A)時間     (B)大小    (C)方向                  (D)作用點",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "45",
-    "text": "某甲體重為50公斤，換算成力的單位為多少N？\n(A) 200    (B) 491  (C) 588               (D) 981",
-    "answer": "B",
+    "number": "45",
+    "text": "某甲體重為50公斤，換算成力的單位為多少N？\n        (A) 200    (B) 491  (C) 588               (D) 981",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "46",
-    "text": "當一剛體受共面非平行之三直線外力作用而保持平衡，下列敘述何者正確？\n(A)三作用線相交於一點        (B)三作用線相交於兩點\n(C)三作用線相交於三點        (D)三作用線不相交",
-    "answer": "A",
+    "number": "46",
+    "text": "當一剛體受共面非平行之三直線外力作用而保持平衡，下列敘述何者正確？\n        (A)三作用線相交於一點        (B)三作用線相交於兩點\n        (C)三作用線相交於三點        (D)三作用線不相交",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "47",
-    "text": "有關力偶的敘述，下列何者正確？\n(A)可使物體移動而不能旋轉\n(B)大小相等，方向相同，作用線不在同一直線上的兩平行力\n(C)大小相等，方向相反，作用線不在同一直線上的兩平行力\n(D)大小相等，方向相同，作用線在同一直線上的兩平行力",
-    "answer": "C",
+    "number": "47",
+    "text": "有關力偶的敘述，下列何者正確？\n        (A)可使物體移動而不能旋轉\n        (B)大小相等，方向相同，作用線不在同一直線上的兩平行力\n        (C)大小相等，方向相反，作用線不在同一直線上的兩平行力\n        (D)大小相等，方向相同，作用線在同一直線上的兩平行力",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "48",
-    "text": "「當作用於一質點之合外力為零時，該質點將靜者恆靜，動者則以等速直線運動」，以上敘 述係屬下列何種定律？\n(A)牛頓第一定律          (B)牛頓第二定律\n(C)牛頓第三定律          (D)牛頓萬有引力定律",
-    "answer": "A",
+    "number": "48",
+    "text": "「當作用於一質點之合外力為零時，該質點將靜者恆靜，動者則以等速直線運動」，以上敘\n        述係屬下列何種定律？\n        (A)牛頓第一定律          (B)牛頓第二定律\n        (C)牛頓第三定律          (D)牛頓萬有引力定律",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   },
   {
-    "id": "49",
-    "text": "簡支梁承受均佈載重，下列敘述何者有誤？\n(A)梁端點彎矩不為零         (B)剪力極值發生於梁端點\n(C)梁中點剪力為零          (D)梁中點彎矩不為零 [C]                               My 50. 以下有關梁受彎矩作用之彎曲應力公式σ=          ，下列敘述何者有誤？ I\n(A)梁之中性軸將通過梁斷面之形心\n(B) I為梁斷面之慣性矩\n(C) y為自梁受拉側至中性軸的距離\n(D)若欲求梁斷面最上、下緣之彎曲應力，該公式亦可表示為σ＝ M/ S，其中S為梁斷面之斷 面模數 工程力學概要 第 6 頁，共 6 頁",
-    "answer": "A",
+    "number": "49",
+    "text": "簡支梁承受均佈載重，下列敘述何者有誤？\n        (A)梁端點彎矩不為零         (B)剪力極值發生於梁端點\n        (C)梁中點剪力為零          (D)梁中點彎矩不為零\n[C]                               My\n      50. 以下有關梁受彎矩作用之彎曲應力公式σ=          ，下列敘述何者有誤？\n                                   I\n       (A)梁之中性軸將通過梁斷面之形心\n       (B) I為梁斷面之慣性矩\n       (C) y為自梁受拉側至中性軸的距離\n       (D)若欲求梁斷面最上、下緣之彎曲應力，該公式亦可表示為σ＝ M/ S，其中S為梁斷面之斷\n          面模數\n\n\n\n\n                        工程力學概要 第 6 頁，共 6 頁",
     "options": [],
-    "analysis": ""
+    "answer": "1"
   }
 ]

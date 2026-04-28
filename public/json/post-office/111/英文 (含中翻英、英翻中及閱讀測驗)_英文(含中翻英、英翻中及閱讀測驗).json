@@ -1,44 +1,62 @@
 [
   {
-    "id": "1",
-    "text": "Which of the following is true about Australia’s first capsule hotel?                                                (2) It mourned the sacrifice of common people in the French Revolution.\n(1) It was opened soon after Japan’s first capsule hotels.                                                                  (3) No other structures in the world were taller than it until 1970s.\n(2) It is exactly named as how people usually call such a hotel.                                                            (4) It was originally scheduled to be torn down around 1909.\n(3) It is located in the rural area of Australia’s biggest city.",
-    "answer": "2",
+    "number": "6",
+    "text": "Which of the following is true about the Eiffel Tower?\n                                                                                                                            It was intended to be the landmark of Paris.",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "7",
-    "text": "What did people who disliked the Eiffel Tower say about it?\n(4) It has attracted many but only backpackers so far.\n(1) The Tower copied the design by another famous artist.",
-    "answer": "3",
+    "number": "1",
+    "text": "Which of the following is true about Australia’s first capsule hotel?                                                 It mourned the sacrifice of common people in the French Revolution.\n  It was opened soon after Japan’s first capsule hotels.                                                                   No other structures in the world were taller than it until 1970s.\n  It is exactly named as how people usually call such a hotel.                                                             It was originally scheduled to be torn down around 1909.\n  It is located in the rural area of Australia’s biggest city.",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "2",
-    "text": "What does “to try out the alternate overnight resting place on home soil” (in the first paragraph) mean?\n(2) Building the Tower cost far more than it should have.\n(1) To offer homestay accommodations for extra income\n(3) The Tower was ugly and huge, and served no purposes.\n(2) To get a taste of staying in a home-style hotel for free\n(3) To stop staying at home but try sleeping over at a new hotel                                                            (4) It was dangerous to conduct experiments on the Tower.\n(4) To experience a different type of hotel in Australia                                                                   【2】8. Who’s Gustave Eiffel?",
-    "answer": "4",
+    "number": "7",
+    "text": "What did people who disliked the Eiffel Tower say about it?\n  It has attracted many but only backpackers so far.\n                                                                                                                            The Tower copied the design by another famous artist.",
     "options": [],
-    "analysis": ""
+    "answer": "3"
   },
   {
-    "id": "3",
-    "text": "How did Walter Guo first get the idea of opening a capsule hotel in Australia?                                       (1) The French President at the time when the Tower was built.\n(1) He watched a travel program on TV that introduced Japan’s capsule hotels.                                               (2) The architect and engineer to the construction of the Tower.\n(2) A backpacker complained to him that there are no capsule hotels in Australia.                                           (3) The millionaire who bought the Tower for scientific uses.\n(3) He once traveled to Japan and saw capsule hotels there by himself.                                                      (4) The most famous elite figure in the French Revolution.\n(4) He tried to provide more privacy to people who lived in the dorm he owned.                                             【1】9. What was the most important key to preventing Eiffel Tower from being torn down?",
-    "answer": "3",
+    "number": "2",
+    "text": "What does “to try out the alternate overnight resting place on home soil” (in the first paragraph) mean?\n                                                                                                                            Building the Tower cost far more than it should have.\n  To offer homestay accommodations for extra income\n                                                                                                                            The Tower was ugly and huge, and served no purposes.\n  To get a taste of staying in a home-style hotel for free\n  To stop staying at home but try sleeping over at a new hotel                                                             It was dangerous to conduct experiments on the Tower.\n  To experience a different type of hotel in Australia",
     "options": [],
-    "analysis": ""
+    "answer": "4"
   },
   {
-    "id": "4",
-    "text": "Which of the following is NOT true about the facilities provided by Walter Guo’s Capsule Hotel?                      (1) Turning it into a memorable structure for sending radio and television signals\n(1) There is a cabinet in each pod for keeping personal belongings.                                                         (2) Promoting it as a symbol of romance for tourists from around the world\n(2) Guests need to share facilities if they want to cook or wash clothes.                                                   (3) Getting a popular nickname that boosted public fondness and support\n(3) A tiny refrigerator with drinks is offered in each pod.                                                                 (4) Allowing scientists to conduct many sorts of observations and experiments\n(4) Each pod provides equipment for some entertainment.                                                                   【3】10. Which of the following is NOT true about Eiffel Tower’s nickname?",
-    "answer": "3",
+    "number": "8",
+    "text": "Who’s Gustave Eiffel?",
     "options": [],
-    "analysis": ""
+    "answer": "2"
   },
   {
-    "id": "5",
-    "text": "Which of the following is NOT the reason Guo has confidence in his Capsule Hotel?\n(1) The word “Iron” indicates the material the Tower was built with.\n(1) People would like to try this new type of lodging.\n(2) The word “Lady” has to do with the decoration style of the Tower’s lower part.\n(2) The Hotel provides more privacy than its Japanese counterparts.\n(3) It is named after the first female British prime minister “Iron Lady”.\n(3) The Hotel sits in an area with many people.\n(4) It’s called “Lady” partly because the French word for tower carries a sense of women.\n(4) The Hotel is better than others of its kind.",
-    "answer": "2",
+    "number": "3",
+    "text": "How did Walter Guo first get the idea of opening a capsule hotel in Australia?                                        The French President at the time when the Tower was built.\n  He watched a travel program on TV that introduced Japan’s capsule hotels.                                                The architect and engineer to the construction of the Tower.\n  A backpacker complained to him that there are no capsule hotels in Australia.                                            The millionaire who bought the Tower for scientific uses.\n  He once traveled to Japan and saw capsule hotels there by himself.                                                       The most famous elite figure in the French Revolution.\n  He tried to provide more privacy to people who lived in the dorm he owned.",
     "options": [],
-    "analysis": ""
+    "answer": "3"
+  },
+  {
+    "number": "9",
+    "text": "What was the most important key to preventing Eiffel Tower from being torn down?",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "Which of the following is NOT true about the facilities provided by Walter Guo’s Capsule Hotel?                       Turning it into a memorable structure for sending radio and television signals\n  There is a cabinet in each pod for keeping personal belongings.                                                          Promoting it as a symbol of romance for tourists from around the world\n  Guests need to share facilities if they want to cook or wash clothes.                                                    Getting a popular nickname that boosted public fondness and support\n  A tiny refrigerator with drinks is offered in each pod.                                                                  Allowing scientists to conduct many sorts of observations and experiments\n  Each pod provides equipment for some entertainment.",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "10",
+    "text": "Which of the following is NOT true about Eiffel Tower’s nickname?",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "5",
+    "text": "Which of the following is NOT the reason Guo has confidence in his Capsule Hotel?\n                                                                                                                            The word “Iron” indicates the material the Tower was built with.\n  People would like to try this new type of lodging.\n                                                                                                                            The word “Lady” has to do with the decoration style of the Tower’s lower part.\n  The Hotel provides more privacy than its Japanese counterparts.\n                                                                                                                            It is named after the first female British prime minister “Iron Lady”.\n  The Hotel sits in an area with many people.\n                                                                                                                            It’s called “Lady” partly because the French word for tower carries a sense of women.\n  The Hotel is better than others of its kind.",
+    "options": [],
+    "answer": "2"
   }
 ]
