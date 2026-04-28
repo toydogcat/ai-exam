@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/ai-exam/',
   title: "國營事業考古題測驗系統",
   description: "郵局 / 台電 / 中華電信 線上測驗系統",
   themeConfig: {
