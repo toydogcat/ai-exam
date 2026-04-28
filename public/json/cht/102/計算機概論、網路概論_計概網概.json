@@ -1,26 +1,134 @@
 [
   {
-    "number": "1",
-    "text": "4MB           ƒ 48MB                      „ 72MB              „ IGMP(Internet Group Message Protocol)\n【4】11.下列何者不是巨量資料(Big Data)的特性？                                                                 【2】35.乙太網路的訊框(Frame)中有二個位址欄位，分別為目的位址及來源位址，請問每一個位址的欄位大小分別為\n  •巨量(Volume)                  ‚即時性(Velocity)    ƒ多樣性(Variety)               „可用性(usability)     多少位元組？\n【3】12.下列何者並非美國國家技術標準局(NIST)定義的雲端運算之服務模式(service models)？                                         •4                        ‚6                ƒ8                „ 10\n  • Software as a Service                        ‚ Platform as a Service                       【3】36.下列哪一個 IP 位址是屬於迴路位址(Loopback Address)？\n  ƒ Security as a Service                        „ Infrastructure as a Service                   •",
-    "options": [],
-    "answer": "2"
+    "number": "3",
+    "text": "請問下列哪項弱點會直接影響瀏覽器 ( 如下載惡意病毒碼 ) ？",
+    "options": [
+      "Security Misconfiguration",
+      "Broken Authentication and Session Management",
+      "SQL Injection",
+      "Cross-Site Scripting (XSS)"
+    ],
+    "answer": "4"
   },
   {
-    "number": "1",
-    "text": "Ifconfig\n  •使用 TCP 協定，用戶程式(client)使用埠 68，伺服程式使用埠 67\n  ‚使用 TCP 協定，用戶程式(client)使用埠 67，伺服程式使用埠 68",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "nslookup\n  ƒ使用 UDP 協定，用戶程式(client)使用埠 68，伺服程式使用埠 67",
-    "options": [],
+    "number": "4",
+    "text": "下列不同數字系統的數值，何者數值最大？",
+    "options": [
+      "42(5) � 123(8) � 96(10) � 1010110",
+      ""
+    ],
     "answer": "1"
   },
   {
-    "number": "3",
-    "text": "traceroute\n  „使用 UDP 協定，用戶程式(client)使用埠 67，伺服程式使用埠 68\n【4】53.下列哪一種協定可以用來取得?自己的 IP 位址?、? 自己的子網路遮罩?、? 一台路由器的 IP 位址?、? 一台名稱                      （二）如果有一個原始二元串(binary string)資料為「10101101001010」，且錯誤檢查是使\n  伺服器的 IP 位址?等四種資訊，經常用在無硬碟式電腦或第一次開機的電腦？                                                   用 CRC-4=X4+X2+1，因此會在原始資料後面加入 4 個位元的 CRC 碼，請問所要\n  • NAT                      ‚ DNS               ƒ DHCP             „ BOOTP\n                                                                                          加入的 CRC 碼應該為何？【4 分】\n【3】54.如果網路層的資料包（包含網路層的標頭）長度總共為 42 位元組，將此資料包透過乙太網路的訊框來傳送，\n  請問此時乙太網路所載送的資料訊框中資料(Data)的長度為何？\n  • 42 位元組                   ‚ 44 位元組            ƒ 46 位元組           „ 48 位元組\n【2】55.在 OSPF 路由協定中，使用 Dijkstra 演算法的目的是：\n  •建立 LSA                    ‚計算路徑表              ƒ灌送資訊給網際網路 „建立路徑狀態資料庫\n                                                                                     題目四：\n【4】56.有一個 IPv4 的 IP 位址為「2.13.17.14」，如果要轉換為 IPv6 的對應位址(mapped address)，應該為何？            （一）如果要將 8 個級別 C(Class C)的連續區塊做成一個超網(Supernet)，則此超網的遮\n  • 0::2:13:17:14                                                                         罩應該為何？【2 分】\n  ‚ 0::FFFF:2:13:17:14\n  ƒ 0::020D:110E                                                                       （二）有一個超網的一個位址為",
-    "options": [],
+    "number": "15",
+    "text": "對於有 n 層的二元樹，其節點數最多有幾個？ � 2n � n",
+    "options": [
+      "� 2[n] -1 � n",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "下列關於電子郵件的敘述，何者錯誤？",
+    "options": [
+      "�電子信件一定是郵件的寄件者所寄發的",
+      "�為安全考量，不要啟用收信軟體的預覽機制",
+      "�數位簽章過的電子郵件，在收件軟體下會有特殊圖案標示",
+      "�可以透過 S/MIME 傳送加密的電子郵件"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "32",
+    "text": "下列哪一種錯誤位元檢查法，是用於乙太網路的訊框 (Frame) 資料位元的檢查？",
+    "options": [
+      "�同位元檢查法 (Parity Check) �漢民碼檢查法 (Hamming Code Check)",
+      "�檢查集檢查法 (Check-Sum Check)",
+      "�循環多餘碼檢查法 (Cyclic Redundancy Check)"
+    ],
     "answer": "4"
+  },
+  {
+    "number": "34",
+    "text": "下列哪一個通訊協定是不屬於 TCP/IP 的網路層協定？",
+    "options": [
+      "SNMP(Simple Network Management Protocol)",
+      "ICMP(Internet Control Message Protocol)",
+      "ARP(Address Resolution Protocol)",
+      "IGMP(Internet Group Message Protocol)"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "40",
+    "text": "下列哪一個協定可提供網路的 IP 位址對應到 MAC 層位址的查詢？",
+    "options": [
+      "ARP(Address Resolution Protocol)",
+      "RARP(Reverse Address Resolution Protocol)",
+      "ICMP(Internet Control Message Protocol)",
+      "IGMP(Internet Group Message Protocol)"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "43",
+    "text": "下列對於網路互連設備之敘述，何者錯誤？",
+    "options": [
+      "Repeater 用來連結完全一樣的網路",
+      "Hub 用來連結媒介擷取層之通訊協定完全相同的工作站或網路",
+      "Bridge 用來連結網路層通訊協定相同或不相同的網路",
+      "Layer-2 Switch 是用來連結媒介擷取層之通訊協定相同的工作站或網路"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "44",
+    "text": "下列有關乙太網路的 100BaseT Switch 的佈線規則，何者錯誤？",
+    "options": [
+      "Switch 與工作站間距離 205 公尺",
+      "Switch 每個埠都是獨立碰撞網域，因此各個埠之間的連線距離並沒有關聯",
+      "100BaseT Switch 串接 100BaseT Hub 構成網路範圍亦是 205 公尺",
+      "100BaseT Switch 串接 10BaseT Hub 範圍 500 公尺"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "RIP(Routing Information Protocol) 是一種路由的協定，此協定是使用哪一種方式來選擇路徑？ � Dijkstra 演算法 �路徑向量路徑選擇 �路徑狀態路徑選擇 �距離向量路徑選擇 \n\n題目二： \n\n雲端運算日益受到重視，請回答下列問題：",
+    "options": [
+      "（一）根據美國國家技術標準局 (National Institute of Standards and Technology, NIST) 所定 義的內容，雲端運算有哪五大重點特徵 (Essential Characteristics) ？【 5 分】",
+      "（二）另根據 NIST 所定義的內容，雲端運算服務有哪四大部署方式 (Deployment Models) ？【 5 分】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "48",
+    "text": "透過下列何者，可在網際網路 (Internet) 中找到相對應主機上執行的應用程式？",
+    "options": [
+      "�電腦中的記憶體位址",
+      "MAC(Media Access Control) 層的 MAC 位址",
+      "�網路層的 IP 位址 �傳輸層的埠 (port) 值"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "13.17.14 」，如果要轉換為 IPv6 的對應位址 (mapped address) ，應該為何？",
+    "options": [
+      "0::2:13:17:14",
+      "0::FFFF:2:13:17:14"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "58",
+    "text": "在 SNMP(Simple Network Management Protocol) 中，從伺服器送到用戶端的回應訊息時，下列敘述何者正確？ �使用短暫埠做為來源埠，使用公認埠 162 做為目的埠",
+    "options": [
+      "�使用短暫埠做為來源埠，使用公認埠 161 做為目的埠",
+      "�使用公認埠 161 做為來源埠，使用短暫埠做為目的埠",
+      "�使用公認埠 162 做為來源埠，使用短暫埠做為目的埠"
+    ],
+    "answer": "3"
   }
 ]

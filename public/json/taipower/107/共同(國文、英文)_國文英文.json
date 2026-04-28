@@ -4,27 +4,33 @@
     "text": "下列「」內的字音，何者正確？",
     "options": [
       "「涮」涮鍋：ㄕㄨㄚ",
+      "「呱」呱墜地：ㄍㄨ",
       "「鰻」魚飯：ㄇㄢˋ",
+      "通「緝」：ㄐㄧˊ",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "2",
-    "text": "下列詞語，何者可以表達父母對於子女的關",
+    "text": "下列詞語，何者可以表達父母對於子女的關愛？",
     "options": [
       "烏鳥私情",
       "百身何贖",
+      "愛屋及烏",
+      "寸草春暉",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "3",
-    "text": "在各種婚喪喜慶的場合中，常見友人贈送題\n最合適的祝賀詞？",
+    "text": "在各種婚喪喜慶的場合中，常見友人贈送題辭致意。如要慶祝好友的飯店開張，下列何者是\n       最合適的祝賀詞？",
     "options": [
       "貨殖留芳",
       "業紹陶朱",
+      "洙泗高風",
+      "忠勤足式",
       ""
     ],
     "answer": "2"
@@ -34,17 +40,21 @@
     "text": "下列「」中的詞語，何者為狀聲詞？",
     "options": [
       "「潺潺」小溪蜿蜒的穿越森林",
+      "景仰如「滔滔」江水綿延不絕",
       "「漫漫」長夜他只能獨自承受著孤寂",
+      "「涓涓」細流也能匯成大江河",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "5",
-    "text": "在詩文中，常見作者以動物或植物作為比喻",
+    "text": "在詩文中，常見作者以動物或植物作為比喻。下列「」內的詞語，何者象徵小人？",
     "options": [
       "「雞」鳴不已於風雨",
+      "「松柏」後凋於歲寒",
       "牛驥同一皁，「雞」棲鳳凰食",
+      "荷盡已無擎雨蓋，「菊」殘猶有傲霜枝",
       ""
     ],
     "answer": "3"
@@ -53,20 +63,22 @@
     "number": "6",
     "text": "下列選項中，何者屬於摹寫修辭？",
     "options": [
-      "雨，看像牛毛、像花針、像細絲、密",
-      "聽一遍不如看一遍，看一遍不如做一",
+      "雨，看像牛毛、像花針、像細絲、密密地斜織著",
+      "聽一遍不如看一遍，看一遍不如做一遍",
       "涼沁沁的微風撲撲地貼拂著我的臉頰",
-      "那池畔的金柳像是夕陽的新娘\n共同科目(國",
+      "那池畔的金柳像是夕陽的新娘",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "7",
-    "text": "下列文句均出自古典小說或戲曲故事，其",
+    "text": "下列文句均出自古典小說或戲曲故事，其出處搭配，何者有誤？",
     "options": [
       "有情人終成眷屬：《西廂記》",
+      "賠了夫人又折兵：《水滸傳》",
       "劉姥姥進大觀園：《紅樓夢》",
+      "過五關，斬六將：《三國演義》",
       ""
     ],
     "answer": "2"
@@ -77,6 +89,8 @@
     "options": [
       "風木之思",
       "西河之痛",
+      "雁行失序",
+      "鼓盆之戚",
       ""
     ],
     "answer": "1"
@@ -85,41 +99,46 @@
     "number": "9",
     "text": "下列古文名篇內容之敘述，何者有誤？",
     "options": [
-      "蘇洵＜六國論＞藉論六國賂秦之弊，",
-      "蘇軾＜前赤壁賦＞藉變與不變之辯證",
-      "韓愈＜師說＞藉贈文李戡的機會，批",
-      "顧炎武＜廉恥＞藉論「士大夫之無恥",
+      "蘇洵＜六國論＞藉論六國賂秦之弊，諷諭宋朝屈辱求和的政策",
+      "蘇軾＜前赤壁賦＞藉變與不變之辯證，表現作者通達的人生觀",
+      "韓愈＜師說＞藉贈文李戡的機會，批判時人一味崇尚佛老的風氣",
+      "顧炎武＜廉恥＞藉論「士大夫之無恥，是謂國恥」，寄寓作者對易代之際，士人變節的感慨",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "10",
-    "text": "下列4個選項，何者意義與其他3個不同",
+    "text": "下列4個選項，何者意義與其他3個不同？",
     "options": [
-      "知之者不如好之者，好之者不如樂",
-      "苗而不秀者，有矣夫！秀而不實者",
-      "有為者，辟若掘井，掘井九軔而不",
-      "山徑之蹊間，介然用之而成路，為",
+      "知之者不如好之者，好之者不如樂之者",
+      "苗而不秀者，有矣夫！秀而不實者，有矣夫",
+      "有為者，辟若掘井，掘井九軔而不及泉，猶為棄井也",
+      "山徑之蹊間，介然用之而成路，為間不用，則茅塞之矣",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "11",
-    "text": "時間單位包括○     1 旬○\n2 稔",
+    "text": "時間單位包括○     1 旬○\n                       2 稔○ 3 世○4 紀，由短到長的排列順序，下列何者正確？",
     "options": [
-      "○\n2 ○\n1 ○\n4 ○\n3",
+      "○\n            2 ○\n              1 ○\n                4 ○\n                  3",
+      "○\n                              3 ○\n                                4 ○\n                                  2 ○\n                                    1",
+      "○\n                                            1 ○\n                                              2 ○\n                                                3 ○\n                                                  4",
+      "○\n                                                        1 ○\n                                                          2 ○\n                                                            4 ○\n                                                              3",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "12",
-    "text": "如要寫一篇「戰國四公子」的研究報告，",
+    "text": "如要寫一篇「戰國四公子」的研究報告，下列書籍中何者最無參考價值？",
     "options": [
       "《史記》",
       "《國語》",
+      "《戰國策》",
+      "《資治通鑑》",
       ""
     ],
     "answer": "2"
@@ -129,528 +148,509 @@
     "text": "下列各組「」中的字義，何者相同？",
     "options": [
       "莫「逆」之交/「逆」情干譽",
+      "「易」容改扮/「易」如反掌",
       "擢髮難「數」/「數」見不鮮",
+      "不「虞」匱乏/爾「虞」我詐",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "14",
-    "text": "下列關於《裨海紀遊》的說明，何者有誤",
+    "text": "下列關於《裨海紀遊》的說明，何者有誤？",
     "options": [
       "「裨海」代指臺灣",
+      "作者為郁永河",
       "是首部有系統描述臺灣的遊記專著",
+      "作者以第三人稱客觀的角度敘述所見所聞",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "15",
-    "text": "「黃□一夢」比喻榮華富貴不持久，為時",
+    "text": "「黃□一夢」比喻榮華富貴不持久，為時短暫而虛空。□內宜填入下列何者？",
     "options": [
       "梁",
-      "樑\n貳、英文：100 %\n【單選題： 40 題，每題"
+      "樑",
+      "粱",
+      "糧\n\n\n    貳、英文：100 %\n     【單選題： 40 題，每題"
     ],
     "answer": "3"
   },
   {
     "number": "16",
-    "text": "Employers are requ\ngovernment policy",
+    "text": "Employers are required to treat male and female workers equally because _____ equality is a\n        government policy in Taiwan.",
     "options": [
       "grinder",
+      "gender",
+      "agenda",
+      "tender",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "The sun and wind a\nbeen trying to dev",
+    "text": "The sun and wind are two major sources of _____ energy that many countries around the world have\n        been trying to develop.",
     "options": [
       "recycling",
+      "reusable",
+      "renewable",
+      "returnable",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "18",
-    "text": "Nowadays, a lot of",
+    "text": "Nowadays, a lot of people waste so much time _____ the Internet.",
     "options": [
       "surfing",
+      "playing",
+      "traveling",
+      "sailing",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "19",
-    "text": "Paul didn’t go to",
+    "text": "Paul didn’t go to university, so he only has a high school _____.",
     "options": [
       "paper",
+      "document",
+      "grade",
+      "diploma",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "20",
-    "text": "Keelung is the ___",
+    "text": "Keelung is the _____ city in Taiwan.",
     "options": [
       "northernmost",
+      "north",
+      "mostly north",
+      "northest",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "21",
-    "text": "Surprisingly, Sam",
+    "text": "Surprisingly, Sam passed the exam _____ that he had not prepared at all.",
     "options": [
       "thought",
+      "despite",
+      "even",
+      "but",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "22",
-    "text": "Taipei 101 is the\ncountry each year.",
+    "text": "Taipei 101 is the most famous _____ in the city and attracts many tourists from in and outside the\n        country each year.",
     "options": [
       "landmark",
+      "benchmark",
+      "indicator",
+      "street sign",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "23",
-    "text": "Most children ____",
+    "text": "Most children _____ their parents and talk like them.",
     "options": [
       "love",
+      "follow",
+      "imitate",
+      "hear",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "24",
-    "text": "On the way back fr\nvisit the city.",
+    "text": "On the way back from the US, we only had a 2-hour _____ in Tokyo and couldn’t leave the airport to\n        visit the city.",
     "options": [
       "transport",
+      "translation",
+      "transform",
+      "transit",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "25",
-    "text": "Smoking on the MRT",
+    "text": "Smoking on the MRT is _____ forbidden and the fine is not a small amount.",
     "options": [
       "usually",
+      "probably",
+      "absolutely",
+      "exactly",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "26",
-    "text": "Harry really liked",
+    "text": "Harry really liked the new Mazda, but the price was over his _____.",
     "options": [
       "money",
+      "target",
+      "pocket",
+      "budget",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "27",
-    "text": "At present, the of",
+    "text": "At present, the official _____ age is 65 in government agencies in Taiwan.",
     "options": [
       "retire",
+      "retired",
+      "retirement",
+      "to retire",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "28",
-    "text": "Steve takes his da",
+    "text": "Steve takes his daughters to _____ kites in the park every Sunday if it is a sunny day.",
     "options": [
       "blow",
+      "release",
+      "set",
+      "fly",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "29",
-    "text": "Generally, it is c",
+    "text": "Generally, it is considered impolite _____ when other people are talking.",
     "options": [
       "to interrupt",
+      "to cut",
+      "to break",
+      "to miss",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "30",
-    "text": "Our company often",
+    "text": "Our company often holds _____ because we have employees working in different parts of the country.",
     "options": [
       "conferences",
+      "audio conferences",
+      "videoconferences",
+      "videos",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "31",
-    "text": "If you want to get",
+    "text": "If you want to get a job with Taiwan Power Company, you need to _____ a test.",
     "options": [
       "participate",
+      "join",
+      "take",
+      "prepare",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "32",
-    "text": "Children have to a",
+    "text": "Children have to attend elementary school _____ six years in Taiwan.",
     "options": [
       "by",
+      "in",
+      "over",
+      "for",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "33",
-    "text": "Today, a lot of pe",
+    "text": "Today, a lot of people use “plastic money” to buy things; in other words, they pay _____ credit cards.",
     "options": [
       "to",
+      "in",
+      "with",
+      "for",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "Jessie is taking t",
+    "text": "Jessie is taking the afternoon _____ to see her mother in the hospital.",
     "options": [
       "off",
+      "out",
+      "away",
+      "in",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "35",
-    "text": "Willy has no idea",
+    "text": "Willy has no idea where his sister Judy is. He hasn’t heard _____ her for months.",
     "options": [
       "about",
+      "from",
+      "for",
+      "to",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "36",
-    "text": "The research team",
+    "text": "The research team needs to hurry up because the project is _____ schedule.",
     "options": [
       "late",
+      "falling",
+      "after",
+      "behind",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "37",
-    "text": "It normally _____",
+    "text": "It normally _____ about 20 minutes to go to work by car.",
     "options": [
       "spends me",
+      "takes me",
+      "costs me",
+      "wastes me",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "38",
-    "text": "December is the la",
+    "text": "December is the last month of a year. It _____ November.",
     "options": [
       "goes after",
+      "comes after",
+      "is past",
+      "next to",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "39",
-    "text": "“I need _____. Can",
+    "text": "“I need _____. Can you take this document to the accounting office for me?”",
     "options": [
       "hand",
+      "a hand",
+      "hands",
+      "some hand",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "40",
-    "text": "Joyce looked like",
+    "text": "Joyce looked like she _____ cry when the manager told her she was not good enough for her job.",
     "options": [
       "was to",
+      "had to",
+      "was about to",
+      "knew how to",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "41",
-    "text": "Alex, my college c",
+    "text": "Alex, my college classmate, works in the same neighborhood, so I often _____ him on the MRT.",
     "options": [
       "walk into",
+      "run into",
+      "come into",
+      "go into",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "42",
-    "text": "Jobs in public en\ncompanies when the",
+    "text": "Jobs in public enterprises are more stable; _____, more and more young people choose to work in such\n        companies when they finish college education.",
     "options": [
       "as a result",
+      "as an excuse",
+      "as usual",
+      "as indicated",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "43",
-    "text": "The police _____ t",
+    "text": "The police _____ the bar last week because it was too noisy.",
     "options": [
       "closed down",
+      "closed up",
+      "shut up",
+      "stopped",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "44",
-    "text": "The marathon will",
+    "text": "The marathon will be held this Saturday, _____. It cannot be postponed.",
     "options": [
       "sun or rain",
+      "dry or wet",
+      "rain or shine",
+      "raining or shining",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "45",
-    "text": "Peter usually take",
+    "text": "Peter usually takes his time to eat because he really _____ a nice meal.",
     "options": [
       "enjoys to have",
+      "enjoys having",
+      "likes to",
+      "has to",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "46",
-    "text": "I lived next door",
+    "text": "I lived next door to ______ when I was a kid. I know every one of them.",
     "options": [
-      "Johnson famili",
+      "Johnson families",
+      "the Johnson’s",
+      "Johnson family",
+      "the Johnsons",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "47",
-    "text": "Ken seems unable t",
+    "text": "Ken seems unable to keep a job. He _____ in six different companies in the past two years.",
     "options": [
       "has worked",
+      "works",
+      "had worked",
+      "is working",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "48",
-    "text": "I’m going to say g",
+    "text": "I’m going to say goodbye to Frank. He _____ to Kaohsiung next week.",
     "options": [
       "will be moved",
+      "is moving",
+      "just moved",
+      "has moved",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "49",
-    "text": "At work, Tom is re",
+    "text": "At work, Tom is responsible _____ the company’s website.",
     "options": [
-      "for maintainin",
+      "for maintaining",
+      "to maintain",
+      "in maintenance",
+      "with maintaining",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "50",
-    "text": "LA Lakers _____ la",
+    "text": "LA Lakers _____ last night, but they made too many errors in the game.",
     "options": [
-      "should have wo",
+      "should have won",
+      "should win",
+      "should won",
+      "should have been won",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "51",
-    "text": "Taichung is _____",
+    "text": "Taichung is _____ of Taipei and Keelung is north of Taipei.",
     "options": [
       "in the south",
+      "to the south",
+      "the south",
+      "on the south",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "52",
-    "text": "I would lend you t",
+    "text": "I would lend you the money if I _____, but I really don’t.",
     "options": [
       "have it",
+      "had it",
+      "would have it",
+      "should have it",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "53",
-    "text": "The Thai restauran",
+    "text": "The Thai restaurant across the street _____ in business for twenty years.",
     "options": [
       "has been",
+      "is",
+      "was",
+      "will be",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "54",
-    "text": "Ann has the habit",
+    "text": "Ann has the habit of _____ once every two weeks.",
     "options": [
       "go to movie",
-      "seeing the mov",
+      "see movie",
+      "seeing the movie",
+      "going to the movies",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "55",
-    "text": "Jill almost got hi",
+    "text": "Jill almost got hit by a motorcycle because she _____ with her cell phone when crossing the street.",
     "options": [
-      "played\n新進僱用人員甄試試題\n)。\n分)，須用藍、黑色鋼筆或原子筆在答案卷指定範圍內作\n分)及英文單選題 40 題(共 100 分)，須用 2B 鉛筆在答案卡\n不予計分；答案卷作答區計有正反 2 面，不提供\n答案，各題答對得該題所配分數，答錯或畫記\n3 分之 1，英文科倒扣計至該科之實得分數為零為\n分)為零為止；未作答者，不給分亦不扣分。\n題。\n卡)繳回，俟本節考試結束後，始得至原試場或適\n題】\n30分；請在『答案卡』題號 1~15畫記作答。】",
-      "「呱」呱墜地：ㄍㄨ",
-      "通「緝」：ㄐㄧˊ\n愛？",
-      "愛屋及烏",
-      "寸草春暉\n辭致意。如要慶祝好友的飯店開張，下列何者是",
-      "洙泗高風",
-      "忠勤足式",
-      "景仰如「滔滔」江水綿延不絕",
-      "「涓涓」細流也能匯成大江河\n。下列「」內的詞語，何者象徵小人？",
-      "「松柏」後凋於歲寒",
-      "荷盡已無擎雨蓋，「菊」殘猶有傲霜枝\n密地斜織著\n遍\n\n出處搭配，何者有誤？",
-      "賠了夫人又折兵：《水滸傳》",
-      "過五關，斬六將：《三國演義》",
-      "雁行失序",
-      "鼓盆之戚\n諷諭宋朝屈辱求和的政策\n，表現作者通達的人生觀\n判時人一味崇尚佛老的風氣\n，是謂國恥」，寄寓作者對易代之際，士人變節的感慨\n？\n之者\n，有矣夫\n及泉，猶為棄井也\n間不用，則茅塞之矣\n○ 3 世○4 紀，由短到長的排列順序，下列何者正確？",
-      "○\n3 ○\n4 ○\n2 ○\n1",
-      "○\n1 ○\n2 ○\n3 ○\n4",
-      "○\n1 ○\n2 ○\n4 ○\n3\n下列書籍中何者最無參考價值？",
-      "《戰國策》",
-      "《資治通鑑》",
-      "「易」容改扮/「易」如反掌",
-      "不「虞」匱乏/爾「虞」我詐\n？",
-      "作者為郁永河",
-      "作者以第三人稱客觀的角度敘述所見所聞\n短暫而虛空。□內宜填入下列何者？",
-      "粱",
-      "糧\n100 分；請在『答案卡』題號 16~55 畫記作答。】\nired to treat male and female workers equally because _____ equality is a\nin Taiwan.",
-      "gender",
-      "agenda",
-      "tender\nre two major sources of _____ energy that many countries around the world have\nelop.",
-      "reusable",
-      "renewable",
-      "returnable\npeople waste so much time _____ the Internet.",
-      "playing",
-      "traveling",
-      "sailing\nuniversity, so he only has a high school _____.",
-      "document",
-      "grade",
-      "diploma\n__ city in Taiwan.",
-      "north",
-      "mostly north",
-      "northest\n\npassed the exam _____ that he had not prepared at all.",
-      "despite",
-      "even",
-      "but\nmost famous _____ in the city and attracts many tourists from in and outside the",
-      "benchmark",
-      "indicator",
-      "street sign\n_ their parents and talk like them.",
-      "follow",
-      "imitate",
-      "hear\nom the US, we only had a 2-hour _____ in Tokyo and couldn’t leave the airport to",
-      "translation",
-      "transform",
-      "transit\nis _____ forbidden and the fine is not a small amount.",
-      "probably",
-      "absolutely",
-      "exactly\nthe new Mazda, but the price was over his _____.",
-      "target",
-      "pocket",
-      "budget\nficial _____ age is 65 in government agencies in Taiwan.",
-      "retired",
-      "retirement",
-      "to retire\nughters to _____ kites in the park every Sunday if it is a sunny day.",
-      "release",
-      "set",
-      "fly\nonsidered impolite _____ when other people are talking.",
-      "to cut",
-      "to break",
-      "to miss\nholds _____ because we have employees working in different parts of the country.",
-      "audio conferences",
-      "videoconferences",
-      "videos\na job with Taiwan Power Company, you need to _____ a test.",
-      "join",
-      "take",
-      "prepare\nttend elementary school _____ six years in Taiwan.",
-      "in",
-      "over",
-      "for\nople use “plastic money” to buy things; in other words, they pay _____ credit cards.",
-      "in",
-      "with",
-      "for\nhe afternoon _____ to see her mother in the hospital.",
-      "out",
-      "away",
-      "in\nwhere his sister Judy is. He hasn’t heard _____ her for months.",
-      "from",
-      "for",
-      "to\nneeds to hurry up because the project is _____ schedule.",
-      "falling",
-      "after",
-      "behind\nabout 20 minutes to go to work by car.",
-      "takes me",
-      "costs me",
-      "wastes me\nst month of a year. It _____ November.",
-      "comes after",
-      "is past",
-      "next to\nyou take this document to the accounting office for me?”",
-      "a hand",
-      "hands",
-      "some hand\nshe _____ cry when the manager told her she was not good enough for her job.",
-      "had to",
-      "was about to",
-      "knew how to\nlassmate, works in the same neighborhood, so I often _____ him on the MRT.",
-      "run into",
-      "come into",
-      "go into\n\nterprises are more stable; _____, more and more young people choose to work in such\ny finish college education.",
-      "as an excuse",
-      "as usual",
-      "as indicated\nhe bar last week because it was too noisy.",
-      "closed up",
-      "shut up",
-      "stopped\nbe held this Saturday, _____. It cannot be postponed.",
-      "dry or wet",
-      "rain or shine",
-      "raining or shining\ns his time to eat because he really _____ a nice meal.",
-      "enjoys having",
-      "likes to",
-      "has to\nto ______ when I was a kid. I know every one of them.\nes",
-      "the Johnson’s",
-      "Johnson family",
-      "the Johnsons\no keep a job. He _____ in six different companies in the past two years.",
-      "works",
-      "had worked",
-      "is working\noodbye to Frank. He _____ to Kaohsiung next week.",
-      "is moving",
-      "just moved",
-      "has moved\nsponsible _____ the company’s website.\ng",
-      "to maintain",
-      "in maintenance",
-      "with maintaining\nst night, but they made too many errors in the game.\nn",
-      "should win",
-      "should won",
-      "should have been won\nof Taipei and Keelung is north of Taipei.",
-      "to the south",
-      "the south",
-      "on the south\nhe money if I _____, but I really don’t.",
-      "had it",
-      "would have it",
-      "should have it\nt across the street _____ in business for twenty years.",
-      "is",
-      "was",
-      "will be\nof _____ once every two weeks.",
-      "see movie\nie",
-      "going to the movies\nt by a motorcycle because she _____ with her cell phone when crossing the street.",
+      "played",
       "was played",
       "was playing",
       "had been playing"

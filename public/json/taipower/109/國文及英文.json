@@ -6,6 +6,7 @@
       "得意自豪",
       "失志頹廢",
       "心有牽絆",
+      "情有所鍾",
       ""
     ],
     "answer": "1"
@@ -17,6 +18,7 @@
       "判若雲泥",
       "雲情高誼",
       "雲行雨施",
+      "雨露均霑",
       ""
     ],
     "answer": "2"
@@ -40,6 +42,7 @@
       "千樹萬樹梨花開",
       "砌下落梅如雪亂",
       "大珠小珠落玉盤",
+      "殘燈無焰影幢幢",
       ""
     ],
     "answer": "3"
@@ -63,7 +66,7 @@
       "亂世不朽的著作",
       "創業的艱難",
       "隱居名山逃避罪罰",
-      "隱居名山",
+      "隱居名山逃避亂世",
       ""
     ],
     "answer": "1"
@@ -75,6 +78,7 @@
       "神態和靄",
       "鞭辟入理",
       "並駕其驅",
+      "筋疲力竭",
       ""
     ],
     "answer": "4"
@@ -86,13 +90,14 @@
       "韓愈",
       "柳宗元",
       "歐陽脩",
+      "柳永",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "9",
-    "text": "「須臾」、「彈指」、「刹那」、「俄而」、「倉惶」，以上詞語中形容「時間短暫」的",
+    "text": "「須臾」、「彈指」、「刹那」、「俄而」、「倉惶」，以上詞語中形容「時間短暫」的有幾個？",
     "options": [
       "二個",
       "三個",
@@ -104,7 +109,7 @@
   },
   {
     "number": "10",
-    "text": "〈項脊軒志〉「三五之夜，明月半牆，桂影斑駁」，其中「三五之夜」係指下列何者",
+    "text": "〈項脊軒志〉「三五之夜，明月半牆，桂影斑駁」，其中「三五之夜」係指下列何者？",
     "options": [
       "三五個人小聚的晚上",
       "意謂「三不五時」，經常聚會",
@@ -132,6 +137,8 @@
     "options": [
       "東風/采風",
       "西風/秋風",
+      "南風/薰風",
+      "北風/朔風",
       ""
     ],
     "answer": "1"
@@ -155,6 +162,7 @@
       "菊花/隱逸",
       "竹子/逢迎",
       "萱草/忘憂",
+      "蓮花/高潔",
       ""
     ],
     "answer": "2"
@@ -165,106 +173,127 @@
     "options": [
       "開源節流",
       "量入為出",
-      "入不敷出\n貳、英文：100 %\n【單選題： 40 題，每題"
+      "入不敷出",
+      "綽綽有餘\n\n\n    貳、英文：100 %\n    【單選題： 40 題，每題"
     ],
     "answer": "3"
   },
   {
     "number": "16",
-    "text": "The government is trying to ____ the e",
+    "text": "The government is trying to ____ the economy by increasing public spending.",
     "options": [
       "encourage",
       "stimulate",
+      "reduce",
+      "remove",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "Because of ____, weather around the wo",
+    "text": "Because of ____, weather around the world has been unstable these years.",
     "options": [
       "climate change",
-      "temperature los",
+      "temperature loss",
+      "warm increase",
+      "global warm",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "18",
-    "text": "At the request of the US government, T\nprotect high-level technologies ____ ge",
+    "text": "At the request of the US government, TSMC has decided to set up a plant in Arizona to\n       protect high-level technologies ____ getting stolen.",
     "options": [
       "to",
       "of",
+      "for",
+      "from",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "19",
-    "text": "Mary doesn’t work here anymore; she __",
+    "text": "Mary doesn’t work here anymore; she ____ two months ago.",
     "options": [
       "has left",
-      "was transferre",
+      "was transferred",
+      "quieted",
+      "gone out",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "20",
-    "text": "In spite of Eddie’s ____, Sara refused",
+    "text": "In spite of Eddie’s ____, Sara refused to forgive his rude behavior.",
     "options": [
       "politics",
       "modesty",
+      "capability",
+      "apologies",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "21",
-    "text": "The manager left town for an emergency",
+    "text": "The manager left town for an emergency last night, so today’s meeting has to be____.",
     "options": [
       "stopped",
       "continued",
+      "postponed",
+      "late",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "22",
-    "text": "Stores are forbidden to sell cigarette",
+    "text": "Stores are forbidden to sell cigarettes or alcohol to minors. “Minors” are people____.",
     "options": [
       "working in mines",
+      "not suitable to use such products",
       "under 18 years of age",
+      "having some diseases",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "23",
-    "text": "Oil prices are going up after Saudi Ar",
+    "text": "Oil prices are going up after Saudi Arabia decided to ____ production.",
     "options": [
       "reduce",
       "stop",
+      "increase",
+      "keep",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "24",
-    "text": "After retirement, Mr. Wang chose to li\nchildren.",
+    "text": "After retirement, Mr. Wang chose to live in an old folks’ home in order not to be a ____ to his\n       children.",
     "options": [
       "response",
-      "weight\n共同科目(國文、英文) 第",
+      "weight",
+      "burden",
+      "support",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "25",
-    "text": "Some light bulbs in the office were b",
+    "text": "Some light bulbs in the office were broken, so I called the ____ crew.",
     "options": [
       "electric",
       "maintenance",
+      "construction",
+      "fix",
       ""
     ],
     "answer": "2"
@@ -274,386 +303,357 @@
     "text": "Nancy likes pink color, but it ____.",
     "options": [
       "doesn’t look nice in her",
+      "isn’t fit her",
       "doesn’t look nice on her",
+      "doesn’t suitable for her",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "27",
-    "text": "It took us a few hours to get everythi\nsoon as we walked out the door.",
+    "text": "It took us a few hours to get everything ready for the picnic, but, ____, it started to rain as\n       soon as we walked out the door.",
     "options": [
       "luckily",
       "unfortunately",
+      "quietly",
+      "positively",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "28",
-    "text": "Many ships travel ____ the Taiwan Stra",
+    "text": "Many ships travel ____ the Taiwan Strait to go from Southeast Asia to Japan.",
     "options": [
       "through",
       "across",
+      "over",
+      "in",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "29",
-    "text": "What does the “e” in “e-commerce” mean",
+    "text": "What does the “e” in “e-commerce” mean?",
     "options": [
       "electric",
       "elective",
+      "electronic",
+      "elevated",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "30",
-    "text": "The MRT has ____ a lot of business fro",
+    "text": "The MRT has ____ a lot of business from taxis.",
     "options": [
       "stolen",
       "brought out",
+      "taken away",
+      "gotten",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "31",
-    "text": "Harry was let go after his mistakes ca\ncompany’s competitors. Which is the clo",
+    "text": "Harry was let go after his mistakes caused two important customers to switch to the\n       company’s competitors. Which is the closest to “let go” in meaning?",
     "options": [
       "quit",
       "fired",
+      "given a warning",
+      "transferred",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "32",
-    "text": "Most consumers have the ____ to prefer",
+    "text": "Most consumers have the ____ to prefer certain brands and this is called brand loyalty.",
     "options": [
       "hobby",
       "mood",
+      "tendency",
+      "choice",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "33",
-    "text": "Where ____ all day? Lots of people wer",
+    "text": "Where ____ all day? Lots of people were looking for you!",
     "options": [
       "have you been",
       "are you",
+      "did you",
+      "you were",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "34",
-    "text": "The cell phone market is very ____ and\nimproved functions each year.",
+    "text": "The cell phone market is very ____ and every company tries to put out new models with\n       improved functions each year.",
     "options": [
       "busy",
       "popular",
+      "powerful",
+      "competitive",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "35",
-    "text": "Taiwan’s National Health Insurance is\ncountries around the world would like t",
+    "text": "Taiwan’s National Health Insurance is considered a ____ health insurance system that\n       countries around the world would like to have.",
     "options": [
       "ideal",
       "model",
+      "success",
+      "interesting",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "36",
-    "text": "Apple is unable to ____ the latest i-P\nresume production.",
+    "text": "Apple is unable to ____ the latest i-Phone model because the manufacturers in China cannot\n       resume production.",
     "options": [
       "show",
       "push",
+      "forward",
+      "release",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "37",
-    "text": "More and more people use ____; they do",
+    "text": "More and more people use ____; they don’t use cash or credit cards.",
     "options": [
       "action pay",
-      "activity paymen",
+      "activity payment",
+      "portable pay",
+      "mobile payment",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "38",
-    "text": "The city government urges every citize\nmonths.",
+    "text": "The city government urges every citizen not to waste any water because it ____ for four\n       months.",
     "options": [
       "hasn’t rained",
-      "isn’t raini",
+      "isn’t raining",
+      "hadn’t rained",
+      "wasn’t rainy",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "39",
-    "text": "Lynn learns Japanese on Monday and Wed\nSometimes she gets ____ between the two",
+    "text": "Lynn learns Japanese on Monday and Wednesday and English on Tuesday and Thursday.\n       Sometimes she gets ____ between the two languages.",
     "options": [
       "loss",
       "mistaken",
+      "restless",
+      "confused",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "40",
-    "text": "Linda has always been good with number",
+    "text": "Linda has always been good with numbers; it’s not surprising that she’s a ____ teacher today.",
     "options": [
       "history",
-      "math\n共同科目(國文、英文)",
+      "math",
+      "English",
+      "geography",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "41",
-    "text": "After spending one year at an aviatio\nWhat does “aviation” means?",
+    "text": "After spending one year at an aviation school in the US, Leon is now a China Airlines pilot.\n       What does “aviation” means?",
     "options": [
       "driving",
       "riding",
+      "maintenance",
+      "flying",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "42",
-    "text": "Mark is extremely ____. He goes everyw\ncarbon emissions.",
+    "text": "Mark is extremely ____. He goes everywhere in the city by bicycle in order not to create any\n       carbon emissions.",
     "options": [
       "user-friendly",
       "healthy",
+      "eco-friendly",
+      "unhealthy",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "43",
-    "text": "Jack enjoys ____ people; he’s a clown",
+    "text": "Jack enjoys ____ people; he’s a clown in a circus.",
     "options": [
       "to cheer",
       "entertaining",
+      "to amuse",
+      "welcoming",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "44",
-    "text": "Japan announced the 2020 Summer Olympi",
+    "text": "Japan announced the 2020 Summer Olympics would be ____ for one year.",
     "options": [
       "put off",
       "moved up",
+      "taken in",
+      "slowed down",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "45",
-    "text": "The general manager offered me a promo\ncould only say no.",
+    "text": "The general manager offered me a promotion, but the job was really ____ my ability and I\n       could only say no.",
     "options": [
       "after",
       "above",
+      "into",
+      "without",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "46",
-    "text": "The manager thinks some of the ____ in\nnumbers once more.",
+    "text": "The manager thinks some of the ____ in this report are wrong and wants you to check all the\n       numbers once more.",
     "options": [
       "sentences",
       "explanations",
+      "examples",
+      "statistics",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "47",
-    "text": "The pizza place in the alley is not ar\nthe closest to “around” in meaning?",
+    "text": "The pizza place in the alley is not around anymore. They closed down last month. Which is\n       the closest to “around” in meaning?",
     "options": [
       "nearby",
       "close",
+      "existing",
+      "buyable",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "48",
-    "text": "Night markets in Taiwan are ____ attra",
+    "text": "Night markets in Taiwan are ____ attractions that draw lots of foreigners.",
     "options": [
       "tourist",
       "traveling",
+      "sightseeing",
+      "scenic",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "49",
-    "text": "The game will continue until there is",
+    "text": "The game will continue until there is a winner ____it rains.",
     "options": [
       "even",
       "even if",
+      "although",
+      "in case",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "50",
-    "text": "The government offers loans at reasona\nwant to start their own businesses.",
+    "text": "The government offers loans at reasonably low ____ rates to qualified young people who\n       want to start their own businesses.",
     "options": [
       "interest",
       "financial",
+      "funds",
+      "money",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "51",
-    "text": "Jane has a terrible ____ and she often",
+    "text": "Jane has a terrible ____ and she often gets lost.",
     "options": [
       "sense of direction",
-      "feeling of",
+      "feeling of map",
+      "old vehicle",
+      "distance perception",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "52",
-    "text": "Using credit cards online to buy thing\ninformation might get stolen.",
+    "text": "Using credit cards online to buy things is convenient, but there is the ____ that your personal\n       information might get stolen.",
     "options": [
       "risk",
       "perhaps",
+      "good chance",
+      "unlucky",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "53",
-    "text": "Simon has been training to swim ____ t",
+    "text": "Simon has been training to swim ____ the Sun Moon Lake. He admits it’s tough.",
     "options": [
       "over",
       "on",
+      "in",
+      "across",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "54",
-    "text": "Japan is one of the most popular trave",
+    "text": "Japan is one of the most popular travel ____ for Taiwanese.",
     "options": [
       "nations",
       "attractions",
+      "locations",
+      "destinations",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "55",
-    "text": "As the ice in the North Pole continues\nmeans____.",
+    "text": "As the ice in the North Pole continues to melt, polar bears are losing their habitat. “Habitat”\n       means____.",
     "options": [
       "everyday habits",
-      "space polar bears are used to\n共同科目(國文、英文) 第\n卷指定範圍內\n0 分)，須用 2B 鉛筆在答案\n，不提\n為零為\n或適\n5 畫記作答。】",
-      "情有所鍾",
-      "雨露均霑",
-      "殘燈無焰影幢幢\n逃避亂世",
-      "筋疲力竭",
-      "柳永\n有幾個？\n【請翻頁繼續作答】\n？",
-      "南風/薰風",
-      "北風/朔風",
-      "蓮花/高潔",
-      "綽綽有餘\n5 畫記作答。】\nconomy by increasing public spending.",
-      "reduce",
-      "remove\nrld has been unstable these years.\ns",
-      "warm increase",
-      "global warm\nSMC has decided to set up a plant in Arizona to\ntting stolen.",
-      "for",
-      "from\n__ two months ago.\nd",
-      "quieted",
-      "gone out\nto forgive his rude behavior.",
-      "capability",
-      "apologies\nlast night, so today’s meeting has to be____.",
-      "postponed",
-      "late\ns or alcohol to minors. “Minors” are people____.",
-      "not suitable to use such products",
-      "having some diseases\nabia decided to ____ production.",
-      "increase",
-      "keep\nve in an old folks’ home in order not to be a ____ to his",
-      "burden",
-      "support\n2 頁，共 4 頁\nroken, so I called the ____ crew.",
-      "construction",
-      "fix",
-      "isn’t fit her",
-      "doesn’t suitable for her\nng ready for the picnic, but, ____, it started to rain as",
-      "quietly",
-      "positively\nit to go from Southeast Asia to Japan.",
-      "over",
-      "in\n?",
-      "electronic",
-      "elevated\nm taxis.",
-      "taken away",
-      "gotten\nused two important customers to switch to the\nsest to “let go” in meaning?",
-      "given a warning",
-      "transferred\ncertain brands and this is called brand loyalty.",
-      "tendency",
-      "choice\ne looking for you!",
-      "did you",
-      "you were\nevery company tries to put out new models with",
-      "powerful",
-      "competitive\nconsidered a ____ health insurance system that\no have.",
-      "success",
-      "interesting\nhone model because the manufacturers in China cannot",
-      "forward",
-      "release\nn’t use cash or credit cards.\nt",
-      "portable pay",
-      "mobile payment\nn not to waste any water because it ____ for four\nng",
-      "hadn’t rained",
-      "wasn’t rainy\nnesday and English on Tuesday and Thursday.\nlanguages.",
-      "restless",
-      "confused\ns; it’s not surprising that she’s a ____ teacher today.",
-      "English",
-      "geography\n\nn school in the US, Leon is now a China Airlines pilot.",
-      "maintenance",
-      "flying\nhere in the city by bicycle in order not to create any",
-      "eco-friendly",
-      "unhealthy\nin a circus.",
-      "to amuse",
-      "welcoming\ncs would be ____ for one year.",
-      "taken in",
-      "slowed down\ntion, but the job was really ____ my ability and I",
-      "into",
-      "without\nthis report are wrong and wants you to check all the",
-      "examples",
-      "statistics\nound anymore. They closed down last month. Which is",
-      "existing",
-      "buyable\nctions that draw lots of foreigners.",
-      "sightseeing",
-      "scenic\na winner ____it rains.",
-      "although",
-      "in case\nbly low ____ rates to qualified young people who",
-      "funds",
-      "money\ngets lost.\nmap",
-      "old vehicle",
-      "distance perception\ns is convenient, but there is the ____ that your personal",
-      "good chance",
-      "unlucky\nhe Sun Moon Lake. He admits it’s tough.",
-      "in",
-      "across\nl ____ for Taiwanese.",
-      "locations",
-      "destinations\nto melt, polar bears are losing their habitat. “Habitat”",
       "place to live",
-      "houses\n4 頁，共 4 頁"
+      "space polar bears are used to",
+      "houses"
     ],
     "answer": "2"
   }

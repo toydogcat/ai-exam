@@ -1,49 +1,104 @@
 [
   {
-    "number": "19",
-    "text": "如果僅考慮 AWGN 通道的影響，在相同的 SNR 情形下，下列何種調變技術之符元錯誤率(probability of symbol\n     中華電信股份有限公司所屬機構 103 年從業人員(基層專員)遴選試題                                   error)最低？\n遴選類別【代碼】：工務類專業職(四)第一類專員【F3101-F310",
+    "number": "23",
+    "text": "有關編碼技術的敘述，下列何者錯誤？",
     "options": [
-      " BPSK                       QPSK              16 QAM            64 QAM\n專業科目：",
-      "通信系統",
-      "電子學    ◎請填寫入場通知書編號：________________"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "37",
-    "text": "在常用的雙極性接面電晶體(BJT)的三個半導體區域內，何者寬度最窄？\n   2x10-5                   5x10-5     2x10-6       5x10-6\n                                                                          射極(emitter, E)       基極(base,",
-    "options": [
-      "集極(collector,",
-      "不一定"
+      "類比通訊系統無法使用通道編碼 (channel coding) 技術",
+      "資料編碼 (Source coding) 和通道編碼的技術都會增加資料傳送位元數",
+      "使用通道編碼時，編碼率越高代表加入之冗餘位元數越多",
+      "編碼技術可搭配重傳來增加效率"
     ],
     "answer": "2"
   },
   {
-    "number": "38",
-    "text": "某 BJT 的 BE 接面為逆向偏壓、BC 接面為順向偏壓，則該 BJT 的操作模式為：\n  傳統調幅(conventional AM)                雙邊帶抑制載波(DSB-S",
-    "options": [
-      "順向作用區(forward active region)      截止區(cutoff region)\n  單邊帶調變(SS",
-      "殘留邊帶調變(VS",
-      "逆向作用區(reverse active region)      飽和區(saturation region)\n                                                                                                                  【請接續背面】"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "41",
+    "number": "42",
     "text": "如【圖 4",
     "options": [
-      "所示 BJT 電路，使 VC 約為 2 V 之 RC 值為何？                                                                 共基極(common-base, C",
-      "放大器不受米勒效應的影響，因此頻寬較廣\n  "
+      "所示以分壓器偏壓之 BJT 共射極 (common-emitter, CE) 放大器，則下列敘述何者錯誤？  計算 直流偏壓條件時， C1 與 C2 可視為開路 【圖 4",
+      " 集極到基極間電壓約等於"
     ],
-    "answer": "3"
+    "answer": "4"
+  },
+  {
+    "number": "1",
+    "text": "4 V",
+    "options": [
+      "電壓 增益約為 −2 倍",
+      "基極 電流 IB 約等於 4 µA"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "43",
+    "text": "有關 BJT 的共極集(common-collector, C",
+    "options": [
+      "輸入電阻小、輸出電阻大",
+      "又稱為射極隨耦器 (emitter follower)",
+      "適合作為緩衝器 (buffer) 以提供阻抗匹配 (impedance matching)",
+      "功率增益約等於電流增益"
+    ],
+    "answer": "1"
   },
   {
     "number": "44",
     "text": "如【圖 4",
     "options": [
-      "所示以 CC 放大器為主的達林頓對(Darlington pair)放大器，則等效的共射極電流增益為何？\n   50                                                                                                                           正交分頻多工（OFDM）技術為多項新型通訊系統所採用，請回答下列問題：\n                                                                                          【圖 4",
-      "（一）假設 OFDM 系統使用 64 個子載波，但只有 48 個子載波載送資料，其他為導引信號或保護頻\n   150\n   5000                                                                                     CC        V\n                                                                                                                                       段，假設子載波的頻率間距為"
+      "50",
+      "150",
+      "5000",
+      "2"
     ],
     "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "有關接面場效電晶體(junction field effect transistors, JFET)結構的敘述，下列何者錯誤？",
+    "options": [
+      "只含一個 pn 接面，是一種單極性元件 (unipolar device)",
+      "控制 pn 接面兩端的偏壓可改變 JFET 的等效電阻",
+      "汲極 (drain) 與源極 (source) 之間的通道 (channel) 是主電流流經的路徑",
+      "閘極 (gate) 的半導體材料與通道相同"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "48",
+    "text": "有關金屬氧化物半導體場效電晶體(metal-oxide semiconductor field effect transistors, MOSFET)的敘述，下列何者錯誤？",
+    "options": [
+      "7】 \n\n- 15 V 輸入阻抗非常低 \n\n-  汲極與源極各自連接較高摻雜濃度的半導體材料空乏型 (depletion type) MOSFET 的操作與 JFET 類似 ID RD \n\n- 【 4",
+      "1 mA"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "52",
+    "text": "52 i 如【圖 】所示電路，下列敘述何者錯誤？ +",
+    "options": [
+      "此 NMOSFET 永遠操作於三極區  V 小於 VT v 當 時，此電路視同開路",
+      "",
+      "此電路經常取代電阻作為負載使用",
+      "其小信號等效電阻與直流偏壓電流的平方根成反比"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "56",
+    "text": "有關各類放大器組態的頻率響應說明， 下列 何者錯誤？  共源極 (common-source, CS) 放大器的高頻響應受限於米勒效應 (Miller effect)",
+    "options": [
+      "S) 放大器的頻寬可以藉由增加負載電阻而增加 \n\n   - 共基極 (common-base, C",
+      "放大器不受米勒效應的影響，因此頻寬較廣 \n\n   - 差動放大器的頻寬可以藉由在基極接上電阻而增加"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "60",
+    "text": "有關 741 運算放大器(op amp)的敘述，下列何者錯誤？",
+    "options": [
+      "輸入級為差動放大器  電壓增益的主要來源為第二級",
+      "利用米勒頻率補償技術可將主要極點設計在極高頻處",
+      "AB 類輸出級含有短路保護功能",
+      "（一）假設 OFDM 系統使用 64 個子載波，但只有 48 個子載波載送資料，其他為導引信號或保護頻 段，假設子載波的頻率間距為"
+    ],
+    "answer": "4"
   }
 ]

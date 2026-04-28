@@ -1,20 +1,24 @@
 [
   {
     "number": "1",
-    "text": "下列選項中所表示的年紀，何者前後數目",
+    "text": "下列選項中所表示的年紀，何者前後數目相同？",
     "options": [
       "始齔之年/周晬之年",
-      "及笄之年/弱冠之年\n4",
+      "二八年華/破瓜之年",
+      "及笄之年/弱冠之年",
+      "強仕之年/知命之年\n4",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "2",
-    "text": "若點選「唐宋八大家/力排佛老/祭鱷魚\n的交集應該是誰？",
+    "text": "若點選「唐宋八大家/力排佛老/祭鱷魚文」這三個詞搜尋，那麼所檢索出的人物，最有可能\n         的交集應該是誰？",
     "options": [
       "歐陽脩",
-      "蘇東坡\n6",
+      "蘇東坡",
+      "柳宗元",
+      "韓愈\n6",
       ""
     ],
     "answer": "4"
@@ -24,37 +28,45 @@
     "text": "以下「」中用字錯誤的選項是：",
     "options": [
       "「頤」養天年",
-      "「頤」指氣\n8",
+      "「頤」指氣使",
+      "含「頤」弄孫",
+      "大快朵「頤」\n8",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "4",
-    "text": "下列各組「」內的字，讀音皆相同的選項",
+    "text": "下列各組「」內的字，讀音皆相同的選項是：",
     "options": [
       "「苫」次/「玷」辱",
-      "山勢陡「峭」/「帩」頭\n10",
+      "「蹭」蹬/「甑」塵釜魚",
+      "山勢陡「峭」/「帩」頭",
+      "「岬」角/「匣」櫃\n\n10",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "5",
-    "text": "下列英譯詞語，屬於「純義譯」的選項",
+    "text": "下列英譯詞語，屬於「純義譯」的選項是：",
     "options": [
       "舶來品",
-      "保麗龍\n12",
+      "保麗龍",
+      "沙拉油",
+      "模特兒\n12",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "6",
-    "text": "下列成語，何者最適合描寫「自然環境",
+    "text": "下列成語，何者最適合描寫「自然環境的靜謐」？",
     "options": [
       "堅壁清野",
-      "環堵蕭然\n14",
+      "環堵蕭然",
+      "門可羅雀",
+      "萬籟俱寂\n14",
       ""
     ],
     "answer": "4"
@@ -64,7 +76,9 @@
     "text": "有關文人稱號，下列何者正確？",
     "options": [
       "李白：詞中之帝",
-      "連橫：臺灣新文學之父\n1",
+      "顧炎武：靖節先生",
+      "連橫：臺灣新文學之父",
+      "鍾理和：倒在血泊中的筆耕者\n1",
       ""
     ],
     "answer": "4"
@@ -74,7 +88,9 @@
     "text": "下列詞語何者與遭逢父母之喪完全無關？",
     "options": [
       "見背",
-      "失恃\n共同科目(\n3",
+      "失恃",
+      "丁憂",
+      "功沽\n\n\n\n3",
       ""
     ],
     "answer": "4"
@@ -84,37 +100,45 @@
     "text": "有關題辭用法，下列何者最適當？",
     "options": [
       "德業長昭：賀男壽",
-      "響遏行雲：賀音樂比賽\n5",
+      "龍騰虎躍：書法比賽",
+      "響遏行雲：賀音樂比賽",
+      "名山事業：賀工廠開業\n5",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "10",
-    "text": "「石」字的「ㄏ」畫的是山崖，「口」",
+    "text": "「石」字的「ㄏ」畫的是山崖，「口」是石頭的形狀。依據造字法則應屬於六書中的何者？",
     "options": [
       "象形",
-      "指事\n7",
+      "指事",
+      "會意",
+      "形聲\n7",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "11",
-    "text": "詞語中有一種結構是「名詞+名詞」，\n飾方式？",
+    "text": "詞語中有一種結構是「名詞+名詞」，其中前者用來說明後者的功用。下列何者具有此種修\n          飾方式？",
     "options": [
       "貢丸湯",
-      "水果刀\n9",
+      "水果刀",
+      "老爺車",
+      "瓜子臉\n9",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "12",
-    "text": "下列各詞語都是中國古典小說中的人稱\n的人稱代名詞？",
+    "text": "下列各詞語都是中國古典小說中的人稱用語，何者不屬於像「我」、「你」、「他們」之類\n          的人稱代名詞？",
     "options": [
       "洒家",
-      "俺們\n11",
+      "俺們",
+      "渾家",
+      "咱們\n11",
       ""
     ],
     "answer": "3"
@@ -124,17 +148,21 @@
     "text": "有關道家，下列敘述何者正確？",
     "options": [
       "就是道教",
-      "漢以後與儒家並稱顯學\n13",
+      "主張清靜無為",
+      "漢以後與儒家並稱顯學",
+      "莊周所著之書稱道德經\n13",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "14",
-    "text": "請判斷本詩「垂緌飲清露，流響出疏",
+    "text": "請判斷本詩「垂緌飲清露，流響出疏桐。居高聲自遠，非是藉秋風。」所描寫的主角為何？",
     "options": [
       "蟬",
-      "螢\n15",
+      "螢",
+      "風",
+      "雲\n15",
       ""
     ],
     "answer": "1"
@@ -144,484 +172,476 @@
     "text": "下列各組詞語中，何者完全正確？",
     "options": [
       "一語成讖/繁文縟節",
-      "前踞後恭/事情辣手\n貳、英文：100 %\n【單選題： 40 題，每題"
+      "拌腳石/電腦彩卷",
+      "前踞後恭/事情辣手",
+      "自甘惰落/鞠躬盡悴\n\n\n       貳、英文：100 %\n        【單選題： 40 題，每題"
     ],
     "answer": "1"
   },
   {
     "number": "16",
-    "text": "The dog must be",
+    "text": "The dog must be ___. It hasn’t eaten anything all day.",
     "options": [
-      "starving\n19",
+      "starving",
+      "fill",
+      "overweight",
+      "stupid\n19",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "17",
-    "text": "Jack finally ___",
+    "text": "Jack finally ___ after the manager blamed him for a mistake he did not make.",
     "options": [
-      "signed out\n21",
+      "signed out",
+      "resigned",
+      "quited",
+      "quieted\n21",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "18",
-    "text": "Will and Gloria",
+    "text": "Will and Gloria are ___ because his son married her daughter.",
     "options": [
-      "parents\n23",
+      "parents",
+      "a couple",
+      "in-laws",
+      "outlaws\n23",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "19",
-    "text": "The prices of __",
+    "text": "The prices of ___ are way too high in Taiwan. It’s very difficult for young people to buy a home.",
     "options": [
-      "real estate\n25",
+      "real estate",
+      "departments",
+      "property",
+      "households\n25",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "20",
-    "text": "Scientists have\nthem.",
+    "text": "Scientists have concluded that smartphones are ___, and that’s why many people cannot live without\n           them.",
     "options": [
-      "funny\n27",
+      "funny",
+      "pleasurable",
+      "addictive",
+      "uncontrollable\n27",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "21",
-    "text": "Vince decided to\nhigh ___ in nort",
+    "text": "Vince decided to move down south where it’s sunny most of the time because he was fed up with the\n           high ___ in northern Taiwan.",
     "options": [
-      "activity\n29",
+      "activity",
+      "living cost",
+      "crowdedness",
+      "humidity\n29",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "22",
-    "text": "The demonstratio\nhaving problems",
+    "text": "The demonstrations in Hong Kong are increasing in both ___ and intensity, and the government is\n           having problems handling them.",
     "options": [
-      "frequency\n31",
+      "frequency",
+      "time",
+      "places",
+      "speed\n31",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "23",
-    "text": "Nowadays, most e\nthem without any",
+    "text": "Nowadays, most electronic devices are designed to be ___, so that consumers can learn to operate\n           them without any difficulty.",
     "options": [
-      "in ease\n33",
+      "in ease",
+      "user-friendly",
+      "in comfort",
+      "of wisdom\n\n\n\n33",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "24",
-    "text": "John and Cathy\nchildren.",
+    "text": "John and Cathy are looking for a new home. School is their first ___ because they have young\n           children.",
     "options": [
-      "factor\n35",
+      "factor",
+      "thinking",
+      "consideration",
+      "idea\n35",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "25",
-    "text": "Hi-tech jobs pay",
+    "text": "Hi-tech jobs pay well, but the ___ can be very heavy.",
     "options": [
-      "work hours\n16",
+      "work hours",
+      "work weight",
+      "work projects",
+      "workload\n16",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "26",
-    "text": "Marie took a 2-y",
+    "text": "Marie took a 2-year ___ to go to the US to get a master’s degree.",
     "options": [
       "holiday",
-      "vacation\n18",
+      "leave of absence without pay",
+      "vacation",
+      "no work\n18",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "27",
-    "text": "James plans to d",
+    "text": "James plans to do volunteer work after he retires. He probably will ___.",
     "options": [
-      "visit orphan\n20",
+      "visit orphanages",
+      "sell fruit",
+      "be a policeman",
+      "drive a truck\n20",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "28",
-    "text": "Many Chinese fac\nChina trade war.",
+    "text": "Many Chinese factories have moved to Vietnam or Cambodia to get away from the ___ of the US-\n           China trade war.",
     "options": [
-      "affect\n22",
+      "affect",
+      "punishment",
+      "victim",
+      "impact\n22",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "29",
-    "text": "Everybody wants",
+    "text": "Everybody wants a high-pay job, but very few think about whether they have the ___.",
     "options": [
-      "quality\n24",
+      "quality",
+      "identity",
+      "qualification",
+      "status\n24",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "30",
-    "text": "Tina has been up",
+    "text": "Tina has been upset all day because she got a ___ for double parking.",
     "options": [
-      "bill\n26",
+      "bill",
+      "fine",
+      "sheet",
+      "check\n26",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "31",
-    "text": "Telecom business\nconsumers.",
+    "text": "Telecom business is very competitive and every company keeps ___ special packages to attract\n           consumers.",
     "options": [
-      "offering\n28",
+      "offering",
+      "affording",
+      "sending",
+      "delivering\n28",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "32",
-    "text": "Sophie spends ne",
+    "text": "Sophie spends nearly two hours ___ between home and work each day.",
     "options": [
-      "transferring\n30",
+      "transferring",
+      "trafficking",
+      "transportation",
+      "commuting\n30",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "33",
-    "text": "The Italian plac\nclosest to “pack",
+    "text": "The Italian place was packed, so we decided to go to the French restaurant next door. What is the\n           closest to “packed” in meaning?",
     "options": [
-      "ready to tra\n32",
+      "ready to travel",
+      "out of business",
+      "full",
+      "closed down\n32",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "Henry is not the",
+    "text": "Henry is not the most efficient in the office, but he is the most ___ employee.",
     "options": [
-      "best\n34",
+      "best",
+      "trustworthy",
+      "nicest",
+      "questionable\n34",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "35",
-    "text": "New workers have\noperations.",
+    "text": "New workers have to attend an orientation for two days to ___ with the company’s regulations and\n           operations.",
     "options": [
-      "get known\n37",
+      "get known",
+      "get familiar",
+      "get train",
+      "get learning\n37",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "36",
-    "text": "To install the n",
+    "text": "To install the new software, your computer must ___ the requirements.",
     "options": [
-      "have\n39",
+      "have",
+      "be",
+      "face",
+      "meet\n39",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "37",
-    "text": "The tickets to t",
+    "text": "The tickets to the movie were ___. Therefore, we went dancing instead.",
     "options": [
-      "stopping\n41",
+      "stopping",
+      "ended",
+      "sold out",
+      "not sell\n41",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "38",
-    "text": "From the top of",
+    "text": "From the top of the mountain, everything is green ___ the eyes can see.",
     "options": [
-      "as long as\n43",
+      "as long as",
+      "as far as",
+      "as closely",
+      "as great as\n43",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "39",
-    "text": "Besides working\n___.",
+    "text": "Besides working full time in a trading company, Peter also drives a taxi in the evening in order to\n           ___.",
     "options": [
-      "get even\n45",
+      "get even",
+      "make wealthy",
+      "get pay",
+      "make ends meet\n45",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "40",
-    "text": "I ran into my hi",
+    "text": "I ran into my high school buddy ___ a couple of months ago, but I don’t remember the exact time.",
     "options": [
-      "sometimes\n47",
+      "sometimes",
+      "sometime",
+      "some time",
+      "some times\n47",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "41",
-    "text": "We are ___, so t",
+    "text": "We are ___, so there is no need to rush.",
     "options": [
-      "in time\n49",
+      "in time",
+      "take a break",
+      "almost late",
+      "ahead of schedule\n49",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "42",
-    "text": "Since the compan",
+    "text": "Since the company is in ___ financially, no banks are willing to give it a loan.",
     "options": [
-      "bad shape\n51",
+      "bad shape",
+      "no good name",
+      "poor quantity",
+      "terrible place\n\n\n\n51",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "43",
-    "text": "Nancy is seeing",
+    "text": "Nancy is seeing someone new. This means she ___.",
     "options": [
-      "has new glas",
-      "has had an e\n53",
+      "has new glasses",
+      "has a new boyfriend",
+      "has had an eye surgery",
+      "has new religious belief\n53",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "44",
-    "text": "Mary has the hab\nkilograms in six",
+    "text": "Mary has the habit of eating a big meal when she has pressure from work. ___, she has gained 10\n           kilograms in six months.",
     "options": [
-      "As a consequ\n55",
+      "As a consequence",
+      "In a result",
+      "By accident",
+      "On the outcome\n55",
       ""
     ],
     "answer": "1"
   },
   {
-    "number": "45",
-    "text": "“Flight CX200 wi",
-    "options": [
-      "get the plan\n36",
-      ""
-    ],
-    "answer": "3"
-  },
-  {
     "number": "46",
-    "text": "Carl takes Japan\nthe week.",
+    "text": "Carl takes Japanese lessons on Mon., Wed. and Fri. In other words, he attends the class ___ during\n           the week.",
     "options": [
-      "on another d",
-      "one day afte\n38",
+      "on another day",
+      "every other day",
+      "one day after another",
+      "on weekends\n38",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "47",
-    "text": "Tom ___ managing",
+    "text": "Tom ___ managing his money; that’s why he is always broke.",
     "options": [
-      "cannot\n40",
+      "cannot",
+      "unable",
+      "has trouble",
+      "is a problem\n40",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "48",
-    "text": "Tony is about to",
+    "text": "Tony is about to retire ___ he is approaching 65 years old.",
     "options": [
-      "since\n42",
+      "since",
+      "because of",
+      "when",
+      "means\n42",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "49",
-    "text": "Sally doesn’t mi",
+    "text": "Sally doesn’t mind traveling ___ because she has a black belt in karate.",
     "options": [
-      "herself\n44",
+      "herself",
+      "along",
+      "on herself",
+      "alone\n44",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "50",
-    "text": "Frank found he w\ndropped more tha",
+    "text": "Frank found he was overweight two years ago and decided to become a vegetarian. ___ he has\n           dropped more than 15 kg.",
     "options": [
-      "Until then\n46",
+      "Until then",
+      "From than",
+      "Since then",
+      "Just than\n46",
       ""
     ],
     "answer": "3"
   },
   {
-    "number": "51",
-    "text": "The next preside",
+    "number": "2020",
+    "text": "",
     "options": [
-      "take place\n48",
+      "take place",
+      "will be held",
+      "is presented",
+      "will appear\n48",
       ""
     ],
-    "answer": "2"
+    "answer": "1"
   },
   {
     "number": "52",
-    "text": "Jay is unhappy b",
+    "text": "Jay is unhappy because ___ and has to repeat the course.",
     "options": [
-      "he failed th\n50",
+      "he failed the test",
+      "the test failed him",
+      "his test failed",
+      "the failure tested\n50",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "53",
-    "text": "You had better l",
+    "text": "You had better leave right now unless you want to ___ the train.",
     "options": [
-      "catch\n52",
+      "catch",
+      "miss",
+      "jump",
+      "race\n52",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "54",
-    "text": "Which is the bes",
+    "text": "Which is the best answer to “I need a hand”?",
     "options": [
-      "You can use\n54",
+      "You can use mine.",
+      "Good luck.",
+      "Sure, what is it?",
+      "Sorry to hear that.\n54",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "55",
-    "text": "The meaning of t\nit doesn’t matte",
+    "text": "The meaning of the English saying “The end justifies the means” is that as long as the result is good,\n           it doesn’t matter what you do. Which of the following is closest to “the means” in meaning?",
     "options": [
-      "the skill\n進僱用人員甄試試題\n張)。\n0 分)，須用藍、黑色鋼筆或原子筆在答案卷指定範圍內作\n0 分)及英文單選題 40 題(共 100 分)，須用 2B 鉛筆在答案卡\n者不予計分；答案卷作答區計有正反 2 面，不提供\n為答案，各題答對得該題所配分數，答錯或畫記\n3 分之 1，英文科倒扣計至該科之實得分數為零為\n0 分)為零為止，未作答者不給分亦不扣分。\n試題。\n(卡)繳回，俟本節考試結束後，始得至原試場或適\n題】\n30分；請在『答案卡』題號 1~15畫記作答。】\n相同？",
-      "二八年華/破瓜之年",
-      "強仕之年/知命之年\n文」這三個詞搜尋，那麼所檢索出的人物，最有可能",
-      "柳宗元",
-      "韓愈\n使",
-      "含「頤」弄孫",
-      "大快朵「頤」\n是：",
-      "「蹭」蹬/「甑」塵釜魚",
-      "「岬」角/「匣」櫃\n是：",
-      "沙拉油",
-      "模特兒\n的靜謐」？",
-      "門可羅雀",
-      "萬籟俱寂",
-      "顧炎武：靖節先生",
-      "鍾理和：倒在血泊中的筆耕者",
-      "丁憂",
-      "功沽",
-      "龍騰虎躍：書法比賽",
-      "名山事業：賀工廠開業\n是石頭的形狀。依據造字法則應屬於六書中的何者？",
-      "會意",
-      "形聲\n其中前者用來說明後者的功用。下列何者具有此種修",
-      "老爺車",
-      "瓜子臉\n用語，何者不屬於像「我」、「你」、「他們」之類",
-      "渾家",
-      "咱們",
-      "主張清靜無為",
-      "莊周所著之書稱道德經\n桐。居高聲自遠，非是藉秋風。」所描寫的主角為何？",
-      "風",
-      "雲",
-      "拌腳石/電腦彩卷",
-      "自甘惰落/鞠躬盡悴\n，共 100 分；請在『答案卡』題號 16~55 畫記作答。】\n___. It hasn’t eaten anything all day.",
-      "fill",
-      "overweight",
-      "stupid\nafter the manager blamed him for a mistake he did not make.",
-      "resigned",
-      "quited",
-      "quieted\nare ___ because his son married her daughter.",
-      "a couple",
-      "in-laws",
-      "outlaws\n_ are way too high in Taiwan. It’s very difficult for young people to buy a home.",
-      "departments",
-      "property",
-      "households\nconcluded that smartphones are ___, and that’s why many people cannot live without",
-      "pleasurable",
-      "addictive",
-      "uncontrollable\nmove down south where it’s sunny most of the time because he was fed up with the\nhern Taiwan.",
-      "living cost",
-      "crowdedness",
-      "humidity\nns in Hong Kong are increasing in both ___ and intensity, and the government is\nhandling them.",
-      "time",
-      "places",
-      "speed\nlectronic devices are designed to be ___, so that consumers can learn to operate\ndifficulty.",
-      "user-friendly",
-      "in comfort",
-      "of wisdom\n\nare looking for a new home. School is their first ___ because they have young",
-      "thinking",
-      "consideration",
-      "idea\nwell, but the ___ can be very heavy.",
-      "work weight",
-      "work projects",
-      "workload\near ___ to go to the US to get a master’s degree.",
-      "leave of absence without pay",
-      "no work\no volunteer work after he retires. He probably will ___.\nages",
-      "sell fruit",
-      "be a policeman",
-      "drive a truck\ntories have moved to Vietnam or Cambodia to get away from the ___ of the US-",
-      "punishment",
-      "victim",
-      "impact\na high-pay job, but very few think about whether they have the ___.",
-      "identity",
-      "qualification",
-      "status\nset all day because she got a ___ for double parking.",
-      "fine",
-      "sheet",
-      "check\nis very competitive and every company keeps ___ special packages to attract",
-      "affording",
-      "sending",
-      "delivering\narly two hours ___ between home and work each day.",
-      "trafficking",
-      "transportation",
-      "commuting\ne was packed, so we decided to go to the French restaurant next door. What is the\ned” in meaning?\nvel",
-      "out of business",
-      "full",
-      "closed down\nmost efficient in the office, but he is the most ___ employee.",
-      "trustworthy",
-      "nicest",
-      "questionable\nto attend an orientation for two days to ___ with the company’s regulations and",
-      "get familiar",
-      "get train",
-      "get learning\new software, your computer must ___ the requirements.",
-      "be",
-      "face",
-      "meet\nhe movie were ___. Therefore, we went dancing instead.",
-      "ended",
-      "sold out",
-      "not sell\nthe mountain, everything is green ___ the eyes can see.",
-      "as far as",
-      "as closely",
-      "as great as\nfull time in a trading company, Peter also drives a taxi in the evening in order to",
-      "make wealthy",
-      "get pay",
-      "make ends meet\ngh school buddy ___ a couple of months ago, but I don’t remember the exact time.",
-      "sometime",
-      "some time",
-      "some times\nhere is no need to rush.",
-      "take a break",
-      "almost late",
-      "ahead of schedule\ny is in ___ financially, no banks are willing to give it a loan.",
-      "no good name",
-      "poor quantity",
-      "terrible place\n\nsomeone new. This means she ___.\nses",
-      "has a new boyfriend\nye surgery",
-      "has new religious belief\nit of eating a big meal when she has pressure from work. ___, she has gained 10\nmonths.\nence",
-      "In a result",
-      "By accident",
-      "On the outcome\nll be taking off in 30 minutes. Please ___ at Gate"
+      "the skill",
+      "the importance",
+      "the meaning",
+      "the method"
     ],
     "answer": "4"
   }

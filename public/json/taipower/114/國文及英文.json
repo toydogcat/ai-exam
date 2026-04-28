@@ -4,9 +4,9 @@
     "text": "下列各組「」內的文字，何者前後相同？",
     "options": [
       "膏「ㄩˊ」之地／阿「ㄩˊ」諂媚",
-      "「ㄧㄢˇ」旗息鼓／屋舍「ㄧㄢˇ",
+      "「ㄧㄢˇ」旗息鼓／屋舍「ㄧㄢˇ」然",
       "「ㄐㄧㄠˇ」倖獲勝／「ㄐㄧㄠˇ」俗干名",
-      "圖文並「ㄇㄠˋ」／「ㄇㄠˋ」林",
+      "圖文並「ㄇㄠˋ」／「ㄇㄠˋ」林修竹",
       ""
     ],
     "answer": "4"
@@ -18,7 +18,7 @@
       "蓬壁生輝",
       "錐心泣血",
       "趨之若鶩",
-      "",
+      "莫衷一事",
       ""
     ],
     "answer": "3"
@@ -52,9 +52,9 @@
     "text": "下列詩詞所描繪的季節，何者有誤？",
     "options": [
       "千里鶯啼綠映紅，水村山郭酒旗風—春天",
-      "木槿花開畏日長，時搖輕扇倚繩床—",
+      "木槿花開畏日長，時搖輕扇倚繩床—夏天",
       "菡萏香銷翠葉殘，西風愁起綠波間—秋天",
-      "梅英疏淡，冰澌溶泄，東風暗換年華",
+      "梅英疏淡，冰澌溶泄，東風暗換年華—冬天",
       ""
     ],
     "answer": "4"
@@ -73,19 +73,19 @@
   },
   {
     "number": "7",
-    "text": "陳義芝《草堂沉思》：「千年前為秋風所破的茅屋／剩日下的竹影搖曳／我小立在那座新築新\n修的草堂／遙想當年你如何扶杖嘆息，忍聽／兒童抱茅的嬉鬧」，詩中所述人物為下列何者？",
+    "text": "陳義芝《草堂沉思》：「千年前為秋風所破的茅屋／剩日下的竹影搖曳／我小立在那座新築新\n       修的草堂／遙想當年你如何扶杖嘆息，忍聽／兒童抱茅的嬉鬧」，詩中所述人物為下列何者？",
     "options": [
       "蘇軾",
       "屈原",
       "王維",
-      "杜",
+      "杜甫",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "8",
-    "text": "王安石《登飛來峰》：「不畏浮雲遮望眼，自緣身在最高層。」其中的浮雲係比喻小人、佞\n臣，下列文句中的「浮雲」，何者具有相同意涵？",
+    "text": "王安石《登飛來峰》：「不畏浮雲遮望眼，自緣身在最高層。」其中的浮雲係比喻小人、佞\n       臣，下列文句中的「浮雲」，何者具有相同意涵？",
     "options": [
       "不義而富且貴，於我如浮雲",
       "浮雲遊子意，落日故人情",
@@ -101,13 +101,15 @@
     "options": [
       "玉盤／金烏",
       "魚雁／尺牘",
+      "金甌／絲竹",
+      "汗青／杜康",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "10",
-    "text": "辛棄疾《青玉案》：「東風夜放花千樹，更吹落，星如雨。寶馬雕車香滿路，鳳簫聲動，玉\n壺光轉，一夜魚龍舞。」係描述下列何種節令的場景？",
+    "text": "辛棄疾《青玉案》：「東風夜放花千樹，更吹落，星如雨。寶馬雕車香滿路，鳳簫聲動，玉\n        壺光轉，一夜魚龍舞。」係描述下列何種節令的場景？",
     "options": [
       "元宵節",
       "清明節",
@@ -123,13 +125,15 @@
     "options": [
       "相敬如賓",
       "倒屣相迎",
+      "舉案齊眉",
+      "鴻案相莊",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "12",
-    "text": "劉勰《文心雕龍．知音》：「凡操千曲而後曉聲，觀千劍而後識器。」此段文句之意旨，用\n於求學時應秉持之態度，與下列何者最為相近？",
+    "text": "劉勰《文心雕龍．知音》：「凡操千曲而後曉聲，觀千劍而後識器。」此段文句之意旨，用\n        於求學時應秉持之態度，與下列何者最為相近？",
     "options": [
       "戒慎恐懼，表裡如一",
       "逆水行舟，不進則退",
@@ -146,13 +150,14 @@
       "音樂：玉潤珠圓",
       "演講：餘音繞樑",
       "作文：洛陽紙貴",
+      "書法：力透紙背",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "14",
-    "text": "李斯《諫逐客書》：「向使四君卻客而不內，疏士而不與，是使國無富利之實，而秦無彊大\n之名也。」此係李斯以4位君王之例說明國之強盛，主要是因君王採取下列何種作為？",
+    "text": "李斯《諫逐客書》：「向使四君卻客而不內，疏士而不與，是使國無富利之實，而秦無彊大\n        之名也。」此係李斯以4位君王之例說明國之強盛，主要是因君王採取下列何種作為？",
     "options": [
       "廣納賢才，有容乃大",
       "開疆拓土，統一天下",
@@ -167,378 +172,452 @@
     "text": "下列對聯所適用的場合，何者配對有誤？",
     "options": [
       "扁鵲重生稱妙手／華佗再世頌丹心—醫院",
-      "相留燕趙齊梁客／借寓東西南北人",
+      "相留燕趙齊梁客／借寓東西南北人—旅館",
       "劉伶問道誰家好／李白回言此處佳—茶館",
-      "還我廬山真面目／愛他秋水舊風采\n貳、英文：100 %\n【單選題：40 題，每題"
+      "還我廬山真面目／愛他秋水舊風采—相館\n\n\n    貳、英文：100 %\n     【單選題：40 題，每題"
     ],
     "answer": "3"
   },
   {
     "number": "16",
-    "text": "We all agree that the manager’s idea, al\nfully implemented.",
+    "text": "We all agree that the manager’s idea, although promising, still needs ________ out before it can be\n        fully implemented.",
     "options": [
       "try",
       "to try",
+      "being tried",
+      "trying",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "17",
-    "text": "I didn’t use to like ice cream very much",
+    "text": "I didn’t use to like ice cream very much, but now I can’t ________ having it on hot summer days.",
     "options": [
       "reduce",
       "refuse",
+      "reject",
+      "resist",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "18",
-    "text": "Which is a good response to “Ready to or",
+    "text": "Which is a good response to “Ready to order”?",
     "options": [
       "In a couple of minutes.",
+      "No, thanks.",
       "Do I have to?",
+      "I’m not hungry yet.",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "19",
-    "text": "I had high hopes for the soup at that ne\nwhich ruined the delicate balance I was",
+    "text": "I had high hopes for the soup at that new restaurant, but I ended up disappointed — it tasted ________,\n        which ruined the delicate balance I was expecting.",
     "options": [
       "sweetly",
       "to be hot",
+      "of garlic",
+      "with fish",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "20",
-    "text": "We got stuck in traffic for such a long",
+    "text": "We got stuck in traffic for such a long time ________ we missed our appointment with the clients.",
     "options": [
       "that",
       "and",
+      "because",
+      "before",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "21",
-    "text": "Willy got a 3,000-dollar ________ for hi",
+    "text": "Willy got a 3,000-dollar ________ for his full attendance last year.",
     "options": [
       "bonus",
-      "price\n共同科目(國文、英文)",
+      "price",
+      "fund",
+      "merit",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "22",
-    "text": "Peter has such an extensive vocabulary",
+    "text": "Peter has such an extensive vocabulary that he is, ________, a walking dictionary.",
     "options": [
       "to say so",
       "so to speak",
+      "so to tell",
+      "so to put",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "23",
-    "text": "There’s a police car parked outside our\nsuppose ________?",
+    "text": "There’s a police car parked outside our neighbor’s house, and it’s been there for a while. What do you\n        suppose ________?",
     "options": [
       "happened",
       "did happen",
+      "has happened",
+      "would happen",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "24",
-    "text": "You need to ________ a proposal to apply",
+    "text": "You need to ________ a proposal to apply for approval for your project.",
     "options": [
       "present",
       "issue",
+      "describe",
+      "offer",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "25",
-    "text": "“I was overwhelmed by the heavy workload",
+    "text": "“I was overwhelmed by the heavy workload, weren’t you?” Choose the best response.",
     "options": [
       "Yes, it’s overstaffed.",
+      "No, you should take a break.",
       "Yes, they need to hire more people.",
+      "No, I don’t know where to download it.",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "26",
-    "text": "Going to a gym to work out has become a",
+    "text": "Going to a gym to work out has become a ________ in Taiwan.",
     "options": [
       "exercise",
       "trend",
+      "style",
+      "popular",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "27",
-    "text": "Tom turns 65 next year so he will ______",
+    "text": "Tom turns 65 next year so he will ________.",
     "options": [
       "resign",
       "be fired",
+      "retire",
+      "return home",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "28",
-    "text": "Anna and Cathy haven’t seen each other _",
+    "text": "Anna and Cathy haven’t seen each other ________ high school graduation.",
     "options": [
       "in",
       "since",
+      "before",
+      "at",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "29",
-    "text": "Many citizens looked upon the worsening\nintervention.",
+    "text": "Many citizens looked upon the worsening economic situation ________, demanding urgent government\n        intervention.",
     "options": [
       "as critical",
-      "to be critica",
+      "to be critical",
+      "being critical",
+      "critical",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "30",
-    "text": "The sky is getting dark. I think it’s __",
+    "text": "The sky is getting dark. I think it’s ________ rain.",
     "options": [
       "about to",
       "will to",
+      "like to",
+      "meaning to",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "31",
-    "text": "Gardening is the biggest single hobby in\ntime, energy, and money.",
+    "text": "Gardening is the biggest single hobby in America — the one ________ Americans spend the most\n        time, energy, and money.",
     "options": [
       "that",
       "which",
+      "on that",
+      "on which",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "32",
-    "text": "Evan has a bad temper and no one wants t",
+    "text": "Evan has a bad temper and no one wants to be ________ him.",
     "options": [
       "nearly",
       "away from",
+      "about",
+      "around",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "33",
-    "text": "You were opposed to ________ to join us",
+    "text": "You were opposed to ________ to join us for dinner last night, weren't you?",
     "options": [
       "our inviting her",
       "us invite her",
+      "that we invite her",
+      "we inviting her",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "34",
-    "text": "The show must win the approval of the cr\nperformed at the Palace Theater.",
+    "text": "The show must win the approval of the critics and audience in New York, ________ it is being\n        performed at the Palace Theater.",
     "options": [
       "that",
       "which",
+      "when",
+      "where",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "35",
-    "text": "TSMC pays well, but many people quit ___",
+    "text": "TSMC pays well, but many people quit ________ the long work hours.",
     "options": [
       "because",
       "avoid",
+      "since",
+      "because of",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "36",
-    "text": "You ________ right now. The train is lea",
+    "text": "You ________ right now. The train is leaving in an hour.",
     "options": [
       "would rather go",
       "had better go",
+      "had rather gone",
+      "would better go",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "37",
-    "text": "UberEats is a food delivery ________ use",
+    "text": "UberEats is a food delivery ________ used by lots of people.",
     "options": [
       "network",
       "platform",
+      "website",
+      "station",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "38",
-    "text": "Given the possibility of aftershocks, it\nany preparations.",
+    "text": "Given the possibility of aftershocks, it’s clearly wiser to think ahead now than to later regret ________\n        any preparations.",
     "options": [
       "making",
       "having made",
+      "not having made",
+      "have not made",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "39",
-    "text": "The HR manager from our Boston branch ha\nyesterday.",
+    "text": "The HR manager from our Boston branch has just arrived though I didn’t know he ________ until\n        yesterday.",
     "options": [
       "comes",
       "will come",
+      "was coming",
+      "had been coming",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "40",
-    "text": "A positive company culture often rewards\nscheme in place to recognize and motivat",
+    "text": "A positive company culture often rewards strong performance. For example, there is a(n) ________\n        scheme in place to recognize and motivate highly efficient employees.",
     "options": [
       "encouragement",
-      "incentive\n共同科目(國文、英文) 第",
+      "incentive",
+      "initiative",
+      "compensation",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "41",
-    "text": "When science was still ________, the Gr",
+    "text": "When science was still ________, the Greeks believed that the Earth was at the center of the universe.",
     "options": [
       "in its beginning",
       "in its origin",
+      "in its infancy",
+      "in its phase",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "42",
-    "text": "I should have studied architecture. I __",
+    "text": "I should have studied architecture. I ________ really good at it.",
     "options": [
       "must have been",
-      "should have",
+      "should have been",
+      "couldn’t have been",
+      "would have been",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "43",
-    "text": "Don’t make reservations at the Spring Re",
+    "text": "Don’t make reservations at the Spring Restaurant ________ you’re prepared to spend a lot of money.",
     "options": [
       "until",
       "unless",
+      "since",
+      "although",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "44",
-    "text": "Every new employee ________ take special",
+    "text": "Every new employee ________ take special training courses.",
     "options": [
       "is needed to",
       "must to",
+      "is required to",
+      "is order to",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "45",
-    "text": "________ the movie was so boring, I doub",
+    "text": "________ the movie was so boring, I doubt I would have gone to see it.",
     "options": [
       "I had known if",
       "If I knew",
+      "If had I known",
+      "Had I known",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "46",
-    "text": "To apply for a job, ________ the applica",
+    "text": "To apply for a job, ________ the application form first.",
     "options": [
       "read out",
       "write in",
+      "print in",
+      "fill out",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "47",
-    "text": "The new administration ________ the qual",
+    "text": "The new administration ________ the quality of preschool education nationwide.",
     "options": [
       "is committed to improve",
+      "is committed to improving",
       "has committed to improve",
+      "has committed to be improved",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "48",
-    "text": "Debbie and I ________. We’ve been friend\neven after all these years.",
+    "text": "Debbie and I ________. We’ve been friends since high school and still see each other every few weeks\n        even after all these years.",
     "options": [
       "are back on our way",
+      "know our way",
       "never lose our way",
+      "go way back",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "49",
-    "text": "She quickly reached a level of musicians",
+    "text": "She quickly reached a level of musicianship that the rest of us can only ________.",
     "options": [
       "aspire to",
       "admire to",
+      "allude to",
+      "attain to",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "50",
-    "text": "The high cost of living in big cities is\nrelocate to suburban areas.",
+    "text": "The high cost of living in big cities is steadily ________ people’s savings. As a result, many decide to\n        relocate to suburban areas.",
     "options": [
       "eating into",
       "cutting up",
+      "draining away",
+      "weighing on",
       ""
     ],
     "answer": "1"
   },
   {
     "number": "51",
-    "text": "Despite coming from very different backg\nimportant issues.",
+    "text": "Despite coming from very different backgrounds, Sarah and Jack always seem to ________ on\n        important issues.",
     "options": [
       "catch their eyes",
       "keep an eye out",
+      "see eye to eye",
+      "feast their eyes",
       ""
     ],
     "answer": "3"
   },
   {
     "number": "52",
-    "text": "I got my fridge ______ last week and now",
+    "text": "I got my fridge ______ last week and now it’s running smoothly.",
     "options": [
       "repair",
       "repaired",
+      "fix up",
+      "better",
       ""
     ],
     "answer": "2"
@@ -548,110 +627,31 @@
     "text": "We should be ________ and recycle.",
     "options": [
       "environmental protection",
+      "eco-friendly",
       "conscious",
+      "love Earth",
       ""
     ],
     "answer": "2"
   },
   {
     "number": "54",
-    "text": "I really put my ________ in it when I me\naccidentally said “Who are you?” instead",
+    "text": "I really put my ________ in it when I met our German business partner. Because I was so nervous, I\n        accidentally said “Who are you?” instead of “How are you?”.",
     "options": [
       "tongue",
       "finger",
+      "hand",
+      "foot",
       ""
     ],
     "answer": "4"
   },
   {
     "number": "55",
-    "text": "The marketing team proposed a digital ca\ndepartment favored a more traditional ap",
+    "text": "The marketing team proposed a digital campaign to target younger consumers, ________ the sales\n        department favored a more traditional approach using print media.",
     "options": [
       "however",
-      "despite\n共同科目(國文、英文)\n定範圍內\n分)，須用 2B 鉛筆在答案\n提\n記作答。】\n」然\n修竹\n莫衷一事\n夏天\n—冬天\n甫\n【請翻頁繼續作答】",
-      "金甌／絲竹",
-      "汗青／杜康",
-      "舉案齊眉",
-      "鴻案相莊",
-      "書法：力透紙背\n—旅館\n—相館\n畫記作答。】\nthough promising, still needs ________ out before it can be",
-      "being tried",
-      "trying\n, but now I can’t ________ having it on hot summer days.",
-      "reject",
-      "resist\nder”?",
-      "No, thanks.",
-      "I’m not hungry yet.\nw restaurant, but I ended up disappointed — it tasted ________,\nexpecting.",
-      "of garlic",
-      "with fish\ntime ________ we missed our appointment with the clients.",
-      "because",
-      "before\ns full attendance last year.",
-      "fund",
-      "merit\n\nthat he is, ________, a walking dictionary.",
-      "so to tell",
-      "so to put\nneighbor’s house, and it’s been there for a while. What do you",
-      "has happened",
-      "would happen\nfor approval for your project.",
-      "describe",
-      "offer\n, weren’t you?” Choose the best response.",
-      "No, you should take a break.",
-      "No, I don’t know where to download it.\n________ in Taiwan.",
-      "style",
-      "popular\n__.",
-      "retire",
-      "return home\n_______ high school graduation.",
-      "before",
-      "at\neconomic situation ________, demanding urgent government\nl",
-      "being critical",
-      "critical\n______ rain.",
-      "like to",
-      "meaning to\nAmerica — the one ________ Americans spend the most",
-      "on that",
-      "on which\no be ________ him.",
-      "about",
-      "around\nfor dinner last night, weren't you?",
-      "that we invite her",
-      "we inviting her\nitics and audience in New York, ________ it is being",
-      "when",
-      "where\n_____ the long work hours.",
-      "since",
-      "because of\nving in an hour.",
-      "had rather gone",
-      "would better go\nd by lots of people.",
-      "website",
-      "station\n’s clearly wiser to think ahead now than to later regret ________",
-      "not having made",
-      "have not made\ns just arrived though I didn’t know he ________ until",
-      "was coming",
-      "had been coming\nstrong performance. For example, there is a(n) ________\ne highly efficient employees.",
-      "initiative",
-      "compensation\n3 頁，共 4 頁                                【請翻頁繼續作答】\neeks believed that the Earth was at the center of the universe.",
-      "in its infancy",
-      "in its phase\n______ really good at it.\nbeen",
-      "couldn’t have been",
-      "would have been\nstaurant ________ you’re prepared to spend a lot of money.",
-      "since",
-      "although\ntraining courses.",
-      "is required to",
-      "is order to\nt I would have gone to see it.",
-      "If had I known",
-      "Had I known\ntion form first.",
-      "print in",
-      "fill out\nity of preschool education nationwide.",
-      "is committed to improving",
-      "has committed to be improved\ns since high school and still see each other every few weeks",
-      "know our way",
-      "go way back\nhip that the rest of us can only ________.",
-      "allude to",
-      "attain to\nsteadily ________ people’s savings. As a result, many decide to",
-      "draining away",
-      "weighing on\nrounds, Sarah and Jack always seem to ________ on",
-      "see eye to eye",
-      "feast their eyes\nit’s running smoothly.",
-      "fix up",
-      "better",
-      "eco-friendly",
-      "love Earth\nt our German business partner. Because I was so nervous, I\nof “How are you?”.",
-      "hand",
-      "foot\nmpaign to target younger consumers, ________ the sales\nproach using print media.",
+      "despite",
       "whereas",
       "unless"
     ],

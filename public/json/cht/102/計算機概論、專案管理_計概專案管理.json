@@ -1,32 +1,113 @@
 [
   {
-    "number": "1",
-    "text": "4MB        ƒ 48MB                      „ 72MB                 •成本分析(Costs)               ‚需求評估(Whys)     ƒ技術需求(Hows)    „技術目標(How muches)\n【4】11.下列何者不是巨量資料(Big Data)的特性？                                                                【3】35.於一軟體專案中，若使用某軟體組件，有 20％的機會將難以整合，因重工(rework)和延誤，將需耗資 30,000\n  •巨量(Volume)                 ‚即時性(Velocity) ƒ多樣性(Variety)               „可用性(usability)        元；但有 40％的機會，若使用該組件將可節省 80,000 元的時間及勞力成本。請問使用此軟體組件之風險期望貨幣\n【3】12.下列何者並非美國國家技術標準局(NIST)定義的雲端運算之服務模式(service models)？                                        值(Expected Monetary Value, EMV)為何？\n  • Software as a Service                    ‚ Platform as a Service                            • 38,000 元                 ‚ 32,000 元      ƒ 26,000 元     „ - 6,000 元\n  ƒ Security as a Service                    „ Infrastructure as a Service                    【4】36.目前專案之狀態為：原規劃 48,000 小時，目前實獲(earn)45,000 小時，並已花了 46,000 小時。請問成本變異(cost\n【2】13.通常在接收電子郵件時，是使用下列哪一種協定？                                                                    variance, CV)為何？\n  • SMTP                      ‚ POP3         ƒ FTP                       „ ARP                  • 3,000                    ‚ -3,000        ƒ 1,000        „ -1,000\n【2】14.將資料以表格方式儲存，並透過參考的關係來查詢相關資料，是屬於何種的資料模型？                                                  【4】37.目前專案之狀態為：原規劃 38,000 小時，目前實獲(earn)35,000 小時，並已花了 36,000 小時。請問時程績效指\n  •階層式                        ‚關聯式           ƒ網狀式                        „物件導向式                 數(schedule performance index, SPI)為何？\n【3】15.對於有 n 層的二元樹，其節點數最多有幾個？                                                                    •",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "0857                   ‚",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "0556       „",
-    "options": [],
-    "answer": "2"
+    "number": "2",
+    "text": "下列哪一種營運持續方式最昂貴？",
+    "options": [
+      "�熱備援地點",
+      "�冷備援地點",
+      "�彈性備援地點 �分層備援地點"
+    ],
+    "answer": "1"
   },
   {
     "number": "3",
-    "text": "5                     ƒ4                    „5                 資訊資源在安全防護上有哪些重要的工具與技術？【10 分】\n【3】46.就專案風險管理而言，下列何者為風險擁有者(owner)？\n  •使風險發生的人                                          ‚與風險無關的人\n  ƒ負責風險應變計畫(response plan)的人                        „向利害相關者(stakeholder)解釋風險的人\n【2】47.溝通是專案成功之關鍵。專案經理與其他 2 位利害相關者(stakeholder)間需兩兩相互溝通，故共需 3 個溝通管\n  道。若新加入 2 位利害相關者，請問專案經理與所有利害相關者間共需多少個溝通管道？                                                  題目二：\n  •7                      ‚ 10                      ƒ 12                  „ 16\n【4】48.專案管理定義範圍(Define Scope)過程之主要輸出為何？\n                                                                                               雲端運算日益受到重視，請回答下列問題：\n  •需求文件(Requirements Documentation)                 ‚成本定義(Cost Definition)                     （一）根據美國國家技術標準局(National Institute of Standards and Technology, NIST)所定\n  ƒ範圍辭典(Scope Dictionary)                           „專案範圍說明書(Project Scope Statement)\n                                                                                                  義的內容，雲端運算有哪五大重點特徵(Essential Characteristics)？【5 分】\n【4】49.控制時程(control schedule)、報告績效(report performance)及管理採購(administer procurement)屬於哪個過程群組\n  (process group)的主要輸出？                                                                        （二）另 根 據 NIST 所 定 義 的 內 容 ， 雲 端 運 算 服 務 有 哪 四 大 部 署 方 式 (Deployment\n  •啟始(Initiating)                                   ‚規劃(Planning)                                 Models)？【5 分】\n  ƒ執行(Executing)                                    „監控(Monitoring and Control)\n【1】50.下列何者不發生於規劃(Planning) 過程群組中？\n  •發展專案章程(Project Charter)                          ‚產生 WBS(Work Breakdown Structure)\n  ƒ估計成本                                             „排序活動(sequence activities)\n【4】51.下列哪個過程群組通常花費最多專案時間及資源？                                                                 題目三：\n  •規劃(Planning)                                     ‚啟始(Initiating)\n  ƒ監控(Monitoring and Controlling)                   „執行(Executing)                               假設某資訊專案建置成本為 100,000 元，完成後每年之利益及維護成本如下：\n【2】52.若某活動之樂觀估計為 12 天，悲觀估計為 18 天，請問此活動之標準差(standard deviation)為何？                                    年度  第0年   第1年 第2年 第3年       合計\n  •",
-    "options": [],
+    "text": "請問下列哪項弱點會直接影響瀏覽器 ( 如下載惡意病毒碼 ) ？",
+    "options": [
+      "Security Misconfiguration � Broken Authentication and Session Management",
+      "SQL Injection � Cross-Site Scripting (XSS)"
+    ],
     "answer": "4"
   },
   {
-    "number": "1",
-    "text": "3                   ‚1                        ƒ3                    „6\n【4】53.請問下列哪個數列表示直線折舊法(straight line depreciation)之每期折舊金額？                                                (建置)\n                                                                                                                 (元)    (元)  (元) (元)\n  • $1600, $1400, $1000                             ‚ $1000, $1200, $1400\n  ƒ $1000, $1200, $1600                             „ $1000, $1000, $1000\n【3】54.於常態分佈中，由平均值向左右各 3 個 sigma，所佔面積為整體的百分之幾？\n                                                                                                        利益                 45,000   50,000   57,000   152,000\n  •",
-    "options": [],
+    "number": "4",
+    "text": "下列不同數字系統的數值，何者數值最大？",
+    "options": [
+      "42(5) � 123(8) � 96(10) � 1010110",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "15",
+    "text": "對於有 n 層的二元樹，其節點數最多有幾個？ � 2n � n",
+    "options": [
+      "� 2[n] -1 � n",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "下列關於電子郵件的敘述，何者有錯誤？",
+    "options": [
+      "�電子信件一定是郵件的寄件者所寄發的",
+      "�為安全考量，不要啟用收信軟體的預覽機制",
+      "�數位簽章過的電子郵件，在收件軟體下會有特殊圖案標示",
+      "�可以透過 S/MIME 傳送加密的電子郵件"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "33",
+    "text": "有團隊成員提議可減少 2 個月時程之變更，專案經理應該做的第一件事為何？",
+    "options": [
+      "�提出變更請求 (change request) ，看看是否能得到變更控制委員會核准",
+      "�應立即執行此變更，因為此將節省時間，沒人會反對",
+      "�於提出變更請求前，先釐清此變更對專案工作範圍及成本的影響",
+      "�告訴團隊成員，已定好專案的最後期限，所以現在不能做任何變更"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "42",
+    "text": "業主要求專案經理預估完成專案的成本。下列哪二者為用於預估專案成本的最佳指標？",
+    "options": [
+      "V) \n\n   - �未完工估算 (estimate to complete, ET",
+      "及完工變異 (variance at completion, VA",
+      "�時程績效指數 (schedule performance index, SPI) 及成本績效指數 (cost performance index, CPI) \n\n   - �實獲值 (earned value, EV) 及實際成本 (actual cost, A",
+      ""
+    ],
     "answer": "2"
+  },
+  {
+    "number": "43",
+    "text": "根據馬斯洛人類需求層次 (Maslow's hierarchy of needs) 理論，下列何者屬最高層次需求？",
+    "options": [
+      "�生理需求 (physiological needs)",
+      "�社會需求 (social needs)",
+      "�自我實現需求 (self-fulfillment or self-actualization needs)",
+      "�安全需求 (safety needs)"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "某過程有 2 個獨立變異源 (sources of variation) 。第 1 個變異源之標準差為 3 個單位，而第 2 個變異源之標準差",
+    "options": [
+      "為 4 個單位。則此過程的標準差為何？",
+      "7 �"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "53",
+    "text": "請問下列哪個數列表示直線折舊法 (straight line depreciation) 之每期折舊金額？",
+    "options": [
+      "$1600, $1400, $1000 � $1000, $1200, $1400",
+      "$1000, $1200, $1600 � $1000, $1000, $1000"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "60",
+    "text": "假設年利率為 8% ，則 2 年後之 20,000 元，其現值應為何？ � 17,147 元 � 18,519 元 � 20,000 元 � 23,328 元 \n\n## 10 貳、非選擇題四大題（每大題 分） 題目一： \n\n隨著科技發展日新月異與資訊系統的廣泛建置，資訊系統的安全議題日益重要，請詳述 10 資訊資源在安全防護上有哪些重要的工具與技術？【 分】 \n\n## 題目二： \n\n## 雲端運算日益受到重視，請回答下列問題：",
+    "options": [
+      "（一）根據美國國家技術標準局 (National Institute of Standards and Technology, NIST) 所定 義的內容，雲端運算有哪五大重點特徵 (Essential Characteristics) ？【 5 分】",
+      "（二）另根據 NIST 所定義的內容，雲端運算服務有哪四大部署方式 (Deployment Models) ？【 5 分】",
+      "假設不考量折現現金流量 (discounted cash flow, DCF) ，請計算： （一）此專案之投資報酬率 (return on investment, ROI) 為何？【 5 分】",
+      "（二）此專案之損益平衡點 (Break Even Point, BEP) 為第幾年？【 5 分】",
+      "（二）請簡單解釋「固定成本 (Fixed Cost) 」與「變動成本 (Variable Cost) 」之差異。【 4 分】"
+    ],
+    "answer": "1"
   }
 ]

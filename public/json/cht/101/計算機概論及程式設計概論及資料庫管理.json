@@ -1,98 +1,205 @@
 [
   {
     "number": "15",
-    "text": "作業系統中的排程演算法是非常重要的，負責排程進來的程序，如果有 5 個程序(Process)，P1~P5 依序進入到\n遴選類別【代碼】 ：資訊類專業職(三)專員【C220",
+    "text": "作業系統中的排程演算法是非常重要的，負責排程進來的程序，如果有 5 個程序 (Process) ， P1~P5 依序進入到 這個作業系統中要求執行，這 5 個程序所需要的服務時間依序分別是 75 秒、 100 秒、 55 秒、 126 秒及 48 秒，如果 所使用的排程演算法是先到先服務 (First Come First Served: FCFS) 的演算法，則這 5 個程序的平均迴轉時間 (Turnaround time) 為何？ � 124 � 248 � 300 � 320 \n\n**專業科目：",
     "options": [
-      "這個作業系統中要求執行，這 5 個程序所需要的服務時間依序分別是 75 秒、100 秒、55 秒、126 秒及 48 秒，如果\n                                                                                             所使用的排程演算法是先到先服務(First Come First Served: FCFS)的演算法， 則這 5 個程序的平均迴轉時間\n專業科目：",
       "計算機概論、",
-      "程式設計概論及資料庫管理                                                                (Turnaround time)為何？\n                                                     ＊請填寫入場通知書編號： _______________            • 124                     ‚ 248                 ƒ 300                  „ 320\n注意：•作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請"
+      "程式設計概論及資料庫管理** \n\n   - ＊請填寫入場通知書編號： _______________ \n\n- 注意：�作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請 監試人員處理，否則不予計分。 \n\n- �本試卷為一張雙面，測驗題型分為【四選一單選選擇題 60 題，每題配分 1 分】與【非選擇題 4 題，每題配分 10 分】。 \n\n\n\n- 1 60 1 \n\n- 第 部份：四選一單選選擇題 題（每題 分）"
     ],
     "answer": "2"
   },
   {
+    "number": "26",
+    "text": "目前手持設備所使用的標記語言，仍未有共通的產業標準，下列何者非屬之？",
+    "options": [
+      "WML(Wireless Markup Language) � AHTML(Access HyperText Markup Language)",
+      "� CHTML(Compact HyperText Markup Language) � XHTML(The eXtensible HyperText Markup Language)"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "9",
+    "text": "有關「數位浮水印」（ Digital Watermarking ）的敘述，下列何者錯誤？",
+    "options": [
+      "�利用數位處理的方式把隱藏資訊加入在數位圖片當中的技術",
+      "�目的在保護電子文件或圖片的著作權",
+      "�可將一些智慧財產權的訊息，例如原作者，擁有者，出版處，連絡公司地址等等隱藏在數位媒體產品",
+      "�浮水印加入後之數位資料與原資料的差異是可以用肉眼辨識出來，但不致喪失原始資料之價值",
+      "�組合語言跟 CPU 有絕對相關，不同 CPU 的組合語言是不能被執行的"
+    ],
+    "answer": "4"
+  },
+  {
     "number": "10",
-    "text": "設 A 的值為 0000000，B 的值為 1000000，則經過(A OR",
+    "text": "設 A 的值為 0000000 ， B 的值為 1000000 ，則經過 (A OR",
     "options": [
       "AND (NOT",
-      "運算後的結果為何？                         •組合語言跟 CPU 有絕對相關，不同 CPU 的組合語言是不能被執行的\n  • 0000000                   ‚ 1111111                   ƒ 1000000           „ 0111111      ‚組合語言的程式需要經過組譯器才可以轉換成機器碼"
+      "運算後的結果為何？ \n\n   - �組合語言的程式需要經過組譯器才可以轉換成機器碼 \n\n- 0000000 � 1111111 � 1000000 � 0111111 \n\n   - �組合語言是一種以簡單的助憶符號所構成的語言，比機器語言容易懂"
     ],
     "answer": "1"
   },
   {
     "number": "29",
-    "text": "二元搜尋樹是一種常用的樹狀結構，如果有 1,000 筆資料要加入到一個二元樹中，則此二元樹最多及最少的層\n                     for(j=1; j<=i; j=j+",
+    "text": "二元搜尋樹是一種常用的樹狀結構，如果有 1,000 筆資料要加入到一個二元樹中，則此二元樹最多及最少的層 數各為多少？ � 1000 ， 9 � 1000 ， 10 � 512 ， 9 � 512 ， 10",
     "options": [
-      "數各為多少？\n                           for(k=1; k<=j; k=k+",
-      "• 1000，9                   ‚ 1000，10                  ƒ 512，9                    „ 512，10\n                                if (i==j )"
+      "0; i=i+",
+      "for(j=1; j<=i; j=j+",
+      "for(k=1; k<=j; k=k+",
+      "if (i==j ) count = count + 1; \n\n- � 1000 � 150 � 55 � 45"
     ],
     "answer": "2"
+  },
+  {
+    "number": "30",
+    "text": "在網際網路的應用中， Web Service 是一種呼叫遠端服務的方法，下列何種相關的語言、技術或協定不是用在 Web Service 中？",
+    "options": [
+      "SOAP (Simple Object Access Protocol) � WSDL(Web Service Description Language)",
+      "CORBA (Common Object Request Broker Architecture)"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "12",
+    "text": "假設某二元樹 (binary tree) 經前序 (Preorder) 追蹤可得一次序為 ABCDEFGH ，經中序 (Inorder) 追蹤可得一次序為 CDBAFEHG ，則此樹經後序 (Postorder) 追蹤後的次序為何？",
+    "options": [
+      "DI (Universal Description, Discovery and Integration) \n\n【 3",
+      "int n = 0; 】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "31",
+    "text": "右列片段程式【 3",
+    "options": [
+      "執行後， x 值為何？ int x = 0; � 55 int x = 0; do { for (int i = 0 ; i <= 10; i++){ x += n; � 45 if (i%2==0){ n++; � 9 continue; }while (n < 10); 【 3",
+      "� 0 } x += i; 】"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "13",
+    "text": "有關電腦使用的權利伸張，下列敘述何者錯誤？",
+    "options": [
+      "�無故洩漏因利用電腦或其他相關設備知悉或持有他人之秘密者，在國家法令的刑法有明文罰則",
+      "�研究生在碩士論文中想引用他人著作，只要在合理範圍內可以直接引用，不必付權利金，但要註明出處 �為尊重智慧財產權，使用者對於電腦軟體之取得應建立正確觀念，使用複製軟體的用戶需付版權費給購買原版軟 體者",
+      "�拷貝一具有著作權登記之電腦軟體的行為，係侵害著作權人的重製權"
+    ],
+    "answer": "3"
   },
   {
     "number": "33",
     "text": "C 語言中宣告 int Ary",
     "options": [
       "",
-      "= {{-2,4,12,6}, {-3,9,3,6}, {13,5,2,7},   int i = 3;"
+      "= {{-2,4,12,6}, {-3,9,3,6}, {13,5,2,7},"
     ],
     "answer": "1"
   },
   {
-    "number": "55",
-    "text": "使用 SQL 的 SELECT 命令查詢資料時，若希望所查到的資料按照一個屬性值由大而小排列，需用到：\n  {2, 10, 8, 23}};，Ary",
+    "number": "34",
+    "text": "右列片段程式【 3",
     "options": [
-      "",
-      "之值為何？                                      int x = 0;                         • ASCII                  ‚ ASC              ƒ DECR                   „ DESC\n                                                               【3",
-      ""
+      "執行後， x 值為何？ int i = 1; � 0 � 1 【 35 】 int x = (i <<",
+      "; � 2 � 3 printf(\"%d\", x); 】"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "37",
+    "text": "下列何者不是 C++ 預設的轉型關鍵字？",
+    "options": [
+      "const_cast � dynamic_cast",
+      "reinterpret_cast � explicit_cast"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "44",
+    "text": "有關 C++ 字串操作的函數，下列敘述何者錯誤？",
+    "options": [
+      "strlen 用來取得字串的長度 � strupr 用來將大寫字母轉換為小寫字母",
+      "strcpy 用來將字串的內容複製到另一個字串中 � strchr 可找出字串裡某個特定字元"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "45",
+    "text": "針對資料結構中，堆疊 (Stack) 及佇列 (Queue) 的敘述，下列何者錯誤？",
+    "options": [
+      "�堆疊的特性是後進先出，佇列的特性是先進先出 �無論是堆疊或佇列皆可實作出 Linked List",
+      "�作業系統常用佇列來記錄各個程序 (Process) 的資訊",
+      "�程式語言的直譯器是利用堆疊技術來記錄函數呼叫時的資訊"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "47",
+    "text": "若資料庫中只有資料表 R 與 S ，資料表 R 中沒有外來鍵 (foreign key) ，資料表 S 中有外來鍵參照 (reference) 到 R ， 今對資料庫做：",
+    "options": [
+      "刪除 R 中的資料；",
+      "刪除 S 中的資料，則哪種操作會導致違反 referential integrity constraint ？ �僅 A �僅 B � A, B 都會 � A, B 都不會"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "49",
+    "text": "Relation algebra 中的 DIVISION 可以用哪些 operations 取代？",
+    "options": [
+      "SELECT, PROJECT, MINUS",
+      "PROJECT, MINUS, CROSS PRODUCT",
+      "PROJECT, INTERSECTION, CROSS PRODUCT",
+      "SELECT, INTERSECTION, CROSS PRODUCT"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "51",
+    "text": "下列何者是資料庫的 transaction 必須具備的特性？",
+    "options": [
+      "Atomicity",
+      "Isolation",
+      "Transparency �僅 A 、 B �僅 B 、 C �僅 A 、 C � A 、 B 、 C"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "53",
+    "text": "三層式綱要結構 (three-schema architecture) 區分 External, Conceptual, Internal 三層 schema ，因此具有下列何項 特性？",
+    "options": [
+      "Application Dependence",
+      "Application Independence",
+      "Data Dependence",
+      "Data Independence"
     ],
     "answer": "4"
   },
   {
     "number": "56",
-    "text": "下列何者為 ER model 中關係型態(relationship type)的限制(constraint)？",
+    "text": "下列何者為 ER model 中關係型態 (relationship type) 的限制 (constraint) ？",
     "options": [
       "cardinality ratio",
-      "participation\n  •8                                             ‚5                    i % 2 ? x = x + 1 : x = x + 2;\n                                                                       cout << x << endl;",
-      "referential\n  ƒ 10                                           „ 12                                                     •僅",
-      "B                   ‚僅",
-      "C             ƒ僅",
-      "C                   „",
-      ""
+      "participation",
+      "referential �僅 A 、 B �僅 B 、 C �僅 A 、 C � A 、 B 、 C"
     ],
     "answer": "1"
   },
   {
-    "number": "44",
-    "text": "有關 C++字串操作的函數，下列敘述何者錯誤？                                                                           題目二：\n  • strlen 用來取得字串的長度                             ‚ strupr 用來將大寫字母轉換為小寫字母                                    請回答下列問題：\n  ƒ strcpy 用來將字串的內容複製到另一個字串中                     „ strchr 可找出字串裡某個特定字元\n                                                                                                            （一）下列為一段 Java 程式碼，請問執行後 x[0]、x",
+    "number": "60",
+    "text": "如果 primary key 中有部份屬性 (attributes)functionally determine 了 nonprime attributes ，則違反了： � 1NF � 2NF � 3NF � BCNF \n\n2 10 第 部份：非選擇題四大題（每大題 分） \n\n題目一： 一個關聯式資料庫表格的綱要如下所示：",
     "options": [
-      "、x",
-      "、x",
-      "、x",
-      "、x[5]的值分別為何？【5 分】"
+      ", B, C, D, E, F) \n\n- R 為表格名稱， A, B, C, D, E, F 為表格的六個屬性，皆為單一值屬性 (Single-valued Attribute) ，組合屬性 \n\n- (Composite Attribute) (A,",
+      "為表格的主鍵 (Primary Key) ，同時也是該表格唯一的候選鍵 (Candidate Key) 。另 外，此表格包含下列功能相依： \n\n      - (A,",
+      "→ C \n\n      - A → D \n\n      - B → E \n\n      - D → F \n\n   - （一）請問表格 R 符合第幾正規型式 (Normal Form) ？請說明原因。【 4 分】 \n\n- （二）請將表格 R 做正規化 (Normalization) ，產生適當正規型式的表格。並請寫出每一個表格的綱要， 6 \n\n- 包括表格名稱、屬性、主鍵、以及外來鍵（如果有外來鍵的話）。【 分】 \n\n- 題目二： 請回答下列問題： \n\n   - （一）下列為一段 Java 程式碼，請問執行後 x[0] 、 x",
+      "、 x",
+      "、 x",
+      "、 x",
+      "、 x[5] 的值分別為何？【 5 分】 int i, j, k, x[ ] = { 25,73,45,16,33,8 }; for (i=0; i<5; i++) { \n\n         - for (j=(i+",
+      "; j<6; j++) { \n\n\n\n         - x[i]=k; \n\n      - } \n\n      - } \n\n- （二）若將上面程式碼最後一個敘述改成 x[j]=k; ，請問執行後 x[0] 、 x",
+      "、 x",
+      "、 x",
+      "、 x",
+      "、 x[5] 的值 5 \n\n- 又分別為何？【 分】 \n\n- 題目三： 某公司每月須進行《薪資計算》工作，其中經理人月薪為底薪加 30,000 元主管加給，一般員工月薪為 \n\n- 底薪加 10,000 元專業加給。請以 C++ 或 Java 設計下列程式： \n\n- （一）請設計一個基礎類別 Employee 【 2 分】，內含計算薪資的虛擬函式 (virtual function) calculateSalary() 。 （二）請設計經理人衍生類別 (derived class)Manager 【 2 分】，及一般員工衍生類別 Staff 【 2 分】，分別 繼承於第（一）小題之基礎類別，並實作 (implement) 計算薪資的虛擬函式。 \n\n- （三）運用多型 (polymorphism) 技術設計一主程式，底薪設定為 24,000 元，能計算【 2 分】並印出【 2 分】此公司經理人與員工之薪資。 \n\n- 題目四： \n\n   - 若某企業資料庫中紀錄員工資料的關聯式 (relational) 資料表 (table) 之 schema 如下： Employee (EmpNum, Name, Salary, SupNum) \n\n各屬性 (attribute) 之意義依序為員工代碼、姓名、月薪、直屬長官員工代號，其中 EmpNum 為主鍵 (PK) ； SupNum 為外來鍵 (FK) ，參照到 Employee 的 EmpNum 。請寫一 SQL 命令，查出每一位月薪在 50,000 元以 上的員工（有管轄員工者）所直接管轄的員工，查詢結果包括上司姓名及下屬姓名，且必須依上司姓名順 10 序再依下屬姓名順序排列。【 分】"
     ],
     "answer": "2"
-  },
-  {
-    "number": "48",
-    "text": "使用 SQL 制訂 foreign key 時，可在 ON DELETE 子句中用：                                                                     }\n  • REJECT 及 ACCEPT                              ‚ ASSERT 及 TRIGGER                                         （二）若將上面程式碼最後一個敘述改成 x[j]=k;，請問執行後 x[0]、x",
-    "options": [
-      "、x",
-      "、x",
-      "、x",
-      "、x[5]的值\n  ƒ RESTRICT 及 CASCADE                           „ CASCADE 及 TRIGGER"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "51",
-    "text": "下列何者是資料庫的 transaction 必須具備的特性？A. Atomicity",
-    "options": [
-      "Isolation",
-      "Transparency                                      繼承於第（一）小題之基礎類別，並實作(implement) 計算薪資的虛擬函式。\n  •僅",
-      "B                      ‚僅",
-      "C             ƒ僅",
-      "C                  „",
-      ""
-    ],
-    "answer": "1"
   }
 ]

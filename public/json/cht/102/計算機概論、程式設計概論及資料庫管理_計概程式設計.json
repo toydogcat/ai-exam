@@ -1,31 +1,187 @@
 [
   {
-    "number": "21",
-    "text": "網路線上交談時，若想讓交談對方看到即時動態影像，最主要應使用何種設備？\n專業科目：",
+    "number": "3",
+    "text": "請問下列哪項弱點會直接影響瀏覽器 ( 如下載惡意病毒碼 ) ？",
     "options": [
-      "計算機概論",
-      "程式設計概論及資料庫管理                                                                  •數位相機                ‚數位攝影機       ƒ掃描器           „視訊攝影機\n                                                       ◎請填寫入場通知書編號：________________"
+      "Security Misconfiguration",
+      "Broken Authentication and Session Management",
+      "SQL Injection",
+      "Cross-Site Scripting (XSS)"
     ],
     "answer": "4"
   },
   {
-    "number": "8",
-    "text": "企業組織針對進階的持續性滲透攻擊(APT)因應，何者錯誤？                                                                          float RSUM(float list[], int n)\n  •防火牆愈多道愈安全                                ‚應提升全組織的資安素養                                                    {if (n) return RSUM(list,n –",
+    "number": "4",
+    "text": "下列不同數字系統的數值，何者數值最大？",
     "options": [
-      "+ list[n –",
-      ";\n  ƒ要預防員工成為脆弱點                               „需隨時注意漏洞更新                                                           return list[0];}"
+      "42(5) � 123(8) \n\n   - 96(10) � 1010110",
+      ""
     ],
     "answer": "1"
   },
   {
-    "number": "55",
-    "text": "將資料表 R1 與 R2 執行“差集”(difference)運算，試問 R1 – R2 之計算結與下列何者相等？\n                          int x=1;                                                                               • R1 – (R1 ∩ R",
+    "number": "15",
+    "text": "對於有 n 層的二元樹，其節點數最多有幾個？ � 2n � n",
     "options": [
-      "‚ R2 – (R1 ∩ R",
-      "ƒ R1 – (R1 ∪ R",
-      "„ R2 – (R1 ∪ R",
-      "x=x/sum;"
+      "� 2[n] -1 � n",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "下列關於電子郵件的敘述，何者錯誤？",
+    "options": [
+      "�電子信件一定是郵件的寄件者所寄發的 �為安全考量，不要啟用收信軟體的預覽機制",
+      "�數位簽章過的電子郵件，在收件軟體下會有特殊圖案標示",
+      "�可以透過 S/MIME 傳送加密的電子郵件"
     ],
     "answer": "1"
+  },
+  {
+    "number": "32",
+    "text": "在執行下列 C 語言程式碼片段過程中， “if(n)” 指令會被執行幾次？ \n\nfloat RSUM(float list[], int n) {if (n) return RSUM(list,n –",
+    "options": [
+      "+ list[n –",
+      "; return list[0];} � n-1 � n � n+1 � n+2"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": "在 JAVA 中假設有五個執行緒 (threads) 都在等待同一個物件，當這個物件的 notify method 被呼叫時，下列敘述 何者正確？ �一定是第一個被生成的執行緒會變成 runnable 的狀態",
+    "options": [
+      "�有一個執行緒會變成 runnable 的狀態，但一般使用者無法確知是哪一個",
+      "�一定是等待最久的那個執行緒會變成 runnable 的狀態",
+      "�所有的執行緒都會變成 runnable 的狀態"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "35",
+    "text": "有一 File 類別物件 f ，它將以方法 exists 檢查該檔案是否存在，下列 JAVA 程式碼何者最適宜？",
+    "options": [
+      "Exception e= new IOException( “File not found!”);",
+      "if (!f.exists()) throw “File not found!”);",
+      "if (!f.exists()) throw new IOException ();",
+      "if (!f.exists()) throw new IOException ( “File ” +f.getName()+ “not found!”);"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "39",
+    "text": "下列 JAVA 例外 (exception) 的程式碼寫法，何者錯誤？",
+    "options": [
+      "try {obj.anymethod();} catch(Exception e){} finally{} � try {obj.anymethod();} catch(Exception e){}",
+      "try {obj.anymethod();} finally{} � try {obj.anymethod();}"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "40",
+    "text": "下列哪一種物件會產生改變事件 ChangeEvent ？",
+    "options": [
+      "javax.swing.JSlider",
+      "javax.swing.JScrollBar",
+      "javax.swing.JScrollPane.ScrollBar",
+      "javax.awt.Scrollbar"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "41",
+    "text": "下列哪一個類別不會產生 ActionEvent 事件？",
+    "options": [
+      "JMenu � JTextField",
+      "JButton � JTextArea"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "42",
+    "text": "下列 JAVA 介面 (interface) 的做法，何者錯誤？",
+    "options": [
+      "private interface Exam {int i=5; String mth(int j)}",
+      "public interface Exam {int i; String mth(int j)}",
+      "interface Exam {int i=5} � interface Exam {String mth( )}"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "43",
+    "text": "在 JAVA 中，下列關於建構子 (constructor) 的敘述，何者錯誤？ �建構子可以覆載 (overload) ，以提供初始類別物件的各種方法",
+    "options": [
+      "�建構子是與類別同名的方法",
+      "�當物件建立時，其成員由建構子方法初始化",
+      "�建構子必須指定傳回型態或傳回值"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "45",
+    "text": "在 Visual Basic 中，若欲避免表單視窗被遮蓋後留下空白區時，則應設定下列何種屬性？",
+    "options": [
+      "AutoRedraw=True",
+      "ControlBox=True",
+      "Appearance=1",
+      "ClipControls=True"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "有關於資料庫系統設計 (database design) 之程序，下列所示之流程，何者正確？",
+    "options": [
+      "�概念設計→需求分析→邏輯設計→實體設計 �需求分析→概念設計→邏輯設計→實體設計",
+      "�概念設計→需求分析→實體設計→邏輯設計 �需求分析→概念設計→實體設計→邏輯設計"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "53",
+    "text": "將資料表進行正規化 (normalization) 之程序，下列所示之順序，何者正確？",
+    "options": [
+      "BCNF → 1NF → 2NF → 3NF",
+      "1NF → BCNF → 2NF → 3NF",
+      "1NF → 2NF → 3NF → BCNF",
+      "1NF (first normal form) � 2NF (second normal form)",
+      "3NF (third normal form) � 4NF (fourth normal form)"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "55",
+    "text": "將資料表 R1 與 R2 執行 “ 差集 ”(difference) 運算，試問 R1 – R2 之計算結與下列何者相等？",
+    "options": [
+      "– (R1 ∩ R",
+      "� R2 – (R1 ∩ R",
+      "� R1 – (R1 ∪ R",
+      "� R2 – (R1 ∪ R",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "59",
+    "text": "於 SQL 查詢指令的基本語法中，下列何者為正確的表示式？",
+    "options": [
+      "SELECT * FROM … � SELECT * WHERE …",
+      "SELECT * ORDER BY … � SELECT * GROUP BY …"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "60",
+    "text": "有關 SQL 查詢句之子句間 “ 執行次序 ” ，請問下列所示何者正確？",
+    "options": [
+      "SELECT → FROM → WHERE → ORDER BY � FROM → SELECT → WHERE → ORDER BY",
+      "FROM → WHERE → SELECT → ORDER BY",
+      "FROM → WHERE → ORDER BY → SELECT",
+      "（一）根據美國國家技術標準局 (National Institute of Standards and Technology, NIST) 所定 義的內容，雲端運算有哪五大重點特徵 (Essential Characteristics) ？【 5 分】",
+      "（二）另根據 NIST 所定義的內容，雲端運算服務有哪四大部署方式 (Deployment Models) ？【 5 分】",
+      "當 i>2 ai=ai-1+ai-2 10",
+      "【 分】"
+    ],
+    "answer": "4"
   }
 ]

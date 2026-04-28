@@ -1,20 +1,55 @@
 [
   {
-    "number": "16",
-    "text": "下列何者只能使用於 TCP/IP 網路，但卻是目前網路使用最廣泛的「認證」技術？\n         中華電信股份有限公司 101 年從業人員(基層專員)遴選甄試試題\n                                                                                            • KDC(Key Distribution Center)                     ‚ Kerberos V4 認證系統\n遴選類別【代碼】 ：資訊類專業職(三)專員【C240",
+    "number": "5",
+    "text": "Android 手機與 Google Wallet 的風險大多來自下列何者？",
     "options": [
-      "ƒ Needham-Schroeder 認證協定                           „ Time stamp 技術\n專業科目：",
-      "網路與資訊安全、",
-      "程式設計概論及資料庫管理"
+      "PP",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "10",
+    "text": "將資料庫中隱含的或潛在有用的資料萃取出之過程，其專業用詞稱為：",
+    "options": [
+      "�資料探勘 (data mining)",
+      "�資料規劃 (data planning)"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "有關 HTTP 協定中的 cookie 敘述，下列何者錯誤？",
+    "options": [
+      "�它是存於電腦中的一個小文字檔案它是存於電腦中的一個小文字檔案",
+      "�它是存於電腦中的一個小文字檔案它是存於電腦中的一個小文字檔案 �由伺服器經由瀏覽器寫入使用者電腦中 �拒絕 cookie 仍可使用所有個人化服務 �可用來確認使用者身份"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "16",
+    "text": "下列何者只能使用於 TCP/IP 網路，但卻是目前網路使用最廣泛的「認證」技術？",
+    "options": [
+      "Kerberos V4 認證系統",
+      "Time stamp 技術"
     ],
     "answer": "2"
   },
   {
     "number": "31",
-    "text": "右列片段程式【3",
+    "text": "右列片段程式【 3",
     "options": [
-      "執行後，x 值為何？\n  •資料倉儲(data warehouse)                    ‚資料搜尋(data exploration)                                                                                                         【3",
-      "int n = 0;\n                                                                                            • 55\n  ƒ資料探勘(data mining)                       „資料規劃(data planning)                                                                                                                 int x = 0;\n                                                                                            ‚ 45                                                                                do {"
+      "執行後， x 值為何？ � 55 【 3",
+      "int n = 0; int x = 0; � 45 do { � 9 x += n; � 0 n++; int x = 0; }while (n < 10);"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "32",
+    "text": "右列片段程式【 3",
+    "options": [
+      "執行後， x 值為何？ for (int i = 0 ; i <= 10; i++){ � 25 if (i%2==0){ continue; � 16 【 3",
+      "} � 10 x += i; if (x >= 16){ � 9 break; } }"
     ],
     "answer": "2"
   },
@@ -23,52 +58,108 @@
     "text": "C 語言中宣告 int Ary",
     "options": [
       "",
-      "= {{-2,4,12,6}, {-3,9,3,6}, {13,5,2,7},          int i = 3;"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "55",
-    "text": "使用 SQL 的 SELECT 命令查詢資料時，若希望所查到的資料按照一個屬性值由大而小排列，需用到：\n  {2, 10, 8, 23}};，Ary",
-    "options": [
+      "= {{-2,4,12,6}, {-3,9,3,6}, {13,5,2,7}, int i = 3; {2, 10, 8, 23}}; ， Ary",
       "",
-      "之值為何？                                             int x = 0;                         • ASCII                  ‚ ASC              ƒ DECR                   „ DESC\n                                                                      【3",
-      ""
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "56",
-    "text": "下列何者為 ER model 中關係型態(relationship type)的限制(constraint)？",
-    "options": [
-      "cardinality ratio",
-      "participation\n  •8                                               ‚5                         i % 2 ? x = x + 1 : x = x + 2;\n  ƒ 10                                             „ 12                       cout << x << endl;",
-      "referential"
+      "之值為何？ 【 3",
+      "int x = 0; � 8 � 5 i % 2 ? x = x + 1 : x = x + 2; � 10 � 12 cout << x << endl;"
     ],
     "answer": "1"
   },
   {
     "number": "34",
-    "text": "右列片段程式【3",
+    "text": "右列片段程式【 3",
     "options": [
-      "B                   ‚僅",
-      "C             ƒ僅",
-      "C                   „",
-      ""
+      "執行後， x 值為何？ � 0 � 1 int i = 1; � 2 � 3 【 35 】 int x = (i <<",
+      ";"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "42",
+    "text": "若 Student 為 Person 的衍生類別 (Derived Class) ，且 Undergraduate 為 Student 的衍生類別，下列 Java 程式哪一 個錯誤？",
+    "options": [
+      "Person p1 = new Student();",
+      "Undergraduate u1 = new Student ();",
+      "Person p2 = new Undergraduate(); � Object ob = new Student();"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "44",
+    "text": "有關 C++ 字串操作的函數，下列敘述何者錯誤？",
+    "options": [
+      "strlen 用來取得字串的長度 � strupr 用來將大寫字母轉換為小寫字母",
+      "strcpy 用來將字串的內容複製到另一個字串中",
+      "strchr 可找出字串裡某個特定字元"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "45",
+    "text": "針對資料結構中，堆疊 (Stack) 及佇列 (Queue) 的敘述，下列何者錯誤？",
+    "options": [
+      "�堆疊的特性是後進先出，佇列的特性是先進先出 �無論是堆疊或佇列皆可實作出 Linked List",
+      "�作業系統常用佇列來記錄各個程序 (Process) 的資訊",
+      "�程式語言的直譯器是利用堆疊技術來記錄函數呼叫時的資訊"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "47",
+    "text": "若資料庫中只有資料表 R 與 S ，資料表 R 中沒有外來鍵 (foreign key) ，資料表 S 中有外來鍵參照 (reference) 到 R ， 今對資料庫做：",
+    "options": [
+      "刪除 R 中的資料；",
+      "刪除 S 中的資料，則哪種操作會導致違反 referential integrity constraint ？ �僅 A �僅 B � A, B 都會 � A, B 都不會"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "49",
+    "text": "Relation algebra 中的 DIVISION 可以用哪些 operations 取代？",
+    "options": [
+      "SELECT, PROJECT, MINUS",
+      "PROJECT, MINUS, CROSS PRODUCT",
+      "PROJECT, INTERSECTION, CROSS PRODUCT",
+      "SELECT, INTERSECTION, CROSS PRODUCT"
     ],
     "answer": "2"
   },
   {
     "number": "51",
-    "text": "下列何者是資料庫的 transaction 必須具備的特性？A. Atomicity",
+    "text": "下列何者是資料庫的 transaction 必須具備的特性？",
     "options": [
+      "Atomicity",
       "Isolation",
-      "Transparency                                  序再依下屬姓名順序排列。【10 分】\n  •僅",
-      "B                      ‚僅",
-      "C               ƒ僅",
-      "C                  „",
-      ""
+      "Transparency \n\n- �僅 A 、 B �僅 B 、 C �僅 A 、 C � A 、 B 、 C"
     ],
     "answer": "1"
+  },
+  {
+    "number": "53",
+    "text": "三層式綱要結構 (three-schema architecture) 區分 External, Conceptual, Internal 三層 schema ，因此具有下列何項 特性？",
+    "options": [
+      "Application Dependence",
+      "Application Independence"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "56",
+    "text": "下列何者為 ER model 中關係型態 (relationship type) 的限制 (constraint) ？",
+    "options": [
+      "cardinality ratio",
+      "participation",
+      "referential �僅 A 、 B �僅 B 、 C �僅 A 、 C � A 、 B 、 C"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "60",
+    "text": "如果 primary key 中有部份屬性 (attributes)functionally determine 了 nonprime attributes ，則違反了： � 1NF � 2NF � 3NF � BCNF \n\n## 2 10 第 部份：非選擇題四大題（每大題 分） \n\n## 題目一：",
+    "options": [
+      "SMA/CD CD 4 \n\n- （一）乙太網路媒介存取機制 中的 代表什麼？如何運作？【 分】 \n\n- （二）乙太網路標準中為何要限制其最小訊框不得小於 64 bytes ？【 3 分】 \n\n- （三）何謂 VLSM(Variable Length Subnet Mask) 技術？ 【 3 分】 \n\n## 題目二： \n\n- （一）何謂「網管資訊庫 (Management Information Base, MI",
+      "」？【 3 分】 \n\n- （二）何謂「雜湊函數 (Hash Function) 」？請舉一例說明之。【 3 分】 \n\n- （三）何謂「阻斷服務 (Denial of Service, DoS) 」？請舉一例說明之。【 4 分】 \n\n## 題目三： \n\n某公司每月須進行《薪資計算》工作，其中經理人月薪為底薪加 30,000 元主管加給，一般員工月薪為 底薪加 10,000 元專業加給。請以 C++ 或 Java 設計下列程式： \n\n- （一）請設計一個基礎類別 Employee 【 2 分】，內含計算薪資的虛擬函式 (virtual function) calculateSalary() 。 \n\n- （二）請設計經理人衍生類別 (derived class)Manager 【 2 分】，及一般員工衍生類別 Staff 【 2 分】，分別 繼承於第（一）小題之基礎類別，並實作 (implement) 計算薪資的虛擬函式。 \n\n- （三）運用多型 (polymorphism) 技術設計一主程式，底薪設定為 24,000 元，能計算【 2 分】並印出【 2 分】此公司經理人與員工之薪資。 \n\n## 題目四： \n\n- 若某企業資料庫中紀錄員工資料的關聯式 (relational) 資料表 (table) 之 schema 如下： \n\nEmployee (EmpNum, Name, Salary, SupNum) \n\n各屬性 (attribute) 之意義依序為員工代碼、姓名、月薪、直屬長官員工代號，其中 EmpNum 為主鍵 (PK) ； SupNum 為外來鍵 (FK) ，參照到 Employee 的 EmpNum 。請寫一 SQL 命令，查出每一位月薪在 50,000 元以 上的員工（有管轄員工者）所直接管轄的員工，查詢結果包括上司姓名及下屬姓名，且必須依上司姓名順 10 序再依下屬姓名順序排列。【 分】 \n\n- Data Dependence � Data Independence"
+    ],
+    "answer": "2"
   }
 ]

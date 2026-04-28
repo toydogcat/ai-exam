@@ -1,136 +1,45 @@
 [
   {
-    "number": "1",
-    "text": "下列選項，屬於讚美的是：",
+    "number": "51",
+    "text": "",
     "options": [
-      "大筆如椽",
-      "買櫝還珠"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "下列選項，何者時間最短？",
-    "options": [
-      "一秩",
-      "一稔"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "詩文中「東風」、「楊柳」、「桃花」等",
-    "options": [
-      "春",
-      "夏"
+      "checklist",
+      "printer",
+      "notebook",
+      "aircraft"
     ],
     "answer": "1"
   },
   {
-    "number": "4",
-    "text": "下列選項，何者無錯別字？",
+    "number": "52",
+    "text": "",
     "options": [
-      "老身常談",
-      "見危知著"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "5",
-    "text": "下列各組語詞，意義近似的是：",
-    "options": [
-      "棋逢敵手/判若雲泥",
-      "戶限為穿"
+      "need",
+      "needs",
+      "need to",
+      "needed"
     ],
     "answer": "1"
   },
   {
-    "number": "6",
-    "text": "下列各組語詞「」中的字，注音完全相同",
+    "number": "53",
+    "text": "",
     "options": [
-      "粗「獷」/空「曠」",
-      "樑「柱」"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "下列選項，何者最適合祝賀工廠開業題辭",
-    "options": [
-      "賓至如歸",
-      "民胞物與"
+      "start",
+      "starts",
+      "starting",
+      "started"
     ],
     "answer": "1"
   },
   {
-    "number": "8",
-    "text": "本公司足球隊榮獲 102 年全國五人\n近？",
+    "number": "54",
+    "text": "",
     "options": [
-      "出奇制勝",
-      "獨占鰲頭"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "下列選項，何者非指書信？",
-    "options": [
-      "金匱",
-      "尺牘\n共同科目"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "10",
-    "text": "下列選項，何者較不適合壽慶題辭？",
-    "options": [
-      "日月入懷",
-      "椿萱並茂"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "11",
-    "text": "下列歷史人物中，哪兩位的關係可稱為「",
-    "options": [
-      "程頣、程顥",
-      "陶侃、陶潛"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "12",
-    "text": "「追奔逐□、□柯一夢、紫氣□來、剪燭",
-    "options": [
-      "北、南、西、東",
-      "北、南、東、"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "13",
-    "text": "甲君為八十歲，乙君為花甲之年，兩者相",
-    "options": [
-      "十歲",
-      "二十歲"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "14",
-    "text": "下列選項，何者意義與其他 3 個不同",
-    "options": [
-      "積少成多",
-      "集腋成裘"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "15",
-    "text": "本公司面臨國際燃煤、石油、天然氣價格\n層級同仁仍然致力於降低成本或增加收入\n資產、光纖電路出租、降低外購電力成本\n能力」為共同目標並努力的情形與下列哪",
-    "options": [
-      "眾望所歸",
-      "各自為政\n貳、英文：100%\n【單選題： 40 題，每題"
+      "look",
+      "see",
+      "find",
+      "watch"
     ],
     "answer": "1"
   },
@@ -138,143 +47,11 @@
     "number": "55",
     "text": "",
     "options": [
-      "idea\n新進雇用人員甄試試題\n科)\n張)。\n70 分)，須用藍、黑色鋼筆或原子筆在答案卷指定範圍內作\n30 分)及英文單選題 40 題(共 100 分)，須用 2B 鉛筆在答案卡\n不予計分；答案卷作答區計有正反 2 面，不提供額外\n者為答案，各題答對者得該題所配分數，答錯或畫記\n數 3 分之 1，英文科倒扣計至該科之實得分數為零為\n30 分)為零為止；未作答者，不給分亦不扣分。\n面試題。\n卷(卡)繳回，俟該節考試結束後，始得至原試場索取。\n須抄題】\n共 30分；請在『答案卡』題號 1~15畫記作答。】",
-      "羊質虎皮",
-      "得魚忘筌",
-      "一世",
-      "一甲子\n詞，所指的季節為：",
-      "秋",
-      "冬",
-      "故步自封",
-      "一夜知秋\n/門庭若市",
-      "名副其實/虛有其表",
-      "三緘其口/信口開河\n的是：\n/「拄」仗",
-      "「撩」亂/同「僚」",
-      "「裨」益/「脾」氣\n？",
-      "鵬程萬里",
-      "開物成務\n制聯賽冠軍，「比賽獲得冠軍」與下列哪個語詞意義最相",
-      "嶄露頭角",
-      "奔逸絕塵",
-      "魚雁",
-      "雙鯉魚",
-      "南極騰輝",
-      "齒德俱尊\n喬梓」？",
-      "司馬懿、司馬昭",
-      "李賀、李白\n□窗」，成語的缺空處依次排列為：\n西",
-      "南、西、北、東",
-      "西、南、東、北\n差多少歲？",
-      "三十歲",
-      "四十歲\n？",
-      "積土成山",
-      "積非成是\n上漲等不可抗力因素，經營上雖然比較辛苦，但各\n，採取各種措施如減少燃料及材料庫存、活化土地\n、合理化資本支出等，這種以「聚合眾人的智慧和\n個語詞意義最相近？",
-      "洞燭機先",
-      "群策群力\n，共 100 分；請在『答案卡』題號 16~55 畫記作答。】\nge last weekend.",
-      "are",
-      "was",
-      "were\ns? Can you help ___ find them?",
-      "my",
-      "me",
-      "mine\nindow___. It wastes electricity.",
-      "opens",
-      "opening",
-      "opened\nn’t think you ___ anything. The car is just getting old.",
-      "breaks",
-      "broke",
-      "broken\n___ me to a new restaurant next weekend.",
-      "take",
-      "took",
-      "taken\nttle with water each evening.",
-      "fills",
-      "filling",
-      "filled\nhave already ___ to their podcast.",
-      "listens",
-      "listening",
-      "listened\nicy to maintain a sizeable ___ of fuel.",
-      "reserves",
-      "reserving",
-      "reserved\n\nth that question all night.",
-      "wrestles",
-      "wrestling",
-      "wrestled\nhis phone for another one, please.",
-      "exchanges",
-      "exchanging",
-      "exchanged\nlt to the soup, its flavor ___ quite a bit.",
-      "was enhanced",
-      "is enhancing",
-      "could enhance\nrrible. I don’t recommend ___ out.",
-      "ventures",
-      "to venture",
-      "venturing\nted in many years and now we have ___ some new office furniture.",
-      "purchases",
-      "to purchase",
-      "am purchasing\nman ___?",
-      "refers",
-      "referring",
-      "to refer\ndoesn’t have to give a report.",
-      "honestly",
-      "dishonest",
-      "dishonesty\ne company will soon be operating ___ the black.",
-      "in",
-      "on",
-      "up\ndeal ___ criticism, but you have to roll with the punches.",
-      "on",
-      "out",
-      "with\nn glass houses shouldn’t caste stones ___ other people.",
-      "on",
-      "at",
-      "with\n_ her own boss.",
-      "are",
-      "was",
-      "were\nn the summer makes me ___ a lot.",
-      "taste",
-      "believe",
-      "feed\n___ award during the retirement ceremony.",
-      "sick",
-      "scared",
-      "special\nson to this job was a ___. I should have assigned two people.",
-      "quarter",
-      "mistake",
-      "ketchup\near. What ___ do you take?",
-      "size",
-      "wing",
-      "trash\nimportant meeting. My boss was very disappointed.",
-      "late",
-      "long",
-      "left\nout of ___.",
-      "sprite",
-      "lens",
-      "iron\nhe will be on leave next month.",
-      "multiple",
-      "expensive",
-      "financial\n\na popular way to spend a vacation.",
-      "resident",
-      "cruise",
-      "stroke\n___ for the office on Friday.",
-      "prototype",
-      "hemisphere",
-      "stationery\nMarkus. He’s good at his job and a ___ young manager.",
-      "delighted",
-      "habitual",
-      "attractive\nn asked to join a ___ discussion at the conference.",
-      "syrup",
-      "hawk",
-      "panel\ne three ___ at the meeting.",
-      "organs",
-      "scarves",
-      "gowns\nuick to draw conclusions, ___ of what the media says.",
-      "regardless",
-      "in short",
-      "for instance\nthe message by tomorrow afternoon.",
-      "reply",
-      "claim",
-      "grieve\nas been a successful ___ for McDonalds.",
-      "boulder",
-      "garment",
-      "dynasty\nshirts are ___ colors like light pink and yellow.",
-      "behavior",
-      "reward",
-      "pastel\nworking on a group project. They begin by making a 51 of tasks they need to\nsome research and analysis. Then they need to write a report. Finally, they will\na presentation.\nplan, it’s time to 53 work. Sam uses the Internet to 54 the information they\nspreadsheet for the data they find. They create a graph and look at their\ng is wrong. The results don’t make"
+      "idea",
+      "good",
+      "reason",
+      "sense"
     ],
-    "answer": "4"
+    "answer": "1"
   }
 ]
