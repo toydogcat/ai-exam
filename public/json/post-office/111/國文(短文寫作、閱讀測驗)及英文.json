@@ -1,193 +1,41 @@
 [
   {
-    "number": "14",
-    "text": "As winter gets near, some birds are _____",
-    "options": [
-      "interplaying",
-      "retracing"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "15",
-    "text": "What you see here is just a small _____ of\nour restaurant before you come.",
-    "options": [
-      "twig",
-      "portal"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "16",
-    "text": "There’s no need to worry. The condition is",
-    "options": [
-      "tracking",
-      "enacting"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "17",
-    "text": "Ms. Giovani never buys any dairy products",
-    "options": [
-      "flexible",
-      "enthusiastic\n二、文法測驗【請在下列各題中選出最適當的答案】"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "18",
-    "text": "Study halls are usually quieter because pe",
-    "options": [
-      "as much as they",
-      "as they do much"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "19",
-    "text": "_____ you on your recent success.",
-    "options": [
-      "Let me to begin to congratulate",
-      "Me to begin to congratulate"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "20",
-    "text": "No sooner _____ the phone rang again.",
-    "options": [
-      "than he sat down had",
-      "than down he sat"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "21",
-    "text": "Some people consider this necessary, other\nmoney.",
-    "options": [
-      "anothers",
-      "yet others"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "22",
-    "text": "We strongly object to _____ for parking he",
-    "options": [
-      "charge us",
-      "be charged"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "23",
-    "text": "The fires have burnt an area _____ four fo",
-    "options": [
-      "size almost",
-      "of almost size"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "24",
-    "text": "_____ I get to know this place, _____ I wa",
-    "options": [
-      "The more… the longer",
-      "To more… to longer…"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "25",
-    "text": "Technology has changed how people collabor\nperson and to build human connection in new ways",
-    "options": [
-      "we meet",
-      "to meet\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】\nItalians are credited with inventing modern\nin other cuisines. Italy’s version of the dish, e\nlegend      27 , modern pizza—an open-faced pie s\nthe baker Raffaele Esposito in Naples. In 1889, h\ntomatoes, ingredients in the colors of the Italia\nsaid that the Queen enjoyed the pie, and\nimmigrants sold pizza in their stores, and the fi\nStreet in New York City, but pizza did not truly\nItaly, many American and European soldiers tasted\nwith them."
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "26",
-    "text": "",
-    "options": [
-      "familiar",
-      "registered"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "27",
-    "text": "",
-    "options": [
-      "sinks",
-      "walks"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "28",
-    "text": "",
-    "options": [
-      "with exception to",
-      "as far as"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "29",
-    "text": "",
-    "options": [
-      "whereas",
-      "nevertheless"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "30",
-    "text": "",
-    "options": [
-      "yet",
-      "away\n二、閱讀測驗【二大篇共 10 題，每題 2 分】\n第一篇：\n九月甲午，晉侯、秦伯圍鄭，以其無禮於晉，且貳於楚也。晉軍函陵，秦軍氾南。佚之狐言於鄭伯曰：\n「國危矣，若使燭之武見秦君，師必退。」公從之。辭曰： 「臣之壯也，猶不如人；今老矣，無能為也已。」\n___________   公曰：「吾不能早用子，今急而求子，是寡人之過也。然鄭亡，子亦有不利焉！」許之，夜縋而出。見秦伯，\n曰：「秦、晉圍鄭，鄭既知亡矣。若亡鄭而有益於君，敢以煩執事。越國以鄙遠，君知其難也，焉用亡鄭以\n陪鄰？鄰之厚，君之薄也。若舍鄭以為東道主，行李之往來，共其乏困，君亦無所害。且君嘗為晉君賜矣，\n許君焦、瑕，朝濟而夕設版焉，君之所知也。夫晉，何厭之有？既東封鄭，又欲肆其西封，若不闕秦，將焉\n2 分，\n取之？闕秦以利晉，唯君圖之。」秦伯說，與鄭人盟。使杞子、逢孫、楊孫戍之，乃還。《左傳．僖公三十\n100 分。\n年．燭之武退秦師》"
-    ],
-    "answer": "4"
-  },
-  {
     "number": "1",
     "text": "此文涉及晉、秦、鄭三國，若由地理方位看，則下列敘述何者正確？",
     "options": [
+      "非選擇題限以藍、黑色鋼筆或原子筆於答案卷上採橫式作答，並請依標題指示之題號於各題指定",
       "鄭在晉東，秦在晉西",
-      "晉在秦東，鄭在秦西",
+      "晉在秦東，鄭在秦西\n作答區內作答。",
       "秦在鄭東，晉在鄭西",
-      "晉在鄭東，秦在鄭西"
+      "晉在鄭東，秦在鄭西\n請勿於答案卡（卷）上書寫應考人姓名、入場通知書編號或與答案無關之任何文字或符號。"
     ],
     "answer": "1"
   },
   {
     "number": "2",
-    "text": "文中出現的「貳於楚」，語義為下列何者？",
+    "text": "文中出現的「貳於楚」，語義為下列何者？\n本項測驗僅得使用簡易型電子計算器（不具任何財務函數、工程函數、儲存程式、文數字編輯、",
     "options": [
       "懷疑楚國用心",
       "背離楚國陣線",
       "佐助楚國軍力",
-      "離間楚國君臣"
+      "離間楚國君臣\n內建程式、外接插卡、攝（錄）影音、資料傳輸、通訊或類似功能），且不得發出聲響。應考人"
     ],
     "answer": "3"
   },
   {
     "number": "3",
-    "text": "「共其乏困，君亦無所害」裡，「共」的音義與下列何者相符？",
+    "text": "「共其乏困，君亦無所害」裡，「共」的音義與下列何者相符？\n如有下列情事扣該節成績 10 分，如再犯者該節不予計分。1.電子計算器發出聲響，經制止仍執",
     "options": [
-      "《荀子．賦》：「聖人『共』手，時幾將矣。」",
-      "《論語．公冶長》：「願車馬衣輕裘與朋友『共』，敝之而無憾。」",
+      "《荀子．賦》：「聖人『共』手，時幾將矣。」\n意續犯者。2.將不符規定之電子計算器置於桌面或使用，經制止仍執意續犯者。",
+      "《論語．公冶長》：「願車馬衣輕裘與朋友『共』，敝之而無憾。」\n答案卡（卷）務必繳回，違反者該節成績以零分計算。",
       "《論語．為政》：「為政以德，譬如北辰，居其所而眾星『共』之。」",
-      "《資治通鑑．漢武帝建元六年》：「此必委質為藩臣，世『共』貢職。」"
+      "《資治通鑑．漢武帝建元六年》：「此必委質為藩臣，世『共』貢職。」\n壹、國文"
     ],
     "answer": "4"
   },
   {
     "number": "4",
-    "text": "「許君焦、瑕，朝濟而夕設版焉」，這段話要表述的意思為下列何者？",
+    "text": "「許君焦、瑕，朝濟而夕設版焉」，這段話要表述的意思為下列何者？\n◎請勿於答案卡（卷）上書寫應考人姓名、入場通知書編號或與答案無關之任何文字或符號。",
     "options": [
       "駐紮協防",
       "違背承諾",
@@ -198,12 +46,12 @@
   },
   {
     "number": "5",
-    "text": "下列語句敘述，不符上述作品文意的為下列何者？",
+    "text": "下列語句敘述，不符上述作品文意的為下列何者？\n一、短文寫作【30 分】",
     "options": [
       "燭之武臨危受命，勸說秦君退兵",
-      "鄭因惹怒晉國而引來晉、秦二國圍攻",
+      "鄭因惹怒晉國而引來晉、秦二國圍攻\n種子在土壤裡孕育發芽，一旦奮力冒出地面，隨著生長環境所提供不同程度的陽光與水分，枝葉型態於",
       "晉國貪得無厭，滅鄭後必然再向外兼併",
-      "滅鄭之後，秦便可將其納為國土，實施治理\n第二篇：\n蜀賈三人，皆賣藥於市。其一人專取良，計入以為出，不虛價亦不過取贏。一人良不良皆取焉，其價之\n賤貴，惟買者之欲，而隨以其良不良應之。一人不取良，惟其多賣，則賤其價，請益則益之不較，於是爭趨\n之，其門之限月一易，歲餘而大富。其兼取者趨稍緩，再期亦富。其專取良者，肆日中如宵，旦食而昏不足。\n郁離子見而歎曰：「今之為士者亦若是夫！昔楚鄙三縣之尹三，其一廉而不獲於上官，其去也無以僦舟，人\n皆笑以為癡。其一擇可而取之，人不尤其取而稱其能賢。其一無所不取以交於上官，子吏卒，而賓富民，則\n不待三年，舉而任諸綱紀之司，雖百姓亦稱其善，不亦怪哉！」《郁離子．蜀賈》"
+      "滅鄭之後，秦便可將其納為國土，實施治理\n是有了各種樣貌。人也相同，每個生命階段中遇到的人事物，有時甜蜜綿長，但有時卻也可能痛苦無比，然                 第二篇：\n蜀賈三人，皆賣藥於市。其一人專取良，計入以為出，不虛價亦不過取贏。一人良不良皆取焉，其價之\n不管其中滋味為何，他們都是促進自我成長的必要養分。請以「成長」為題，寫作短文一篇，分享您的經驗                賤貴，惟買者之欲，而隨以其良不良應之。一人不取良，惟其多賣，則賤其價，請益則益之不較，於是爭趨\n與體會。（文長約 300 字）【30 分】                                          之，其門之限月一易，歲餘而大富。其兼取者趨稍緩，再期亦富。其專取良者，肆日中如宵，旦食而昏不足。\n郁離子見而歎曰：「今之為士者亦若是夫！昔楚鄙三縣之尹三，其一廉而不獲於上官，其去也無以僦舟，人\n皆笑以為癡。其一擇可而取之，人不尤其取而稱其能賢。其一無所不取以交於上官，子吏卒，而賓富民，則\n不待三年，舉而任諸綱紀之司，雖百姓亦稱其善，不亦怪哉！」《郁離子．蜀賈》"
     ],
     "answer": "4"
   },
@@ -264,48 +112,221 @@
   },
   {
     "number": "11",
-    "text": "Some people choose to rent an instrument instead of _____ one because the monthly payment is relatively\nlower and you can always ask for a new one if any problem occurs.",
+    "text": "Some people choose to rent an instrument inst\nlower and you can always ask for a new one if any p",
     "options": [
       "purchasing",
-      "cremating",
-      "fostering",
-      "structuring"
+      "cremating"
     ],
     "answer": "1"
   },
   {
     "number": "12",
-    "text": "There are over 100 _____ of maple trees. Make sure you know which one you want before you order your tree.",
+    "text": "There are over 100 _____ of maple trees. Make",
     "options": [
       "corners",
-      "linkages",
-      "species",
-      "benches"
+      "linkages"
     ],
     "answer": "3"
   },
   {
     "number": "13",
-    "text": "I’m surprised that he came to the meeting 30 minutes late. He’s usually very _____.",
+    "text": "I’m surprised that he came to the meeting 30",
     "options": [
       "impulsive",
-      "reliant",
-      "generous",
-      "punctual\n【請接續背面】\nto warmer places in the south.                                         四、閱讀測驗【請依照段落上下文意，選出最適當的答案】",
+      "reliant\n【請接續背面】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "14",
+    "text": "As winter gets near, some birds are _____ to warmer places in the south.",
+    "options": [
+      "interplaying",
+      "retracing",
       "migrating",
-      "evolving\nour menu. You can check our website to see what is available in            Facebook plans to hire more remote workers in areas where the company doesn’t have an office and let some\ncurrent employees work from home permanently if they’d like to. Chief Executive Officer Mark Zuckerberg said",
+      "evolving"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "What you see here is just a small _____ of our menu. You can check our website to see what is available in\nour restaurant before you come.",
+    "options": [
+      "twig",
+      "portal",
       "sample",
-      "motion                                   the company plans to open up remote hiring starting immediately with the U.S., particularly for engineering talent.\nonly temporary and is in no way life-_____.",
+      "motion"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "16",
+    "text": "There’s no need to worry. The condition is only temporary and is in no way life-_____.",
+    "options": [
+      "tracking",
+      "enacting",
       "wincing",
-      "threatening                              Based on internal employee surveys, he believes remote workers could make up as much as 50% of Facebook’s\nbecause her children are _____ to them.                                workforce in the next 5 to 10 years. Facebook is the latest, and largest, technology company to announce a full or",
+      "threatening"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "17",
+    "text": "Ms. Giovani never buys any dairy products because her children are _____ to them.",
+    "options": [
+      "flexible",
+      "enthusiastic",
       "congruent",
-      "allergic\npartial move to more permanent remote work amid the COVID-19 pandemic. Twitter Inc. and Square Inc., both run\nby CEO Jack Dorsey, have announced that their employees can work from home permanently if they’d like to.\nople don’t talk _____ in cafeterias.                                   Canadian e-commerce company Shopify Inc. also said it will allow its 5,000 staff to work from home indefinitely.",
-      "as much as they do                                                    It’s a trend that could significantly change Silicon Valley and the San Francisco Bay Area, which for decades",
-      "much they as\nhas been the center for high-paying technology jobs. Many of the world’s most valuable companies, including\nFacebook, Apple and Google are headquartered just south of San Francisco, which has made the surrounding area",
+      "allergic\n二、文法測驗【請在下列各題中選出最適當的答案】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "18",
+    "text": "Study halls are usually quieter because people don’t talk _____ in cafeterias.",
+    "options": [
+      "as much as they",
+      "as much as they do",
+      "as they do much",
+      "much they as"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "19",
+    "text": "_____ you on your recent success.",
+    "options": [
+      "Let me to begin to congratulate",
       "Let me begin by congratulating",
-      "Begin let me congratulating                                      one of the wealthiest and most expensive in the world.\nFacebook employees who wish to work remotely, and are approved to do so, will be paid based on their new",
-      "he sat down than                                                 location, Zuckerberg added. That means employees who move to areas with a lower cost of living than the Bay Area",
-      "had he sat down than                                             would likely take a pay cut.\ns find this acceptable, _____ think this is just a waste of time and"
+      "Me to begin to congratulate",
+      "Begin let me congratulating"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "20",
+    "text": "No sooner _____ the phone rang again.",
+    "options": [
+      "than he sat down had",
+      "he sat down than",
+      "than down he sat",
+      "had he sat down than"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "21",
+    "text": "Some people consider this necessary, others find this acceptable, _____ think this is just a waste of time a\nmoney.",
+    "options": [
+      "anothers",
+      "yet others",
+      "the other",
+      "still another"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "22",
+    "text": "We strongly object to _____ for parking here.",
+    "options": [
+      "charge us",
+      "be charged",
+      "charge",
+      "being charged"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "23",
+    "text": "The fires have burnt an area _____ four football stadiums.",
+    "options": [
+      "size almost",
+      "almost the size of",
+      "of almost size",
+      "the size mostly of"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "24",
+    "text": "_____ I get to know this place, _____ I want to stay.",
+    "options": [
+      "The more… the longer",
+      "More.. longer",
+      "To more… to longer…",
+      "More ….so longer"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "25",
+    "text": "Technology has changed how people collaborate at work. Our teams now need to thrive without _____ in\nperson and to build human connection in new ways.",
+    "options": [
+      "we meet",
+      "to meet",
+      "meeting",
+      "in meeting\n三、克漏字測驗【請依照段落上下文意，選出最適當的答案】\nItalians are credited with inventing modern pizza, but a baked bread with toppings has many other ancestors\nin other cuisines. Italy’s version of the dish, especially from Naples, is the one we are most   26     with. As th\nlegend      27 , modern pizza—an open-faced pie spread in tomato sauce and mozzarella—was given to us by\nthe baker Raffaele Esposito in Naples. In 1889, he made a patriotic pie topped with mozzarella, basil, and\ntomatoes, ingredients in the colors of the Italian flag,     28    King Umberto and Queen Margherita’s visit. It is\nsaid that the Queen enjoyed the pie, and            29     it became known as a Margherita. In the US, Italian\nimmigrants sold pizza in their stores, and the first pizzeria was opened in 1905 by Gennaro Lombardi on Spring\nStreet in New York City, but pizza did not truly become popular in the US           30    World War II. Stationed i\nItaly, many American and European soldiers tasted pizza and brought an appetite for this now popular dish home\nwith them."
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "26",
+    "text": "",
+    "options": [
+      "familiar",
+      "registered",
+      "tainted",
+      "competed"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "27",
+    "text": "",
+    "options": [
+      "sinks",
+      "walks",
+      "goes",
+      "dips"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "28",
+    "text": "",
+    "options": [
+      "with exception to",
+      "in honor of",
+      "as far as",
+      "to rhyme with"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "29",
+    "text": "",
+    "options": [
+      "whereas",
+      "nevertheless",
+      "thus",
+      "upon"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "30",
+    "text": "",
+    "options": [
+      "yet",
+      "away",
+      "onto",
+      "until\nead of _____ one because the monthly payment is relatively\nroblem occurs.",
+      "fostering",
+      "structuring\nsure you know which one you want before you order your tree.",
+      "species",
+      "benches\nminutes late. He’s usually very _____.",
+      "generous",
+      "punctual\n四、閱讀測驗【請依照段落上下文意，選出最適當的答案】\nFacebook plans to hire more remote workers in areas where the company doesn’t have an office and let some\ncurrent employees work from home permanently if they’d like to. Chief Executive Officer Mark Zuckerberg said\nthe company plans to open up remote hiring starting immediately with the U.S., particularly for engineering talent.\nBased on internal employee surveys, he believes remote workers could make up as much as 50% of Facebook’s\nworkforce in the next 5 to 10 years. Facebook is the latest, and largest, technology company to announce a full or\npartial move to more permanent remote work amid the COVID-19 pandemic. Twitter Inc. and Square Inc., both run\nby CEO Jack Dorsey, have announced that their employees can work from home permanently if they’d like to.\nCanadian e-commerce company Shopify Inc. also said it will allow its 5,000 staff to work from home indefinitely.\nIt’s a trend that could significantly change Silicon Valley and the San Francisco Bay Area, which for decades\nhas been the center for high-paying technology jobs. Many of the world’s most valuable companies, including\nFacebook, Apple and Google are headquartered just south of San Francisco, which has made the surrounding area\none of the wealthiest and most expensive in the world.\nFacebook employees who wish to work remotely, and are approved to do so, will be paid based on their new\nlocation, Zuckerberg added. That means employees who move to areas with a lower cost of living than the Bay Area\nwould likely take a pay cut.\nnd"
     ],
     "answer": "4"
   },
@@ -314,13 +335,9 @@
     "text": "What is the passage mainly about?",
     "options": [
       "Hiring more workers in the Silicon Valley",
-      "the other",
-      "still another",
-      "Why San Francisco Bay Area is one of the most expensive in the world\nre.",
+      "Why San Francisco Bay Area is one of the most expensive in the world",
       "How the pandemic will affect people’s pay",
-      "charge",
-      "being charged",
-      "Working remotely for technology companies\notball stadiums."
+      "Working remotely for technology companies"
     ],
     "answer": "4"
   },
@@ -328,59 +345,43 @@
     "number": "32",
     "text": "Which of the following is true?",
     "options": [
-      "almost the size of",
       "Google is the first company to allow employees to work remotely.",
-      "the size mostly of",
-      "Facebook is expected to have more remote workers in the future.\nnt to stay.",
+      "Facebook is expected to have more remote workers in the future.",
       "Twitter and Shopify require all employees to work from home permanently.",
-      "More.. longer",
-      "More ….so longer",
-      "Facebook and Twitter are run by the same CEO.\nate at work. Our teams now need to thrive without _____ in"
+      "Facebook and Twitter are run by the same CEO."
     ],
     "answer": "2"
   },
   {
     "number": "33",
-    "text": "Which of the following is supported by the passage?\n.",
+    "text": "Which of the following is supported by the passage?",
     "options": [
       "Apple and Google are both in favor of remote hiring and will start immediately.",
-      "meeting",
-      "in meeting",
       "Twitter employee started working remotely before the pandemic.",
       "Facebook remote workers might not be paid the same as those who live in the Silicon Valley.",
-      "Working remotely makes San Francisco Bay Area one of the wealthiest in the world.\npizza, but a baked bread with toppings has many other ancestors\nspecially from Naples, is the one we are most   26     with. As the"
+      "Working remotely makes San Francisco Bay Area one of the wealthiest in the world.\ne"
     ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "What is true about the Silicon Valley?\npread in tomato sauce and mozzarella—was given to us by",
+    "text": "What is true about the Silicon Valley?",
     "options": [
-      "It has been the center of high-paying technology jobs.\ne made a patriotic pie topped with mozzarella, basil, and",
-      "It is where the headquarter of Shopify is located.\nn flag,     28    King Umberto and Queen Margherita’s visit. It is",
-      "Currently 5000 technology workers live there.\n29     it became known as a Margherita. In the US, Italian",
-      "It is the area with the most COVID-19 cases in the U.S.\nrst pizzeria was opened in 1905 by Gennaro Lombardi on Spring"
+      "It has been the center of high-paying technology jobs.",
+      "It is where the headquarter of Shopify is located.",
+      "Currently 5000 technology workers live there.",
+      "It is the area with the most COVID-19 cases in the U.S."
     ],
     "answer": "1"
   },
   {
     "number": "35",
-    "text": "Where was the passage most probably taken from?\nbecome popular in the US           30    World War II. Stationed in",
+    "text": "Where was the passage most probably taken from?\nn",
     "options": [
-      "Analysis report from a real estate agent\npizza and brought an appetite for this now popular dish home",
+      "Analysis report from a real estate agent",
       "Hiring advertisement of a technology company",
-      "tainted",
-      "competed",
       "Twitter’s official website",
-      "goes",
-      "dips",
-      "Economy section of a newspaper",
-      "in honor of",
-      "to rhyme with",
-      "thus",
-      "upon",
-      "onto",
-      "until"
+      "Economy section of a newspaper"
     ],
     "answer": "4"
   }

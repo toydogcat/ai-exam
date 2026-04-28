@@ -6,7 +6,8 @@
       "口乾舌「燥」／心浮氣「躁」",
       "「蘊」藏豐富／山嵐氤「氳」",
       "「瞋」目怒視／思慮「縝」密",
-      "修「葺」房屋／辯證邏「輯」\n4"
+      "修「葺」房屋／辯證邏「輯」\n4",
+      ""
     ],
     "answer": "1"
   },
@@ -17,7 +18,8 @@
       "覬「覦」／「傴」僂",
       "「契」約／「楔」子",
       "國「粹」／「淬」礪",
-      "「燠」寒／「懊」惱\n6"
+      "「燠」寒／「懊」惱\n6",
+      ""
     ],
     "answer": "3"
   },
@@ -27,8 +29,8 @@
     "options": [
       "青面「燎」牙",
       "戶樞不「蠹」",
-      "甘之如「貽」",
-      "「挈」而不舍\n8"
+      "甘之如「貽」\n8",
+      ""
     ],
     "answer": "2"
   },
@@ -38,8 +40,8 @@
     "options": [
       "荒煙「漫」草",
       "龍「磐」虎踞",
-      "劍拔「努」張",
-      "相形見「絀」\n10"
+      "劍拔「努」張\n10",
+      ""
     ],
     "answer": "4"
   },
@@ -49,8 +51,8 @@
     "options": [
       "「倜」繆牖戶",
       "中道崩「徂」",
-      "詩詠關「睢」",
-      "葦「軺」繫巢\n12"
+      "詩詠關「睢」\n12",
+      ""
     ],
     "answer": "3"
   },
@@ -59,9 +61,10 @@
     "text": "關於「散文」的解說， 下列敘述何者有誤？",
     "options": [
       "沒有字數、句數的限制",
-      "創作自由、形式參差，不要求押韻",
+      "創作自由、形式參差，不要求",
       "內容包括敘事、抒情、議論、說理等",
-      "對仗工整，格式嚴謹\n14"
+      "對仗工整，格式嚴謹\n14",
+      ""
     ],
     "answer": "4"
   },
@@ -72,84 +75,91 @@
       "歸有光〈項脊軒志〉",
       "范仲淹〈岳陽樓記〉",
       "歐陽脩〈醉翁亭記〉",
-      "白居易〈琵琶行〉\n1"
+      "白居易〈琵琶行〉\n1",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "8",
-    "text": "李白〈贈孟浩然〉：「吾愛孟夫子，風流天下聞。紅顏棄軒冕，白首臥鬆雲。」其中「軒冕」\n         的意思，下列何者正確？",
+    "text": "李白〈贈孟浩然〉：「吾愛孟夫子，風流天下聞。紅顏棄軒冕，白首臥鬆雲。」其中\n的意思，下列何者正確？",
     "options": [
       "官場富貴",
       "人器宇軒昂",
       "古代祭祀器皿",
-      "丹青史冊\n3"
+      "丹青史冊\n3",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "9",
-    "text": "宋濂《燕書》：「豚澤之人養蜀雞，有文而赤翁。有群雓周周鳴。忽晨風過其上，雞遽翼諸\n         雓，晨風不得捕，去。已而有烏來，與雓同啄。」其中「晨風」的意思，下列何者正確？",
+    "text": "宋濂《燕書》：「豚澤之人養蜀雞，有文而赤翁。有群雓周周鳴。忽晨風過其上，雞\n雓，晨風不得捕，去。已而有烏來，與雓同啄。」其中「晨風」的意思，下列何者正",
     "options": [
       "蜀雞名",
       "清晨的風",
-      "微風",
-      "猛禽名\n\n5"
+      "微風\n\n5",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "10",
-    "text": "白居易〈琵琶行〉：「銀瓶乍破水漿迸，鐵騎突出刀槍鳴。」文句的意義，下列何者正確？",
+    "text": "白居易〈琵琶行〉：「銀瓶乍破水漿迸，鐵騎突出刀槍鳴。」文句的意義，下列",
     "options": [
       "形容琵琶樂聲淒厲哀怨、戛然而止",
-      "形容琵琶樂聲高亢激昂、雄壯鏗鏘",
+      "形容琵琶樂聲高亢激昂、雄壯鏗",
       "形容琵琶樂聲變化曲折、圓潤清脆",
-      "形容琵琶樂聲輕聲細語、時續時斷\n7"
+      "形容琵琶樂聲輕聲細語、時續時\n7",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "11",
-    "text": "司馬光〈訓儉示康〉：「豈若吾居位、去位、身存、身亡，常如一日乎。」文句的解說，下\n          列何者正確？",
+    "text": "司馬光〈訓儉示康〉：「豈若吾居位、去位、身存、身亡，常如一日乎。」文句的\n列何者正確？",
     "options": [
       "意謂生命如蜉蝣，稍縱即逝",
       "意謂與其說話、做事不懂得謙遜，寧可固執一些",
       "意謂無論我有任何遭遇，生活永遠都一樣儉樸",
-      "意謂獨善其身，不喜歡攀附權貴\n9"
+      "意謂獨善其身，不喜歡攀附權貴\n9",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "12",
-    "text": "莊子〈庖丁解牛〉：「雖然，每至於族，吾見其難為，怵然為戒，視為止，行為遲；動刀甚\n          微。」此時庖丁的態度，下列何者正確？",
+    "text": "莊子〈庖丁解牛〉：「雖然，每至於族，吾見其難為，怵然為戒，視為止，行為遲\n微。」此時庖丁的態度，下列何者正確？",
     "options": [
       "大刀闊斧，無所畏懼",
       "謹慎專注，動刀緩慢輕微",
       "瞻前顧後，猶豫不決",
-      "意氣風發，快刀斬亂麻\n11"
+      "意氣風發，快刀斬亂麻\n11",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "13",
-    "text": "許地山〈暗途〉：「滿山都沒有光，若是我提著燈走，也不過是照著三兩步遠；且要累得滿\n           山的昆蟲都不安。若湊巧遇見長蛇也衝著火光走來，可又怎辦呢？再說，這一點的光可以把\n           那照不著底地方越顯得危險，越能使我害怕。在半途中，燈一熄滅，那就更不好辦了。不如\n           我空著手走，初時雖覺得有些妨礙，不多一會，什麼都可以在幽暗中辨別一點。」依文意，\n           不願提燈在夜路行走的考量，下列何者有誤？",
+    "text": "許地山〈暗途〉：「滿山都沒有光，若是我提著燈走，也不過是照著三兩步遠；\n山的昆蟲都不安。若湊巧遇見長蛇也衝著火光走來，可又怎辦呢？再說，這一點\n那照不著底地方越顯得危險，越能使我害怕。在半途中，燈一熄滅，那就更不好\n我空著手走，初時雖覺得有些妨礙，不多一會，什麼都可以在幽暗中辨別一點。\n不願提燈在夜路行走的考量，下列何者有誤？",
     "options": [
       "避免驚擾滿山昆蟲",
-      "眼睛在黑暗中有適應環境的本能",
+      "眼睛在黑暗中有適應環境的本",
       "避免招惹吸引蛇類",
-      "夜晚月光皎潔明亮\n13"
+      "夜晚月光皎潔明亮\n13",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "14",
-    "text": "廖鴻基〈鬼頭刀〉：「從此，我們的漁獲一直不好。海湧伯開始把漁獲中不及巴掌大的小魚\n           放回海裡。在年輕人紛紛上岸另謀發展的此時，我們下海的腳步更加勤快。」依文意，下列\n           何者正確？",
+    "text": "廖鴻基〈鬼頭刀〉：「從此，我們的漁獲一直不好。海湧伯開始把漁獲中不及巴\n放回海裡。在年輕人紛紛上岸另謀發展的此時，我們下海的腳步更加勤快。」依\n何者正確？",
     "options": [
       "海湧伯有生態保育的意識",
       "漁業資源豐富，前景看好",
       "漁獲不好的原因是把小魚放回海裡",
-      "年輕人樂意從事漁業\n15"
+      "年輕人樂意從事漁業\n15",
+      ""
     ],
     "answer": "1"
   },
@@ -160,447 +170,490 @@
       "形容升官發財，飛黃騰達",
       "形容女子容貌美麗出眾",
       "比喻萬物任其天性而動，各得其所",
-      "形容音樂美妙動聽，連魚兒也浮出水面傾聽\n\n\n      貳、英文：100 %\n       【單選題： 40 題，每題"
+      "形容音樂美妙動聽，連魚兒也浮出水面傾聽\n貳、英文：100 %\n【單選題： 40 題，每題"
     ],
     "answer": "3"
   },
   {
     "number": "16",
-    "text": "Many people are environmentally ____ and they choose to use YouBike to travel around\n           the city.",
+    "text": "Many people are environmentally ___\nthe city.",
     "options": [
       "kind",
-      "friendly",
-      "considerable",
-      "thinking\n19"
+      "friendly\n19",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "Take an umbrella because ____, according to the weather forecast.",
+    "text": "Take an umbrella because ____, acco",
     "options": [
       "it rains",
-      "it has been raining",
-      "it was raining",
-      "it is going to rain\n21"
+      "it was raining\n21",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "18",
-    "text": "Jay does the cooking and his wife ____ the dishes.",
+    "text": "Jay does the cooking and his wife _",
     "options": [
       "has",
-      "prepares",
-      "is in charge of",
-      "finishes\n23"
+      "prepares\n23",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "19",
-    "text": "The Harry Potter movies are among the most ____ movies in history.",
+    "text": "The Harry Potter movies are among t",
     "options": [
       "profitable",
-      "money",
-      "paying",
-      "liking\n25"
+      "money\n25",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "20",
-    "text": "You should register your bike ____ stolen.",
+    "text": "You should register your bike ____",
     "options": [
       "in case it will be",
-      "in case it is",
-      "if it will be",
-      "if it is\n\n\n\n27"
+      "in case\n共同科目(國文、英文)\n27",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "21",
-    "text": "Nina is a ____, so she doesn’t eat meat or fish.",
+    "text": "Nina is a ____, so she doesn’t eat",
     "options": [
       "artist",
-      "Buddhist",
-      "dentist",
-      "socialist\n29"
+      "Buddhist\n29",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "22",
-    "text": "Sometimes less is more, so ____ is not always the most important.",
+    "text": "Sometimes less is more, so ____ is",
     "options": [
       "volume",
-      "quality",
-      "number",
-      "shape\n31"
+      "quality\n31",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "23",
-    "text": "Jean is bad at ____ her money; she runs out of money at the end of each month.",
+    "text": "Jean is bad at ____ her money; she",
     "options": [
       "spending",
-      "keeping",
-      "calculating",
-      "handling\n33"
+      "keeping\n33",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "24",
-    "text": "Ken’s car is still running ____ although it is already 23 years old.",
+    "text": "Ken’s car is still running ____ alt",
     "options": [
       "wisely",
-      "speedily",
-      "smoothly",
-      "verily\n35"
+      "speedily\n35",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "25",
-    "text": "Mary loves ____ and wants to become a vet.",
+    "text": "Mary loves ____ and wants to become",
     "options": [
       "animals",
-      "plants",
-      "food",
-      "nature\n16"
+      "plants\n16",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "26",
-    "text": "Ken’s father ____ at a chicken farm for a long time when he decided to start his own\n           fifteen years ago.",
+    "text": "Ken’s father ____ at a chicken farm\nfifteen years ago.",
     "options": [
       "worked",
-      "has stay",
-      "had helped",
-      "employed\n18"
+      "has stay\n18",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "27",
-    "text": "Many people in Taipei choose to ride motorcycles because ___ is easier.",
+    "text": "Many people in Taipei choose to rid",
     "options": [
       "transportation",
-      "stopping",
-      "trafficking",
-      "parking\n20"
+      "stopping\n20",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "28",
-    "text": "Sally ____ to university, but instead she chose to work to help her parents financially.",
+    "text": "Sally ____ to university, but inste",
     "options": [
       "went",
-      "had gone",
-      "could have gone",
-      "didn’t go\n22"
+      "had gone\n22",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "29",
-    "text": "Many young people choose to ____ nowadays because they realize having a good skill\n           can be better than having a diploma.",
+    "text": "Many young people choose to ____ no\ncan be better than having a diploma",
     "options": [
       "take vocational training",
-      "go to college",
-      "receive foreign education",
-      "study science\n24"
+      "receive foreign education\n24",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "30",
-    "text": "More and more countries have requested ____ and magazines to hire very thin models\n           because of the bad influence on young girls.",
+    "text": "More and more countries have reques\nbecause of the bad influence on you",
     "options": [
       "newspapers",
-      "artists",
-      "performers",
-      "designers\n26"
+      "artists\n26",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "31",
-    "text": "People today like to use electronic ____ and reading is becoming a dying habit.",
+    "text": "People today like to use electronic",
     "options": [
       "writing",
-      "devices",
-      "items",
-      "pieces\n28"
+      "devices\n28",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "32",
-    "text": "Jimmy ____ to pass the exam after all the time and energy he has spent preparing for it.",
+    "text": "Jimmy ____ to pass the exam after a",
     "options": [
       "hopes",
-      "wishes",
-      "likes",
-      "looks forward\n30"
+      "wishes\n30",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "33",
-    "text": "The food looked so ____ that I felt hungry right away.",
+    "text": "The food looked so ____ that I felt",
     "options": [
       "well",
-      "wonderfully",
-      "inviting",
-      "shining\n32"
+      "wonderful\n32",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "To ____ such data, you need special approval from the manager.",
+    "text": "To ____ such data, you need special",
     "options": [
       "enjoy",
-      "accept",
-      "understand",
-      "access\n34"
+      "accept\n34",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "35",
-    "text": "I missed the bus this morning and ____ take a taxi to go to work.",
+    "text": "I missed the bus this morning and _",
     "options": [
       "must to",
-      "need to",
-      "had to",
-      "wanted to\n37"
+      "need to\n37",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "36",
-    "text": "Don’t forget to turn off all electrical ____ before you leave home.",
+    "text": "Don’t forget to turn off all electr",
     "options": [
       "wires",
-      "users",
-      "appliances",
-      "properties\n39"
+      "users\n39",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "37",
-    "text": "As a result of aging population, more and more countries plan to____ the retirement age\n           to sixty-eight or even seventy.",
+    "text": "As a result of aging population, mo\nto sixty-eight or even seventy.",
     "options": [
       "regulate",
-      "extend",
-      "maintain",
-      "remove\n41"
+      "extend\n41",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "38",
-    "text": "Willy wastes a lot of time playing online games because he is ____ them.",
+    "text": "Willy wastes a lot of time playing",
     "options": [
       "addicted to",
-      "improved with",
-      "entertained in",
-      "enjoyed by\n43"
+      "improved\n43",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "39",
-    "text": "It took Judy a year to ____ the Civil Service Examination and she passed it.",
+    "text": "It took Judy a year to ____ the Civ",
     "options": [
       "ready for",
-      "get over",
-      "prepare",
-      "prepare for\n\n\n\n45"
+      "get over\n共同科目(國文、英文)\n45",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "40",
-    "text": "All workers applying for technical positions ____ to complete related training in three\n           months.",
+    "text": "All workers applying for technical\nmonths.",
     "options": [
       "are advised",
-      "has got",
-      "should",
-      "have need\n47"
+      "has got\n47",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "41",
-    "text": "After ____ the matter for two days, we were still unable to reach any conclusion.",
+    "text": "After ____ the matter for two days,",
     "options": [
       "discussed",
-      "having been discussed",
-      "discussing",
-      "being discussed\n49"
+      "discussing\n49",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "42",
-    "text": "Because of ____ oil prices and the COVID-19 pandemic, things that people need in\n           everyday life are becoming more and more expensive.",
+    "text": "Because of ____ oil prices and the\neveryday life are becoming more and",
     "options": [
       "raising",
-      "rising",
-      "difficult",
-      "extending\n51"
+      "rising\n51",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "43",
-    "text": "It is very unusual that the Japanese ramen shop ____ since last week.",
+    "text": "It is very unusual that the Japanes",
     "options": [
       "is close",
-      "does not open",
-      "has been closed",
-      "will not be open\n53"
+      "does not\n53",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "44",
-    "text": "Frank is taking a one-year ____ to go to study in Australia next year.",
+    "text": "Frank is taking a one-year ____ to",
     "options": [
       "holiday",
-      "leave of absence without pay",
-      "paid vacation",
-      "trip\n55"
+      "paid vacation\n55",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "45",
-    "text": "Live streaming is very popular and has made many Internet ____ become rich.",
+    "text": "Live streaming is very popular and",
     "options": [
       "reds",
-      "stars",
-      "famous",
-      "celebrities\n36"
+      "stars\n36",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "46",
-    "text": "You should hurry if you want to apply for a scholarship because the ____ is this Friday.",
+    "text": "You should hurry if you want to app",
     "options": [
       "end",
-      "finish time",
-      "deadline",
-      "time table\n38"
+      "finish ti\n38",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "47",
-    "text": "There’s no need to rush; we’re already late ____ the movie.",
+    "text": "There’s no need to rush; we’re alre",
     "options": [
       "to",
-      "for",
-      "at",
-      "from\n40"
+      "for\n40",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "48",
-    "text": "Don’t prepare ____ for dinner because Jack is a big meat eater.",
+    "text": "Don’t prepare ____ for dinner becau",
     "options": [
       "too many vegetables",
-      "so much beef",
-      "too many fruit",
-      "so many seafoods\n42"
+      "too many fruit\n42",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "49",
-    "text": "Being parents for the first time, Tim and Diana do not know how to stop ____.",
+    "text": "Being parents for the first time, T",
     "options": [
       "the baby to cry",
-      "the baby cries",
-      "the baby from crying",
-      "the baby cry\n44"
+      "the baby from crying\n44",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "50",
-    "text": "Our department encourages all workers to get professional licenses and ____ to improve\n           their knowledge and skills.",
+    "text": "Our department encourages all worke\ntheir knowledge and skills.",
     "options": [
       "documents",
-      "instructions",
-      "requirements",
-      "certificates\n46"
+      "instructi\n46",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "51",
-    "text": "Studies show females usually surf the Internet for ____ reasons and males just do it for\n           fun.",
+    "text": "Studies show females usually surf t\nfun.",
     "options": [
       "practical",
-      "unthinkable",
-      "questionable",
-      "valuable\n48"
+      "unthinkab\n48",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "52",
-    "text": "It took Brian more than six months to bicycle ____ the USA all by himself.",
+    "text": "It took Brian more than six months",
     "options": [
       "cross",
-      "in",
-      "on",
-      "across\n50"
+      "in\n50",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "53",
-    "text": "The mayor said last week he would increase the pay for every city government employee\n           ____ 3% next year.",
+    "text": "The mayor said last week he would i\n____ 3% next year.",
     "options": [
       "by",
-      "to",
-      "out of",
-      "in\n52"
+      "to\n52",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "54",
-    "text": "Mom doesn’t feel like cooking tonight, so we’ll have some spaghetti ____.",
+    "text": "Mom doesn’t feel like cooking tonig",
     "options": [
       "bought",
-      "delivered",
-      "to deliver",
-      "to buy\n54"
+      "delivered\n54",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "55",
-    "text": "There’s a bottle of dish soap ____ if you need more.",
+    "text": "There’s a bottle of dish soap ____",
     "options": [
       "in the bathroom",
+      "in the living room\n共同科目(國文、英文) 第\n答案卷指定範圍內\n100 分)，須用 2B 鉛筆在答案\n面，不提\n畫記\n試場或適\n記作答。】",
+      "「挈」而不舍",
+      "相形見「絀」",
+      "葦「軺」繫巢\n押韻\n「軒冕」\n遽翼諸\n確？",
+      "猛禽名\n【請翻頁繼續作答】\n何者正確？\n鏘\n斷\n解說，下\n；動刀甚\n且要累得滿\n的光可以把\n辦了。不如\n」依文意，\n能\n掌大的小魚\n文意，下列\n6~55 畫記作答。】\n_ and they choose to use YouBike to travel around",
+      "considerable",
+      "thinking\nrding to the weather forecast.",
+      "it has been raining",
+      "it is going to rain\n___ the dishes.",
+      "is in charge of",
+      "finishes\nhe most ____ movies in history.",
+      "paying",
+      "liking\nstolen.\nit is",
+      "if it will be",
+      "if it is\n\nmeat or fish.",
+      "dentist",
+      "socialist\nnot always the most important.",
+      "number",
+      "shape\nruns out of money at the end of each month.",
+      "calculating",
+      "handling\nhough it is already 23 years old.",
+      "smoothly",
+      "verily\na vet.",
+      "food",
+      "nature\nfor a long time when he decided to start his own",
+      "had helped",
+      "employed\ne motorcycles because ___ is easier.",
+      "trafficking",
+      "parking\nad she chose to work to help her parents financially.",
+      "could have gone",
+      "didn’t go\nwadays because they realize having a good skill\n.",
+      "go to college",
+      "study science\nted ____ and magazines to hire very thin models\nng girls.",
+      "performers",
+      "designers\n____ and reading is becoming a dying habit.",
+      "items",
+      "pieces\nll the time and energy he has spent preparing for it.",
+      "likes",
+      "looks forward\nhungry right away.\nly",
+      "inviting",
+      "shining\napproval from the manager.",
+      "understand",
+      "access\n___ take a taxi to go to work.",
+      "had to",
+      "wanted to\nical ____ before you leave home.",
+      "appliances",
+      "properties\nre and more countries plan to____ the retirement age",
+      "maintain",
+      "remove\nonline games because he is ____ them.\nwith",
+      "entertained in",
+      "enjoyed by\nil Service Examination and she passed it.",
+      "prepare",
+      "prepare for\n\npositions ____ to complete related training in three",
+      "should",
+      "have need\nwe were still unable to reach any conclusion.",
+      "having been discussed",
+      "being discussed\nCOVID-19 pandemic, things that people need in\nmore expensive.",
+      "difficult",
+      "extending\ne ramen shop ____ since last week.\nopen",
+      "has been closed",
+      "will not be open\ngo to study in Australia next year.",
+      "leave of absence without pay",
+      "trip\nhas made many Internet ____ become rich.",
+      "famous",
+      "celebrities\nly for a scholarship because the ____ is this Friday.\nme",
+      "deadline",
+      "time table\nady late ____ the movie.",
+      "at",
+      "from\nse Jack is a big meat eater.",
+      "so much beef",
+      "so many seafoods\nim and Diana do not know how to stop ____.",
+      "the baby cries",
+      "the baby cry\nrs to get professional licenses and ____ to improve\nons",
+      "requirements",
+      "certificates\nhe Internet for ____ reasons and males just do it for\nle",
+      "questionable",
+      "valuable\nto bicycle ____ the USA all by himself.",
+      "on",
+      "across\nncrease the pay for every city government employee",
+      "out of",
+      "in\nht, so we’ll have some spaghetti ____.",
+      "to deliver",
+      "to buy\nif you need more.",
       "under the kitchen sink",
-      "in the living room",
-      "in the refrigerator"
+      "in the refrigerator\n4 頁，共 4 頁"
     ],
     "answer": "2"
   }

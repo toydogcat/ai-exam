@@ -6,7 +6,8 @@
       "拜「謁」/「偈」語",
       "垂「髫」/「軺」車",
       "「儼」然/「巖」穴",
-      "手「腕」/嘆「惋」\n4"
+      "手「腕」/嘆「惋」\n4",
+      ""
     ],
     "answer": "4"
   },
@@ -16,8 +17,8 @@
     "options": [
       "如膠似漆",
       "緣木求魚",
-      "食前方丈",
-      "刻舟求劍\n6"
+      "食前方丈\n6",
+      ""
     ],
     "answer": "4"
   },
@@ -28,7 +29,8 @@
       "借酒澆愁",
       "遇人不淑",
       "懷才不遇",
-      "流離失所\n8"
+      "流離失所\n8",
+      ""
     ],
     "answer": "3"
   },
@@ -37,9 +39,8 @@
     "text": "下列何者最不適於形容「生命垂危」？",
     "options": [
       "日薄西山",
-      "旦夕且死",
-      "河魚腹疾",
-      "鐘鳴漏盡\n10"
+      "旦夕且死\n10",
+      ""
     ],
     "answer": "3"
   },
@@ -48,20 +49,20 @@
     "text": "下列何者最不適於比喻「識見淺陋」？",
     "options": [
       "郢書燕說",
-      "管窺蠡測",
-      "窺豹一斑",
-      "夏蟲語冰\n12"
+      "管窺蠡測\n12",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "6",
-    "text": "○\n         E 1 一味姑息/迥然不同○\n             A\n                      2 莫名其妙/破釜沉舟○\n                                 3 以訛傳訛/相形見絀○\n                                            4 磨擦生熱/再接再勵○\n                                             A\n                                                 E\n                                                     A\n                                                       5 膾炙                          A\n                                                                                         E\n                                                                                             A                               A\n                                                                                                                                 E\n                                                                                                                                     A                             A\n                                                                                                                                                                       E\n                                                                                                                                                                           A\n\n\n\n\n          人口/趨之若鶩。以上各句中的語詞，下列何者用字完全正確？",
+    "text": "○\nE 1 一味姑息/迥然不同○\nA\n2 莫名其妙/破釜沉舟○\n3 以訛傳訛/相形見絀○\n4 磨擦生\nA\n人口/趨之若鶩。以上各句中的語詞，下列何者用字完全正確？",
     "options": [
-      "○1 ○\n                2 ○\n                 A\n                  3  E",
-      "○\n                         1 ○\n                         A\n                           2 ○\n                             5\n                             E",
-      "○\n                                 A\n                                    2 ○\n                                     E3 ○\n                                        4A",
-      "○\n                                                3 ○\n                                                  4 ○\n                                                    5    A\n                                                             E\n                                                                 A\n                                                                     E\n                                                                         A\n                                                                             E\n                                                                                 A               A\n                                                                                                     E\n                                                                                                         A\n                                                                                                             E\n                                                                                                                 A\n                                                                                                                     E\n                                                                                                                         A               A\n                                                                                                                                             E\n                                                                                                                                                 A\n                                                                                                                                                     E\n                                                                                                                                                         A\n                                                                                                                                                             E\n\n\n\n\n14"
+      "○1 ○\n2 ○\nA\n3  E",
+      "○\n1 ○\nA\n2 ○\n5\nE",
+      "○\nA\n2 ○\nE3 ○\n4A",
+      "○\n3\n14",
+      ""
     ],
     "answer": "2"
   },
@@ -71,8 +72,8 @@
     "options": [
       "五：一部",
       "尖：大部",
-      "巨：口部",
-      "南：十部\n1"
+      "巨：口部\n1",
+      ""
     ],
     "answer": "4"
   },
@@ -83,7 +84,8 @@
       "饘粥以「餬」口",
       "「蠶」食鯨吞",
       "獸奔「鳥」竄",
-      "吾妻所「手」植\n3"
+      "吾妻所「手」\n3",
+      ""
     ],
     "answer": "1"
   },
@@ -94,29 +96,32 @@
       "考亭先生：朱熹",
       "亭林先生：黃宗羲",
       "正學先生：周敦頤",
-      "望溪先生：陶淵明\n\n5"
+      "望溪\n5",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "10",
-    "text": "「悲哉世也□豈獨一琴哉□莫不然矣□而不早圖之，其與亡矣□」，□處依序應填入的標點\n          符號，下列何者正確？",
+    "text": "「悲哉世也□豈獨一琴哉□莫不然矣□而不早圖之，其與亡矣□」，□處依序應填入的\n符號，下列何者正確？",
     "options": [
       "：/！/。/。",
       "：/？/！/！",
       "！/？/！/！",
-      "。/！/。/。\n7"
+      "。/！\n7",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "11",
-    "text": "「俯察品類之盛」句中「品」、「類」均是「種類」的意思，屬於同義複詞。下列「」內的\n          語詞，何者也屬同義複詞？",
+    "text": "「俯察品類之盛」句中「品」、「類」均是「種類」的意思，屬於同義複詞。下列「」內\n語詞，何者也屬同義複詞？",
     "options": [
       "「俛仰」之間",
       "「脩短」隨化",
       "「趣舍」萬殊",
-      "取諸「懷抱」\n9"
+      "取諸「懷抱」\n9",
+      ""
     ],
     "answer": "4"
   },
@@ -127,29 +132,31 @@
       "十五始「展眉」/蹙眉",
       "「八月」蝴蝶黃/桂月",
       "兩小無「嫌猜」/闕疑",
-      "妾髮初「覆額」/及笄\n11"
+      "妾髮初「覆額」/及笄\n11",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "13",
-    "text": "《浪淘沙》：「簾外雨潺潺」的「潺潺」一詞用來形容雨聲。下列「」中的語詞，何者不能\n           用來形容雨聲？",
+    "text": "《浪淘沙》：「簾外雨潺潺」的「潺潺」一詞用來形容雨聲。下列「」中的語詞，何者\n用來形容雨聲？",
     "options": [
       "瀟瀟「淅淅」",
       "浩浩「湯湯」",
       "「淋淋」漓漓",
-      "「嘩啦」嘩啦\n13"
+      "「嘩啦」嘩\n13",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "14",
-    "text": "○1 「金風」玉露○\n            A\n                E\n                    A\n                       2 「朔風」野大○    3 「東風」不來○  4 「南風」送歸雁，以上選項按「春夏秋冬\n                                                            A\n                                                                E\n                                                                    A                               A\n                                                                                                            E\n                                                                                                                    A       A\n                                                                                                                                    E\n                                                                                                                                        A\n\n\n\n\n           」季節依序排列，下列何者正確？",
+    "text": "○1 「金風」玉露○\nA\nE\nA\n2 「朔風」野大○    3 「東風」不來○  4\n」季節依序排列，下列何者正確？",
     "options": [
-      "○1 ○\n                 2 ○\n                   3 ○\n                     4  A",
-      "○\n                            E 2 ○\n                                3 ○\n                                A\n                                  4 ○\n                                    1\n                                    E\n                                        A",
-      "○\n                                            E3 ○4 ○\n                                                A\n                                                  1 ○\n                                                    2\n                                                    E",
-      "○\n                                                        A\n                                                          2 ○\n                                                            1 ○\n                                                              4 ○\n                                                                3       A\n                                                                            E\n                                                                                A\n                                                                                    E\n                                                                                        A\n                                                                                            E\n                                                                                                A\n                                                                                                        E\n                                                                                                                A       A\n                                                                                                                            E\n                                                                                                                                A\n                                                                                                                                            E\n                                                                                                                                                A\n                                                                                                                                                    E\n                                                                                                                                                        A\n                                                                                                                                                            E\n                                                                                                                                                                A      A\n                                                                                                                                                                           E\n                                                                                                                                                                               A\n                                                                                                                                                                                   E\n                                                                                                                                                                                       A\n                                                                                                                                                                                           E\n                                                                                                                                                                                               A\n                                                                                                                                                                                                   E\n\n\n\n\n15"
+      "○1 ○\n2 ○\n3 ○\n4  A",
+      "○\nE 2 ○\n3 ○\nA\n4 ○\n1\nE\nA",
+      "○\nE3 ○4\nA\n15",
+      ""
     ],
     "answer": "3"
   },
@@ -160,370 +167,337 @@
       "舳艫千里，旌旗蔽空",
       "寄蜉蝣於天地，渺滄海之一粟",
       "漁樵於江渚之上，侶魚蝦而友麋鹿",
-      "月出於東山之上，徘徊於斗牛之間\n\n\n        貳、英文：100 %\n         【單選題： 40 題，每題"
+      "月出於東山之上，徘徊於斗牛之間\n貳、英文：100 %\n【單選題： 40 題，每題"
     ],
     "answer": "2"
   },
   {
     "number": "16",
-    "text": "Taiwan has become an aging society partly because of ___ birthrates.",
+    "text": "Taiwan has become an aging society par",
     "options": [
       "increasing",
-      "going up",
-      "rising",
-      "declining\n19"
+      "going up\n19",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "17",
-    "text": "People who want to get a job with TPC need to take a(n) ___ test.",
+    "text": "People who want to get a job with TPC",
     "options": [
       "enter",
-      "recruitment",
-      "examination",
-      "intelligence\n21"
+      "recruitment\n21",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "18",
-    "text": "Marie doesn’t like tourist attractions because they are always ___ with people.",
+    "text": "Marie doesn’t like tourist attractions",
     "options": [
       "crowded",
-      "squeezed",
-      "full",
-      "fill\n23"
+      "squeezed\n23",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "19",
-    "text": "Such information is not open to the public, but you can find it on the ___.",
+    "text": "Such information is not open to the pu",
     "options": [
       "Internet",
-      "official website",
-      "intranet",
-      "government website\n25"
+      "official w\n25",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "20",
-    "text": "It’s difficult to see a dentist without a(n) ___ in Taiwan these days.",
+    "text": "It’s difficult to see a dentist withou",
     "options": [
       "appointment",
-      "date",
-      "deal",
-      "schedule\n27"
+      "date\n27",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "21",
-    "text": "Jean is not good at ___ her money; she always runs out of money at the end of the month.",
+    "text": "Jean is not good at ___ her money; she",
     "options": [
       "spending",
-      "inventing",
-      "managing",
-      "calculating\n29"
+      "inventing\n29",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "22",
-    "text": "Motorcycles need regular ___, such as change of engine oil, etc.",
+    "text": "Motorcycles need regular ___, such as",
     "options": [
       "repairs",
-      "insurance",
-      "maintenance",
-      "supply\n31"
+      "insurance\n31",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "23",
-    "text": "After buying all you need in a supermarket, you pay at the ___ counter.",
+    "text": "After buying all you need in a superma",
     "options": [
       "check-in",
-      "calculating",
-      "money",
-      "checkout\n33"
+      "calculatin\n33",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "24",
-    "text": "It is better late than ___. It’s not too late to say you are sorry.",
+    "text": "It is better late than ___. It’s not t",
     "options": [
       "early",
-      "never",
-      "delay",
-      "in time\n35"
+      "never\n35",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "25",
-    "text": "The Harry Potter series are among the most ___ movies in history.",
+    "text": "The Harry Potter series are among the",
     "options": [
       "profitable",
-      "money",
-      "financial",
-      "economical\n\n\n\n16"
+      "money\n16",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "26",
-    "text": "The manager asked me to ___ a table at Golden Thai for lunch tomorrow.",
+    "text": "The manager asked me to ___ a table a",
     "options": [
       "make",
-      "preserve",
-      "book",
-      "manage\n18"
+      "preserve\n18",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "27",
-    "text": "As people care only about their electronic ___, reading is a dying habit.",
+    "text": "As people care only about their electr",
     "options": [
       "facilities",
-      "devices",
-      "equipments",
-      "pieces\n20"
+      "devices\n20",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "28",
-    "text": "When buying furniture from IKEA, follow ___ to put it together.",
+    "text": "When buying furniture from IKEA, follo",
     "options": [
       "the instructions",
-      "the orders",
-      "the stages",
-      "the stairs\n22"
+      "the orders\n22",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "29",
-    "text": "In the job market, having a skill can be more ___ than having good grades.",
+    "text": "In the job market, having a skill can",
     "options": [
       "favor",
-      "better",
-      "advantage",
-      "valuable\n24"
+      "better\n24",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "30",
-    "text": "To get a driving license, you have to take a ___ and pass it first.",
+    "text": "To get a driving license, you have to",
     "options": [
       "writing test",
-      "written test",
-      "text test",
-      "pen test\n26"
+      "written t\n26",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "31",
-    "text": "I don’t mean to ___, but I didn’t quite understand what you just said.",
+    "text": "I don’t mean to ___, but I didn’t quit",
     "options": [
       "stop",
-      "break up",
-      "interrupt",
-      "interfere\n28"
+      "break up\n28",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "32",
-    "text": "If you make a(n) ___ and don’t keep it, you are a liar.",
+    "text": "If you make a(n) ___ and don’t keep it",
     "options": [
       "answer",
-      "suggestion",
-      "bargain",
-      "promise\n30"
+      "suggestion\n30",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "33",
-    "text": "We all chipped in to buy the coffee machine in the office. Chipped in means ___",
+    "text": "We all chipped in to buy the coffee ma",
     "options": [
       "put in money",
-      "put in a chip",
-      "used a cell phone chip",
-      "damaged\n32"
+      "used a cell phone chip\n32",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "34",
-    "text": "When people finish eating in a restaurant, they ask the waiter for the ___.",
+    "text": "When people finish eating in a restaur",
     "options": [
       "check",
-      "money",
-      "pay",
-      "paper\n34"
+      "money\n34",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "35",
-    "text": "Doug was finally let go as a result of calling in sick two, three times a week. So he was ___",
+    "text": "Doug was finally let go as a result of",
     "options": [
       "approved to leave.",
-      "left his job.",
-      "not stopped.",
-      "fired from work.\n37"
+      "left his jo\n37",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "36",
-    "text": "Don’t be mad. Tom didn’t answer the phone because he ___a meeting.",
+    "text": "Don’t be mad. Tom didn’t answer the ph",
     "options": [
       "had in",
-      "was in",
-      "in",
-      "was attended\n39"
+      "was in\n39",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "37",
-    "text": "Besides ___, today we can also use smartphones to go online.",
+    "text": "Besides ___, today we can also use sma",
     "options": [
       "use computers",
-      "using computers",
-      "though computers",
-      "on computers\n41"
+      "using compu\n41",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "38",
-    "text": "Don can’t live without his smartphone because he has to be ___ 24hrs a day.",
+    "text": "Don can’t live without his smartphone",
     "options": [
       "on call",
-      "on duty",
-      "in demand",
-      "in preparation\n43"
+      "on duty\n43",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "39",
-    "text": "John is from Kaohsiung and he goes back to see his parents ___.",
+    "text": "John is from Kaohsiung and he goes bac",
     "options": [
       "two weeks",
-      "every two weeks",
-      "one two weeks",
-      "two weeks at a time\n45"
+      "every two we\n45",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "40",
-    "text": "Last night, Mike had trouble falling asleep although he knew he ___ get up early for the job interview.",
+    "text": "Last night, Mike had trouble falling a",
     "options": [
       "must",
-      "has to",
-      "had to",
-      "must to\n47"
+      "has to\n47",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "41",
-    "text": "By the time Jason retires in April, he ___ in the company for 30 years.",
+    "text": "By the time Jason retires in April, he",
     "options": [
       "will work",
-      "has worked",
-      "will have worked",
-      "will be working\n49"
+      "has worked\n49",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "42",
-    "text": "The new Tom Cruise movie is ___; it is full of action.",
+    "text": "The new Tom Cruise movie is ___; it is",
     "options": [
       "worth to watch",
-      "worth watching",
-      "value to watch",
-      "value watching\n51"
+      "worth watching\n51",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "43",
-    "text": "Terry will retire this month and we have been ___ a going-away party all week.",
+    "text": "Terry will retire this month and we ha",
     "options": [
       "busy to have",
-      "busy to prepare",
-      "busy having",
-      "busy preparing\n53"
+      "busy to p\n53",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "44",
-    "text": "If you need to ___, apply for the approval of your supervisor.",
+    "text": "If you need to ___, apply for the appr",
     "options": [
       "take a day off",
-      "go for a day",
-      "leave a day",
-      "away one day\n55"
+      "go for a d\n55",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "45",
-    "text": "There will be a ___ soon and everyone is making plans.",
+    "text": "There will be a ___ soon and everyone",
     "options": [
       "four days holiday",
-      "four holidays",
-      "four-day holiday",
-      "four-days holiday\n36"
+      "four holiday\n36",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "46",
-    "text": "Leaving children under 12 years old at home ___ is not legal.",
+    "text": "Leaving children under 12 years old at",
     "options": [
       "by their own",
-      "by themselves",
-      "to their own",
-      "on themselves\n\n\n\n38"
+      "by themselv\n共同科目(國文、英文\n38",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "47",
-    "text": "Either I or he ___ for the mistake, but we can cooperate to fix the problem.",
+    "text": "Either I or he ___ for the mistake, b",
     "options": [
       "am responsible",
-      "are responsible",
-      "is responsible",
-      "both responsible\n40"
+      "are respo\n40",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "48",
-    "text": "Taipei 101 used to be ___ building in the world.",
+    "text": "Taipei 101 used to be ___ building in",
     "options": [
       "the tallest",
-      "tallest",
-      "tall No. 1",
-      "first tall\n42"
+      "tallest\n42",
+      ""
     ],
     "answer": "1"
   },
@@ -532,74 +506,153 @@
     "text": "Brian is ___ than his brother Bruce.",
     "options": [
       "more smart and polite",
-      "smarter and polite",
-      "smarter and more polite",
-      "more smart and politer\n44"
+      "smarter and more polite\n44",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "50",
-    "text": "When someone thanks you for your help, you can answer: ___",
+    "text": "When someone thanks you for your help,",
     "options": [
       "Yes, please.",
-      "No chance.",
-      "How funny.",
-      "My pleasure.\n46"
+      "No chance.\n46",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "51",
-    "text": "A friend needs help. What do you say to be sorry that you can’t help?",
+    "text": "A friend needs help. What do you say t",
     "options": [
       "I hope I can help.",
-      "I wish I could help.",
-      "I’ll help next time.",
-      "I can’t do it.\n48"
+      "I’ll help next time.\n48",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "52",
-    "text": "Which is the best answer when a shop clerk says, “Can I help you?”",
+    "text": "Which is the best answer when a shop c",
     "options": [
       "No, I can’t.",
-      "I’ll just look around.",
-      "Never mind.",
-      "Go do your things.\n50"
+      "Never mind.\n50",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "53",
-    "text": "Alan had had three jobs when he joined TP",
+    "text": "Alan had had three jobs when he joined",
     "options": [
       "last employer.",
-      "second employer.",
-      "third employer.",
-      "fourth employer.\n52"
+      "second empl\n52",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "54",
-    "text": "When a company has a new product, it has to ___ it by advertising.",
+    "text": "When a company has a new product, it h",
     "options": [
       "provide",
-      "supply",
-      "market",
-      "purchase\n54"
+      "supply\n54",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "55",
-    "text": "Dina’s starting pay would have been higher if she had gone to graduate school. It means Dina ___.",
+    "text": "Dina’s starting pay would have been hi",
     "options": [
       "didn’t go to graduate school",
+      "went to graduate school\n共同科目(國文、英文)\n月新進僱用人員甄試試題\n色鋼筆或原子筆在答案卷指定範圍內作\n40 題(共 100 分)，須用 2B 鉛筆在答案卡\n答區計有正反 2 面，不提供\n題所配分數，答錯或畫記\n倒扣計至該科之實得分數為零為\n作答者不給分亦不扣分。\n試結束後，始得至原試場或適\n。】",
+      "刻舟求劍",
+      "河魚腹疾",
+      "鐘鳴漏盡",
+      "窺豹一斑",
+      "夏蟲語冰\n熱/再接再勵○\nE\nA\n5 膾炙                          A\nE\nA                               A\nE\nA                             A\nE\nA\n○\n4 ○\n5    A\nE\nA\nE\nA\nE\nA               A\nE\nA\nE\nA\nE\nA               A\nE\nA\nE\nA\nE",
+      "南：十部\n植\n先生：陶淵明\n\n標點\n/。/。\n的\n不能\n啦\n「南風」送歸雁，以上選項按「春夏秋冬\nA\nE\nA                               A\nE\nA       A\nE\nA\n○\n1 ○\n2\nE",
+      "○\nA\n2 ○\n1 ○\n4 ○\n3       A\nE\nA\nE\nA\nE\nA\nE\nA       A\nE\nA\nE\nA\nE\nA\nE\nA      A\nE\nA\nE\nA\nE\nA\nE\n~55 畫記作答。】\ntly because of ___ birthrates.",
+      "rising",
+      "declining\nneed to take a(n) ___ test.",
+      "examination",
+      "intelligence\nbecause they are always ___ with people.",
+      "full",
+      "fill\nblic, but you can find it on the ___.\nebsite",
+      "intranet",
+      "government website\nt a(n) ___ in Taiwan these days.",
+      "deal",
+      "schedule\nalways runs out of money at the end of the month.",
+      "managing",
+      "calculating\nchange of engine oil, etc.",
+      "maintenance",
+      "supply\nrket, you pay at the ___ counter.\ng",
+      "money",
+      "checkout\noo late to say you are sorry.",
+      "delay",
+      "in time\nmost ___ movies in history.",
+      "financial",
+      "economical\n\nt Golden Thai for lunch tomorrow.",
+      "book",
+      "manage\nonic ___, reading is a dying habit.",
+      "equipments",
+      "pieces\nw ___ to put it together.",
+      "the stages",
+      "the stairs\nbe more ___ than having good grades.",
+      "advantage",
+      "valuable\ntake a ___ and pass it first.\nest",
+      "text test",
+      "pen test\ne understand what you just said.",
+      "interrupt",
+      "interfere\n, you are a liar.",
+      "bargain",
+      "promise\nchine in the office. Chipped in means ___",
+      "put in a chip",
+      "damaged\nant, they ask the waiter for the ___.",
+      "pay",
+      "paper\ncalling in sick two, three times a week. So he was ___\nb.",
+      "not stopped.",
+      "fired from work.\none because he ___a meeting.",
+      "in",
+      "was attended\nrtphones to go online.\nters",
+      "though computers",
+      "on computers\nbecause he has to be ___ 24hrs a day.",
+      "in demand",
+      "in preparation\nk to see his parents ___.\neks",
+      "one two weeks",
+      "two weeks at a time\nsleep although he knew he ___ get up early for the job interview.",
+      "had to",
+      "must to\n___ in the company for 30 years.",
+      "will have worked",
+      "will be working\nfull of action.",
+      "value to watch",
+      "value watching\nve been ___ a going-away party all week.\nrepare",
+      "busy having",
+      "busy preparing\noval of your supervisor.\nay",
+      "leave a day",
+      "away one day\nis making plans.\ns",
+      "four-day holiday",
+      "four-days holiday\nhome ___ is not legal.\nes",
+      "to their own",
+      "on themselves\n\nut we can cooperate to fix the problem.\nnsible",
+      "is responsible",
+      "both responsible\nthe world.",
+      "tall No. 1",
+      "first tall",
+      "smarter and polite",
+      "more smart and politer\nyou can answer: ___",
+      "How funny.",
+      "My pleasure.\no be sorry that you can’t help?",
+      "I wish I could help.",
+      "I can’t do it.\nlerk says, “Can I help you?”",
+      "I’ll just look around.",
+      "Go do your things.\nTPC. Therefore, TPC is Alan’s ___\noyer.",
+      "third employer.",
+      "fourth employer.\nas to ___ it by advertising.",
+      "market",
+      "purchase\ngher if she had gone to graduate school. It means Dina ___.",
       "got a high starting salary",
-      "went to graduate school",
       "didn’t get a job"
     ],
     "answer": "1"

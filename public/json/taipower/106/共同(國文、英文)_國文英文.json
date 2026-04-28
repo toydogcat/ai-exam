@@ -6,7 +6,8 @@
       "拜收",
       "哂納",
       "笑納",
-      "惠存\n5"
+      "惠存\n5",
+      ""
     ],
     "answer": "1"
   },
@@ -17,7 +18,8 @@
       "三國演義",
       "聊齋志異",
       "水滸傳",
-      "儒林外史\n8"
+      "儒林外史\n8",
+      ""
     ],
     "answer": "3"
   },
@@ -28,7 +30,8 @@
       "鳳振高岡：賀生女",
       "功著杏林：賀醫院開業",
       "業紹陶朱：賀遷居",
-      "昌大門楣：賀生子\n11"
+      "昌大門楣：賀生子\n11",
+      ""
     ],
     "answer": "2"
   },
@@ -39,7 +42,8 @@
       "墨家",
       "道家",
       "法家",
-      "縱橫家\n14"
+      "縱\n14",
+      ""
     ],
     "answer": "1"
   },
@@ -48,9 +52,10 @@
     "text": "下列各組「 」內注音符號所表示的字，字形相同的選項是？",
     "options": [
       "匪「ㄧˊ」所思/虛與委「ㄧˊ」",
-      "冒大不「ㄨㄟˇ」/「ㄨㄟˇ」大不掉",
+      "冒大不「ㄨㄟˇ」/「ㄨㄟˇ」大不",
       "相形見「ㄔㄨˋ」/左支右「ㄔㄨˋ」",
-      "絃歌不「ㄔㄨㄛˋ」/餔糟「ㄔㄨㄛˋ」醨\n3"
+      "絃歌不「ㄔㄨㄛˋ」/餔糟「ㄔㄨㄛ\n3",
+      ""
     ],
     "answer": "3"
   },
@@ -61,7 +66,8 @@
       "「蕞」爾小國：ㄗㄨㄟˋ",
       "為虎作「倀」：ㄔㄤ",
       "「撙」節開支：ㄗㄨㄣˇ",
-      "一語成「讖」：ㄔㄢˋ\n6"
+      "一語成「讖」：ㄔㄢˋ\n6",
+      ""
     ],
     "answer": "4"
   },
@@ -72,7 +78,8 @@
       "桃儀",
       "脩儀",
       "潤儀",
-      "賻儀\n9"
+      "賻\n9",
+      ""
     ],
     "answer": "2"
   },
@@ -83,7 +90,8 @@
       "駑馬十駕",
       "集腋成裘",
       "孜孜矻矻",
-      "苗而不秀\n12"
+      "苗\n12",
+      ""
     ],
     "answer": "4"
   },
@@ -94,7 +102,8 @@
       "象形",
       "指事",
       "會意",
-      "形聲\n\n\n15"
+      "形\n\n15",
+      ""
     ],
     "answer": "2"
   },
@@ -105,7 +114,8 @@
       "拍「案」叫絕",
       "「案」牘勞形",
       "舉「案」齊眉",
-      "有「案」可稽\n1"
+      "有「案」可稽\n1",
+      ""
     ],
     "answer": "1"
   },
@@ -114,9 +124,8 @@
     "text": "下列「 」中詞語的意義，何者可相通？",
     "options": [
       "「易」容改扮/「易」如反掌",
-      "不「虞」匱乏/爾「虞」我詐",
-      "日「薄」西山/「薄」暮冥冥",
-      "屢試不「爽」/神清氣「爽」\n4"
+      "日「薄」西山/「薄」暮冥冥\n4",
+      ""
     ],
     "answer": "3"
   },
@@ -126,19 +135,20 @@
     "options": [
       "蒲觴",
       "桂漿",
-      "萸觴",
-      "酴酥\n7"
+      "萸觴\n7",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "13",
-    "text": "從沒料得到人生的□□竟會如此燙手/再也回答不出最後一道問題的他/終於把自己褪成了一\n          紙/空空的白 (子建〈遺書〉)，請選出空格中最適合填入的詞語？",
+    "text": "從沒料得到人生的□□竟會如此燙手/再也回答不出最後一道問題的他/終於把自己褪成了\n紙/空空的白 (子建〈遺書〉)，請選出空格中最適合填入的詞語？",
     "options": [
       "家書",
       "考卷",
       "難關",
-      "舞台\n10"
+      "舞台\n10",
+      ""
     ],
     "answer": "2"
   },
@@ -149,260 +159,239 @@
       "謙虛的人總能不齒下問",
       "做傷天害理的事，最令人不恥",
       "公然說謊卻不愧疚，會被批評為無齒",
-      "有些人言過其實，讓人齒冷\n13"
+      "有些人言過其實，讓人齒冷\n13",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "15",
-    "text": "「老虎」的「老」並沒有「年老」的意思，這是所謂的「詞頭」。下列「老」字，何者不屬於此類？",
+    "text": "「老虎」的「老」並沒有「年老」的意思，這是所謂的「詞頭」。下列「老」字，何者不",
     "options": [
       "「老」師",
       "「老」婆",
       "「老」頭",
-      "「老」闆\n\n\n       貳、英文：100%\n        【單選題： 40 題，每題"
+      "「老」闆\n貳、英文：100%\n【單選題： 40 題，每題"
     ],
     "answer": "3"
   },
   {
     "number": "16",
-    "text": "The elevated road will be closed for ______ next week.",
+    "text": "The elevated road will be closed for __",
     "options": [
       "maintenance",
-      "clearing",
-      "preparation",
-      "management\n20"
+      "clearing\n20",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "17",
-    "text": "Your cell phone is too old. The parts are not ______ anymore.",
+    "text": "Your cell phone is too old. The parts a",
     "options": [
       "gotten",
-      "selling",
-      "available",
-      "market\n23"
+      "selling\n23",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "18",
-    "text": "Dr. King especially ______ out the purpose of the research project.",
+    "text": "Dr. King especially ______ out the purp",
     "options": [
       "carried",
-      "pointed",
-      "claimed",
-      "showed\n26"
+      "pointed\n26",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "19",
-    "text": "The Engineering Department just purchased a lot of new ______.",
+    "text": "The Engineering Department just purchas",
     "options": [
       "equipment",
-      "tool",
-      "facility",
-      "installation\n29"
+      "tool\n29",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "20",
-    "text": "Every ______ is nice at work, so Jane really likes her new job.",
+    "text": "Every ______ is nice at work, so Jane r",
     "options": [
       "college",
-      "colleague",
-      "collage",
-      "collocate\n32"
+      "colleague\n32",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "21",
-    "text": "The city government plans to ______ more U-bike stations.",
+    "text": "The city government plans to ______ mor",
     "options": [
       "get",
-      "open",
-      "set up",
-      "keep\n35"
+      "open\n35",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "22",
-    "text": "The moon ______ around Earth once a month.",
+    "text": "The moon ______ around Earth once a mon",
     "options": [
       "evolves",
-      "drives",
-      "involves",
-      "travels\n18"
+      "drives\n18",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "23",
-    "text": "Compared to the Toyota, this Mazda is a much better ______.",
+    "text": "Compared to the Toyota, this Mazda is a",
     "options": [
       "bargain",
-      "chosen",
-      "finding",
-      "liking\n21"
+      "chosen\n21",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "24",
-    "text": "It’s OK to ______ you have made a mistake. No one’s perfect.",
+    "text": "It’s OK to ______ you have made a mista",
     "options": [
       "think",
-      "admit",
-      "joke",
-      "laugh\n24"
+      "admit\n24",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "25",
-    "text": "Your hair is too long; you should go to the ______ soon.",
+    "text": "Your hair is too long; you should go to",
     "options": [
       "barber shop",
-      "bob’s shop",
-      "cut store",
-      "hair store\n27"
+      "bob’s shop\n27",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "26",
-    "text": "Terry got a ______ for driving above the speed limit.",
+    "text": "Terry got a ______ for driving above th",
     "options": [
       "warn",
-      "ticket",
-      "job",
-      "prize\n30"
+      "ticket\n30",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "27",
-    "text": "The water pipe is ______. We need to get a plumber to fix it.",
+    "text": "The water pipe is ______. We need to ge",
     "options": [
       "turned off",
-      "running",
-      "braking",
-      "leaking\n\n33"
+      "running\n共同科目(國文、英文)\n33",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "28",
-    "text": "Frank just bought a new ______ near his office. He can just walk to work.",
+    "text": "Frank just bought a new ______ near hi",
     "options": [
       "department",
-      "compartment",
-      "apartment",
-      "embankment\n16"
+      "compartment\n16",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "29",
-    "text": "TV watching is the main ______ for a lot of people these days.",
+    "text": "TV watching is the main ______ for a lo",
     "options": [
       "recreation",
-      "thing",
-      "entertain",
-      "interesting\n19"
+      "thing\n19",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "30",
-    "text": "There is no need to ______. We have plenty of time.",
+    "text": "There is no need to ______. We have ple",
     "options": [
       "go",
-      "hurry",
-      "wait",
-      "come\n22"
+      "hurry\n22",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "31",
-    "text": "This is the ______ computer game I have ever played.",
+    "text": "This is the ______ computer game I have",
     "options": [
       "good",
-      "better",
-      "best",
-      "fine\n25"
+      "better\n25",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "32",
-    "text": "There are too many ______ in this election. It will be a difficult race.",
+    "text": "There are too many ______ in this elect",
     "options": [
       "votes",
-      "hopes",
-      "chooses",
-      "candidates\n28"
+      "hopes\n28",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "33",
-    "text": "I have marked the birthday of every one of friends on the ______.",
+    "text": "I have marked the birthday of every one",
     "options": [
       "calender",
-      "colander",
-      "calendar",
-      "cylinder\n31"
+      "colander\n31",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "______ is the most important because we want to get things done in time.",
+    "text": "______ is the most important because we",
     "options": [
       "Fact",
-      "Effective",
-      "Efficient",
-      "Efficiency\n34"
+      "Effective\n34",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "35",
-    "text": "Could you ______ the salt, please? The soup is a little too bland for me.",
+    "text": "Could you ______ the salt, please? The",
     "options": [
       "pour",
-      "buy",
-      "pass",
-      "hold\n37"
+      "buy\n37",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "36",
-    "text": "The copying machine is ______ the end of the hallway.",
+    "text": "The copying machine is ______ the end o",
     "options": [
       "at",
-      "on",
-      "in",
-      "across\n40"
+      "on\n40",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "37",
-    "text": "Harry dislikes ______; he prefers listening to music.",
+    "text": "Harry dislikes ______; he prefers liste",
     "options": [
       "to watch TV",
-      "TVs",
-      "watching TV",
-      "watch TV\n43"
+      "TVs\n43",
+      ""
     ],
     "answer": "3"
   },
@@ -411,194 +400,258 @@
     "text": "Matt and Mary ______ for over 35 years.",
     "options": [
       "are married",
-      "have married",
-      "married",
-      "have been married\n46"
+      "have married\n46",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "39",
-    "text": "This company ______ more than fifty years ago.",
+    "text": "This company ______ more than fifty yea",
     "options": [
       "had been established",
-      "was established",
-      "established",
-      "was establishing\n49"
+      "established\n49",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "40",
-    "text": "Nick has a hot temper, so nobody likes to be ______ him.",
+    "text": "Nick has a hot temper, so nobody likes",
     "options": [
       "close",
-      "round",
-      "at",
-      "near\n52"
+      "round\n52",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "41",
-    "text": "Doug and Billy have known each other ______ junior high school.",
+    "text": "Doug and Billy have known each other __",
     "options": [
       "since",
-      "in",
-      "when",
-      "for\n55"
+      "in\n55",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "42",
-    "text": "One of my coworkers ______ in the building across from mine.",
+    "text": "One of my coworkers ______ in the build",
     "options": [
       "live",
-      "lives",
-      "are living",
-      "is lived\n38"
+      "lives\n38",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "43",
-    "text": "Michael ______ he didn’t have to find a job like everyone else.",
+    "text": "Michael ______ he didn’t have to find a",
     "options": [
       "hopes",
-      "wishes",
-      "is hoping",
-      "is wishing\n41"
+      "wishes\n41",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "44",
-    "text": "I don’t mind doing overtime work ______ I get paid for it.",
+    "text": "I don’t mind doing overtime work ______",
     "options": [
       "as long as",
-      "until",
-      "before",
-      "beside\n44"
+      "until\n44",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "45",
-    "text": "I ______ a shower when you called, so I couldn’t answer the phone.",
+    "text": "I ______ a shower when you called, so I",
     "options": [
       "took",
-      "have taken",
-      "was taking",
-      "had taken\n47"
+      "have taken\n47",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "46",
-    "text": "The Vietnamese restaurant is only a ______ walk from here.",
+    "text": "The Vietnamese restaurant is only a ___",
     "options": [
       "five minute",
-      "five-minute",
-      "five minutes",
-      "five-minutes\n50"
+      "five-minute\n50",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "47",
-    "text": "After a ______ vacation in Okinawa, we’re ready to go back to work.",
+    "text": "After a ______ vacation in Okinawa, we’",
     "options": [
       "relax",
-      "relaxing",
-      "relaxed",
-      "relaxation\n53"
+      "relaxing\n53",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "48",
-    "text": "I wish I ______ go to work every morning I wake up.",
+    "text": "I wish I ______ go to work every mornin",
     "options": [
       "don’t have to",
-      "won’t have to",
-      "not have to",
-      "didn’t have to\n\n\n\n36"
+      "won’t have t\n共同科目(國文、英文)\n36",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "49",
-    "text": "All new employees ______ to attend several training programs.",
+    "text": "All new employees ______ to attend sev",
     "options": [
       "need",
-      "are needed",
-      "are needing",
-      "have need\n39"
+      "are needed\n39",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "50",
-    "text": "A large number of students ______ for the class, so we need a bigger room.",
+    "text": "A large number of students ______ for t",
     "options": [
       "sign up",
-      "signs up",
-      "have signed up",
-      "has signed up\n42"
+      "signs up\n42",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "51",
-    "text": "There is a 7-11 ______ the corner from my home.",
+    "text": "There is a 7-11 ______ the corner from",
     "options": [
       "at",
-      "on",
-      "in",
-      "around\n45"
+      "on\n45",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "52",
-    "text": "We must ______ right away; otherwise, we will miss the flight.",
+    "text": "We must ______ right away; otherwise, w",
     "options": [
       "to go",
-      "go",
-      "be gone",
-      "to be going\n48"
+      "go\n48",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "53",
-    "text": "She could not help ______ because the movie was so touching.",
+    "text": "She could not help ______ because the m",
     "options": [
       "cry",
-      "to cry",
-      "crying",
-      "cried\n51"
+      "to cry\n51",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "54",
-    "text": "Peter has gotten three promotions because he works ______.",
+    "text": "Peter has gotten three promotions becau",
     "options": [
       "hardly",
-      "hard",
-      "harden",
-      "hardening\n54"
+      "hard\n54",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "55",
-    "text": "If you want to catch the train, you ______ now. It leaves in half hour.",
+    "text": "If you want to catch the train, you ___",
     "options": [
       "would better go",
-      "would rather go",
+      "would rathe\n共同科目(國文、英文)\n圍內\n)，須用 2B 鉛筆在答\n零\n橫家\n掉\nˋ」醨\n儀\n而不秀\n聲\n【請翻頁繼續作答】",
+      "不「虞」匱乏/爾「虞」我詐",
+      "屢試不「爽」/神清氣「爽」",
+      "酴酥\n一\n屬於此類？\n5 畫記作答。】\n____ next week.",
+      "preparation",
+      "management\nre not ______ anymore.",
+      "available",
+      "market\nose of the research project.",
+      "claimed",
+      "showed\ned a lot of new ______.",
+      "facility",
+      "installation\neally likes her new job.",
+      "collage",
+      "collocate\ne U-bike stations.",
+      "set up",
+      "keep\nth.",
+      "involves",
+      "travels\nmuch better ______.",
+      "finding",
+      "liking\nke. No one’s perfect.",
+      "joke",
+      "laugh\nthe ______ soon.",
+      "cut store",
+      "hair store\ne speed limit.",
+      "job",
+      "prize\nt a plumber to fix it.",
+      "braking",
+      "leaking\n\ns office. He can just walk to work.",
+      "apartment",
+      "embankment\nt of people these days.",
+      "entertain",
+      "interesting\nnty of time.",
+      "wait",
+      "come\never played.",
+      "best",
+      "fine\nion. It will be a difficult race.",
+      "chooses",
+      "candidates\nof friends on the ______.",
+      "calendar",
+      "cylinder\nwant to get things done in time.",
+      "Efficient",
+      "Efficiency\nsoup is a little too bland for me.",
+      "pass",
+      "hold\nf the hallway.",
+      "in",
+      "across\nning to music.",
+      "watching TV",
+      "watch TV",
+      "married",
+      "have been married\nrs ago.",
+      "was established",
+      "was establishing\nto be ______ him.",
+      "at",
+      "near\n____ junior high school.",
+      "when",
+      "for\ning across from mine.",
+      "are living",
+      "is lived\njob like everyone else.",
+      "is hoping",
+      "is wishing\nI get paid for it.",
+      "before",
+      "beside\ncouldn’t answer the phone.",
+      "was taking",
+      "had taken\n___ walk from here.",
+      "five minutes",
+      "five-minutes\nre ready to go back to work.",
+      "relaxed",
+      "relaxation\ng I wake up.\no",
+      "not have to",
+      "didn’t have to\n\neral training programs.",
+      "are needing",
+      "have need\nhe class, so we need a bigger room.",
+      "have signed up",
+      "has signed up\nmy home.",
+      "in",
+      "around\ne will miss the flight.",
+      "be gone",
+      "to be going\novie was so touching.",
+      "crying",
+      "cried\nse he works ______.",
+      "harden",
+      "hardening\n___ now. It leaves in half hour.\nr go",
       "had better go",
       "had better gone"
     ],

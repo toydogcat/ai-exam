@@ -6,7 +6,7 @@
       "耳「儒」目染",
       "「孺」子可教",
       "個性「懦」弱",
-      "囁「嚅」難言"
+      ""
     ],
     "answer": "1"
   },
@@ -17,7 +17,8 @@
       "「惘」然所失／置若「罔」聞",
       "青青子「衿」／「矜」持拘謹",
       "桑「榆」晚景／「逾」期未歸",
-      "白髮「皤」皤／「藩」鎮割據"
+      "白髮「皤」皤／「藩」鎮割據",
+      ""
     ],
     "answer": "4"
   },
@@ -28,7 +29,8 @@
       "罪「愆」：ㄧㄢˇ",
       "「畛」域：ㄓㄣˇ",
       "挑「釁」：ㄒㄧㄣˋ",
-      "自「戕」：ㄑㄧㄤˊ"
+      "自「戕」：ㄑㄧㄤˊ",
+      ""
     ],
     "answer": "1"
   },
@@ -39,29 +41,31 @@
       "南轅北轍",
       "相形見詘",
       "瞠乎其後",
-      "匠心獨運"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "5",
-    "text": "諸葛亮《出師表》：「陛下亦宜自課，以諮諏善道。」此段文句是作者期盼後主治理國政時\n       ，應秉持下列何種態度？",
+    "text": "諸葛亮《出師表》：「陛下亦宜自課，以諮諏善道。」此段文句是作者期盼後主治理國政時\n，應秉持下列何種態度？",
     "options": [
       "克制物質與權力的欲望",
       "自我反省，並向賢臣請益",
       "努力不懈，充實新知",
-      "勤讀兵書，強身健體"
+      "勤讀兵書，強身健體",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "6",
-    "text": "屈原《漁父》中漁父曰：「聖人不凝滯於物，而能與世推移。世人皆濁，何不淈其泥而揚其\n       波？」，漁父對屈原之建議，下列何者正確？",
+    "text": "屈原《漁父》中漁父曰：「聖人不凝滯於物，而能與世推移。世人皆濁，何不淈其泥而揚其\n波？」，漁父對屈原之建議，下列何者正確？",
     "options": [
       "在現實世界中隨俗進退",
       "堅持崇高理想，不隨波逐流",
       "鍥而不捨，不改其志",
-      "勿使高尚品格，蒙受世俗塵埃"
+      "勿使高尚品格，蒙受世俗塵埃",
+      ""
     ],
     "answer": "1"
   },
@@ -72,7 +76,8 @@
       "係北宋文學家蘇軾所作",
       "作者共寫下兩篇赤壁賦",
       "為作者遭貶至黃州之作品",
-      "描述作者與友人把酒言歡之心情"
+      "描述作者與友人把酒言歡之心情",
+      ""
     ],
     "answer": "4"
   },
@@ -83,7 +88,8 @@
       "比喻樂善好施的人",
       "比喻歷練豐富的人",
       "比喻隨機應變的人",
-      "比喻見識短淺的人"
+      "比喻見識短淺的人",
+      ""
     ],
     "answer": "4"
   },
@@ -94,51 +100,56 @@
       "元宵節",
       "清明節",
       "端午節",
-      "中秋節"
+      "中秋節",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "10",
-    "text": "王昌齡《閨怨》：「閨中少婦不知愁，春日凝妝上翠樓。忽見陌頭楊柳色，悔教夫婿覓封侯\n        。」其中「凝妝」一詞的意思，下列何者正確？",
+    "text": "王昌齡《閨怨》：「閨中少婦不知愁，春日凝妝上翠樓。忽見陌頭楊柳色，悔教夫婿覓封侯\n。」其中「凝妝」一詞的意思，下列何者正確？",
     "options": [
       "妝髮凌亂",
       "不施脂粉",
       "盛妝打扮",
-      "臉色凝重"
+      "臉色凝重",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "11",
-    "text": "王維《九月九日憶山東兄弟》：「獨在異鄉為異客，每逢佳節倍思親。遙知兄弟登高處，遍\n        插茱萸少一人。」，其中「少一人」指的是誰？",
+    "text": "王維《九月九日憶山東兄弟》：「獨在異鄉為異客，每逢佳節倍思親。遙知兄弟登高處，遍\n插茱萸少一人。」，其中「少一人」指的是誰？",
     "options": [
       "作者父母",
       "作者本人",
       "作者親戚",
-      "作者兄弟"
+      "作者兄弟",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "12",
-    "text": "《禮記．大同與小康》：「昔者，仲尼與於蜡賓，事畢，出遊於觀之上，喟然而歎。」，其\n        中「蜡」的意義，下列何者正確？",
+    "text": "《禮記．大同與小康》：「昔者，仲尼與於蜡賓，事畢，出遊於觀之上，喟然而歎。」，其\n中「蜡」的意義，下列何者正確？",
     "options": [
       "樂器",
       "昆蟲",
       "祭禮",
-      "地名"
+      "地名",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "13",
-    "text": "「處大國不攻小國，處大家不篡小家，強者不劫弱，貴者不傲賤，多詐者不欺愚。」係下列\n        先秦諸家中，何者的思想？",
+    "text": "「處大國不攻小國，處大家不篡小家，強者不劫弱，貴者不傲賤，多詐者不欺愚。」係下列\n先秦諸家中，何者的思想？",
     "options": [
       "墨家",
       "儒家",
       "法家",
-      "道家"
+      "道家",
+      ""
     ],
     "answer": "1"
   },
@@ -149,425 +160,438 @@
       "作者為連橫",
       "清末開始撰寫，民國初年成書",
       "內容起自明代，終於割讓給日本",
-      "屬紀傳體之史書"
+      "屬紀傳體之史書",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "15",
-    "text": "歸有光《項脊軒志》：「余扃牖而居，久之，能以足音辨人。」，其中「牖」的意義，下列\n        何者正確？",
+    "text": "歸有光《項脊軒志》：「余扃牖而居，久之，能以足音辨人。」，其中「牖」的意義，下列\n何者正確？",
     "options": [
       "竹床",
       "草房",
       "籬笆",
-      "窗戶\n\n\n    貳、英文：100 %\n     【單選題： 40 題，每題"
+      "窗戶\n貳、英文：100 %\n【單選題： 40 題，每題"
     ],
     "answer": "4"
   },
   {
     "number": "16",
-    "text": "After heavy rains, there is always a high _______ mudslides in this area.",
+    "text": "After heavy rains, there is always a hig",
     "options": [
       "possibility with",
       "risk of",
-      "danger for",
-      "chance from"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "The landlord told us that the rent had to be paid at the _______ of each month.",
+    "text": "The landlord told us that the rent had t",
     "options": [
       "final",
       "middle",
-      "tenth",
-      "beginning"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "18",
-    "text": "This model of car _______ three different colors: silver, red, and dark blue.",
+    "text": "This model of car _______ three differen",
     "options": [
       "comes with",
       "comes in",
-      "goes with",
-      "goes in"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "19",
-    "text": "The crew must take a rest because they _______ from a long trip.",
+    "text": "The crew must take a rest because they _",
     "options": [
       "have just been returning",
-      "have just been returned",
       "just return",
-      "have just returned"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "20",
-    "text": "Ellie has a wide _______ of hobbies, including painting, hiking, and surfing.",
+    "text": "Ellie has a wide _______ of hobbies, inc",
     "options": [
       "range",
       "rank",
-      "scope",
-      "extension"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "21",
-    "text": "Would you rather _______ a promotion or a new job?",
+    "text": "Would you rather _______ a promotion or",
     "options": [
       "get",
       "to get",
-      "getting",
-      "be gotten"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "22",
-    "text": "Jake was told not to _______ the boat until the negotiations were finished.",
+    "text": "Jake was told not to _______ the boat un",
     "options": [
       "rattle",
-      "shake",
-      "disturb",
-      "rock"
+      "shake\n共同科目(國文、英文)",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "23",
-    "text": "Physical therapists use their professional knowledge to assist you _______ supportive devices like a\n        crutch or cane.",
+    "text": "Physical therapists use their professio\ncrutch or cane.",
     "options": [
       "and use",
       "to use",
-      "use",
-      "in using"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "24",
-    "text": "It’s better to get a rental car for the trip because the two cities are more than 20 km _______.",
+    "text": "It’s better to get a rental car for the",
     "options": [
       "apart",
       "afar",
-      "apart from",
-      "afar from"
+      ""
     ],
     "answer": "1"
   },
   {
+    "number": "25",
+    "text": "Figures _______ last year show that the\npost-pandemic period.",
+    "options": [
+      "were published",
+      "that publishe",
+      ""
+    ],
+    "answer": "3"
+  },
+  {
     "number": "26",
-    "text": "If you would like to get a refund for a _______ product, you have to bring in the product and its receipt.",
+    "text": "If you would like to get a refund for a",
     "options": [
       "affected",
       "fault",
-      "defected",
-      "flawed"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "27",
-    "text": "The conclusion she made was _______ relevant to the discussion.",
+    "text": "The conclusion she made was _______ rele",
     "options": [
       "highly",
       "closely",
-      "deeply",
-      "largely"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "28",
-    "text": "Bonus payments based on productivity act as a(n) _______ for employees to work harder.",
+    "text": "Bonus payments based on productivity act",
     "options": [
       "stimulus",
       "incentive",
-      "perk",
-      "commitment"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "29",
-    "text": "If you _______ on fat and sugar in your diet, you’ll feel a lot healthier.",
+    "text": "If you _______ on fat and sugar in your",
     "options": [
       "cut back",
       "cut off",
-      "cut out",
-      "cut short"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "30",
-    "text": "I can’t remember her name, but it’ll _______ me in a minute.",
+    "text": "I can’t remember her name, but it’ll ___",
     "options": [
       "come in",
       "come to",
-      "come upon",
-      "come after"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "31",
-    "text": "I haven’t the slightest idea _______ the moment I arrived this afternoon.",
+    "text": "I haven’t the slightest idea _______ the",
     "options": [
       "what have they discussed",
-      "what were they discussing",
       "what they have discussed",
-      "what they were discussing"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "32",
-    "text": "Heavy fines have recently been _______ minor driving offences.",
+    "text": "Heavy fines have recently been _______ m",
     "options": [
       "exposed to",
       "deposed from",
-      "imposed on",
-      "composed for"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "33",
-    "text": "_______ increasing education about skin cancer, suntanned skin is no longer a desirable look in\n       Western cultures.",
+    "text": "_______ increasing education about skin\nWestern cultures.",
     "options": [
       "Despite",
       "Except for",
-      "In that",
-      "Due to"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "34",
-    "text": "Own-label products now ______ more than 20% of sales in some European supermarkets.",
+    "text": "Own-label products now ______ more than",
     "options": [
       "account for",
       "account as",
-      "count in",
-      "count for"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "35",
-    "text": "“Have you ever been to the Grand Canyon?” Choose the best response.",
+    "text": "“Have you ever been to the Grand Canyon?",
     "options": [
-      "I have. Never I had seen such a wonder.",
-      "I have. Never had I seen such a wonder.",
-      "I have. I haven’t ever seen such a wonder.",
-      "I have. Ever have I seen such a wonder."
+      "I have. Never I had seen such a wond",
+      "I have. I haven’t ever seen such a w",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "36",
-    "text": "The babies of lions and bears are called cubs, but a person or a monkey _______ has just been born is\n        called a baby.",
+    "text": "The babies of lions and bears are called\ncalled a baby.",
     "options": [
       "that",
       "who",
-      "which",
-      "either"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "37",
-    "text": "The proposal for lifting the trade restrictions set off a(n) _______ over the issue. Until now, no\n        conclusion has been reached.",
+    "text": "The proposal for lifting the trade restr\nconclusion has been reached.",
     "options": [
       "debate",
       "alarm",
-      "riot",
-      "panic"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "38",
-    "text": "I’ve been feeling a little _______ this week. I’m afraid I must go to see a doctor.",
+    "text": "I’ve been feeling a little _______ this",
     "options": [
       "out of my element",
       "at a loss",
-      "under the weather",
-      "behind the times"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "39",
-    "text": "You should get to the sales early to avoid missing out _______ all the best bargains.",
+    "text": "You should get to the sales early to avo",
     "options": [
       "in",
       "from",
-      "for",
-      "on"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "40",
-    "text": "A series of experiments to test the new drug _______ carried out, but so far it still can’t prove to be an\n        effective drug.",
+    "text": "A series of experiments to test the new\neffective drug.",
     "options": [
       "was",
       "were",
-      "has been",
-      "have been"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "41",
-    "text": "The candidate insisted on finishing his speech even though there was hardly _______ left in the room.",
+    "text": "The candidate insisted on finishing his",
     "options": [
       "one",
-      "no one",
-      "anyone",
-      "someone"
+      "no one\n共同科目(國文、英文) 第",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "42",
-    "text": "A competitive market helps to _______ efficiency.",
+    "text": "A competitive market helps to _______ e",
     "options": [
       "adopt",
       "develop",
-      "generate",
-      "promote"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "43",
-    "text": "My office is only a five-minute walk from the MRT station, so it’s _______ taking a taxi.",
+    "text": "My office is only a five-minute walk fro",
     "options": [
       "not worth",
       "no sense in",
-      "no point in",
-      "no reason to"
+      ""
     ],
     "answer": "1"
   },
   {
+    "number": "44",
+    "text": "The car industry’s annual production ___",
+    "options": [
+      "adjusts",
+      "fluctuates",
+      ""
+    ],
+    "answer": "2"
+  },
+  {
     "number": "45",
-    "text": "A lot of manufacturing companies are trying to _______ by cutting the budget for equipment renewals.",
+    "text": "A lot of manufacturing companies are try",
     "options": [
       "balance",
       "economize",
-      "limit",
-      "reduce"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "46",
-    "text": "Because there wasn’t sufficient time, data precision and accuracy were barely _______ and reported in\n        carbon monitoring.",
+    "text": "Because there wasn’t sufficient time, da\ncarbon monitoring.",
     "options": [
       "acquired",
       "accessed",
-      "assessed",
-      "assumed"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "47",
-    "text": "Chiufen is an old gold-mining town that _______ economically when the gold ran out in the middle of\n        the last century.",
+    "text": "Chiufen is an old gold-mining town that\nthe last century.",
     "options": [
       "dropped",
       "declined",
-      "fell",
-      "disappeared"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "48",
-    "text": "An example of a generation gap is when the old have a value judgement that _______ that of the young.",
+    "text": "An example of a generation gap is when t",
     "options": [
       "compares to",
       "changes to",
-      "differs from",
-      "reverses into"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "49",
-    "text": "When you have trouble sleeping, a cup of warm milk can do the _______.",
+    "text": "When you have trouble sleeping, a cup of",
     "options": [
       "tip",
       "trick",
-      "effect",
-      "act"
+      ""
     ],
     "answer": "2"
   },
   {
+    "number": "50",
+    "text": "The new lecture hall has a seating _____",
+    "options": [
+      "amount",
+      "capability",
+      ""
+    ],
+    "answer": "3"
+  },
+  {
     "number": "51",
-    "text": "“Susan hasn’t told you about her resignation, has she?” Choose the best response.",
+    "text": "“Susan hasn’t told you about her resigna",
     "options": [
       "Yes, she did.",
-      "Yes, she hasn’t.",
-      "No, she has.",
-      "No, she hasn’t."
+      "Yes, she has",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "52",
-    "text": "“Mr. Smith has worked here for a long time, hasn’t he?” Choose the best response.",
+    "text": "“Mr. Smith has worked here for a long ti",
     "options": [
       "Yes, at five o’clock.",
-      "No, he’s working overtime.",
       "Yes, more than thirty years.",
-      "No. I don’t have a watch."
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "53",
-    "text": "It rained heavily this morning, but they finally _______ to the airport.",
+    "text": "It rained heavily this morning, but they",
     "options": [
       "left it",
       "made it",
-      "got it",
-      "reached it"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "54",
-    "text": "It was when they started working together that they found they just weren’t _______.",
+    "text": "It was when they started working togethe",
     "options": [
       "compatible",
       "doable",
-      "possible",
-      "workable"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "55",
-    "text": "The departure dates listed in this brochure for the summer tours _______ change.",
+    "text": "The departure dates listed in this broch",
     "options": [
       "look up to",
-      "look forward to",
-      "are subject to",
-      "are based on"
+      "look forwar\n共同科目(國文、英文)\n定範圍內\n分)，須用 2B 鉛筆在答案\n提\n畫記作答。】",
+      "囁「嚅」難言",
+      "匠心獨運\n【請翻頁繼續作答】\n畫記作答。】\nh _______ mudslides in this area.",
+      "danger for",
+      "chance from\no be paid at the _______ of each month.",
+      "tenth",
+      "beginning\nt colors: silver, red, and dark blue.",
+      "goes with",
+      "goes in\n______ from a long trip.",
+      "have just been returned",
+      "have just returned\nluding painting, hiking, and surfing.",
+      "scope",
+      "extension\na new job?",
+      "getting",
+      "be gotten\ntil the negotiations were finished.",
+      "disturb",
+      "rock\n\nnal knowledge to assist you _______ supportive devices like a",
+      "use",
+      "in using\ntrip because the two cities are more than 20 km _______.",
+      "apart from",
+      "afar from\nnumber of online retailers has increased by"
     ],
     "answer": "3"
   }

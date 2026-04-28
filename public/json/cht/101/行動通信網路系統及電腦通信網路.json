@@ -1,104 +1,29 @@
 [
   {
-    "number": "2",
-    "text": "45GHz                   ƒ",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "8GHz             „",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "3",
-    "text": "5GHz\n    …請勿於答案卡(卷)上書寫姓名、編號或其他不應有的文字、標記、符號等，違反者該科以零分計算。\n                                                                                                    【1】21.下列哪一項標準與 WiMAX 關係最密切？\n    †應考人得自備簡易型電子計算器，但不得發出聲響，且不具財務、工程及儲存程式功能。應考人\n                                                                                                      • IEEE",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "5~2.69 GHz 將具有下列哪一項優勢？\n【1】5.就傳輸技術而言，下列何者非行動多媒體會選用的技術？                                                                        •穿透性佳                              ‚容易與 WLAN 設備整合\n • GSM         ‚ DVB      ƒ MediaFLO                                 „ WiMAX                          ƒ不容易受干擾                            „高傳輸距離\n【4】6.有關無線網路傳輸運作的敘述，下列何者正確？                                                                          【1】28.下列何者不包括在 ITU 所公告的 3G 技術？\n •電磁波無法在真空中傳遞                 ‚聲波可以直接透過行動電話的天線傳遞出去，不需額外處理程序                                           • OFDMA         ‚ WCDMA                      ƒ CDMA2000           „ TD-SCDMA\n ƒ行動電話的天線可以直接收到 0 或 1 的數據資料，不需額外處理程序                                                                【4】29.下列哪一項不包括在 WiMAX 架構所定義的不同業者之間的邏輯區分中？\n „用來傳送訊息的訊號稱為載波(carrier wave)                                                                         • NAP(Network Access Provider)  ‚ ASP(Application Service Provider)\n【2】7.下列何處較適合測量通訊系統的 SNR(Signal-to-Noise Ratio)？                                                       ƒ NSP(Network Service Provider) „ WISP(Wireless Internet Service Provider)\n •發送端          ‚接收端               ƒ交換中心                              „傳輸介質                          【3】30.下列何者不是 WiMAX 的「網路參考模型(Network Reference Model) 」中之 CSN(Connectivity Service Network)\n【4】8.依 Friis 提出的電磁波 Free Space Equation，訊號強度與距離關係為何？                                                  提供之功能？\n •強度與距離成正比          ‚強度與距離成反比             ƒ強度與距離平方成正比 „強度與距離平方成反比                                     •配置 IP 給 MS 上對話連線的用戶             ‚對用戶、裝置和服務進行鑑別、授權和計費\n【3】9.展頻技術(Spread Spectrum)的頻寬與實務上需要的最小訊號頻寬關係為何？                                                       ƒ支援 Mobile IP 的 Foreign Agent 功能 „用戶帳單和電信業間的拆帳\n •兩者相等                ‚兩者成正比       ƒ展頻的頻寬大許多倍 „展頻的頻寬較小                                              【3】31. IEEE",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "4GHz             ‚ 5GHz                  ƒ",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "13",
-    "text": "56MHz           „ 860-960MHz\n  • IEEE",
-    "options": [],
+    "number": "17",
+    "text": "第三代行動通訊網路架構在下列哪一層進行可靠及有效的封包轉送？\n專業科目：",
+    "options": [
+      "行動通信網路系統、",
+      "電腦通信網路                                                                            •應用層(Application Layer)  ‚擷取網路層(Access Network Layer)\n                                                            ＊請填寫入場通知書編號： _______________              ƒ移動層(Mobility Layer)     „骨幹層(Backbone Layer)\n 注意：•作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請"
+    ],
     "answer": "4"
   },
   {
-    "number": "2",
-    "text": "4GHz            ‚ 5GHz                   ƒ",
-    "options": [],
-    "answer": "3"
+    "number": "1",
+    "text": "8，log2(1.",
+    "options": [
+      "=0.48，log2(2.5)=1.32，log10(0.",
+      "= -0.4，log10(2.5) ="
+    ],
+    "answer": "2"
   },
   {
-    "number": "13",
-    "text": "56MHz           „ 860-960MHz\n  • IEEE",
-    "options": [],
+    "number": "54",
+    "text": "有關串音（crosstalk）之敘述，下列何者錯誤？\n  •串音係因導線感應鄰近之導線電流產生之電壓所造成                                                                                    （一）整個封包之大小為何？【2 分】\n  ‚傳輸速率越高，串音造成之問題越嚴重                                                                                          （二）封包可再被轉送經幾個路由器？【2 分】\n  ƒ近端串音（Near-end crosstalk, NEXT）係用以測量串音之參數\n                                                                                                              （三）封包之識別碼(identification number)為何？【2 分】\n  „ NEXT 之(d",
+    "options": [
+      "值越低，代表線路傳輸品質越好\n                                                                                                              （四）封包之來源位址(source address)為何？請以常用之 10 進位加句點表示法（例如：140.123.89.10",
+      ""
+    ],
     "answer": "4"
-  },
-  {
-    "number": "10",
-    "text": "16.0.0~10.31.255.255           ‚",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "8，log2(1.4)=0.48，log2(2.5)=1.32，log10(0.4) = -0.4，log10(2.5) =",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "2",
-    "text": "28 Gbps              ‚",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "40 Gbps            ƒ",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "2",
-    "text": "56 Gbps             „",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "62 Gbps                       造成網路延遲之因素很多，請回答下列問題：\n【2】45.若網路之傳輸速率為 90Mbps，而每一符號需以 8 位元表示，則此網路之鮑率（baud rate）為何？                                                 （一）端對端延遲(end-to-end delay)包含哪些可能的延遲？【4 分】\n  • 10 Mbaud     ‚",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "25 Mbaud ƒ 90 Mbaud  „ 720 Mbaud\n                                                                                                            （二）假設鏈路(link)之資料傳輸速率為 109 bps (bits/sec)、封包大小為 8000 位元、單程傳播延遲\n【3】46.若 IP 位址為",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "24",
-    "text": "72.12.84 之設備所處子網路，其網路遮罩為/20，若將此子網路再分成 8 個子網路，其每個子\n  網路中共有幾個可指定給設備使用之 IP 位址？                                                                                      (propagation delay)為 15 milliseconds。不考慮 ACK 封包及處理(processing)延遲。請問使用停止\n  • 126                 ‚ 254        ƒ 510       „ 1022                                                        及等待(stop and wait)協定的鏈路利用率(utilization)為多少？(1 millisecond=1/1000 second)【6 分】\n【2】47.超 5 類（Cat. 5e）UTP 線中共有幾對雙絞線？                                                                        題目四：\n  •8                   ‚4          ƒ2                                   „1                                    IP 封包標頭（header）格式如下圖。若某 IP 封包標頭內容以 16 進位表示為：45000054 00031000 20060000\n【3】48. TCP 協定供 telnet 協定使用之預設埠號為何？                                                                        7C4E0382 B40E0F05，則：\n  • 21                  ‚ 22       ƒ 23                                 „ 80\n【2】49. TCP 及 UDP 協定供超文字轉送協定（Hypertext Transfer Protocol）使用之預設埠號為何？\n  • 8080             ‚ 80           ƒ 23                  „0\n【3】50.由網路外要送封包給 Class B",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "1",
-    "text": "1.1.1         ƒ",
-    "options": [],
-    "answer": "2"
   }
 ]

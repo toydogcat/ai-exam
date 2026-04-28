@@ -274,7 +274,7 @@
   },
   {
     "number": "44",
-    "text": "有機式組織(Organic Organizations)與機械式組織(Mechanistic Organizations)的差異在於：",
+    "text": "有機式組織(Organic Organizations)與機械式組織(Mechanistic Organization",
     "options": [
       "有機式組織的正式化及複雜化程度低，但集權化程度比機械式組織高",
       "機械式組織的集權化及正式化程度均較高，但複雜化程度比有機式組織低",
@@ -395,7 +395,7 @@
   },
   {
     "number": "19",
-    "text": "控制過程的第一個步驟是下列何者？",
+    "text": "控制過程的第一個步驟是下列何者？\nce)及下列何者？",
     "options": [
       "衡量績效",
       "採取管理行動",
@@ -598,7 +598,7 @@
       "管理強度(administrative intensity)",
       "控制幅度(span of control)",
       "指揮鏈(chain of command)",
-      "授權(delegation)"
+      "授權(delegation)\ns)的差異在於："
     ],
     "answer": "1"
   },

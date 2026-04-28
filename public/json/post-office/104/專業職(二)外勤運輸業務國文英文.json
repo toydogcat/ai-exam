@@ -1,306 +1,35 @@
 [
   {
-    "number": "1",
-    "text": "下列哪一選項「」中的讀音與其他選項不同？",
-    "options": [
-      "教「唆」犯罪",
-      "青年才「俊」",
-      "重山「峻」嶺",
-      "深潭「浚」谷"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "2",
-    "text": "下列詞語完全正確的是：",
-    "options": [
-      "意不容辭",
-      "令人咋舌",
-      "人謀不贓",
-      "磬竹難書"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "3",
-    "text": "下列各組詞語，意義相近的是：",
-    "options": [
-      "致仕／登科",
-      "失恃／寡人",
-      "足下／弱冠",
-      "躊躇／猶豫"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "古人言：「先天下之憂而憂，後天下之樂而樂。」下列最接近本文句意旨的選項是：",
-    "options": [
-      "攘除姦凶，匹夫有責",
-      "博施濟眾，先難後獲",
-      "遊必就士，德必有鄰",
-      "生於憂患，死於安樂"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "下列成語與死亡無關的是：",
-    "options": [
-      "樑木其壞",
-      "風行草偃",
-      "雁行失序",
-      "鼓盆之戚"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "6",
-    "text": "所謂「四書」是指：",
-    "options": [
-      "《易經》、《尚書》、《詩經》、《禮記》",
-      "《春秋》、《史記》、《漢書》、《後漢書》",
-      "《論語》、《孟子》、《大學》、《中庸》",
-      "《公羊傳》、《穀梁傳》、《左傳》、《春秋》"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "「馬齒徒長」的「齒」，與年齡有關。下列詞語中的「齒」，也與年齡有關的選項是：",
-    "options": [
-      "脣亡齒寒",
-      "齒白脣紅",
-      "不足掛齒",
-      "齒德俱尊"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "8",
-    "text": "「此地別燕丹，壯士髮衝冠。昔時人已沒，今日水猶寒。」本詩所歌詠的對象是：",
-    "options": [
-      "屈原",
-      "荊軻",
-      "岳飛",
-      "曹操"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "9",
-    "text": "下列敘述正確的選項是：",
-    "options": [
-      "何以解憂，唯有杜康―「杜康」指丹藥",
-      "呼兒烹鯉魚，中有尺素書―「鯉魚」指海鮮",
-      "紅顏棄軒冕，白首臥松雲―「紅顏」指妻子",
-      "主人下馬客在船，舉酒欲飲無管絃―「管絃」指音樂"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "10",
-    "text": "「華而不實」乃運用反義字相對成詞，喻表面好看但無實際內容。下列詞語與此構詞方式不相同的\n選項是：",
-    "options": [
-      "秘而不宣",
-      "視而不見",
-      "譎而不正",
-      "述而不作\n貳、簡易英文【第 26-50 題，每題 2 分，共計 25 題，佔 50 分】\n一、字彙【請依照句子前後文意，選出最適當的答案】"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "26",
-    "text": "It’s time to take a short ______. Would you li",
-    "options": [
-      "triumph",
-      "break"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "27",
-    "text": "My legs are ______ after the ball game.",
-    "options": [
-      "sore",
-      "certificate"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "28",
-    "text": "I am so hungry. The noodles look ______ to me.",
-    "options": [
-      "delicious",
-      "honest"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "29",
-    "text": "The plane ticket is ______ for one year.",
-    "options": [
-      "true",
-      "upgrade"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "30",
-    "text": "We need to buy some new ______ for redecoratin",
-    "options": [
-      "furniture",
-      "exhibition"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "31",
-    "text": "Tom had stayed up watching movies and ______ t",
-    "options": [
-      "pinched",
-      "overslept"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "32",
-    "text": "Mary’s uncle passed away yesterday. The ______",
-    "options": [
-      "attack",
-      "miracle"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "33",
-    "text": "After having an ______ with me, the boss decid",
-    "options": [
-      "obligation",
-      "upbeat"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "34",
-    "text": "Come in, please. Let me ______ some water and",
-    "options": [
-      "fry",
-      "boil\n二、文法測驗【請在下列各題中選出最適當的答案】"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "35",
-    "text": "______ you need any assistance from me, please",
-    "options": [
-      "Should",
-      "Are"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "36",
-    "text": "The dog was ______ death in the snowy weather.",
-    "options": [
-      "freezing",
-      "frozen to"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "37",
-    "text": "It was very much ______ my disappointment that",
-    "options": [
-      "in",
-      "beside"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "38",
-    "text": "If he ______ my phone, he wouldn’t have missed",
-    "options": [
-      "had answered",
-      "did answer"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "39",
-    "text": "I ______ to act for the director while he is o",
-    "options": [
-      "am authorizing",
-      "authorize"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "40",
-    "text": "The movie is ______ the novel by Joseph O’Neil",
-    "options": [
-      "basic",
-      "based on"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "41",
-    "text": "Mark was injured in the car accident yesterday",
-    "options": [
-      "took",
-      "took into"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "42",
-    "text": "There is ______ that Jenny is a smart student.",
-    "options": [
-      "not deny",
-      "denied"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "43",
-    "text": "I shall buy you a bracelet watch ______ condit",
-    "options": [
-      "on",
-      "in"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "11",
     "text": "若利用網路搜尋引擎，查找韓愈的相關資料，最不適當的關鍵詞是：",
     "options": [
-      "師說",
-      "古文八大家",
-      "詩中有畫，畫中有詩",
-      "匹夫而為百世師，一言而為天下法"
+      "01-G542",
+      "、                          詩中有畫，畫中有詩              匹夫而為百世師，一言而為天下\n專業職（二）外勤／運輸業務 1-運輸業務 3【G5501-G550",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "12",
-    "text": "下列詞語中「」內之用字何者正確？",
+    "text": "下列詞語中「」內之用字何者正確？\n普通科目：國文及簡易英文",
     "options": [
       "「潰」不成軍",
       "功虧一「匱」",
       "不虞「饋」乏",
-      "「聵」贈禮物\n_______"
+      "「聵」贈禮物\n＊請填寫入場通知書編號：_______________"
     ],
     "answer": "1"
   },
   {
     "number": "13",
-    "text": "「有一個飲者自稱楚狂/不飲已醉，一醉更狂妄/不到夜郎已經夠自大/幸而貶你未曾到夜郎」。本詩\n所歌詠的人物是：",
+    "text": "「有一個飲者自稱楚狂/不飲已醉，一醉更狂妄/不到夜郎已經夠自大/幸而貶\n注意：",
     "options": [
+      "作答前須檢查答案卡、入場通知書編號、桌角號碼、甄選類科是否相符，如有不同應立即請監試                   所歌詠的人物是：\n人員處理，否則不予計分。",
       "屈原",
       "李白",
+      "本試卷正反兩頁共 50 題單選題，每題 2 分。限用 2B 鉛筆在「答案卡」上作答，請選出最適當答",
       "陶淵明",
-      "徐志摩"
+      "徐志摩\n案，答錯不倒扣；未作答者，不予計分。"
     ],
     "answer": "2"
   },
@@ -308,16 +37,18 @@
     "number": "14",
     "text": "「蓬生麻中，不扶而直；白沙在涅，與之俱黑。」此意謂為學必須：",
     "options": [
+      "請勿於答案卡上書寫姓名、入場通知書編號或與答案無關之任何文字或符號。",
       "慎選環境",
       "善用工具",
+      "應考人得自備使用簡易型電子計算機(須不具財務函數、工程函數或儲存程式功能，且不得發出聲",
       "勤奮不懈",
-      "勇於發問"
+      "勇於發問\n響)。若應考人於測驗時將不符規定之電子計算機放置於桌面或使用，經勸阻無效，仍執意使用者，"
     ],
     "answer": "1"
   },
   {
     "number": "15",
-    "text": "「海是永世的歸屬/一枚貝殼，在遙遠的沙灘/記憶著/你怎樣/液態時的柔情/固態時的等待/等待回來，\n入水融化」。本詩所詠的是：",
+    "text": "「海是永世的歸屬/一枚貝殼，在遙遠的沙灘/記憶著/你怎樣/液態時的柔情\n扣除該科目成績 10 分；計算機並由監試人員保管至該節測驗結束後歸還。                          入水融化」。本詩所詠的是：\n答案卡務必繳回，未繳回者該科以零分計算。",
     "options": [
       "酒",
       "油",
@@ -328,78 +59,146 @@
   },
   {
     "number": "16",
-    "text": "電視新聞報導：「高速公路子夜發生大車禍」，「子夜」指的是：",
+    "text": "電視新聞報導：「高速公路子夜發生大車禍」，「子夜」指的是：\n壹、國文【第 1-25 題，每題 2 分，共計 25 題，佔 50 分】",
     "options": [
       "晚上七點到九點",
-      "晚上九點到晚上十一點",
-      "晚上十一點到凌晨一點",
-      "凌晨一點到凌晨三點"
+      "晚上九點到晚上十一點"
     ],
     "answer": "3"
   },
   {
-    "number": "17",
-    "text": "「臺上風情，無非嬉笑怒罵╱眼前景象，可觀善惡是非」。此對聯適用的行業為：",
+    "number": "1",
+    "text": "下列哪一選項「」中的讀音與其他選項不同？",
     "options": [
+      "晚上十一點到凌晨一點",
+      "凌晨一點到凌晨三點",
+      "教「唆」犯罪",
+      "青年才「俊」"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "17",
+    "text": "「臺上風情，無非嬉笑怒罵╱眼前景象，可觀善惡是非」。此對聯適用的行業為",
+    "options": [
+      "重山「峻」嶺",
+      "深潭「浚」谷",
       "醫院",
-      "相命館",
-      "戲院",
-      "眼鏡行"
+      "相命館"
     ],
     "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "下列詞語完全正確的是：",
+    "options": [
+      "戲院",
+      "眼鏡行",
+      "意不容辭",
+      "令人咋舌"
+    ],
+    "answer": "2"
   },
   {
     "number": "18",
     "text": "「人品甚高，胸懷灑落，如□□□□。」缺空處最宜填入的是：",
     "options": [
+      "人謀不贓",
+      "磬竹難書",
       "光風霽月",
-      "火樹銀花",
-      "高山流水",
-      "落英繽紛"
+      "火樹銀花"
     ],
     "answer": "1"
+  },
+  {
+    "number": "3",
+    "text": "下列各組詞語，意義相近的是：",
+    "options": [
+      "高山流水",
+      "落英繽紛",
+      "致仕／登科",
+      "失恃／寡人"
+    ],
+    "answer": "4"
   },
   {
     "number": "19",
     "text": "下列各組「」內的字，讀音相同的選項是：",
     "options": [
-      "「誹」謗／「菲」薄／「翡」翠",
-      "「茁」壯／「拙」劣／罷「黜」",
-      "抽「籤」／「纖」維／「殲」滅",
-      "解「釋」／木「鐸」／「驛」站"
+      "足下／弱冠",
+      "躊躇／猶豫",
+      "「誹」謗／「菲」薄／「翡」翠"
     ],
     "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "古人言：「先天下之憂而憂，後天下之樂而樂。」下列最接近本文句意旨的選項是：",
+    "options": [
+      "「茁」壯／「拙」劣／罷「黜」",
+      "攘除姦凶，匹夫有責",
+      "抽「籤」／「纖」維／「殲」滅",
+      "博施濟眾，先難後獲",
+      "解「釋」／木「鐸」／「驛」站",
+      "遊必就士，德必有鄰"
+    ],
+    "answer": "2"
   },
   {
     "number": "20",
     "text": "下列文句，完全沒有錯別字的選項是：",
     "options": [
-      "對於你無心的患錯，我並不介意",
-      "蚯蚓能翻鬆泥土，觸進植物生長",
-      "他雖然脾氣暴燥，但心地卻很善良",
-      "她做事一向乾脆俐落，絕不拖泥帶水"
+      "生於憂患，死於安樂",
+      "對於你無心的患錯，我並不介意"
     ],
     "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "下列成語與死亡無關的是：",
+    "options": [
+      "蚯蚓能翻鬆泥土，觸進植物生長",
+      "樑木其壞",
+      "風行草偃",
+      "雁行失序",
+      "鼓盆之戚",
+      "他雖然脾氣暴燥，但心地卻很善良"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "6",
+    "text": "所謂「四書」是指：",
+    "options": [
+      "她做事一向乾脆俐落，絕不拖泥帶水",
+      "《易經》、《尚書》、《詩經》、《禮記》"
+    ],
+    "answer": "3"
   },
   {
     "number": "21",
     "text": "下列成語及其說解，正確的選項是：",
     "options": [
+      "《春秋》、《史記》、《漢書》、《後漢書》",
       "燕巢幕上／乳燕歸巢",
       "投鞭斷流／軍隊眾多",
+      "《論語》、《孟子》、《大學》、《中庸》",
       "米珠薪桂／物產豐饒",
-      "夢熊之喜／賀人病癒"
+      "夢熊之喜／賀人病癒",
+      "《公羊傳》、《穀梁傳》、《左傳》、《春秋》"
     ],
     "answer": "2"
   },
   {
-    "number": "22",
-    "text": "依現行公文程式條例規定，民眾與機關間之申請或答復時，使用之公文書正確選項是：",
+    "number": "7",
+    "text": "「馬齒徒長」的「齒」，與年齡有關。下列詞語中的「齒」，也與年齡有關的選項是：",
     "options": [
       "令",
       "呈",
       "咨",
-      "函"
+      "函",
+      "脣亡齒寒",
+      "齒白脣紅"
     ],
     "answer": "4"
   },
@@ -407,19 +206,43 @@
     "number": "23",
     "text": "依《文書處理手冊》規定，關於公文格式的敘述，正確的選項是：",
     "options": [
-      "公文用紙採 B4 尺寸紙張",
-      "文書製作採由左至右之橫行格式",
-      "中文字體及併同於中文中使用之標點符號應以半形為之",
-      "外文字體及併同於外文中使用之標點符號應以全形為之"
+      "不足掛齒",
+      "齒德俱尊",
+      "公文用紙採 B4 尺寸紙張"
     ],
     "answer": "2"
   },
   {
-    "number": "24",
-    "text": "下列各時辰，從早到晚依序排列的正確選項是：\n甲、日上三竿；乙、日正當中；丙、華燈初上；丁、日薄西山",
+    "number": "8",
+    "text": "「此地別燕丹，壯士髮衝冠。昔時人已沒，今日水猶寒。」本詩所歌詠的對象是：",
     "options": [
+      "文書製作採由左至右之橫行格式",
+      "屈原",
+      "荊軻",
+      "岳飛",
+      "曹操",
+      "中文字體及併同於中文中使用之標點符號應以半形為之"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "9",
+    "text": "下列敘述正確的選項是：",
+    "options": [
+      "外文字體及併同於外文中使用之標點符號應以全形為之",
+      "何以解憂，唯有杜康―「杜康」指丹藥"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "24",
+    "text": "下列各時辰，從早到晚依序排列的正確選項是：",
+    "options": [
+      "呼兒烹鯉魚，中有尺素書―「鯉魚」指海鮮                                            甲、日上三竿；乙、日正當中；丙、華燈初上；丁、日薄西山",
+      "紅顏棄軒冕，白首臥松雲―「紅顏」指妻子",
       "甲乙丙丁",
       "甲乙丁丙",
+      "主人下馬客在船，舉酒欲飲無管絃―「管絃」指音樂",
       "乙甲丙丁",
       "乙甲丁丙"
     ],
@@ -427,74 +250,258 @@
   },
   {
     "number": "25",
-    "text": "關於杜甫〈贈衛八處士〉「人生不相見，動如參與商」意涵的敘述，正確的選項是：",
+    "text": "關於杜甫〈贈衛八處士〉「人生不相見，動如參與商」意涵的敘述，正確的選項\n選項是：",
     "options": [
       "人生無常聚少離多",
+      "秘而不宣",
+      "視而不見",
       "人生無常孤寒愁苦",
+      "譎而不正",
+      "述而不作",
       "人生短暫故應及時行樂",
-      "人生短暫故應多多運動          【請接續背面】\n三、會話測驗【請依照對話前後文意，選出最適當的答案】"
+      "人生短暫故應多多運動          【請接續背面】\n貳、簡易英文【第 26-50 題，每題 2 分，共計 25 題，佔 50 分】\n一、字彙【請依照句子前後文意，選出最適當的答案】"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "26",
+    "text": "It’s time to take a short ______. Would you like to have a cup of coffee?",
+    "options": [
+      "triumph",
+      "break",
+      "rainbow",
+      "garbage"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "27",
+    "text": "My legs are ______ after the ball game.",
+    "options": [
+      "sore",
+      "certificate",
+      "health",
+      "ambitious"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "28",
+    "text": "I am so hungry. The noodles look ______ to me.",
+    "options": [
+      "delicious",
+      "honest",
+      "famous",
+      "commemorative"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "29",
+    "text": "The plane ticket is ______ for one year.",
+    "options": [
+      "true",
+      "upgrade",
+      "awesome",
+      "valid"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "30",
+    "text": "We need to buy some new ______ for redecorating our villa.",
+    "options": [
+      "furniture",
+      "exhibition",
+      "stretcher",
+      "route"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "31",
+    "text": "Tom had stayed up watching movies and ______ this morning.",
+    "options": [
+      "pinched",
+      "overslept",
+      "compensated",
+      "interchanged"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "32",
+    "text": "Mary’s uncle passed away yesterday. The ______ will be held next Tuesday.",
+    "options": [
+      "attack",
+      "miracle",
+      "mirror",
+      "funeral"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "33",
+    "text": "After having an ______ with me, the boss decides to give me the job.",
+    "options": [
+      "obligation",
+      "upbeat",
+      "interview",
+      "embank"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "34",
+    "text": "Come in, please. Let me ______ some water and make tea for you.",
+    "options": [
+      "fry",
+      "boil",
+      "delete",
+      "celebrate\n二、文法測驗【請在下列各題中選出最適當的答案】"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "35",
+    "text": "______ you need any assistance from me, please do not hesitate to contact me.",
+    "options": [
+      "Should",
+      "Are",
+      "Could",
+      "May"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "36",
+    "text": "The dog was ______ death in the snowy weather.",
+    "options": [
+      "freezing",
+      "frozen to",
+      "freezed into",
+      "freezes"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "37",
+    "text": "It was very much ______ my disappointment that they lost the game.",
+    "options": [
+      "in",
+      "beside",
+      "to",
+      "on"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "38",
+    "text": "If he ______ my phone, he wouldn’t have missed the flight to London.",
+    "options": [
+      "had answered",
+      "did answer",
+      "does answer",
+      "answered"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "39",
+    "text": "I ______ to act for the director while he is off.",
+    "options": [
+      "am authorizing",
+      "authorize",
+      "have authorized",
+      "am authorized"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "40",
+    "text": "The movie is ______ the novel by Joseph O’Neill.",
+    "options": [
+      "basic",
+      "based on",
+      "basing",
+      "on the base of"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "41",
+    "text": "Mark was injured in the car accident yesterday, so his elder brother ______ his place in the race",
+    "options": [
+      "took",
+      "took into",
+      "had took",
+      "was taken"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "42",
+    "text": "There is ______ that Jenny is a smart student.",
+    "options": [
+      "not deny",
+      "denied",
+      "undenial",
+      "no denying"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "43",
+    "text": "I shall buy you a bracelet watch ______ condition that you promise to behave yourself.",
+    "options": [
+      "on",
+      "in",
+      "to",
+      "with\n法\n你未曾到夜郎」。本詩\n/固態時的等待/等待回來，\n：\n項是：\n是：\n三、會話測驗【請依照對話前後文意，選出最適當的答案】"
     ],
     "answer": "1"
   },
   {
     "number": "44",
-    "text": "A: As you sow, so shall you reap. We all have to work harder.\nke to have a cup of coffee?                              B: __________________________",
+    "text": "A: As you sow, so shall you reap. We all have to work harder.\nB: __________________________",
     "options": [
-      "rainbow",
-      "garbage",
       "I can’t agree with you more.",
       "Yes, we can!",
       "Yes, you can take over his property.",
-      "health",
-      "ambitious",
       "I have seen him there."
     ],
     "answer": "1"
   },
   {
     "number": "45",
-    "text": "A: What was his major in the university?",
+    "text": "A: What was his major in the university?\nB: __________________________",
     "options": [
-      "famous",
-      "commemorative               B: __________________________",
       "The main point was his job.",
-      "awesome",
-      "valid",
-      "He studied Math.\ng our villa.",
+      "He studied Math.",
       "He used to be a solider.",
-      "stretcher",
-      "route",
       "He loved watching DVDs when he was a student."
     ],
     "answer": "2"
   },
   {
     "number": "46",
-    "text": "A: What color of dress should I choose for the ceremony?\nhis morning.\nB: __________________________",
+    "text": "A: What color of dress should I choose for the ceremony?\nB: __________________________",
     "options": [
-      "compensated",
-      "interchanged",
-      "Should we meet each other?\nwill be held next Tuesday.",
+      "Should we meet each other?",
       "I guess so.",
-      "mirror",
-      "funeral",
-      "Could I order it online?\nes to give me the job.",
-      "I think you will look better in pink.",
-      "interview",
-      "embank"
+      "Could I order it online?",
+      "I think you will look better in pink."
     ],
     "answer": "4"
   },
   {
     "number": "47",
-    "text": "A: Let’s study hard now and go skiing during this coming Christmas holidays.\nmake tea for you.                                        B: __________________________",
+    "text": "A: Let’s study hard now and go skiing during this coming Christmas holidays.\nB: __________________________",
     "options": [
-      "delete",
-      "celebrate",
       "It’s a deal.",
       "We shouldn’t do two things at a time.",
       "There are more than one person.",
-      "It’s unreasonable.\ndo not hesitate to contact me."
+      "It’s unreasonable."
     ],
     "answer": "1"
   },
@@ -502,50 +509,32 @@
     "number": "48",
     "text": "A: I keep worrying that I left the back door unlocked.\nB: __________________________",
     "options": [
-      "Could",
-      "May",
       "Why don’t we move the door?",
       "There is a ring in my bag.",
-      "freezed into",
-      "freezes",
-      "Let’s return home to check.\nthey lost the game.",
-      "I doubt whether he has left or not.",
-      "to",
-      "on"
+      "Let’s return home to check.",
+      "I doubt whether he has left or not."
     ],
     "answer": "3"
   },
   {
     "number": "49",
-    "text": "A: What’s your part in the play?\nthe flight to London.                                   B: __________________________",
+    "text": "A: What’s your part in the play?\nB: __________________________",
     "options": [
-      "does answer",
-      "answered",
-      "I shall play a singer.\nff.",
+      "I shall play a singer.",
       "The play is highly praised.",
-      "have authorized",
-      "am authorized",
       "I am impressed with the costumes.",
-      "The ticket costs 100 dollars.\nl."
+      "The ticket costs 100 dollars."
     ],
     "answer": "1"
   },
   {
     "number": "50",
-    "text": "A: Jack used whisky to brush his teeth.",
+    "text": "A: Jack used whisky to brush his teeth.\nB: __________________________\n.",
     "options": [
-      "basing",
-      "on the base of\nB: __________________________\n, so his elder brother ______ his place in the race.",
       "Here I go.",
-      "had took",
-      "was taken",
       "Oh, he kept talking about the painting.",
       "He had dedication.",
-      "undenial",
-      "no denying",
-      "That was odd.\nion that you promise to behave yourself.",
-      "to",
-      "with"
+      "That was odd."
     ],
     "answer": "4"
   }

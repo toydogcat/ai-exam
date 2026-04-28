@@ -6,7 +6,7 @@
       "MySQL",
       "Access",
       "MongoDB",
-      "Postg"
+      "PostgreSQL"
     ],
     "answer": "3"
   },
@@ -28,7 +28,7 @@
       "ARRANGE BY",
       "SORT BY",
       "LIST BY",
-      "ORDER"
+      "ORDER BY"
     ],
     "answer": "4"
   },
@@ -50,7 +50,7 @@
       "SELECT, FROM, WHERE",
       "SELECT, ORDER BY, LIMIT",
       "SELECT, ORDER BY, GROUP BY",
-      "SELECT, FROM, GROUP BY,"
+      "SELECT, FROM, GROUP BY, HAVI"
     ],
     "answer": "3"
   },
@@ -94,7 +94,7 @@
       "線上分析處理(OLAP)",
       "資料探勘(DM)",
       "資料倉儲(DW)",
-      "管理資訊系統"
+      "管理資訊系統(MIS)"
     ],
     "answer": "4"
   },
@@ -102,10 +102,10 @@
     "number": "10",
     "text": "資料庫中資料組織由小至大，下列順序何者正確？",
     "options": [
-      "字元(Character)=>位元(Bit)=>欄位(Field)=>紀錄(Record)=>資料表(Table)=>資料庫",
-      "位元(Bit)=>字元(Character)=>欄位(Field)=>紀錄(Record)=>資料表(Table)=>資料庫",
-      "位元(Bit)=>字元(Character)=>紀錄(Record)=>欄位(Field)=>資料表(Table)=>資料庫",
-      "位元(Bit)=>字元(Character)=>欄位(Field)=>資料表(Table)=>紀錄(Record)=>資料庫"
+      "字元(Character)=>位元(Bit)=>欄位(Field)=>紀錄(Record)=>資料表(Table)=>資料庫(Data",
+      "位元(Bit)=>字元(Character)=>欄位(Field)=>紀錄(Record)=>資料表(Table)=>資料庫(Data",
+      "位元(Bit)=>字元(Character)=>紀錄(Record)=>欄位(Field)=>資料表(Table)=>資料庫(Data",
+      "位元(Bit)=>字元(Character)=>欄位(Field)=>資料表(Table)=>紀錄(Record)=>資料庫(Data"
     ],
     "answer": "2"
   },
@@ -135,10 +135,8 @@
     "number": "26",
     "text": "企業可採用磁碟陣列(RAID)之“鏡像”(mirror)技術以達資料備份目的，此為何種 RAID 層級？",
     "options": [
-      "RAID-6 (level 6)",
-      "RAID-5 (level 5)",
-      "RAID-1 (level 1)",
-      "RAID-0 (level 0)"
+      "ID-6 (level 6)                   RAID-5 (level 5)\n RAID-1 (level",
+      " RAID-0 (level 0)"
     ],
     "answer": "3"
   },
@@ -160,7 +158,7 @@
       "霧備份(fog backup)",
       "熱備份(hot backup)",
       "冷備份(cold backup)",
-      "溫備份(warm"
+      "溫備份(warm back"
     ],
     "answer": "3"
   },
@@ -268,7 +266,7 @@
     "text": "有關多工(multitasking)作業系統的觀念，下列敘述何者錯誤？",
     "options": [
       "多工作業系統必須擁有多個中央處理器(CPU)",
-      "當 CPU 資源空出來時，會立刻分配給其他程式使用，讓 CPU 隨時保持在工作狀態\n___________",
+      "當 CPU 資源空出來時，會立刻分配給其他程式使用，讓 CPU 隨時保持在工作狀態\n______",
       "Linux 是屬於多工作業系統",
       "多工作業系統是指電腦可以同時處理多個程式。作業系統會適當地分配系統資源給每一個程式，使每一\n個程式都能順利地完成工作"
     ],
@@ -281,7 +279,7 @@
       "死結需要有四個條件同時存在，這四個條件為：不可搶奪、持有並等待、不互斥、循環等待",
       "只要讓死結四條件中的任一條件不成立，就可避免死結",
       "死結的避免方式之一是針對提出資源申請的程序，檢視系統是否會因接受此一程序的申請而進入死結",
-      "死結的處理方式之一是偵測死結是否存在，若存在打破它\nreSQL"
+      "死結的處理方式之一是偵測死結是否存在，若存在打破它"
     ],
     "answer": "1"
   },
@@ -298,7 +296,7 @@
   },
   {
     "number": "16",
-    "text": "有關資料庫的正規化，下列敘述何者錯誤？\nBY",
+    "text": "有關資料庫的正規化，下列敘述何者錯誤？",
     "options": [
       "正規化就是對於一個非正規化的原始資料表，進行一連串的刪除，成為一個不重複儲存的資料表",
       "第一正規化是除去重複項目群",
@@ -309,7 +307,7 @@
   },
   {
     "number": "17",
-    "text": "於 MS Windows 作業系統，使用者同時按下 Ctrl + Shift + Esc 等三鍵組合，其目的為何？\nHAVING",
+    "text": "於 MS Windows 作業系統，使用者同時按下 Ctrl + Shift + Esc 等三鍵組合，其目的為何？\nNG",
     "options": [
       "開啟“檔案管理員”(file manager)",
       "開啟“工作管理員”(task manager)",
@@ -364,23 +362,23 @@
   },
   {
     "number": "22",
-    "text": "資訊管理系統(MIS)常儲存大量數位資料，依資料容量單位(byte, B)由小至大作排序，下列何者正確？\n(MIS)",
+    "text": "資訊管理系統(MIS)常儲存大量數位資料，依資料容量單位(byte, B)由小至大作排序，下列何者正確？",
     "options": [
       "GB < MB < TB < PB",
       "GB < MB < PB < TB",
       "MB < GB < PB < TB",
-      "MB < GB < TB < PB\n(Database)"
+      "MB < GB < TB < PB\nbase)"
     ],
     "answer": "4"
   },
   {
     "number": "23",
-    "text": "電子商務(EC)網站提供買賣雙方可於線上交易，下列何者表示為“企業對企業”之交易模式？\n(Database)",
+    "text": "電子商務(EC)網站提供買賣雙方可於線上交易，下列何者表示為“企業對企業”之交易模式？\nbase)",
     "options": [
       "B2B(Business to Business)",
-      "C2C(Customer to Customer)\n(Database)",
+      "C2C(Customer to Customer)\nbase)",
       "E2E(Employee to Employee)",
-      "P2P(Peer to Peer)\n(Database)"
+      "P2P(Peer to Peer)\nbase)"
     ],
     "answer": "1"
   },
@@ -422,7 +420,7 @@
     "text": "保險公司應訂定集團層次之防制洗錢及打擊資恐計畫，有關集團內分／子公司之法定應訂事項，不\n包括下列何者？",
     "options": [
       "全面性建立集團層次高風險客戶之共享資料庫",
-      "確認客戶身分與洗錢及資恐風險管理目的所需之資訊分享政策及程序\nbackup)",
+      "確認客戶身分與洗錢及資恐風險管理目的所需之資訊分享政策及程序\nup)",
       "必要時，以集團層次要求國外分／子公司提供有關客戶及交易資訊",
       "對運用被交換資訊及其保密之安全防護"
     ],

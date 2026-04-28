@@ -1,12 +1,11 @@
 [
   {
     "number": "1",
-    "text": "使用「題辭」，必須考量相應的社交場合，下列何者不適用於教育界或教育人士的題辭？",
+    "text": "使用「題辭」，必須考量相應的社交場合，",
     "options": [
       "化洽菁莪",
       "斗山望重",
-      "敷教明倫",
-      "喜得寧馨"
+      ""
     ],
     "answer": "4"
   },
@@ -14,10 +13,11 @@
     "number": "2",
     "text": "下列選項，完全沒有錯別字的文句是？",
     "options": [
-      "人類與大自然習習相關，一味竭澤而漁只會遺害後代",
-      "星空下綻放著美麗的煙火，絢爛的色彩、聲光令人目不暇給",
-      "他是一位滿懷抱負的青年，將來必定大有作為，大家都視目以待",
-      "所有暑期夏令營活動都已準備就序，卻被即將到來的颱風擾亂了"
+      "人類與大自然習習相關，一味竭澤而",
+      "星空下綻放著美麗的煙火，絢爛的色",
+      "他是一位滿懷抱負的青年，將來必定",
+      "所有暑期夏令營活動都已準備就序，",
+      ""
     ],
     "answer": "2"
   },
@@ -26,20 +26,18 @@
     "text": "下列注音，何者有誤？",
     "options": [
       "「荏苒」：ㄖㄣˋ ㄖㄢˇ",
-      "「錙銖」：ㄗ ㄓㄨ",
       "「渾沌」：ㄏㄨㄣˋ ㄉㄨㄣˋ",
-      "「倥傯」：ㄎㄨㄥˇ    ㄗㄨㄥˇ"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "4",
-    "text": "「視其所以，觀其所由，察其所安，人焉廋哉」意指？",
+    "text": "「視其所以，觀其所由，察其所安，人焉廋",
     "options": [
       "交朋友之法",
-      "行事有本末先後",
-      "察人善惡之方",
-      "辨明才能高低之道"
+      "行事有本末先",
+      ""
     ],
     "answer": "3"
   },
@@ -48,53 +46,50 @@
     "text": "下列選項，何者不是「同義詞」？",
     "options": [
       "抱薪救火／杯水車薪",
-      "揚湯止沸／釜底抽薪",
       "芒刺在背／如坐針氈",
-      "篳路藍縷／披荊斬棘"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "6",
-    "text": "李煜 虞美人：「雕欄玉砌應猶在，只是朱顏改。」意指：",
+    "text": "李煜 虞美人：「雕欄玉砌應猶在，只是朱",
     "options": [
       "年華老去，莫可奈何",
-      "佳人遠離，思念情切",
       "景物依舊，人事全非",
-      "身世飄零，孤苦無依"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "7",
-    "text": "下列選項，何者最具有「山重水複疑無路，柳暗花明又一村」的感覺？",
+    "text": "下列選項，何者最具有「山重水複疑無路，",
     "options": [
-      "忽逢桃花林，夾岸數百步，中無雜樹，芳草鮮美，落英繽紛",
+      "忽逢桃花林，夾岸數百步，中無雜樹",
       "便得一山，山有小口，彷彿若有光",
-      "初極狹，纔通人；復行數十步，豁然開朗。土地平曠，屋舍儼然",
-      "太守即遣人隨其往，尋向所誌，遂迷不復得路"
+      "初極狹，纔通人；復行數十步，豁然",
+      "太守即遣人隨其往，尋向所誌，遂迷\n共同科目(國文",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "8",
-    "text": "詩經中有不少詞語和典故，下列引自詩經的語彙中，何者正確？",
+    "text": "詩經中有不少詞語和典故，下列引自詩經",
     "options": [
       "「弄璋」：生女的代稱",
-      "「夢熊」：生男的代稱",
       "「棠棣」：養子的代稱",
-      "「螟蛉」：兄弟的代稱"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "9",
-    "text": "下列皆是形容死亡的成語，哀悼的對象，何者正確？",
+    "text": "下列皆是形容死亡的成語，哀悼的對象，何",
     "options": [
       "覆醢之痛－知己",
-      "絕絃之痛－學生",
-      "折翼之痛－兄弟",
-      "失怙之痛－母親"
+      "絕絃之痛－",
+      ""
     ],
     "answer": "3"
   },
@@ -102,10 +97,11 @@
     "number": "10",
     "text": "論語 為政：「君子不器。」意指：",
     "options": [
-      "君子不像器皿能容納多物，而是終身堅守一個目標",
-      "君子不像器皿易遭損壞，而是永存於天地之間",
-      "君子不像器皿只有一定的用途，而當通達眾務，不偏於材",
-      "君子以仁存心，以禮行之，不像器皿呆滯無生命"
+      "君子不像器皿能容納多物，而是終",
+      "君子不像器皿易遭損壞，而是永存",
+      "君子不像器皿只有一定的用途，而",
+      "君子以仁存心，以禮行之，不像器",
+      ""
     ],
     "answer": "3"
   },
@@ -114,20 +110,18 @@
     "text": "下列「」內的字，讀音相同的是？",
     "options": [
       "兼「葭」蒼蒼／名聞「遐」邇",
-      "言簡意「賅」／「垓」下之圍",
       "羽扇「綸」巾／為國「掄」才",
-      "檣「傾」楫摧／「頃」刻之間"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "12",
-    "text": "「發□忘食、□步自封、出□不意」，左列空格應填的字依序是：",
+    "text": "「發□忘食、□步自封、出□不意」，左",
     "options": [
       "奮、故、奇",
       "奮、固、其",
-      "憤、固、奇",
-      "憤、故、其"
+      ""
     ],
     "answer": "4"
   },
@@ -136,460 +130,488 @@
     "text": "下列的稱呼，何者不洽當？",
     "options": [
       "稱已逝的母親－先妣",
-      "尊稱他人的兄弟－賢喬梓",
       "稱已逝的妻子－先室",
-      "稱他人的兒子－令郎"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "14",
-    "text": "「□□要價，就地還錢」，缺空的字彙是？",
+    "text": "「□□要價，就地還錢」，缺空的字彙是",
     "options": [
       "謾天",
       "滿天",
-      "瞞天",
-      "漫天"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "15",
-    "text": "「□窗高臥：比喻悠閒自得；□面稱王：指自立為王；馬耳□風：比喻充耳不聞、無動於衷\n        ；日薄□山：比喻人將老死或事物即將衰亡」，缺空的字依序是：",
+    "text": "「□窗高臥：比喻悠閒自得；□面稱王：\n；日薄□山：比喻人將老死或事物即將衰",
     "options": [
       "東、南、西、北",
-      "南、北、東、西",
-      "北、南、西、東",
-      "北、南、東、西\n\n\n    貳、英文：100%\n     【單選題： 40 題，每題"
+      "南、北、\n貳、英文：100%\n【單選題： 40 題，每題"
     ],
     "answer": "4"
   },
   {
     "number": "16",
-    "text": "The final stage of preparation involves ___ the paint onto the steel.",
+    "text": "The final stage of",
     "options": [
       "bake",
-      "bakes",
-      "baking",
-      "baked"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "17",
-    "text": "I think she should ___ the presentation.",
+    "text": "I think she should",
     "options": [
       "enjoy",
-      "enjoys",
-      "enjoying",
-      "enjoyed"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "18",
-    "text": "Sandra is participating ___ Saturday’s activity.",
+    "text": "Sandra is particip",
     "options": [
       "of",
-      "to",
-      "in",
-      "too"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "19",
-    "text": "New procedures are needed ___ pollution.",
+    "text": "New procedures are",
     "options": [
       "control",
-      "controls",
-      "controlling",
-      "to control"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "20",
-    "text": "The investments pay him monthly ___.",
+    "text": "The investments pa",
     "options": [
       "interest",
-      "interests",
-      "interesting",
-      "interested"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "21",
-    "text": "They don’t have ___ much, ___.",
+    "text": "They don’t have __",
     "options": [
       "too; either",
-      "too; neither",
-      "to; either",
-      "to; neither"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "22",
-    "text": "She often wishes she ___ wealthier.",
+    "text": "She often wishes s",
     "options": [
       "is",
-      "are",
-      "was",
-      "were"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "23",
-    "text": "The local population felt that we were overly ___ of their concerns.",
+    "text": "The local populat",
     "options": [
       "dismiss",
-      "dismissing",
-      "dismissive",
-      "dismissed"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "24",
-    "text": "Janet ___ by the job and asked for more information.",
+    "text": "Janet ___ by the j",
     "options": [
       "had intrigued",
-      "was intrigued",
-      "had to intrigue",
-      "was intriguing"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "25",
-    "text": "The company needs to work out an alternative ___ arrangement with its creditors.",
+    "text": "The company needs",
     "options": [
       "finance",
-      "finances",
-      "financial",
-      "financed"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "26",
-    "text": "If I knew of a contractor, I ___ one to you.",
+    "text": "If I knew of a con",
     "options": [
       "recommends",
-      "is recommending",
-      "had recommended",
-      "would recommend"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "27",
-    "text": "___ bags belong to ___.",
+    "text": "___ bags belong to",
     "options": [
       "That; they",
-      "That; them",
-      "Those; there",
-      "Those; them"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "28",
-    "text": "These paintings must be carefully guarded because they are ___ works of art.",
+    "text": "These paintings mu",
     "options": [
       "priceless",
-      "to price",
-      "pricing",
-      "priced"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "29",
-    "text": "The area is known ___ its cactus products.",
+    "text": "The area is known",
     "options": [
       "in",
-      "of",
-      "for",
-      "our"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "30",
-    "text": "The research is well ___ in the academic community.",
+    "text": "The research is we",
     "options": [
       "respects",
-      "respectful",
-      "respecting",
-      "respected"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "31",
-    "text": "If we don’t stop ___, we will never meet the deadline.",
+    "text": "If we don’t stop _",
     "options": [
       "procrastinate",
-      "procrastinator",
-      "procrastinating",
-      "procrastinates"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "32",
-    "text": "The ___ could have been prevented if the correct safety procedures were followed.",
+    "text": "The ___ could have",
     "options": [
       "blaze",
-      "blazes",
-      "blazing",
-      "blazed"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "33",
-    "text": "The nicest scenic area is ___ the reservoir.",
+    "text": "The nicest scenic",
     "options": [
       "at",
-      "on",
-      "in",
-      "of"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "34",
-    "text": "The government’s new ___ plan is designed to increase industrial output and raise incomes.",
+    "text": "The government’s n",
     "options": [
       "awful",
-      "plastic",
-      "floating",
-      "economic"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "35",
-    "text": "Since setting up a task force, the issue ___.",
+    "text": "Since setting up a",
     "options": [
       "can resolve",
-      "is resolving",
-      "was resolved",
-      "has been resolved"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "36",
-    "text": "During peak periods, we experience a surge in ___.",
+    "text": "During peak period",
     "options": [
       "area",
-      "volume",
-      "height",
-      "weight"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "37",
-    "text": "The new facility is intended to provide employment for local ___.",
+    "text": "The new facility i",
     "options": [
       "speakers",
-      "buffaloes",
-      "villagers",
-      "interviews"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "38",
-    "text": "Despite his extensive ___, Paul lacked vital skills.",
+    "text": "Despite his extens",
     "options": [
       "collar",
-      "college",
-      "education",
-      "entertainment"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "39",
-    "text": "Using ___ will help you avoid embarrassing spills at business lunches.",
+    "text": "Using ___ will hel",
     "options": [
       "customs",
-      "napkins",
-      "museums",
-      "relatives"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "40",
-    "text": "Sandy is a ___ competitor. She always wants to win.",
+    "text": "Sandy is a ___ com",
     "options": [
       "mad",
-      "born",
-      "fast",
-      "dry"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "41",
-    "text": "Tania is working her way up the corporate ___.",
+    "text": "Tania is working h",
     "options": [
       "theater",
-      "heater",
-      "raider",
-      "ladder"
+      ""
     ],
     "answer": "4"
   },
   {
+    "number": "42",
+    "text": "I believe he is ha",
+    "options": [
+      "personal",
+      ""
+    ],
+    "answer": "2"
+  },
+  {
     "number": "43",
-    "text": "I’d love another ___ of that pie.",
+    "text": "I’d love another _",
     "options": [
       "fraction",
-      "whole",
-      "slice",
-      "part"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "44",
-    "text": "We will need to ___ the system, but then everything should work well.",
+    "text": "We will need to __",
     "options": [
       "solo",
-      "tweak",
-      "count",
-      "busk"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "45",
-    "text": "The small ___ was damaged by the waves.",
+    "text": "The small ___ was",
     "options": [
       "fate",
-      "craft",
-      "fee",
-      "digit"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "46",
-    "text": "This examination will be ___ of several sections.",
+    "text": "This examination w",
     "options": [
       "inquired",
-      "revolved",
-      "comprised",
-      "verbalized"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "47",
-    "text": "These slippery tiles are a serious ___ to the public when it rains.",
+    "text": "These slippery til",
     "options": [
       "allure",
-      "hazard",
-      "reptile",
-      "momentum"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "48",
-    "text": "In our ___ to become efficient, we cannot rush to conclusions.",
+    "text": "In our ___ to beco",
     "options": [
       "cone",
-      "audio",
-      "quest",
-      "errand"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "49",
-    "text": "Many customers are ___ of that company’s poor customer service.",
+    "text": "Many customers are",
     "options": [
       "urban",
-      "critical",
-      "offensive",
-      "shocking"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "50",
-    "text": "Many businesses have been ___ jobs to countries with lower labor costs.",
+    "text": "Many businesses ha",
     "options": [
       "intervening",
-      "outsourcing",
-      "networking",
-      "automating"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "51",
-    "text": "We should be careful to avoid ___ that may cause offense.",
+    "text": "We should be caref",
     "options": [
       "person",
-      "search",
-      "capital",
-      "behavior"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "52",
-    "text": "Ben’s ___ in information systems might be useful in his new job.",
+    "text": "Ben’s ___ in infor",
     "options": [
       "expertise",
-      "comedian",
-      "transportation",
-      "plateau"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "53",
-    "text": "The ___ of all ten countries will need to approve of the deal.",
+    "text": "The ___ of all ten",
     "options": [
       "reservations",
-      "strangers",
-      "stadiums",
-      "parliaments"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "54",
-    "text": "I wrote three tests and completed an interview before being ___.",
+    "text": "I wrote three test",
     "options": [
       "selected",
-      "rhymed",
-      "gossiped",
-      "cradled"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "55",
-    "text": "It took three rounds of ___ to come up with a contract.",
+    "text": "It took three roun",
     "options": [
-      "surroundings",
-      "negotiations",
-      "responsibilities",
-      "loudspeakers"
+      "surroundings\n僱用人員甄試試題\n)。\n分)，須用藍、黑色鋼筆或原子筆在答案卷指定範圍內\n0 分)及英文單選題 40 題(共 100 分)，須用 2B 鉛筆在答\n不予計分；答案卷作答區計有正反 2 面，不提\n答案，各題答對者得該題所配分數，答錯或畫\n3 分之 1，英文科倒扣計至該科之實得分數為零\n0 分)為零為止；未作答者，不給分亦不扣分。\n題。\n卡)繳回，俟本節考試結束後，始得至原試場索取。\n】\n0分；請在『答案卡』題號 1~15畫記作答。】\n下列何者不適用於教育界或教育人士的題辭？",
+      "敷教明倫",
+      "喜得寧馨\n漁只會遺害後代\n彩、聲光令人目不暇給\n大有作為，大家都視目以待\n卻被即將到來的颱風擾亂了",
+      "「錙銖」：ㄗ ㄓㄨ",
+      "「倥傯」：ㄎㄨㄥˇ    ㄗㄨㄥˇ\n哉」意指？\n後",
+      "察人善惡之方",
+      "辨明才能高低之道",
+      "揚湯止沸／釜底抽薪",
+      "篳路藍縷／披荊斬棘\n顏改。」意指：",
+      "佳人遠離，思念情切",
+      "身世飄零，孤苦無依\n柳暗花明又一村」的感覺？\n，芳草鮮美，落英繽紛\n開朗。土地平曠，屋舍儼然\n不復得路\n\n的語彙中，何者正確？",
+      "「夢熊」：生男的代稱",
+      "「螟蛉」：兄弟的代稱\n者正確？\n學生",
+      "折翼之痛－兄弟",
+      "失怙之痛－母親\n身堅守一個目標\n於天地之間\n當通達眾務，不偏於材\n皿呆滯無生命",
+      "言簡意「賅」／「垓」下之圍",
+      "檣「傾」楫摧／「頃」刻之間\n列空格應填的字依序是：",
+      "憤、固、奇",
+      "憤、故、其",
+      "尊稱他人的兄弟－賢喬梓",
+      "稱他人的兒子－令郎\n？",
+      "瞞天",
+      "漫天\n指自立為王；馬耳□風：比喻充耳不聞、無動於衷\n亡」，缺空的字依序是：\n東、西",
+      "北、南、西、東",
+      "北、南、東、西\n100 分；請在『答案卡』題號 16~55 畫記作答。】\npreparation involves ___ the paint onto the steel.",
+      "bakes",
+      "baking",
+      "baked\n___ the presentation.",
+      "enjoys",
+      "enjoying",
+      "enjoyed\nating ___ Saturday’s activity.",
+      "to",
+      "in",
+      "too\nneeded ___ pollution.",
+      "controls",
+      "controlling",
+      "to control\ny him monthly ___.",
+      "interests",
+      "interesting",
+      "interested\n_ much, ___.",
+      "too; neither",
+      "to; either",
+      "to; neither\nhe ___ wealthier.",
+      "are",
+      "was",
+      "were\n\nion felt that we were overly ___ of their concerns.",
+      "dismissing",
+      "dismissive",
+      "dismissed\nob and asked for more information.",
+      "was intrigued",
+      "had to intrigue",
+      "was intriguing\nto work out an alternative ___ arrangement with its creditors.",
+      "finances",
+      "financial",
+      "financed\ntractor, I ___ one to you.",
+      "is recommending",
+      "had recommended",
+      "would recommend\n___.",
+      "That; them",
+      "Those; there",
+      "Those; them\nst be carefully guarded because they are ___ works of art.",
+      "to price",
+      "pricing",
+      "priced\n___ its cactus products.",
+      "of",
+      "for",
+      "our\nll ___ in the academic community.",
+      "respectful",
+      "respecting",
+      "respected\n__, we will never meet the deadline.",
+      "procrastinator",
+      "procrastinating",
+      "procrastinates\nbeen prevented if the correct safety procedures were followed.",
+      "blazes",
+      "blazing",
+      "blazed\narea is ___ the reservoir.",
+      "on",
+      "in",
+      "of\new ___ plan is designed to increase industrial output and raise incomes.",
+      "plastic",
+      "floating",
+      "economic\ntask force, the issue ___.",
+      "is resolving",
+      "was resolved",
+      "has been resolved\ns, we experience a surge in ___.",
+      "volume",
+      "height",
+      "weight\ns intended to provide employment for local ___.",
+      "buffaloes",
+      "villagers",
+      "interviews\nive ___, Paul lacked vital skills.",
+      "college",
+      "education",
+      "entertainment\np you avoid embarrassing spills at business lunches.",
+      "napkins",
+      "museums",
+      "relatives\npetitor. She always wants to win.",
+      "born",
+      "fast",
+      "dry\ner way up the corporate ___.",
+      "heater",
+      "raider",
+      "ladder\nving a(n) ___ reaction to the peanuts. Please call"
     ],
     "answer": "2"
   }

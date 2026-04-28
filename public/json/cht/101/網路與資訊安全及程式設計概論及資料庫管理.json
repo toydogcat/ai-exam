@@ -1,12 +1,41 @@
 [
   {
     "number": "16",
-    "text": "下列何者只能使用於 TCP/IP 網路，但卻是目前網路使用最廣泛的「認證」技術？\n         中華電信股份有限公司 101 年從業人員(基層專員)遴選甄試試題\n                                                                                            • KDC(Key Distribution Center)                     ‚ Kerberos V4 認證系統\n遴選類別【代碼】 ：資訊類專業職(三)專員【C2401】                                                                ƒ Needham-Schroeder 認證協定                           „ Time stamp 技術\n專業科目：",
+    "text": "下列何者只能使用於 TCP/IP 網路，但卻是目前網路使用最廣泛的「認證」技術？\n         中華電信股份有限公司 101 年從業人員(基層專員)遴選甄試試題\n                                                                                            • KDC(Key Distribution Center)                     ‚ Kerberos V4 認證系統\n遴選類別【代碼】 ：資訊類專業職(三)專員【C240",
     "options": [
+      "ƒ Needham-Schroeder 認證協定                           „ Time stamp 技術\n專業科目：",
       "網路與資訊安全、",
       "程式設計概論及資料庫管理"
     ],
     "answer": "2"
+  },
+  {
+    "number": "31",
+    "text": "右列片段程式【3",
+    "options": [
+      "執行後，x 值為何？\n  •資料倉儲(data warehouse)                    ‚資料搜尋(data exploration)                                                                                                         【3",
+      "int n = 0;\n                                                                                            • 55\n  ƒ資料探勘(data mining)                       „資料規劃(data planning)                                                                                                                 int x = 0;\n                                                                                            ‚ 45                                                                                do {"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "33",
+    "text": "C 語言中宣告 int Ary",
+    "options": [
+      "",
+      "= {{-2,4,12,6}, {-3,9,3,6}, {13,5,2,7},          int i = 3;"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "55",
+    "text": "使用 SQL 的 SELECT 命令查詢資料時，若希望所查到的資料按照一個屬性值由大而小排列，需用到：\n  {2, 10, 8, 23}};，Ary",
+    "options": [
+      "",
+      "之值為何？                                             int x = 0;                         • ASCII                  ‚ ASC              ƒ DECR                   „ DESC\n                                                                      【3",
+      ""
+    ],
+    "answer": "4"
   },
   {
     "number": "56",
@@ -19,10 +48,20 @@
     "answer": "1"
   },
   {
-    "number": "51",
-    "text": "下列何者是資料庫的 transaction 必須具備的特性？",
+    "number": "34",
+    "text": "右列片段程式【3",
     "options": [
-      "Atomicity",
+      "B                   ‚僅",
+      "C             ƒ僅",
+      "C                   „",
+      ""
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "51",
+    "text": "下列何者是資料庫的 transaction 必須具備的特性？A. Atomicity",
+    "options": [
       "Isolation",
       "Transparency                                  序再依下屬姓名順序排列。【10 分】\n  •僅",
       "B                      ‚僅",

@@ -6,7 +6,8 @@
       "跌「宕」不羈：ㄉㄤˋ",
       "「嚙」臂之交：ㄔˇ",
       "「褫」奪公權：ㄉ一ˋ",
-      "諸父異「爨」：ㄔㄨㄢˋ"
+      "諸父異「爨」：ㄔㄨㄢˋ",
+      ""
     ],
     "answer": "1"
   },
@@ -17,7 +18,8 @@
       "「炯」炯有神／「迥」然不同",
       "「謳」歌／「傴」僂提攜",
       "「揭」其劍／深厲淺「揭」",
-      "「鏢」魚船／「瞟」了一眼"
+      "「鏢」魚船／「瞟」了一眼",
+      ""
     ],
     "answer": "1"
   },
@@ -28,7 +30,8 @@
       "風行草「偃」／「揠」苗助長",
       "「矜」寡孤獨／青青子「衿」",
       "登「鸛」雀樓／醍醐「灌」頂",
-      "「揣」摩上意／「惴」惴不安"
+      "「揣」摩上意／「惴」惴不安",
+      ""
     ],
     "answer": "3"
   },
@@ -39,7 +42,8 @@
       "肆無忌「憚」／「殫」精竭慮",
       "名聞「遐」邇／好整以「暇」",
       "「怏」怏不樂／「泱」泱大國",
-      "灰影「幢」幢／「憧」憬未來"
+      "灰影「幢」幢／「憧」憬未來",
+      ""
     ],
     "answer": "2"
   },
@@ -50,29 +54,32 @@
       "孟子",
       "韓非子",
       "老子",
-      "墨子"
+      "墨子",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "6",
-    "text": "「唐宋八大家」是中國唐代與宋代八位大家的合稱，下列何者被讚稱為：「文起八代之衰，\n       道濟天下之溺」？",
+    "text": "「唐宋八大家」是中國唐代與宋代八位大家的合稱，下列何者被讚稱為：「文起八代之衰，\n道濟天下之溺」？",
     "options": [
       "蘇軾",
       "柳宗元",
       "韓愈",
-      "王安石"
+      "王安石",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "7",
-    "text": "下列何者以「吾家藏書一萬卷，集錄三代以來金石遺文一千卷，有琴一張，有棋一局，常置\n       酒一壺，以吾一老翁，老於此五物之間，是豈不為六一乎」之語，自稱「六一居士」？",
+    "text": "下列何者以「吾家藏書一萬卷，集錄三代以來金石遺文一千卷，有琴一張，有棋一局，常置\n酒一壺，以吾一老翁，老於此五物之間，是豈不為六一乎」之語，自稱「六一居士」？",
     "options": [
       "范仲淹",
       "歐陽脩",
       "宋祁",
-      "陸游"
+      "陸游",
+      ""
     ],
     "answer": "2"
   },
@@ -81,9 +88,8 @@
     "text": "下列何者為中國最早的白話章回小說？",
     "options": [
       "杜光庭《虬髯客傳》",
-      "施耐庵《水滸傳》",
       "吳承恩《西遊記》",
-      "羅貫中《三國演義》"
+      ""
     ],
     "answer": "2"
   },
@@ -94,7 +100,8 @@
       "古代禮帽",
       "代表國家政權的神器",
       "古代的酒器",
-      "古代用來盛祭品的禮器"
+      "古代用來盛祭品的禮器",
+      ""
     ],
     "answer": "1"
   },
@@ -105,7 +112,8 @@
       "形容知識豐富，學問廣博",
       "形容人講話滔滔不絕",
       "形容人話語不多，沉默寡言",
-      "形容人好逞口舌之快"
+      "形容人好逞口舌之快",
+      ""
     ],
     "answer": "2"
   },
@@ -114,20 +122,20 @@
     "text": "下列何者為描寫春夏的景致？",
     "options": [
       "得斯泉於山谷之間",
-      "仰而望山，俯而聽泉",
       "風霜冰雪，刻露清秀",
-      "掇幽芳而蔭喬木"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "12",
-    "text": "蘇軾謫居黃州作《赤壁賦》「桂棹兮蘭槳，擊空明兮泝流光。渺渺兮予懷，望美人兮天一方」\n        之文句，所要表達之意為下列何者？",
+    "text": "蘇軾謫居黃州作《赤壁賦》「桂棹兮蘭槳，擊空明兮泝流光。渺渺兮予懷，望美人兮天一方\n之文句，所要表達之意為下列何者？",
     "options": [
       "泛舟赤壁的樂趣",
       "感嘆人生之短暫渺小",
       "內心釋懷之歡喜與曠達通脫之安適",
-      "遠謫異鄉、遙念君國"
+      "遠謫異鄉、遙念君國",
+      ""
     ],
     "answer": "4"
   },
@@ -138,7 +146,8 @@
       "平凡的人貢獻平凡的事物",
       "眼界狹小無法接受新事物",
       "沒見過世面的人開了眼界",
-      "滄海桑田世事多變難預料"
+      "滄海桑田世事多變難預料",
+      ""
     ],
     "answer": "3"
   },
@@ -149,447 +158,454 @@
       "「新月」二字取自泰戈爾的詩集",
       "作品講究形式整齊和辭藻美麗",
       "徐志摩、卞之琳可說是新月代表詩人",
-      "為擺脫舊詩的束縛，主張完全的自由，不受任何格律限制"
+      "為擺脫舊詩的束縛，主張完全的自由，不受任何格律限制",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "15",
-    "text": "徐志摩《再別康橋》一詩中，「那波光裡的豔影，在我的心頭蕩漾」文句表達的意思為下列\n        何者？",
+    "text": "徐志摩《再別康橋》一詩中，「那波光裡的豔影，在我的心頭蕩漾」文句表達的意思為下列\n何者？",
     "options": [
       "往日的青春美夢終難追憶",
-      "柳樹倒映在康河裏的情景，勾起眷戀的感情",
+      "柳樹倒映在康河裏的情景，勾起眷戀的感",
       "對離別在即感到感傷",
-      "象徵自己對未來生活的規劃與期望\n\n\n    貳、英文：100 %\n     【單選題： 40 題，每題"
+      "象徵自己對未來生活的規劃與期望\n貳、英文：100 %\n【單選題： 40 題，每題"
     ],
     "answer": "2"
   },
   {
     "number": "16",
-    "text": "What’s the best answer when someone says, “How are things?” to you?",
+    "text": "What’s the best answer when someone says",
     "options": [
       "What things?",
-      "Same as usual.",
-      "I don’t have a clue.",
-      "I like them."
+      "Same as usual",
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "Earthquakes are not predictable, but new detectors ____ you to have 10 extra seconds to respond.",
+    "text": "Earthquakes are not predictable, but new",
     "options": [
       "give",
       "allow",
-      "let",
-      "make"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "18",
-    "text": "Due to its success in fighting the COVID-19 pandemic, Taiwan is now a ____ for other countries.",
+    "text": "Due to its success in fighting the COVID",
     "options": [
       "learning subject",
-      "object to copy",
-      "standard nation",
-      "role model"
+      "object to c",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "19",
-    "text": "The company was founded four decades ago; in other words, it has been in operation for ____.",
+    "text": "The company was founded four decades ago",
     "options": [
       "40 years",
       "40 months",
-      "80 years",
-      "80 months"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "20",
-    "text": "Taiwan ____ approximately 400 kilometers from north to south.",
+    "text": "Taiwan ____ approximately 400 kilometers",
     "options": [
       "measures",
-      "longs",
-      "has",
-      "goes to"
+      "longs\n共同科目(國文、英文) 第",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "21",
-    "text": "Which is the most appropriate response to “Why aren’t you going to lunch with us?”?",
+    "text": "Which is the most appropriate response",
     "options": [
       "I’m not friends.",
-      "I had a late breakfast.",
       "Is it a question?",
-      "It’s my problem."
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "22",
-    "text": "Possessing a skill can be more ____ than having a pretty diploma sometimes.",
+    "text": "Possessing a skill can be more ____ than",
     "options": [
       "better",
       "valuable",
-      "impressed",
-      "convenient"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "23",
-    "text": "Cathy is extremely ____ because she has exercised regularly for years.",
+    "text": "Cathy is extremely ____ because she has",
     "options": [
       "fit",
       "satisfaction",
-      "likable",
-      "suitable"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "24",
-    "text": "Junk food is unhealthy, but it is usually quite ____ ; that’s why a lot of people like it.",
+    "text": "Junk food is unhealthy, but it is usuall",
     "options": [
       "good taste",
-      "smells wonderful",
-      "flavorful",
-      "attractive"
+      "smells wonde",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "25",
-    "text": "Tom and Jerry are identical twins and it’s hard to ____ between them.",
+    "text": "Tom and Jerry are identical twins and it",
     "options": [
       "tell the difference",
       "separate",
-      "know who",
-      "confirm the identity"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "26",
-    "text": "It’s difficult to achieve the goal of same work same pay between men and women although ____ is a\n        government policy.",
+    "text": "It’s difficult to achieve the goal of sa\ngovernment policy.",
     "options": [
       "salary fairness",
-      "equal wages",
-      "gender equality",
-      "equality for all"
+      "equal wag",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "27",
-    "text": "Talk to the ____ if you have any question about the amount of pay you received last week.",
+    "text": "Talk to the ____ if you have any questio",
     "options": [
       "chairperson",
-      "chief secretary",
-      "accounting office",
-      "personal office"
+      "chief secret",
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "28",
-    "text": "“Do you have minute? I need to ____ you.”",
+    "text": "“Do you have minute? I need to ____ you.",
     "options": [
       "hear a story from",
       "tell a lie to",
-      "have a chat with",
-      "play some music with"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "29",
-    "text": "You have to ____ if you want to play the game.",
+    "text": "You have to ____ if you want to play the",
     "options": [
       "enjoy the atmosphere",
-      "follow the rules",
       "know the results",
-      "take the money"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "30",
-    "text": "“There is no need to ____ ; the movie already started half hour ago.”",
+    "text": "“There is no need to ____ ; the movie al",
     "options": [
       "arrive",
       "rush",
-      "race",
-      "choose"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "31",
-    "text": "Jack admitted that he should have listened to you. It means",
+    "text": "Jack admitted that he should have listen",
     "options": [
       "He didn’t hear you.",
-      "You didn’t speak.",
       "He didn’t listen to you.",
-      "You had told him."
+      ""
     ],
     "answer": "3"
   },
   {
+    "number": "32",
+    "text": "“We’re celebrating Jimmy’s birthday this",
+    "options": [
+      "turning",
+      "been",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
     "number": "33",
-    "text": "Mark is an interesting person and people like to be ____ him.",
+    "text": "Mark is an interesting person and people",
     "options": [
       "besides",
       "as",
-      "around",
-      "for"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "34",
-    "text": "Jay has trouble managing his money and he always ____ at the end of the month.",
+    "text": "Jay has trouble managing his money and h",
     "options": [
       "runs out of money",
       "uses cash",
-      "in need of money",
-      "has to lend money"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "35",
-    "text": "Matthew and Tony are buddies. They have known each other ____ childhood.",
+    "text": "Matthew and Tony are buddies. They have",
     "options": [
       "from",
       "since",
-      "in",
-      "during"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "36",
-    "text": "Taiwan Power Company is a ____ company under the Ministry of Economic Affairs.",
+    "text": "Taiwan Power Company is a ____ company u",
     "options": [
       "private",
       "state-owned",
-      "electric",
-      "publicity"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "37",
-    "text": "Many sports events are held without ____ because of the pandemic.",
+    "text": "Many sports events are held without ____",
     "options": [
       "guests",
       "tickets",
-      "spectators",
-      "people"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "38",
-    "text": "Gary spends three hours ____ between home and work each day, but he doesn’t mind.",
+    "text": "Gary spends three hours ____ between hom",
     "options": [
       "riding",
       "coming",
-      "commuting",
-      "transporting"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "39",
-    "text": "Ken is really a good ____ although he doesn’t seem to have a lot of muscles.",
+    "text": "Ken is really a good ____ although he do",
     "options": [
       "athlete",
-      "cook",
-      "game player",
-      "gulf player"
+      "cook\n共同科目(國文、英文)",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "40",
-    "text": "“You’d better hurry if you want to ____. It leaves in half hour.”",
+    "text": "“You’d better hurry if you want to ____",
     "options": [
       "get the airplane",
       "meet the bus",
-      "take the taxi",
-      "catch the train"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "41",
-    "text": "The weather has been ____. Sometimes the temperature drops ten degrees in one day.",
+    "text": "The weather has been ____. Sometimes the",
     "options": [
       "inconvenient",
       "unbalanced",
-      "inconsistent",
-      "unstable"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "42",
-    "text": "Some people are addicted to ____ and they upload several posts everyday.",
+    "text": "Some people are addicted to ____ and the",
     "options": [
       "internet",
       "social media",
-      "intranet",
-      "blogs"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "43",
-    "text": "It’s impossible to ____ fashion because new models come out so quickly.",
+    "text": "It’s impossible to ____ fashion because",
     "options": [
       "keep up with",
-      "pay attention to",
-      "focus on",
-      "hold on to"
+      "pay attentio",
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "44",
-    "text": "Norma’s eyes are all red and swollen; she ____ all night because of not passing the test.",
+    "text": "Norma’s eyes are all red and swollen; sh",
     "options": [
       "has cried",
       "must cry",
-      "cries",
-      "must have cried"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "45",
-    "text": "“Look at all the dark clouds coming in. It ____ rain.”",
+    "text": "“Look at all the dark clouds coming in.",
     "options": [
       "will seem to",
-      "will like to",
-      "must to",
-      "is about to"
+      "will like t",
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "46",
-    "text": "Taipei 101 ____ the tallest building in the world, but it is still an important landmark in the city.",
+    "text": "Taipei 101 ____ the tallest building in",
     "options": [
       "has been",
       "used to be",
-      "is",
-      "is once"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "47",
-    "text": "”Jake didn’t ____, so the teacher thought he was not interested in the class.”",
+    "text": "”Jake didn’t ____, so the teacher though",
     "options": [
       "sign up",
       "write down",
-      "turn in",
-      "call out"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "48",
-    "text": "No motor vehicles are allowed to enter the pedestrian zone. What is a pedestrian?",
+    "text": "No motor vehicles are allowed to enter t",
     "options": [
       "a person",
       "a walker",
-      "a passerby",
-      "a bicycle rider"
+      ""
     ],
     "answer": "2"
   },
   {
     "number": "49",
-    "text": "Children learn to speak by ____ their older family members.",
+    "text": "Children learn to speak by ____ their ol",
     "options": [
       "learning",
       "studying",
-      "imitating",
-      "seeing"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "50",
-    "text": "Which one is the closest to “find out” in meaning?",
+    "text": "Which one is the closest to “find out” i",
     "options": [
       "learn about",
       "identify",
-      "look for",
-      "uncover"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "51",
-    "text": "My best friend’s father wanted to ____ me a job, but I said no to him.",
+    "text": "My best friend’s father wanted to ____ m",
     "options": [
       "provide",
       "supply",
-      "suggest",
-      "offer"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "52",
-    "text": "The customer who made the complaint accepted my explanation without ____ questions.",
+    "text": "The customer who made the complaint acce",
     "options": [
       "further",
       "answering",
-      "worst",
-      "little"
+      ""
     ],
     "answer": "1"
   },
   {
     "number": "53",
-    "text": "By ____ garbage, we can reduce the amount of garbage put into our environment.",
+    "text": "By ____ garbage, we can reduce the amoun",
     "options": [
       "keeping",
       "giving away",
-      "hiding",
-      "sorting"
+      ""
     ],
     "answer": "4"
   },
   {
     "number": "54",
-    "text": "The workers have been instructed to follow the SOP. “SOP” stands for",
+    "text": "The workers have been instructed to foll",
     "options": [
       "simple operation process",
-      "single operational plan",
       "standard operating procedure",
-      "singular operative progress"
+      ""
     ],
     "answer": "3"
   },
   {
     "number": "55",
-    "text": "Heather is a ____ person. She doesn’t talk much.",
+    "text": "Heather is a ____ person. She doesn’t ta",
     "options": [
       "talkative",
-      "mute",
-      "speechless",
-      "quiet"
+      "mute\n共同科目(國文、英文)\n定範圍內\n分)，須用 2B 鉛筆在答案\n提\n為\n。】\n【請翻頁繼續作答】",
+      "施耐庵《水滸傳》",
+      "羅貫中《三國演義》",
+      "仰而望山，俯而聽泉",
+      "掇幽芳而蔭喬木\n」\n情\n畫記作答。】\n, “How are things?” to you?\n.",
+      "I don’t have a clue.",
+      "I like them.\ndetectors ____ you to have 10 extra seconds to respond.",
+      "let",
+      "make\n-19 pandemic, Taiwan is now a ____ for other countries.\nopy",
+      "standard nation",
+      "role model\n; in other words, it has been in operation for ____.",
+      "80 years",
+      "80 months\nfrom north to south.",
+      "has",
+      "goes to\n2 頁，共 4 頁\nto “Why aren’t you going to lunch with us?”?",
+      "I had a late breakfast.",
+      "It’s my problem.\nhaving a pretty diploma sometimes.",
+      "impressed",
+      "convenient\nexercised regularly for years.",
+      "likable",
+      "suitable\ny quite ____ ; that’s why a lot of people like it.\nrful",
+      "flavorful",
+      "attractive\n’s hard to ____ between them.",
+      "know who",
+      "confirm the identity\nme work same pay between men and women although ____ is a\nes",
+      "gender equality",
+      "equality for all\nn about the amount of pay you received last week.\nary",
+      "accounting office",
+      "personal office\n”",
+      "have a chat with",
+      "play some music with\ngame.",
+      "follow the rules",
+      "take the money\nready started half hour ago.”",
+      "race",
+      "choose\ned to you. It means",
+      "You didn’t speak.",
+      "You had told him.\nFriday. He’s ____"
     ],
     "answer": "4"
   }

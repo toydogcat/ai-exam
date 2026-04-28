@@ -3,10 +3,8 @@
     "number": "21",
     "text": "Microsoft Office 的成員中，哪一項軟體是提供簡報時所使用？",
     "options": [
-      "Word",
-      "PowerPoint",
-      "Excel",
-      "Access\n遴選類別【代碼】：資訊類專業職(四)第一類專員【F3104】"
+      "ccess\n遴選類別【代碼】：資訊類專業職(四)第一類專員【F310",
+      ""
     ],
     "answer": "2"
   },
@@ -234,10 +232,8 @@
     "number": "36",
     "text": "下列程式片段會輸出什麼值？\n                                                                                                int a = 12, b = 14;",
     "options": [
-      "優先權(Priority)",
-      "先到先做(FCFS)",
-      "循環分配(RR)",
-      "最短工作先做(SJF)                        while(a > 14)"
+      "FS)         循環分配(RR)        最短工作先做(SJF)                        while(a > 1",
+      ""
     ],
     "answer": "2"
   },
