@@ -1,0 +1,44 @@
+[
+  {
+    "number": "1",
+    "text": "\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b              \u000e 50 N \u000f 70 N \u0010\u0011 \u0012 \u000e α \u0013\u0014 sin α =",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "% &$ '  x ( \u0003) \u0006* +                                                       \u0016+       ,       \u000e-   \u0005 (0,0) *              .           \u000e r \u0013/                       0       *           +           \u00061        ,       2           \u000e (0,                           \u0018 !      \u0005\n    b) \u0015 b = _____\u0013                                                                                                                                                                                                                                              %     w \u0002\u000e+ 1 \u0006´ , ¹ (   L 5 m º » ¼ 3000 N-m \u0006½ } \u0013\u0014¾ ¿ \u0006                                     \bÀ \u001a\u000e",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "3 \u0001\u00024 5 (truss) 6 7 4 5 \u00068 9 : ; \u000e< =                                                                         (hinge-connected)\u0013> ?                                                                                           @           6                       80 GPa Á Â ½ Ã Ä \u000e",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "4",
+    "text": "% I J K L L \u0016M \u0005N % O P \u0006Q R \b P\u0013\u0014K \u0006 E I S \u000eT \u001a \u00150 K \u0006U \u0005V \u0012\n   \u000e_____\u0013\n                                                                                                                                                                                                                                                                 \u0018 \"      \u0005",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "W 7 X Y Z [                                          ( absolute viscosity) \u0006 SI \\ ] $ \u000e_____\u0013\n                                                                                                                                                                                                                                                             P    £ M \u0006K      '       Ð       U           d \u0005N % Q R \b P = 18 kN\u0013£ M \u0006 L = 5 m \u0010K \u0006 E I S \u000e% T",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "6",
+    "text": "/ % R .",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "1",
+    "text": "5 m^_",
+    "options": [],
+    "answer": "4"
+  }
+]

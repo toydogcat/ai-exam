@@ -1,332 +1,662 @@
 [
   {
     "number": "1",
-    "text": "下列「」用字，何者有誤？\n       (A)耳「儒」目染 (B)「孺」子可教      (C)個性「懦」弱       (D)囁「嚅」難言",
+    "text": "本試題共 4 頁(A3 紙 1 張)。",
     "options": [],
     "answer": "1"
   },
   {
     "number": "2",
-    "text": "下列「」內的字，何者讀音前後不同？\n       (A)「惘」然所失／置若「罔」聞         (B)青青子「衿」／「矜」持拘謹\n       (C)桑「榆」晚景／「逾」期未歸         (D)白髮「皤」皤／「藩」鎮割據",
+    "text": "本科目禁止使用電子計算器。",
     "options": [],
     "answer": "4"
   },
   {
     "number": "3",
-    "text": "下列「」內的字，何者讀音有誤？\n       (A)罪「愆」：ㄧㄢˇ              (B)「畛」域：ㄓㄣˇ\n       (C)挑「釁」：ㄒㄧㄣˋ             (D)自「戕」：ㄑㄧㄤˊ",
+    "text": "本試題包括：國文寫作 1 篇(70 分)，須用黑色或藍色原子筆或鋼筆在答案卷指定範圍內\n   注     作答；國文單選題 15 題(共 30 分)及英文單選題 40 題(共 100 分)，須用 2B 鉛筆在答案\n   意     卡畫記作答。於本試題或其他紙張作答者不予計分；答案卷作答區計有正反 2 面，不提\n         供額外之答案卷。\n   事",
     "options": [],
     "answer": "1"
   },
   {
     "number": "4",
-    "text": "下列成語用字，何者有誤？\n       (A)南轅北轍   (B)相形見詘        (C)瞠乎其後         (D)匠心獨運",
+    "text": "單選題請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記\n   項     多於一個選項者不倒扣，未作答者不給分亦不扣分。",
     "options": [],
     "answer": "2"
   },
   {
     "number": "5",
-    "text": "諸葛亮《出師表》：「陛下亦宜自課，以諮諏善道。」此段文句是作者期盼後主治理國政時\n       ，應秉持下列何種態度？\n       (A)克制物質與權力的欲望      (B)自我反省，並向賢臣請益\n       (C)努力不懈，充實新知       (D)勤讀兵書，強身健體",
+    "text": "本試題採雙面印刷，請注意正、背面試題。",
     "options": [],
     "answer": "2"
   },
   {
     "number": "6",
-    "text": "屈原《漁父》中漁父曰：「聖人不凝滯於物，而能與世推移。世人皆濁，何不淈其泥而揚其\n       波？」，漁父對屈原之建議，下列何者正確？\n       (A)在現實世界中隨俗進退      (B)堅持崇高理想，不隨波逐流\n       (C)鍥而不捨，不改其志       (D)勿使高尚品格，蒙受世俗塵埃",
+    "text": "考試結束前離場者，試題須隨答案卷(卡)繳回，俟本節考試結束後，始得至原試場或適\n         當處所索取。\n\n  壹、國文：100 %\n  一、寫作：70 %【請在『答案卷』上作答，必須抄題】\n\n       題目：我的朋友\n       文言白話不拘，但段落要分明。\n  二、單選題：30 % 【15 題，每題 2 分，共 30 分；請在『答案卡』題號 1~15 畫記作答。】\n\n[A]",
     "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "下列「」用字，何者有誤？",
+    "options": [
+      "耳「儒」目染",
+      "「孺」子可教",
+      "個性「懦」弱",
+      "囁「嚅」難言\n[D]"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "下列「」內的字，何者讀音前後不同？",
+    "options": [
+      "「惘」然所失／置若「罔」聞",
+      "青青子「衿」／「矜」持拘謹",
+      "桑「榆」晚景／「逾」期未歸",
+      "白髮「皤」皤／「藩」鎮割據\n[A]"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "下列「」內的字，何者讀音有誤？",
+    "options": [
+      "罪「愆」：ㄧㄢˇ",
+      "「畛」域：ㄓㄣˇ",
+      "挑「釁」：ㄒㄧㄣˋ",
+      "自「戕」：ㄑㄧㄤˊ\n[B]"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "下列成語用字，何者有誤？",
+    "options": [
+      "南轅北轍",
+      "相形見詘",
+      "瞠乎其後",
+      "匠心獨運\n[B]"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "5",
+    "text": "諸葛亮《出師表》：「陛下亦宜自課，以諮諏善道。」此段文句是作者期盼後主治理國政時\n       ，應秉持下列何種態度？",
+    "options": [
+      "克制物質與權力的欲望",
+      "自我反省，並向賢臣請益",
+      "努力不懈，充實新知",
+      "勤讀兵書，強身健體\n[A]"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "6",
+    "text": "屈原《漁父》中漁父曰：「聖人不凝滯於物，而能與世推移。世人皆濁，何不淈其泥而揚其\n       波？」，漁父對屈原之建議，下列何者正確？",
+    "options": [
+      "在現實世界中隨俗進退",
+      "堅持崇高理想，不隨波逐流",
+      "鍥而不捨，不改其志",
+      "勿使高尚品格，蒙受世俗塵埃\n[D]"
+    ],
     "answer": "1"
   },
   {
     "number": "7",
-    "text": "有關《前赤壁賦》之敘述，下列何者有誤？\n       (A)係北宋文學家蘇軾所作       (B)作者共寫下兩篇赤壁賦\n       (C)為作者遭貶至黃州之作品      (D)描述作者與友人把酒言歡之心情\n\n                    共同科目(國文、英文)   第 1 頁，共 4 頁         【請翻頁繼續作答】",
-    "options": [],
+    "text": "有關《前赤壁賦》之敘述，下列何者有誤？",
+    "options": [
+      "係北宋文學家蘇軾所作",
+      "作者共寫下兩篇赤壁賦",
+      "為作者遭貶至黃州之作品",
+      "描述作者與友人把酒言歡之心情\n\n                    共同科目(國文、英文)   第 1 頁，共 4 頁         【請翻頁繼續作答】\n[D]"
+    ],
     "answer": "4"
   },
   {
     "number": "8",
-    "text": "《莊子．秋水》：「夏蟲不可以語於冰者，篤於時也。」的意思，下列何者正確？\n       (A)比喻樂善好施的人        (B)比喻歷練豐富的人\n       (C)比喻隨機應變的人        (D)比喻見識短淺的人",
-    "options": [],
+    "text": "《莊子．秋水》：「夏蟲不可以語於冰者，篤於時也。」的意思，下列何者正確？",
+    "options": [
+      "比喻樂善好施的人",
+      "比喻歷練豐富的人",
+      "比喻隨機應變的人",
+      "比喻見識短淺的人\n[B]"
+    ],
     "answer": "4"
   },
   {
     "number": "9",
-    "text": "韓翃《寒食》：「春城無處不飛花，寒食東風御柳斜。」一詩所描述的是下列哪個節日？\n       (A)元宵節    (B)清明節   (C)端午節    (D)中秋節",
-    "options": [],
+    "text": "韓翃《寒食》：「春城無處不飛花，寒食東風御柳斜。」一詩所描述的是下列哪個節日？",
+    "options": [
+      "元宵節",
+      "清明節",
+      "端午節",
+      "中秋節\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "10",
-    "text": "王昌齡《閨怨》：「閨中少婦不知愁，春日凝妝上翠樓。忽見陌頭楊柳色，悔教夫婿覓封侯\n        。」其中「凝妝」一詞的意思，下列何者正確？\n        (A)妝髮凌亂   (B)不施脂粉  (C)盛妝打扮  (D)臉色凝重",
-    "options": [],
+    "text": "王昌齡《閨怨》：「閨中少婦不知愁，春日凝妝上翠樓。忽見陌頭楊柳色，悔教夫婿覓封侯\n        。」其中「凝妝」一詞的意思，下列何者正確？",
+    "options": [
+      "妝髮凌亂",
+      "不施脂粉",
+      "盛妝打扮",
+      "臉色凝重\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "11",
-    "text": "王維《九月九日憶山東兄弟》：「獨在異鄉為異客，每逢佳節倍思親。遙知兄弟登高處，遍\n        插茱萸少一人。」，其中「少一人」指的是誰？\n        (A)作者父母   (B)作者本人  (C)作者親戚  (D)作者兄弟",
-    "options": [],
+    "text": "王維《九月九日憶山東兄弟》：「獨在異鄉為異客，每逢佳節倍思親。遙知兄弟登高處，遍\n        插茱萸少一人。」，其中「少一人」指的是誰？",
+    "options": [
+      "作者父母",
+      "作者本人",
+      "作者親戚",
+      "作者兄弟\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "12",
-    "text": "《禮記．大同與小康》：「昔者，仲尼與於蜡賓，事畢，出遊於觀之上，喟然而歎。」，其\n        中「蜡」的意義，下列何者正確？\n        (A)樂器     (B)昆蟲    (C)祭禮     (D)地名",
-    "options": [],
+    "text": "《禮記．大同與小康》：「昔者，仲尼與於蜡賓，事畢，出遊於觀之上，喟然而歎。」，其\n        中「蜡」的意義，下列何者正確？",
+    "options": [
+      "樂器",
+      "昆蟲",
+      "祭禮",
+      "地名\n[A]"
+    ],
     "answer": "3"
   },
   {
     "number": "13",
-    "text": "「處大國不攻小國，處大家不篡小家，強者不劫弱，貴者不傲賤，多詐者不欺愚。」係下列\n        先秦諸家中，何者的思想？\n        (A)墨家     (B)儒家    (C)法家    (D)道家",
-    "options": [],
+    "text": "「處大國不攻小國，處大家不篡小家，強者不劫弱，貴者不傲賤，多詐者不欺愚。」係下列\n        先秦諸家中，何者的思想？",
+    "options": [
+      "墨家",
+      "儒家",
+      "法家",
+      "道家\n[C]"
+    ],
     "answer": "1"
   },
   {
     "number": "14",
-    "text": "有關《台灣通史》之描述，下列何者有誤？\n        (A)作者為連橫            (B)清末開始撰寫，民國初年成書\n        (C)內容起自明代，終於割讓給日本   (D)屬紀傳體之史書",
-    "options": [],
+    "text": "有關《台灣通史》之描述，下列何者有誤？",
+    "options": [
+      "作者為連橫",
+      "清末開始撰寫，民國初年成書",
+      "內容起自明代，終於割讓給日本",
+      "屬紀傳體之史書\n[D]"
+    ],
     "answer": "3"
   },
   {
     "number": "15",
-    "text": "歸有光《項脊軒志》：「余扃牖而居，久之，能以足音辨人。」，其中「牖」的意義，下列\n        何者正確？\n        (A)竹床     (B)草房    (C)籬笆     (D)窗戶\n\n\n    貳、英文：100 %\n     【單選題： 40 題，每題 2.5 分，共 100 分；請在『答案卡』題號 16~55 畫記作答。】",
+    "text": "歸有光《項脊軒志》：「余扃牖而居，久之，能以足音辨人。」，其中「牖」的意義，下列\n        何者正確？",
+    "options": [
+      "竹床",
+      "草房",
+      "籬笆",
+      "窗戶\n\n\n    貳、英文：100 %\n     【單選題： 40 題，每題"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "5 分，共 100 分；請在『答案卡』題號 16~55 畫記作答。】\n[B]",
     "options": [],
     "answer": "4"
   },
   {
     "number": "16",
-    "text": "After heavy rains, there is always a high _______ mudslides in this area.\n        (A) possibility with     (B) risk of            (C) danger for          (D) chance from",
-    "options": [],
+    "text": "After heavy rains, there is always a high _______ mudslides in this area.",
+    "options": [
+      "possibility with",
+      "risk of",
+      "danger for",
+      "chance from\n[D]"
+    ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "The landlord told us that the rent had to be paid at the _______ of each month.\n        (A) final               (B) middle                (C) tenth              (D) beginning",
-    "options": [],
+    "text": "The landlord told us that the rent had to be paid at the _______ of each month.",
+    "options": [
+      "final",
+      "middle",
+      "tenth",
+      "beginning\n[B]"
+    ],
     "answer": "4"
   },
   {
     "number": "18",
-    "text": "This model of car _______ three different colors: silver, red, and dark blue.\n        (A) comes with         (B) comes in            (C) goes with             (D) goes in",
-    "options": [],
+    "text": "This model of car _______ three different colors: silver, red, and dark blue.",
+    "options": [
+      "comes with",
+      "comes in",
+      "goes with",
+      "goes in\n[D]"
+    ],
     "answer": "2"
   },
   {
     "number": "19",
-    "text": "The crew must take a rest because they _______ from a long trip.\n        (A) have just been returning                  (B) have just been returned\n        (C) just return                               (D) have just returned",
-    "options": [],
+    "text": "The crew must take a rest because they _______ from a long trip.",
+    "options": [
+      "have just been returning",
+      "have just been returned",
+      "just return",
+      "have just returned\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "20",
-    "text": "Ellie has a wide _______ of hobbies, including painting, hiking, and surfing.\n        (A) range              (B) rank                (C) scope                (D) extension",
-    "options": [],
+    "text": "Ellie has a wide _______ of hobbies, including painting, hiking, and surfing.",
+    "options": [
+      "range",
+      "rank",
+      "scope",
+      "extension\n[A]"
+    ],
     "answer": "1"
   },
   {
     "number": "21",
-    "text": "Would you rather _______ a promotion or a new job?\n        (A) get               (B) to get            (C) getting                 (D) be gotten",
-    "options": [],
+    "text": "Would you rather _______ a promotion or a new job?",
+    "options": [
+      "get",
+      "to get",
+      "getting",
+      "be gotten\n[D]"
+    ],
     "answer": "1"
   },
   {
     "number": "22",
-    "text": "Jake was told not to _______ the boat until the negotiations were finished.\n        (A) rattle              (B) shake               (C) disturb             (D) rock\n\n                                   共同科目(國文、英文)               第 2 頁，共 4 頁",
-    "options": [],
+    "text": "Jake was told not to _______ the boat until the negotiations were finished.",
+    "options": [
+      "rattle",
+      "shake",
+      "disturb",
+      "rock\n\n                                   共同科目(國文、英文)               第 2 頁，共 4 頁\n[D]"
+    ],
     "answer": "4"
   },
   {
     "number": "23",
-    "text": "Physical therapists use their professional knowledge to assist you _______ supportive devices like a\n        crutch or cane.\n        (A) and use             (B) to use             (C) use                 (D) in using",
-    "options": [],
+    "text": "Physical therapists use their professional knowledge to assist you _______ supportive devices like a\n        crutch or cane.",
+    "options": [
+      "and use",
+      "to use",
+      "use",
+      "in using\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "24",
-    "text": "It’s better to get a rental car for the trip because the two cities are more than 20 km _______.\n        (A) apart                  (B) afar                  (C) apart from           (D) afar from",
-    "options": [],
+    "text": "It’s better to get a rental car for the trip because the two cities are more than 20 km _______.",
+    "options": [
+      "apart",
+      "afar",
+      "apart from",
+      "afar from\n[C]"
+    ],
     "answer": "1"
   },
   {
     "number": "25",
-    "text": "Figures _______ last year show that the number of online retailers has increased by 15.4% during the\n        post-pandemic period.\n        (A) were published     (B) that published    (C) published              (D) publishing",
+    "text": "Figures _______ last year show that the number of online retailers has increased by",
     "options": [],
     "answer": "3"
   },
   {
+    "number": "15",
+    "text": "4% during the\n        post-pandemic period.",
+    "options": [
+      "were published",
+      "that published",
+      "published",
+      "publishing\n[D]"
+    ],
+    "answer": "4"
+  },
+  {
     "number": "26",
-    "text": "If you would like to get a refund for a _______ product, you have to bring in the product and its receipt.\n        (A) affected             (B) fault               (C) defected            (D) flawed",
-    "options": [],
+    "text": "If you would like to get a refund for a _______ product, you have to bring in the product and its receipt.",
+    "options": [
+      "affected",
+      "fault",
+      "defected",
+      "flawed\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "27",
-    "text": "The conclusion she made was _______ relevant to the discussion.\n        (A) highly            (B) closely           (C) deeply                    (D) largely",
-    "options": [],
+    "text": "The conclusion she made was _______ relevant to the discussion.",
+    "options": [
+      "highly",
+      "closely",
+      "deeply",
+      "largely\n[B]"
+    ],
     "answer": "1"
   },
   {
     "number": "28",
-    "text": "Bonus payments based on productivity act as a(n) _______ for employees to work harder.\n        (A) stimulus         (B) incentive            (C) perk              (D) commitment",
-    "options": [],
+    "text": "Bonus payments based on productivity act as a(n) _______ for employees to work harder.",
+    "options": [
+      "stimulus",
+      "incentive",
+      "perk",
+      "commitment\n[A]"
+    ],
     "answer": "2"
   },
   {
     "number": "29",
-    "text": "If you _______ on fat and sugar in your diet, you’ll feel a lot healthier.\n        (A) cut back           (B) cut off              (C) cut out                (D) cut short",
-    "options": [],
+    "text": "If you _______ on fat and sugar in your diet, you’ll feel a lot healthier.",
+    "options": [
+      "cut back",
+      "cut off",
+      "cut out",
+      "cut short\n[B]"
+    ],
     "answer": "1"
   },
   {
     "number": "30",
-    "text": "I can’t remember her name, but it’ll _______ me in a minute.\n        (A) come in            (B) come to            (C) come upon               (D) come after",
-    "options": [],
+    "text": "I can’t remember her name, but it’ll _______ me in a minute.",
+    "options": [
+      "come in",
+      "come to",
+      "come upon",
+      "come after\n[D]"
+    ],
     "answer": "2"
   },
   {
     "number": "31",
-    "text": "I haven’t the slightest idea _______ the moment I arrived this afternoon.\n        (A) what have they discussed                   (B) what were they discussing\n        (C) what they have discussed                   (D) what they were discussing",
-    "options": [],
+    "text": "I haven’t the slightest idea _______ the moment I arrived this afternoon.",
+    "options": [
+      "what have they discussed",
+      "what were they discussing",
+      "what they have discussed",
+      "what they were discussing\n[C]"
+    ],
     "answer": "4"
   },
   {
     "number": "32",
-    "text": "Heavy fines have recently been _______ minor driving offences.\n        (A) exposed to         (B) deposed from      (C) imposed on               (D) composed for",
-    "options": [],
+    "text": "Heavy fines have recently been _______ minor driving offences.",
+    "options": [
+      "exposed to",
+      "deposed from",
+      "imposed on",
+      "composed for\n[D]"
+    ],
     "answer": "3"
   },
   {
     "number": "33",
-    "text": "_______ increasing education about skin cancer, suntanned skin is no longer a desirable look in\n       Western cultures.\n       (A) Despite           (B) Except for        (C) In that            (D) Due to",
-    "options": [],
+    "text": "_______ increasing education about skin cancer, suntanned skin is no longer a desirable look in\n       Western cultures.",
+    "options": [
+      "Despite",
+      "Except for",
+      "In that",
+      "Due to\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "34",
-    "text": "Own-label products now ______ more than 20% of sales in some European supermarkets.\n        (A) account for       (B) account as       (C) count in           (D) count for",
-    "options": [],
+    "text": "Own-label products now ______ more than 20% of sales in some European supermarkets.",
+    "options": [
+      "account for",
+      "account as",
+      "count in",
+      "count for\n[B]"
+    ],
     "answer": "1"
   },
   {
     "number": "35",
-    "text": "“Have you ever been to the Grand Canyon?” Choose the best response.\n        (A) I have. Never I had seen such a wonder.    (B) I have. Never had I seen such a wonder.\n        (C) I have. I haven’t ever seen such a wonder. (D) I have. Ever have I seen such a wonder.",
-    "options": [],
+    "text": "“Have you ever been to the Grand Canyon?” Choose the best response.",
+    "options": [
+      "I have. Never I had seen such a wonder.",
+      "I have. Never had I seen such a wonder.",
+      "I have. I haven’t ever seen such a wonder.",
+      "I have. Ever have I seen such a wonder.\n[A]"
+    ],
     "answer": "2"
   },
   {
     "number": "36",
-    "text": "The babies of lions and bears are called cubs, but a person or a monkey _______ has just been born is\n        called a baby.\n        (A) that                (B) who                  (C) which              (D) either",
-    "options": [],
+    "text": "The babies of lions and bears are called cubs, but a person or a monkey _______ has just been born is\n        called a baby.",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "either\n[A]"
+    ],
     "answer": "1"
   },
   {
     "number": "37",
-    "text": "The proposal for lifting the trade restrictions set off a(n) _______ over the issue. Until now, no\n        conclusion has been reached.\n        (A) debate             (B) alarm                (C) riot              (D) panic",
-    "options": [],
+    "text": "The proposal for lifting the trade restrictions set off a(n) _______ over the issue. Until now, no\n        conclusion has been reached.",
+    "options": [
+      "debate",
+      "alarm",
+      "riot",
+      "panic\n[C]"
+    ],
     "answer": "1"
   },
   {
     "number": "38",
-    "text": "I’ve been feeling a little _______ this week. I’m afraid I must go to see a doctor.\n        (A) out of my element (B) at a loss              (C) under the weather (D) behind the times",
-    "options": [],
+    "text": "I’ve been feeling a little _______ this week. I’m afraid I must go to see a doctor.",
+    "options": [
+      "out of my element",
+      "at a loss",
+      "under the weather",
+      "behind the times\n[D]"
+    ],
     "answer": "3"
   },
   {
     "number": "39",
-    "text": "You should get to the sales early to avoid missing out _______ all the best bargains.\n        (A) in                  (B) from                 (C) for                (D) on",
-    "options": [],
+    "text": "You should get to the sales early to avoid missing out _______ all the best bargains.",
+    "options": [
+      "in",
+      "from",
+      "for",
+      "on\n[C]"
+    ],
     "answer": "4"
   },
   {
     "number": "40",
-    "text": "A series of experiments to test the new drug _______ carried out, but so far it still can’t prove to be an\n        effective drug.\n        (A) was                 (B) were                (C) has been            (D) have been",
-    "options": [],
+    "text": "A series of experiments to test the new drug _______ carried out, but so far it still can’t prove to be an\n        effective drug.",
+    "options": [
+      "was",
+      "were",
+      "has been",
+      "have been\n[C]"
+    ],
     "answer": "3"
   },
   {
     "number": "41",
-    "text": "The candidate insisted on finishing his speech even though there was hardly _______ left in the room.\n        (A) one                 (B) no one              (C) anyone             (D) someone\n                                   共同科目(國文、英文) 第 3 頁，共 4 頁                                 【請翻頁繼續作答】",
-    "options": [],
+    "text": "The candidate insisted on finishing his speech even though there was hardly _______ left in the room.",
+    "options": [
+      "one",
+      "no one",
+      "anyone",
+      "someone\n                                   共同科目(國文、英文) 第 3 頁，共 4 頁                                 【請翻頁繼續作答】\n[D]"
+    ],
     "answer": "3"
   },
   {
     "number": "42",
-    "text": "A competitive market helps to _______ efficiency.\n        (A) adopt             (B) develop             (C) generate              (D) promote",
-    "options": [],
+    "text": "A competitive market helps to _______ efficiency.",
+    "options": [
+      "adopt",
+      "develop",
+      "generate",
+      "promote\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "43",
-    "text": "My office is only a five-minute walk from the MRT station, so it’s _______ taking a taxi.\n        (A) not worth            (B) no sense in       (C) no point in         (D) no reason to",
-    "options": [],
+    "text": "My office is only a five-minute walk from the MRT station, so it’s _______ taking a taxi.",
+    "options": [
+      "not worth",
+      "no sense in",
+      "no point in",
+      "no reason to\n[B]"
+    ],
     "answer": "1"
   },
   {
     "number": "44",
-    "text": "The car industry’s annual production _______ between 5.2 million and 8.5 million vehicles.\n        (A) adjusts            (B) fluctuates         (C) expends            (D) influences",
+    "text": "The car industry’s annual production _______ between",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "45",
-    "text": "A lot of manufacturing companies are trying to _______ by cutting the budget for equipment renewals.\n        (A) balance             (B) economize           (C) limit              (D) reduce",
+    "number": "5",
+    "text": "2 million and",
     "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "8",
+    "text": "5 million vehicles.",
+    "options": [
+      "adjusts",
+      "fluctuates",
+      "expends",
+      "influences\n[B]"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "45",
+    "text": "A lot of manufacturing companies are trying to _______ by cutting the budget for equipment renewals.",
+    "options": [
+      "balance",
+      "economize",
+      "limit",
+      "reduce\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "46",
-    "text": "Because there wasn’t sufficient time, data precision and accuracy were barely _______ and reported in\n        carbon monitoring.\n        (A) acquired           (B) accessed              (C) assessed           (D) assumed",
-    "options": [],
+    "text": "Because there wasn’t sufficient time, data precision and accuracy were barely _______ and reported in\n        carbon monitoring.",
+    "options": [
+      "acquired",
+      "accessed",
+      "assessed",
+      "assumed\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "47",
-    "text": "Chiufen is an old gold-mining town that _______ economically when the gold ran out in the middle of\n        the last century.\n        (A) dropped             (B) declined          (C) fell              (D) disappeared",
-    "options": [],
+    "text": "Chiufen is an old gold-mining town that _______ economically when the gold ran out in the middle of\n        the last century.",
+    "options": [
+      "dropped",
+      "declined",
+      "fell",
+      "disappeared\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "48",
-    "text": "An example of a generation gap is when the old have a value judgement that _______ that of the young.\n        (A) compares to        (B) changes to           (C) differs from       (D) reverses into",
-    "options": [],
+    "text": "An example of a generation gap is when the old have a value judgement that _______ that of the young.",
+    "options": [
+      "compares to",
+      "changes to",
+      "differs from",
+      "reverses into\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "49",
-    "text": "When you have trouble sleeping, a cup of warm milk can do the _______.\n        (A) tip               (B) trick              (C) effect             (D) act",
-    "options": [],
+    "text": "When you have trouble sleeping, a cup of warm milk can do the _______.",
+    "options": [
+      "tip",
+      "trick",
+      "effect",
+      "act\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "50",
-    "text": "The new lecture hall has a seating _______ of over 200.\n       (A) amount              (B) capability          (C) capacity             (D) number",
+    "text": "The new lecture hall has a seating _______ of over",
     "options": [],
     "answer": "3"
   },
   {
     "number": "51",
-    "text": "“Susan hasn’t told you about her resignation, has she?” Choose the best response.\n        (A) Yes, she did.       (B) Yes, she hasn’t.    (C) No, she has.       (D) No, she hasn’t.",
-    "options": [],
+    "text": "“Susan hasn’t told you about her resignation, has she?” Choose the best response.",
+    "options": [
+      "Yes, she did.",
+      "Yes, she hasn’t.",
+      "No, she has.",
+      "No, she hasn’t.\n[C]"
+    ],
     "answer": "4"
   },
   {
     "number": "52",
-    "text": "“Mr. Smith has worked here for a long time, hasn’t he?” Choose the best response.\n        (A) Yes, at five o’clock.                      (B) No, he’s working overtime.\n        (C) Yes, more than thirty years.               (D) No. I don’t have a watch.",
-    "options": [],
+    "text": "“Mr. Smith has worked here for a long time, hasn’t he?” Choose the best response.",
+    "options": [
+      "Yes, at five o’clock.",
+      "No, he’s working overtime.",
+      "Yes, more than thirty years.",
+      "No. I don’t have a watch.\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "53",
-    "text": "It rained heavily this morning, but they finally _______ to the airport.\n        (A) left it              (B) made it              (C) got it             (D) reached it",
-    "options": [],
+    "text": "It rained heavily this morning, but they finally _______ to the airport.",
+    "options": [
+      "left it",
+      "made it",
+      "got it",
+      "reached it\n[A]"
+    ],
     "answer": "2"
   },
   {
     "number": "54",
-    "text": "It was when they started working together that they found they just weren’t _______.\n        (A) compatible          (B) doable              (C) possible           (D) workable",
-    "options": [],
+    "text": "It was when they started working together that they found they just weren’t _______.",
+    "options": [
+      "compatible",
+      "doable",
+      "possible",
+      "workable\n[C]"
+    ],
     "answer": "1"
   },
   {
     "number": "55",
-    "text": "The departure dates listed in this brochure for the summer tours _______ change.\n        (A) look up to           (B) look forward to      (C) are subject to   (D) are based on\n\n\n\n\n                                   共同科目(國文、英文)               第 4 頁，共 4 頁",
-    "options": [],
+    "text": "The departure dates listed in this brochure for the summer tours _______ change.",
+    "options": [
+      "look up to",
+      "look forward to",
+      "are subject to",
+      "are based on\n\n\n\n\n                                   共同科目(國文、英文)               第 4 頁，共 4 頁"
+    ],
     "answer": "3"
   }
 ]

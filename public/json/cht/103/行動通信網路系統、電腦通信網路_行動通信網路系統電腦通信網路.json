@@ -1,365 +1,45 @@
 [
   {
-    "number": "13",
-    "text": "有關 NFC 無線傳輸之敘述，下列何者錯誤？\n     中華電信股份有限公司所屬機構 103 年從業人員(基層專員)遴選試題                           電力消耗功率低\n遴選類別【代碼】：工務類專業職(四)第二類專員【F3201-F3204】                              適合一對多模式的多點通訊\n                                                                  適合應用在電子支付\n專業科目：",
+    "number": "2",
+    "text": "4 GHz ISM 波段？                                   【1】57.下列何者多重存取的方式造成碰撞的機率比較高？",
     "options": [
-      "行動通信網路系統",
-      "電腦通信網路                                        安全性佳\n                              ◎請填寫入場通知書編號：______________"
+      ""
     ],
-    "answer": "2"
-  },
-  {
-    "number": "14",
-    "text": "WiMAX 的理想最遠傳輸距離可達多少？\n注意：作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請                    3 KM                     10 KM     30 KM                50 KM\n    監試人員處理，否則不予計分。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "15",
-    "text": "WCDMA 的理想最遠傳輸距離可達多少？\n   本試卷為一張雙面，測驗題型分為【四選一單選選擇題 60 題，每題 1 分，合計 60 分】與【非               3 KM                     10 KM     30 KM                50 KM\n    選擇題 4 題，每題 10 分，合計 40 分】。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "16",
-    "text": "HSDPA 的理想最快傳輸速率，下列何者最接近？\n   選擇題限以 2B 鉛筆於答案卡上作答，請選出最適當答案，答錯不倒扣；未作答者，不予計分。                   1 Mbps                   2 Mbps    14 Mbps              70 Mbps\n   非選擇題限以藍、黑色鋼筆或原子筆於答案卷上採橫式作答，並請從答案卷內第一頁開始書寫，\n    違反者該科酌予扣分，不必抄題但須標示題號。",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "17",
-    "text": "WCDMA 的理想最快傳輸速率，下列何者最接近？\n   請勿於答案卡(卷)書寫應考人姓名、入場通知書號碼或與答案無關之任何文字或符號。                        1 Mbps                   2 Mbps    14 Mbps              70 Mbps\n   應考人僅得使用簡易型電子計算器(不具任何財務函數、工程函數功能、儲存程式功能)，但不得",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "18",
-    "text": "Bluetooth 的理想最快傳輸速率，下列何者最接近？\n    發出聲響；若應考人於測驗時將不符規定之電子計算器放置於桌面或使用，經勸阻無效，仍執意                     1 Mbps                   2 Mbps    14 Mbps              70 Mbps\n    使用者，該科扣 10 分；該電子計算器並由監試人員保管至該節測驗結束後歸還。",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "19",
-    "text": "下列何者不在 GSM 的系統架構中？\n   答案卡(卷)務必繳回，未繳回者該科以零分計算。                                        DNS                      HLR       MSC                  VLR",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "20",
-    "text": "下列何者非屬組成蜂巢網路(cellular network)基地台的主要元件？\n壹、四選一單選選擇題 60 題（每題 1 分）                                           放大器                                 接收器",
-    "options": [],
     "answer": "4"
   },
   {
     "number": "1",
-    "text": "LTE 採取下列哪一種技術？                                             發送器                                 路由器\n   WCDMA                  CDMA     TDMA         OFDMA",
-    "options": [],
+    "text": "2、4、6",
+    "options": [
+      ""
+    ],
     "answer": "4"
   },
   {
-    "number": "21",
-    "text": "蜂巢網路(cellular network)採取何種技術以有效利用所分配到的頻道？",
-    "options": [],
+    "number": "1",
+    "text": "2、3、6",
+    "options": [
+      ""
+    ],
     "answer": "4"
   },
   {
     "number": "2",
-    "text": "下列何者非我國的 LTE 頻段？                                            自立式電波塔(self-supported tower)\n   700 MHz                900 MHz  1800 MHz     2600 MHz      區域重疊(area overlap)",
-    "options": [],
+    "text": "3、4、6",
+    "options": [
+      ""
+    ],
     "answer": "4"
   },
   {
-    "number": "3",
-    "text": "有關 LTE 的敘述，下列何者錯誤？                                          區域再用(area reuse)\n                                                                  頻率再用(frequency reuse)\n   LTE-TDD 為 LTE 之一種\n   LTE-FDD 為 LTE 之一種",
-    "options": [],
+    "number": "1",
+    "text": "2、3、8\n【1】46.下列何種設備能夠用來分割廣播領域(broadcast domain)？",
+    "options": [
+      "路由器",
+      "集線器",
+      "橋接器",
+      "中繼器     題目三：\n【1】47.下列何者機制為 IEEE"
+    ],
     "answer": "4"
-  },
-  {
-    "number": "22",
-    "text": "下列何者僅讓特定頻率的電磁波通過，把其他種頻率的電磁波擋掉？\n   LTE 具備 MIMO 架構                                                傳送器(transmitter)                    放大器(amplifier)\n  就 LTE 的部署與管理而言每位用戶單位成本大幅增加                                     路由器(router)                         濾波器(filter)",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "有關 RFID 的敘述，下列何者錯誤？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "23",
-    "text": "下列何者非屬無線通訊網路所使用的通訊協定？\n   RFID 可防磁並耐高溫                     RFID 的傳輸媒介為無線電波              HSDZA                    WPA       WCDMA                CSMACA\n   RFID 即為平常看見的條碼                  悠遊卡屬 RFID 的一種應用",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "24",
-    "text": "將訊號往某個特定的方向發射且較能克服地形障礙的天線屬於：",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "5",
-    "text": "下列何者的傳輸速率最快？                                                 sectorized antenna\n   LTE                    HSPA+    WiFi         WCDMA          dipole antenna\n                                                                   directional antenna",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "6",
-    "text": "有關 Wi-Fi、WiMAX 與 3G 的敘述，下列何者錯誤？                              omnidirectional antenna\n   WiMAX 的標準為 IEEE 802.16",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "25",
-    "text": "下列何者非屬行動無線通訊優於有線通訊的特質？\n   IEEE 802.11g 為 Wi-Fi 的標準                                      機動性                      即時性       彈性                   安全性\n  三者的傳輸距離以 Wi-Fi 無線上網最遠\n  三者的傳輸速率以 3G 最慢",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "26",
-    "text": "依據發話器具聯絡的基地台位置來決定發話器具所在的區域，這種定位技術稱為下列何者？\n                                                                   AOA                      TDOA      COO                  TOA",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "有關藍芽與 NFC 的敘述，下列何者錯誤？",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "27",
-    "text": "數個基地台將得到的接收角資訊送給設備，該設備利用三角定位法就可以算出發話器具的位置，這種定位技術\n  藍芽裝置的耗電量比 NFC 裝置低\n  藍芽的傳輸速率比 NFC 快                                                 稱為下列何者？\n  藍芽的安全性不如 NFC                                                    AOA                      TDOA      COO                  TOA\n  藍芽的傳輸距離比 NFC 遠",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "28",
-    "text": "下列何者非屬 CDMA2000 中 PDSN 的主要功能？\n                                                                  建立、維護和終止與行動基地台的 PPP 連接              為 IP 用戶指定 IP 位址",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "8",
-    "text": "下列何者不屬於近距離無線通訊標準？                                           管理無線資源、紀錄無線資源狀態                     為行動 IP 業務提供 FA 的功能\n   ZigBee                 WiMAX    NFC          Bluetooth",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "29",
-    "text": "下列何者可為企業量身設計的虛擬專用網路，依企業客戶的不同需求，將企業員工的行動電話號碼甚至是公司",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "9",
-    "text": "下列何者非屬 RFID 的應用？                                            的總機號碼，透過智慧型網路聯結成一個迅速、高效能的群組式行動通信網路？\n  金融卡 VISA WAVE                    捷運悠遊卡                         WLL                      WLAN      MVPN                 VPN\n  國道 ETC                            GPS",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "30",
-    "text": "行動通信網路中提供基礎的線路與設施來支援通訊服務的是：",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "有關 Mobile IP 之敘述，下列何者錯誤？                                    第一類電信業者                             第二類電信業者\n  主要用途是加強傳統的網際網路協定，讓行動裝置無論漫遊到什麼地方依然能夠正常地收送資料封包                   無線通訊業者                              固網業者\n  行動裝置能在不改變傳統網路組態的情況下與非行動式的網路節點做 IP 層次的通訊",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "31",
-    "text": "下列何者不屬於無線個人網路(WPAN)？\n  行動裝置移動到另一個網路範圍時能在不改變 IP 位址的情況下繼續通訊\n  行動裝置的 IP 位址與一般傳統式的 IP 位址格式不一樣                                   802.11                              UWB (Ultrawideband)\n                                                                   ZigBee                             藍芽",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "Bluetooth 的理想傳輸距離為：",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "32",
-    "text": "虛擬私人網路(VPN)所使用的通道標準為何？\n   10 公尺～100 公尺\n                                                                   ISDN                     HTTP      PPTP                 POP\n   200 公尺～250 公尺\n   300 公尺～350 公尺",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "33",
-    "text": "請問在 IEEE 802 標準中，資料連結層(data link layer)再切割成哪兩層？\n   500 公尺～550 公尺                                                  HDLC、MAC                            MAC、DSL",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "12",
-    "text": "NFC 的理想最遠傳輸距離為：                                             PDU、MAC                             MAC、LLC\n   20 公分以內                          1 公尺～5 公尺",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "34",
-    "text": "下列何者是路由器之間用來交換路由資訊的通訊協定？\n   10 公尺～20 公尺                      50 公尺～60 公尺                  ARP                      ICMP      IP                   RIP\n\n                                                                                           【請接續背面】",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "35",
-    "text": "IPv6 的自動設定位址功能中用戶端起初設定給自己的位址為下列何者？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "55",
-    "text": "下列何者決定 IP 封包的切割？\n   Anycast 位址                                                     ARP             ICMP      MTU            RIP\n   Multicast 位址",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "56",
-    "text": "下列何者為 GSM 所採用的多重存取技術？\n   Link-Local Unicast 位址                                          FDMA/FDD                   FDMA/TDD\n   Global Unicast 位址                                              TDMA/FDD                   CDMA/FDD",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "36",
-    "text": "下列何者不使用 2.4 GHz ISM 波段？",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "57",
-    "text": "下列何者多重存取的方式造成碰撞的機率比較高？\n   802.11a                802.11b      802.11g      藍芽         ALOHA                      slotted ALOHA",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "37",
-    "text": "常見的乙太網路 MAC 位址的長度有幾個位元組(bytes)？                              CSMA/CD                    CSMA/CA\n  4                      6            8              10",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "58",
-    "text": "下列何者的傳輸速率最快？",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "38",
-    "text": "下列何者可以找出傳送封包的最佳路徑？                                           ZigBee         藍芽         802.11b        802.11n\n  中繼器                    橋接器          交換器           路由器",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "59",
-    "text": "如果一頻寬為 4 KHz 的訊號要能被完整還原，其最小的取樣速率(sps)為何？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "39",
-    "text": "下列何種傳輸介質可不受電磁干擾？                                             2 Ksps          4 Ksps    8 Ksps         16 Ksps\n  絞線(twisted pair)",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "60",
-    "text": "假設訊號的最高頻率與最低頻率分別為 100 KHz、1 MHz，則其頻寬為何？\n  同軸電纜(coaxial)                                                   99 KHz          900 KHz   990 KHz        0.09 MHz\n  微波(microwave)\n  光纖(optical)",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "40",
-    "text": "下列哪一種調變技術是以傳送單一訊息的頻寬來傳送兩種訊號？\n   BPSK                   FM           GMSK          QAM",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "41",
-    "text": "IPv6 的封包格式較 IPv4 增加了下列何者？\n                                                                貳、非選擇題四大題（每大題 10 分）\n  固定的表頭                                擴充的表頭                  題目一：\n  特定資料欄位                               封包檢查碼",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "42",
-    "text": "當導線中有電流通過時，導線旁邊的磁針會向什麼方向偏轉？                                   請列舉四項在 LTE-Advanced 規範中可以達到頻寬擴展、擴展網路覆蓋範圍、改善用戶\n   360 度旋轉\n  與導線平行的方向                                                     (UE)間信號干擾以及提高峰值頻譜效率的關鍵技術並分別簡述每項技術產生之效益。      【10 分】\n  與導線垂直的方向\n  不會偏轉",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "43",
-    "text": "請問封包交換技術中資料以分封交換方式來傳送時，系統可以採用「資料封包」(Datagram)及以下何種方式來\n  控制封包傳送？\n  電路交換(Circuit-Switching)\n  細胞繼送(Cell Relay)\n  訊框繼送(Frame Relay)\n                                                                題目二：\n  虛擬電路(Virtual Circuit)                                          請列舉五項 LTE 行動通訊優於 3G 行動通訊的特質。\n                                                                                             【10 分】",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "44",
-    "text": "下列何者可以提供動態 IP 位址配置及網路設定參數？\n   FTP                    IMAP         DHCP          DNS",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "45",
-    "text": "在乙太網路 100BaseT 中，依照 TIA / TIE 568A 標準，RJ-45 接頭會使用到哪些接腳？\n   1、2、4、6                              1、2、3、6\n   2、3、4、6                              1、2、3、8",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "46",
-    "text": "下列何種設備能夠用來分割廣播領域(broadcast domain)？\n  路由器                    集線器          橋接器           中繼器     題目三：",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "47",
-    "text": "下列何者機制為 IEEE 802.11 系列標準的媒介存取控制？                            請回答下列網路分割及子網路網路位址之相關問題：\n   CSMA/CA                              CSMA/CD\n   Token Ring                           Token Bus               （一） 255.255.252.0 這個子網路遮罩最多可將 140.128.0.0 這個網路分割為幾個有效",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "48",
-    "text": "請問 TCP 是以什麼方式建立連線？                                             的子網路？每個子網路中最多可以有幾台主機？【5 分】\n  單向傳送連線訊息                             雙向交握方式\n  三向交握方式                               傳送命令直接連線                 （二）假設某台主機的 IP 位址為 192.160.8.134，子網路遮罩為 255.255.255.248，則",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "49",
-    "text": "下列何者屬於第三代行動通訊系統？\n   AMPS                   W-CDMA       GPRS          GSM\n                                                                     該主機所在的子網路「網路位址」為何？【5 分】",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "50",
-    "text": "下列何者是將 IP 位址映射為實體位址(MAC address)的協定？\n   ARP                    RARP         ICMP          RIP",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "51",
-    "text": "請問傳輸層是以什麼方式定址？\n  硬體位址                    IP 位址       網域名稱          連接埠",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "52",
-    "text": "電信業者為了推動 4G 行動上網，基於相容性考量，希望採用的 4G 標準能夠相容現有的 3G 基地台，他們最    題目四：\n  有可能引進何種技術？                                                      請回答下列與傳輸相關之問題：\n   EDGE                                 LTE\n   WiMAX                                IEEE 802.11n            （一）請說明何謂平行傳輸(parallel transmission)？何謂序列傳輸(serial transmission)？",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "53",
-    "text": "請問目前使用無線區域網路最普遍且與 802.11b 產品相容的無線區域網路標準是下列哪一項？\n   IEEE 802.3                           IEEE 802.11a\n                                                                     【4 分】\n   IEEE 802.11g                         IEEE 802.16             （二）請說明何謂基頻傳輸(baseband)？何謂寬頻傳輸(broadband)？【6 分】",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "54",
-    "text": "從用戶家中到電信網路服務提供者之間的線路稱為：\n  主幹線路(Trunk Circuits)\n  區域迴路(Local Loops)\n  交換線路(Switching Circuits)\n  虛擬區域網路(VLAN)",
-    "options": [],
-    "answer": "2"
   }
 ]

@@ -1,0 +1,304 @@
+[
+  {
+    "number": "13",
+    "text": "下列何者屬異動時戳(Transaction timestamp)的功能？\n類別：\n類別：資訊類專業職(四\n   資訊類專業職 四)第一類專員\n            第一類專員                                                                       \u0001避免死鎖(Preventing Deadlock)              \u0002數位簽章(Digital Signature)\n科目：\n科目：資料庫管理(含資料結搆\n    資料庫管理 含資料結搆)\n          含資料結搆          *請填寫入場通知書號碼：_______________                                    \u0003數位信封(Digital Envelope)                 \u0004侵入偵測(Intrusion Detection)\n注意：\u0001作答前須檢查試卷與答案卡所標示之卷別\n    作答前須檢查試卷與答案卡所標示之卷別(分\n    作答前須檢查試卷與答案卡所標示之卷別 分 A、    、B 卷)是否一致\n                                    是否一致，\n                                    是否一致，以及入場通知書號碼、\n                                         以及入場通知書號碼、桌角",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "下列何者屬多媒體資料庫之內容基底查詢(Content-based Search)？\n    號碼、\n    號碼、應試類組是否相符。\n       應試類組是否相符。                                                                        \u0001屬性欄位查詢(Attribute search)               \u0002文件關鍵字查詢(Keyword search)\n   \u0002本試卷正反兩頁共 50 題，每題 2 分，限用 2B 鉛筆在「答案卡」上作答。\n   \u0003本試卷之試題皆為單選選擇題，請選出最適當答案，答錯不倒扣；未作答者，不予計分。                                             \u0003摘要全文檢索(Full-text search)               \u0004影音資料特徵查詢(Feature search)\n    答案卡務必繳回，\n    答案卡務必繳回，未繳回者該科以零分計算。\n   \u0004答案卡務必繳回 未繳回者該科以零分計算。",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "要完整執行資料庫還原(DB Recovery)作業，除資料庫備份(Backup)外，尚須使用哪一元件？\n                                                                                        \u0001掃毒軟體(Virus scan s/w)                   \u0002異動記錄檔(Transaction Log)",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "在 SQL 語法中，資料記錄選擇條件(selection condition)的設定，係透過下列哪一個指令子句為之？                           \u0003資料辭典(Data dictionary)                  \u0004邏輯存取對映圖(Logical access map)\n   \u0001 SELECT              \u0002 FROM              \u0003 WHERE               \u0004 ORDER",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "關聯資料模式中，有關外鍵(Foreign Key)欄位之性質，下列敘述何者正確？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "在 SQL 語法中，GRANT SELECT ON CUSTOMER, ORDER TO A1 WITH GRANT OPTION 係指：                \u0001外鍵(Foreign Key)欄位為另一資料表之主鍵(Primary Key)欄位\n   \u0001授權對 CUSTOMER, ORDER 中之 A1 欄位建立索引                                                    \u0002外鍵(Foreign Key)欄位可為多值(Multi-value)\n   \u0002授權 A1 可選擇使用 CUSTOMER 或 ORDER 資料表                                                    \u0003複合鍵(Composite Key)欄位由多個外鍵欄位所組成\n   \u0003授權 A1 可選擇使用 CUSTOMER, ORDER 資料表的不同權限等級                                              \u0004主鍵與相關外鍵之欄位名稱必須一致\n   \u0004授權 A1 可授權給其他使用者對 CUSTOMER, ORDER 使用 SELECT 指令",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "下列何者不屬資料庫的概念資料模式(Conceptual data model)？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "下列何者為 B+ of degree m 樹狀結構的性質？                                                        \u0001實體關係(ER)資料模式                           \u0002物件導向(OO)資料模式\n   \u0001根(root)之外，每一節點(node)有 1 到 m/2 個子(children)節點                                        \u0003關聯式(Relational)資料模式                    \u0004資料壓縮(Compression)模式\n   \u0002根(root)之外，每一節點(node)有 m/2 到 m 個子節點",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "資料庫系統之資訊需求規格文件中應包括：\n   \u0003所有葉(leaf)節點都在不同層                                                                    \u0001資料辭典(Data dictionary)                  \u0002資料庫索引檔(Index file)\n   \u0004所有含有 n 個子節點的非葉(nonleaf)節點都包含 n+1 個鍵(keys)                                           \u0003應用程式(User interface)                   \u0004實體關係(ER)資料模式",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "用來排序的可同值非關鍵(nonkey)索引欄位(Index field)，其索引類別稱為：",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "請問 BLOBS(Binary Large Objects)資料項目之主要用途為何？\n   \u0001主索引(Primary index)                       \u0002次索引(Secondary index)                      \u0001儲存一個資料庫                                \u0002儲存一個資料表\n   \u0003分類索引(Classified index)                   \u0004分群索引(Clustering index)                    \u0003儲存一筆資料記錄                               \u0004儲存一個多媒體資料物件",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "5",
+    "text": "實體-關係(Entity-Relationship, ER)模式中，複合實體(Composite Entity)的主要性質為何？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "20",
+    "text": "在 SQL 語法中，資料庫授權(Authorization)作業指令之 GRANT UPDATE ON ORDER (amount) TO A1 係指：\n   \u0001同時包含強實體與弱實體                              \u0002同時包含實體及關係                                 \u0001授權使用者可更新 A1 欄位資料並依 amount 進行排序\n   \u0003同時包含一對多(1:N)及多對多(M:N)關係                  \u0004同時包含繼承(inheritance)及組合(aggregation)關係     \u0002授權使用者可將 ORDER 資料表中之 amount 欄位資料更新內容儲存至 A1 欄位",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "6",
+    "text": "在 SQL 語法中之 SELECT 與下列哪一個關聯代數(Relational Algebra)作業指令類似？                              \u0003授權使用者可更新 ORDER 資料表中之 amount 欄位資料至 A1 上限\n   \u0001 PROJECT             \u0002 UNION             \u0003 JOIN                \u0004 INTERSECTION       \u0004授權 A1 可更新 ORDER 資料表中之 amount 欄位資料",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "資料庫系統之概念設計，需要建立：",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "21",
+    "text": "請問 CREATE 係屬於下列何類資料庫語言？\n   \u0001資料模式(Data model)                         \u0002資料庫索引(DB index)                           \u0001資料分析語言                                 \u0002資料定義語言\n   \u0003使用者介面(User interface)規格                  \u0004資料辭典(Data dictionary)                     \u0003資料控制語言                                 \u0004資料查詢語言",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "8",
+    "text": "關聯模式(Relational Model)之正規化(Normalization)過程，第三正規化表格(3NF)在排除下列何種性質？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "22",
+    "text": "資料辭典(Data dictionary)及資料模式(Data model)由下列何者負責建立及維護？\n   \u0001重複群組(Repeating Groups)                   \u0002部分相依(Partial Dependencies)                \u0001專案經理(Project Manager)                  \u0002高階行政主管(Chief Executive Officer)\n   \u0003遞移相依(Transitive Dependencies)            \u0004多值相依(Multi-value Dependencies)            \u0003資料庫管理師(Database Administrator)         \u0004應用程式設計師(Application Programmer)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "9",
+    "text": "在大學校務系統之實體關係(ER)資料模式中，相對於教師實體(Entity)，下列何者屬弱實體(Weak entity)？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "23",
+    "text": "在資料表中更新欄位資料時，應使用下列何組指令？\n   \u0001員工                   \u0002眷屬                 \u0003課程                   \u0004學生                  \u0001 CREATE/ CHECK                         \u0002 SET/ GET",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "10",
+    "text": "資料庫管理中的資料庫分散策略，不包括下列何者？                                                              \u0003 UPDATE/ SET                           \u0004 ALTER/ ADD\n   \u0001水平分割(Horizontal partitioning)            \u0002垂直分割(Vertical partitioning)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "24",
+    "text": "物件導向資料庫中，物件之間的 is-a 關係即是一種：\n   \u0003媒體分割(Media partitioning)                 \u0004資料複製(Data replication)                    \u0001組合(Aggregation)關係                      \u0002繼承(Inheritance)關係",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "11",
+    "text": "顧客資料表 CUSTOMER 有顧客代號 CID、顧客姓名 CNAME 二個欄位，訂單資料表 ORDER 有顧客代號                           \u0003參考(Reference)關係                        \u0004索引(Index)關係\n   CID、產品代號 PID 及訂購量 QTY 三個欄位。SQL 語法中 WHERE CUSTOMER.CID=ORDER.CID，係",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "25",
+    "text": "要從選課資料表 CREG 中列出成績 GRADE 最大的那一筆資料記錄，則下列哪一個 WHERE 指令子\n   在執行下列哪一作業指令？                                                                          句正確？\n   \u0001 UNION               \u0002 INTERSECTION      \u0003 JOIN                \u0004 PRODUCT            \u0001 WHERE GRADE = MAX(GRADE)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "12",
+    "text": "物件導向資料模式中，並不包含下列何種關係？                                                                \u0002 WHERE MAX(GRADE) > (SELECT GRADE FROM CREG)\n   \u0001繼承(Inheritance)關係                        \u0002組合(Aggregation)關係                         \u0003 WHERE GRADE = (SELECT MAX(GRADE) FROM CREG)\n   \u0003參考(Reference)關係                          \u0004超鏈結(Hyperlink)關係                          \u0004 WHERE GRADE > (SELECT MAX(GRADE) FROM CREG)\n\n\n                                                                                                                           【請接續背面】",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "26",
+    "text": "請問 ALTER/MODIFY 的功能在於：",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "38",
+    "text": "在正規化中，為何要作第二正規化(2NF)？\n  \u0001更新資料欄位內容值 \u0002更新資料表名稱                 \u0003更新資料庫結構關係 \u0004更新資料欄位定義             \u0001移除重複值",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "27",
+    "text": "下列哪一種資料模式屬軟體獨立(Software independence)的概念資料模式？                       \u0002移除部分功能相依\n  \u0001階層模式              \u0002網路模式            \u0003關聯模式               \u0004實體關係模式      \u0003非主鍵的屬性應該相依於主鍵",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "28",
+    "text": "關於資料表上的主鍵(Primary Key)，下列敘述何者錯誤？                                    \u0004 table 有多個複合候選鍵，移除候選鍵間的功能相依\n  \u0001只能為一個欄位                            \u0002在資料表上可唯一表示一筆資料",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "39",
+    "text": "下列哪種資料結構常用於函數呼叫？\n  \u0003可以由一個以上欄位所組成                       \u0004可以唯一辨識一筆資料的欄位組合                 \u0001堆疊(Stack)              \u0002佇列(Queue)           \u0003鏈結串列(Linked List) \u0004B-樹(B-tree)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "29",
+    "text": "有學生成績(學號、科目、成績)及學生基本資料(學號、姓名、性別、生日、住址、信箱)，如何列出(姓名、",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "40",
+    "text": "在 Oracle 資料庫下，若對資料作新增、刪除及修改後下達指令「COMMIT」，資料會發生下列何種狀況？\n   科目、成績)？                                                             \u0001不確認但儲存，資料不能再 ROLLBACK                       \u0002不確認也不儲存，資料能再 ROLLBACK\n  \u0001 SELECT * FROM 學生成績                                                 \u0003確認並儲存，資料不能再 ROLLBACK                        \u0004確認並儲存，資料能再 ROLLBACK\n  \u0002 SELECT * FROM 學生基本資料",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "41",
+    "text": "下列敘述何者正確？\n  \u0003 SELECT * FROM 學生成績，學生基本資料                                          \u0001資料庫正規化可以增加資料庫的穩定性\n  \u0004 SELECT 姓名，科目，成績 FROM 學生成績 INNER JOIN 學生基本資料 ON 學生成績.學號 = 學         \u0002第二正規化是在去除資料的遞移相關\n    生基本資料.學號                                                           \u0003 SQL 語法中，DML 是用來更新及查詢資料庫",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "30",
+    "text": "下列為學生基本資料：                                                          \u0004ANSI/SPARC 資料庫架構允許多個外部景觀(External View)與多個概念景觀(Conceptual View)\n         學號           姓名          電話           住址",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "42",
+    "text": "下列何者非為關聯式資料庫系統中關聯表(Relation)應具備的特性之一？\n         A95002233    陳一郎         0927123456   台北縣新店市                  \u0001不含重覆的值組(Tuple)\n         A95002233    陳一郎         0918198168   台北縣新店市                  \u0002所有屬性(Attribute)值都是單元值(Atomic Value)\n         M96220011    吳大華         0933123456   台北市中正區                  \u0003值組(Tuple)間是有順序性\n   請問上述表格已符合第幾正規化？                                                     \u0004屬性(Attribute)間是沒有順序性\n  \u0001 1NF              \u0002 2NF            \u0003 3NF               \u0004 BCNF",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "43",
+    "text": "下列有關實體關係模型(ER Model)的敘述，何者正確？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "31",
+    "text": "有關 NULL 值的特徵，下列敘述何者正確？                                              \u0001 Entity Relationship Model 是由 E. F. Codd 在 1976 年提出\n  \u0001 NULL 值為 0                                                          \u0002 ER Model 中可以用來判別是唯一性質的屬性稱外來鍵\n  \u0002 NULL 值表示為空白字元                                                      \u0003 ER Model 是資料庫系統架構中內部層可用工具\n  \u0003 NULL 值表示為目前沒有任何資料存在的狀態                                             \u0004 ER Model 中 Relationship 的對應類型有 one-to-one、one-to-many 及 many-to-many\n  \u0004可用 NULL 值表示字串長度為 0",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "44",
+    "text": "電腦中資料組成的順序由小至大排列，下列何者正確？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "32",
+    "text": "下列何者不是關聯式資料庫使用到的鍵值名稱？                                               \u0001 bit－byte－record－field－file－database\n  \u0001快速鍵               \u0002主鍵              \u0003外鍵                 \u0004候選鍵         \u0002 bit－byte－record－file－field－database",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": "資料處理中，快速排序法(Quick Sort)採用下列何種策略？                                    \u0003 bit－field－byte－record－file－database\n  \u0001切割與征服(Divide and Conquer)          \u0002貪婪(Greedy Method)               \u0004 bit－byte－field－record－file－database\n  \u0003動態程式(Dynamic Programming)          \u0004回溯追蹤(Backtracking)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "45",
+    "text": "下列何者不是線上交易處理(On Line Transaction Processing，OLTP)的特色？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "34",
+    "text": "在資料庫中，下列何者兼具保護資料庫的安全？                                               \u0001使用資料倉儲系統               \u0002使用 E-R Model        \u0003資料讀寫頻繁            \u0004單維度\n  \u0001外部綱要(External Schema)              \u0002概念綱要(Conceptual Schema)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "46",
+    "text": "相較於傳統式資料庫而言，下列何者不是分散式資料庫的優點？\n  \u0003內部綱要(Internal Schema)              \u0004實體綱要(Physical Schema)           \u0001開發成本低                  \u0002系統擴充性佳              \u0003具通透能力             \u0004資訊分享",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "35",
+    "text": "在 SQL 指令中，下列何者屬於資料定義語言(DDL)指令？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "47",
+    "text": "當兩個或更多的異動相互等待對方解除鎖定時，就會產生死結(Deadlock)的情況，下列何者不是控制死結\n  \u0001 INSERT           \u0002 DROP           \u0003 SELECT            \u0004 REVOKE      的方法？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "36",
+    "text": "有關參考完整性，下列敘述何者錯誤？                                                   \u0001預防                     \u0002偵測                  \u0003等待                \u0004避免\n  \u0001利用 Foreign Key 聯結其他表格",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "48",
+    "text": "有關資料庫交易(Transaction)必須符合的特性，下列敘述何者錯誤？\n  \u0002確保相關聯資料表資料的一致性                                                      \u0001單元性（Atomicity）                              \u0002持久性（Durability）\n  \u0003確保資料表中的記錄是唯一的                                                       \u0003關聯性（Relationship）                           \u0004隔離性（Isolation）\n  \u0004不會因一個資料表的記錄改變而導致其他資料表的內容變成無效值",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "49",
+    "text": "下列何種資料結構常用於資料庫管理系統(Database Management System)上有關資料的快速擷取?",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "37",
+    "text": "有關索引(Index)和主鍵值(Primary Key)，下列敘述何者錯誤？                              \u0001 B-樹(B-tree)                                \u0002二元樹(Binary Tree)\n  \u0001主鍵值的欄位值可以重覆                                                         \u0003高度平衡樹(AVL Tree)                             \u0004向左樹(Leftist Tree)\n  \u0002一個資料表只能有一個主鍵值",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "在一 n 筆已排序(Sorted)的表格進行二元搜尋(Binary Search)，其時間複雜度(Time Complexity)為下列何者？\n  \u0003將某個欄位設為索引時，搜尋資料能夠快速找到資料                                             \u0001 O(n2)                 \u0002 O(log2n)           \u0003 O(n)             \u0004 O",
+    "options": [
+      "\u0004主鍵值的欄位值須具有代表性"
+    ],
+    "answer": "1"
+  }
+]

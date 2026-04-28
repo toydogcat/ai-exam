@@ -1,364 +1,87 @@
 [
   {
-    "number": "13",
-    "text": "Ethernet 採用下列何種技術來處理多部電腦之間資料傳輸衝突的問題？\n                                                                                                 •細胞繼電器 (Cell Relay)                   ‚電路交換 (Circuit Switching)\n遴選類別【代碼】 ：工務類專業職(四)第一類專員【C2001-C2005】                                                            ƒ多重存取/碰撞偵測 (CSMA/CD)                  „半雙工 (Half Duplex)\n專業科目：",
+    "number": "9",
+    "text": "4 GBytes         „",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "4",
+    "text": "7 GBytes\n  • 24                         ‚ 25                    ƒ 33                    „ 34            【1】30.當電腦的電源關閉時，下列何種記憶體會保留它的資料？\n【4】9.下列何種無線網路協定的資料傳輸速度最快？                                                                        •非揮發性記憶體                   ‚動態記憶體                     ƒ快取記憶體(Cache)        „暫存器\n  •藍芽",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "0                                              ‚",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "5G（亦即 High Speed Downlink Packet Access 採用 MIMO 技術）                                        •硼",
     "options": [
-      "計算機概論、",
-      "電子學        ＊請填寫入場通知書編號： _______________"
+      "‚鋁(Al)                     ƒ鎵(Ga)               „鍺(Ge)\n  „ LTE(Long Term Evolution)                                                                   【2】32.對於以矽(Si)為主的 pn 接面(junction)，下列何者為可能的逆偏飽和電流(reverse-bias saturation current)值？\n【4】10.下列何種語言不是用於網頁的劇本語言？\n                                                                                                 • 10- 20 A                 ‚ 10- 15 A                 ƒ 10- 10 A           „ 10- 5 A\n  • JavaScript                                         ‚ Active Server Page (ASP)              【1】33.一共射極組態的 BJT 電路操作於飽和區域(saturation region)，若共射極電流增益β為"
     ],
-    "answer": "3"
-  },
-  {
-    "number": "14",
-    "text": "IPv6 位址(128bit)可容許的位址個數是 IPv4(32bit)位址的幾倍？\n注意：•作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請                                                  •4                    ‚ 96            ƒ 24                „ 296\n    監試人員處理，否則不予計分。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "15",
-    "text": "以列次為主次序( row major order )的二維陣列       ，其元素(elements)在記憶體中的排列順序為何？\n   ‚本試卷為一張雙面，測驗題型分為【四選一單選選擇題 60 題，每題配分 1 分】與【非選擇題 4                                              • 5678                     ‚ 5768                     ƒ 7856               „ 8765\n    題，每題配分 10 分】。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "16",
-    "text": "目前手持設備所使用的標記語言，仍未有共通的產業標準，下列何者非屬之？\n   ƒ選擇題限用 2B 鉛筆於答案卡上作答，請選出最適當答案，答錯不倒扣；未作答者，不予計分。\n   „非選擇題限用藍、黑色鋼筆或原子筆於答案卷上採橫式作答，不必抄題但須標示題號，並請從答                                                   • WML(Wireless Markup Language)                       ‚ AHTML(Access HyperText Markup Language)\n    案卷內第一頁開始書寫，違反者該科酌予扣分。                                                                        ƒ CHTML(Compact HyperText Markup Language)\n   …請勿於答案卡(卷)上書寫姓名、編號或其他不應有的文字、標記、符號等，違反者該科以零分計算。                                                „ XHTML(The eXtensible HyperText Markup Language)\n   †應考人得自備簡易型電子計算器，但不得發出聲響，且不具財務、工程及儲存程式功能。應考人",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "17",
-    "text": "下列哪一個網路連結設備只用來連結二個 LAN 或是同一個 LAN 的二個部份的裝置，它會觀看每件封包的標\n    於測驗時將不符規定之電子計算器放置於桌面或使用，經勸阻無效，仍執意使用者，該科扣 10                                                  頭，並轉送由一個 LAN 旅行到另一個 LAN 的資料？\n    分；該電子計算器並由監試人員保管至該節測驗結束後歸還。                                                                  •網路介面卡                     ‚橋接器                       ƒ路由器                 „閘道器\n   ‡答案卡(卷)務必繳回，未繳回者該科以零分計算。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "18",
-    "text": "有關組合語言(Assembly Language)之敘述，下列何者錯誤？\n                                                                                                 •組合語言跟 CPU 有絕對相關，不同 CPU 的組合語言是不能被執行的\n第 1 部份：四選一單選選擇題 60 題（每題 1 分）                                                                     ‚組合語言的程式需要經過組譯器才可以轉換成機器碼",
-    "options": [],
-    "answer": "4"
+    "answer": "1"
   },
   {
     "number": "1",
-    "text": "瞬間發送大量封包，以癱瘓被攻擊者的網路或伺服器，稱為何類攻擊手法？                                                           ƒ組合語言是一種以簡單的助憶符號所構成的語言，比機器語言容易懂\n  •邏輯炸彈 (Logic Bomb)                                   ‚阻斷服務 (Denial of Service)                 „不同的高階語言有不同的組合語言，亦即不同的高階語言經過編譯器會產生不同的組合語言碼\n  ƒ巨集病毒 (Macro Virus)                                  „網路入侵 (Network Intrusion)",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "19",
-    "text": "二元搜尋樹是一種常用的樹狀結構，如果有 1,000 筆資料要加入到一個二元樹中，則此二元樹最多及最少的層",
+    "text": "5 mA             „ 2 mA\n  •-*a+bcd                     ‚*a-+bcd                ƒ*a+bc–d                „-a*+bcd        【3】34.在共射極組態的 BJT 放大器中，於射極電阻旁並接一電容的主要目的為：\n【2】12.下列何種伺服器能把網址翻譯成 IP 位址？                                                                      •增加穩態操作點的穩定性‚增加直流增益                                   ƒ增加交流增益              „增加輸入阻抗\n  • AP Server                  ‚ DNS Server            ƒ IIS Server            „ WWW Server\n                                                                                                                                        【請接續背面】\n【3】35.某 BJT 基極工作點電流為",
     "options": [],
     "answer": "2"
   },
   {
     "number": "2",
-    "text": "若 A 欲傳送資料給 B，如何使用公開金鑰技術讓 B 相信資料確實為 A 所傳送？                                                   數各為多少？\n  •使用 A 的公鑰加密，再以 B 的私鑰解密                               ‚使用 A 的私鑰加密，再以 B 的公鑰解密                    • 1000，9                   ‚ 1000，10                  ƒ 512，9              „ 512，10\n  ƒ使用 A 的公鑰加密，再以 A 的私鑰解密                               „使用 A 的私鑰加密，再以 A 的公鑰解密",
+    "text": "5 O              k",
     "options": [],
     "answer": "4"
-  },
-  {
-    "number": "20",
-    "text": "在網際網路的應用中，Web Service 是一種呼叫遠端服務的方法，下列何種相關的語言、技術或協定不是用在",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "3",
-    "text": "一個主記憶體的容量若有 2m 個記憶位置，每個記憶內容有 n 個位元長，則記憶位址暫存器的大小為何？                                         Web Service 中？\n  • m 個位元                      ‚ n 個位元                 ƒ m + n 個位元             „ m × n 個位元       • SOAP (Simple Object Access Protocol)                ‚ WSDL(Web Service Description Language)",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "4",
-    "text": "下列何者為 CPU 執行指令的正確順序？                                                                        ƒ CORBA (Common Object Request Broker Architecture)\n  •取指令、分析指令、執行、取資料                                     ‚取指令、取資料、分析指令、執行                          „ UDDI (Universal Description, Discovery and Integration)\n  ƒ取資料、取指令、分析指令、執行                                     „取指令、分析指令、取資料、執行",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "21",
-    "text": "有關 NOR 閘之敘述，下列何者錯誤？",
-    "options": [],
-    "answer": "1"
   },
   {
     "number": "5",
-    "text": "我國立法院於九十年十月三十一日三讀通過「電子簽章法」，於九十一年四月一日開始施行，下列何者不是                                             •先執行 NOT 運算，結果再做 OR 運算                                ‚所有輸入皆為 0 時，輸出才為 1\n  「電子簽章法」的主要目的？                                                                                  ƒ是一種通用邏輯閘 (Universal Gate)                            „能夠模擬出 NOT 邏輯閘\n  •鑑別對方身分                      ‚避免人格權受侵害               ƒ防止事後否認                 „防止資料內容被竄改或偽造",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "22",
-    "text": "下列何者不是資料庫管理系統？",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "6",
-    "text": "有關 OSI 階層之敘述，下列何者錯誤？                                                                        • MySQL                    ‚ SQL Server               ƒ Oracle             „ Impress\n  •實體層、應用層、作業層、表達層都屬於 OSI 階層",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "23",
-    "text": "下列何者不是作業系統的主要功能？\n  ‚一般大眾上網習慣使用的 IE，屬於 ISO 應用層                                                                     •提供使用者介面                                              ‚提供程式執行的環境及系統呼叫服務\n  ƒ架設區域網路所必須使用的網路卡，屬於 OSI 資料鏈結層                                                                  ƒ資料庫管理                                                „系統資源管理\n  „ OSI 參考模型中，IP 協定所屬的層級為網路層",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "24",
-    "text": "一個 5 層的完滿二元樹(Full Binary Tree)共有幾個節點？",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "7",
-    "text": "副程式(subroutine)及巨集(macro)是二種撰寫程式的方式，程式設計師會將相同的程式片段以副程式或巨集的                                  • 31                       ‚ 32                       ƒ 63                 „ 64\n  方式來撰寫，以減少相同的程式片段要撰寫多次。有關副程式及巨集之敘述，下列何者錯誤？",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "25",
-    "text": "資料庫中若需要鎖定某筆資料使其不允許其它交易讀取與修改，應使用下列何種鎖定模式？\n  •當主程式呼叫巨集時，會將控制權轉移到巨集，因此巨集程式片段中需要有 return 指令讓程式的控制權轉移回到                                        •更新鎖定 (Update Lock)                                   ‚意圖鎖定 (Intent Lock)\n   主程式                                                                                           ƒ共享鎖定 (Shared Lock)                                   „獨占鎖定 (Exclusive Lock)\n  ‚當程式以副程式方式撰寫時，不論該副程式會被呼叫多少次，程式碼都只有一份，因此以副程式方式撰寫可以大",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "26",
-    "text": "(23)9 + (88)9 =？\n   量的減少程式佔用的空間                                                                                   • (132)9                   ‚ (133)9                   ƒ (123)9             „ (122)9\n  ƒ巨集是將程式片段在編譯時以巨集程式片段取代巨集指令，因此整個程式空間並沒有相對的減少",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "27",
-    "text": "假設某候選員需要親訪 12 個鄉鎮，任兩個鄉鎮間都有專屬道路，在一次走完且任一鄉鎮不重複拜訪的條件下，\n  „利用巨集的方式，其程式執行時間會比用副程式的方式快                                                                     從某個鄉鎮出發，共有幾種走法？",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "8",
-    "text": "有一個 VB 語言的程式片段如下，則這個程式片段中，迴圈中的程式被執行多少次？                                                     • 1111                     ‚ log 11                   ƒ 112                „ 11！\n               FOR I = 1 TO 100 STEP 3",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "28",
-    "text": "下列何者無法使用在滑鼠的通訊連接？\n                     I=I+1                                                                       • PS/2                     ‚ RS-422                   ƒ USB                „藍芽\n                     …",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "29",
-    "text": "標準的 DVD-ROM 的每一面可以儲存高達多少位元組的資料？\n               NEXT                                                                              • 140 GBytes               ‚ 17 GBytes                ƒ 9.4 GBytes         „ 4.7 GBytes\n  • 24                         ‚ 25                    ƒ 33                    „ 34",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "30",
-    "text": "當電腦的電源關閉時，下列何種記憶體會保留它的資料？",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "下列何種無線網路協定的資料傳輸速度最快？                                                                        •非揮發性記憶體                   ‚動態記憶體                     ƒ快取記憶體(Cache)        „暫存器\n  •藍芽 2.0                                              ‚ 802.11b",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "31",
-    "text": "下列何者非三族(group III)元素？\n  ƒ 3.5G（亦即 High Speed Downlink Packet Access 採用 MIMO 技術）                                        •硼(B)                      ‚鋁(Al)                     ƒ鎵(Ga)               „鍺(Ge)\n  „ LTE(Long Term Evolution)",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "32",
-    "text": "對於以矽(Si)為主的 pn 接面(junction)，下列何者為可能的逆偏飽和電流(reverse-bias saturation current)值？",
+    "text": "8 O                 l",
     "options": [],
     "answer": "2"
   },
   {
     "number": "10",
-    "text": "下列何種語言不是用於網頁的劇本語言？\n                                                                                                 • 10- 20 A                 ‚ 10- 15 A                 ƒ 10- 10 A           „ 10- 5 A\n  • JavaScript                                         ‚ Active Server Page (ASP)",
+    "text": "3 O              m",
     "options": [],
     "answer": "4"
   },
   {
-    "number": "33",
-    "text": "一共射極組態的 BJT 電路操作於飽和區域(saturation region)，若共射極電流增益β為 100、基極電流 I B 為 10 µA，\n  ƒ Practical Extraction and Reporting Language (Perl) „ ActiveX                                 則集極電流 IC 可能為下列何者？",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "下列哪一個是運算式 a * (b + c) - d 的前序 (Prefix) 式？\n                                                                                                 • 0.7 mA                   ‚ 1 mA                     ƒ 1.5 mA             „ 2 mA\n  •-*a+bcd                     ‚*a-+bcd                ƒ*a+bc–d                „-a*+bcd",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "34",
-    "text": "在共射極組態的 BJT 放大器中，於射極電阻旁並接一電容的主要目的為：",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "12",
-    "text": "下列何種伺服器能把網址翻譯成 IP 位址？                                                                      •增加穩態操作點的穩定性‚增加直流增益                                   ƒ增加交流增益              „增加輸入阻抗\n  • AP Server                  ‚ DNS Server            ƒ IIS Server            „ WWW Server\n                                                                                                                                        【請接續背面】",
+    "number": "15",
+    "text": "2 O                           • 3V\n【1】36.有關 FET 共汲極放大器的敘述，下列何者正確？                                                                          k 2V\n  •輸入與輸出同相位            ‚輸入阻抗很小                 ƒ電壓增益甚高               „又稱為汲極隨耦器                          l 1V\n                                                                                                                                                      【圖 58】\n【4】37.某運算放大器之變動率 SR=62.8V/µs，若輸出正弦波峰值電壓為 10V，則其線性放大之最高頻率為何？                                             m -2V\n  • 15 MHz             k 8 MHz                 l 3 MHz               m 1 MHz                          【2】59. JFET 之工作原理為何？\n【1】38.下列何種串級放大電路之低頻響應最佳？                                                                                •控制通道之導電係數                        ‚控制通道空乏區之厚度(寬度)\n  •直接耦合串級放大電路                                  ‚變壓器耦合串級放大電路                                             ƒ控制通道接面之電流                        „控制通道中的載子濃度\n  ƒ RC 耦合串級放大電路                                „電感耦合串級放大電路                                            【2】60.相較於 BJT 之特性，下列何者非 FET 之優點？\n【1】39.下列何者同時具有空乏型與增強型特性？                                                                                •負溫度特性                  ‚操作速度較快   ƒ高輸入阻抗       „製造密度高\n  • D-MOSFET           k E-MOSFET              l BJT                 m JFET\n【3】40.有關 JFET 之敘述，下列何者正確？\n  • N 通道 JFET 所傳導的載子為電洞                        k P 通道 JFET 所傳導的載子為電子                                  第 2 部份：非選擇題四大題（每大題 10 分）\n  l N 通道 JFET 之閘極為 P 型半導體                      m P 通道 JFET 為雙極性載子元件\n【3】41.在一般 BJT 電流增益的頻率響應圖中，若直流增益為 100，且已知截止頻率(cut-off frequency)為 107 rad/sec，                         題目一：\n  單位增益頻率(unity-gain frequency)為何？                                                                         一棵二元樹 (Binary Tree) 如下圖所示，包含 10 個節點 (Node)。\n  • 105 rad/sec        ‚ 107 rad/sec           ƒ 109 rad/sec         „ 1011 rad/sec                                      A\n【3】42.矽(Si)的本質載子濃度(intrinsic carrier concentration)為",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "35",
-    "text": "某 BJT 基極工作點電流為 0.025 mA，熱電壓 VT = 26 mV，且 ß=100，則其共射極交流電阻為何？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "58",
-    "text": "如【圖 58】所示之電路，Vo 約為何？\n  • 2.5 O              k 5.8 O                 l 10.3 O              m 15.2 O                           • 3V",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "36",
-    "text": "有關 FET 共汲極放大器的敘述，下列何者正確？                                                                          k 2V\n  •輸入與輸出同相位            ‚輸入阻抗很小                 ƒ電壓增益甚高               „又稱為汲極隨耦器                          l 1V\n                                                                                                                                                      【圖 58】",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "37",
-    "text": "某運算放大器之變動率 SR=62.8V/µs，若輸出正弦波峰值電壓為 10V，則其線性放大之最高頻率為何？                                             m -2V\n  • 15 MHz             k 8 MHz                 l 3 MHz               m 1 MHz",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "59",
-    "text": "JFET 之工作原理為何？",
+    "number": "1",
+    "text": "5×1010 cm- 3，在同樣的溫度下，若受體(acceptor)濃度\n                                                                                                                        / \\\n  為",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "38",
-    "text": "下列何種串級放大電路之低頻響應最佳？                                                                                •控制通道之導電係數                        ‚控制通道空乏區之厚度(寬度)\n  •直接耦合串級放大電路                                  ‚變壓器耦合串級放大電路                                             ƒ控制通道接面之電流                        „控制通道中的載子濃度\n  ƒ RC 耦合串級放大電路                                „電感耦合串級放大電路",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "60",
-    "text": "相較於 BJT 之特性，下列何者非 FET 之優點？",
+    "number": "1",
+    "text": "5×1015 cm- 3，熱平衡下的電子濃度約為何？                                                                                       B    C\n                                                                                     V    = 5 V\n  •",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "39",
-    "text": "下列何者同時具有空乏型與增強型特性？                                                                                •負溫度特性                  ‚操作速度較快   ƒ高輸入阻抗       „製造密度高\n  • D-MOSFET           k E-MOSFET              l BJT                 m JFET",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "40",
-    "text": "有關 JFET 之敘述，下列何者正確？\n  • N 通道 JFET 所傳導的載子為電洞                        k P 通道 JFET 所傳導的載子為電子                                  第 2 部份：非選擇題四大題（每大題 10 分）\n  l N 通道 JFET 之閘極為 P 型半導體                      m P 通道 JFET 為雙極性載子元件",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "41",
-    "text": "在一般 BJT 電流增益的頻率響應圖中，若直流增益為 100，且已知截止頻率(cut-off frequency)為 107 rad/sec，                         題目一：\n  單位增益頻率(unity-gain frequency)為何？                                                                         一棵二元樹 (Binary Tree) 如下圖所示，包含 10 個節點 (Node)。\n  • 105 rad/sec        ‚ 107 rad/sec           ƒ 109 rad/sec         „ 1011 rad/sec                                      A",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "42",
-    "text": "矽(Si)的本質載子濃度(intrinsic carrier concentration)為 1.5×1010 cm- 3，在同樣的溫度下，若受體(acceptor)濃度\n                                                                                                                        / \\\n  為 1.5×1015 cm- 3，熱平衡下的電子濃度約為何？                                                                                       B    C\n                                                                                     V    = 5 V\n  • 1.5×1015 cm- 3     ‚ 1.5×1010 cm- 3        ƒ 1.5×105 cm- 3       „ 1×105 cm- 3     DD\n                                                                                                                      / \\     \\",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "43",
-    "text": "如【圖 43】所示之 NMOS 電路，若 v1 接地且 v2 接 VDD = 5 V，則 vO 的準位為何？                                                         D   E    F\n  •低準位                                                                                      RD\n                                                                                                                    / \\      / \\\n  ‚高準位                                                                                             vO              G H I         J\n  ƒ無法判別                                                              【圖 43】       v1            v2\n                                                                                                          （一）請問何謂前序走訪 (Preorder Traversal)？上圖之二元樹以前序走訪的順序為何？【3 分】\n  „高、低準位兩者交換變化\n                                                                                                   （二）請問何謂中序走訪 (Inorder Traversal)？上圖之二元樹以中序走訪的順序為何？【3 分】\n                                                                                                   （三）請問何謂後序走訪 (Postorder Traversal)？上圖之二元樹以後序走訪的順序為何？【4 分】",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "44",
-    "text": "在 741 運算放大器中有一補償電容跨接於第二級的電壓放大器，下列何者不會受該補償電容之影響？\n  •效率                         ‚單位增益頻率      ƒ穩定度                     „電壓轉換率(slew rate)            題目二：",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "45",
-    "text": "有一 BJT 偏壓於順向主動區(forward-active region)，若集極(collector)電流 iC = 2 mA、基極(base)電流 iB = 20 µA，        NAND 是一種邏輯運算子(operator)：a NAND b 定義成 NOT(a AND b)。NOR 也是一種邏輯運算子\n  其共基極電流增益(common-base current gain)為何？\n                                                                                                 (operator)：a NOR b 定義成 NOT(a OR b)。請化簡下列運算式：（以 AND、OR、NOT 邏輯運算子表示）\n  • 100                       ‚ 99         ƒ 100                    „ 101\n     101                         100                                                                  （一）a NAND a 【3 分】",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "46",
-    "text": "矽二極體在溫度 20℃時之逆向飽和電流為 2mA，假設溫度上升至 60℃時，則逆向飽和電流變為多少？                                              （二）a NOR a 【3 分】\n  • 8 mA                      ‚ 16 mA      ƒ 32 mA                  „ 64 mA",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "47",
-    "text": "有一基本放大器，其正回授百分數 ß=0.05，若欲使其振盪，則 A v 值至少應為何？                                                     （三）(a NAND b) NAND (a NAND b) 【4 分】\n  • 100                       ‚ 50         ƒ 20                     „1                           題目三：",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "48",
-    "text": "有一個 P 通道空乏型 MOSFET，其臨限電壓 Vt =2V，假使其源極(source)接地而閘極(gate)接至+5V，欲使此元\n  件操作在飽和區(saturation)，則汲極(drain)之最低電壓為何？                                                             【圖三】為一採用主動負載(active load)的 MOSFET 放大器，各 MOSFET 的跨導與輸出電阻分別為 gmi\n  •7V                         ‚5V          ƒ3V                      „2V                          與 roi，i 為 MOSFET 之編號：",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "49",
-    "text": "下列 BJT 放大器中，何者輸出阻抗最低？\n                                                                                                     （一）以 MOSFET 參數表示整個主動負載的小信號模型等效電阻 Ro。【4 分】\n  •串級共基極放大器                   ‚共基極放大器      ƒ共射極放大器                  „共集極放大器",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "50",
-    "text": "下列 BJT 放大器中，何者具高電流增益，且具甚低電壓增益？                                                                 （二）以 MOSFET 參數表示該放大器之小信號電壓增益。【6 分】\n  •共閘極放大器                     ‚共射極放大器      ƒ共集極放大器                  „共基極放大器                      題目四：",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "51",
-    "text": "一 n 型通道 JFET 的夾止電壓(pinch-off voltage)為 Vp ，其操作於歐姆區(ohmic region)的條件為何？\n  • vGS ≤ Vp < 0                           ‚ Vp < vGS < 0 且 vDG ≤ - Vp                             如【圖四】所示之 MOSFET 分壓器，若 Vt 1 = 2 V、Vt 2 = 1 V，且通道寬度比 W1/W2 = 5/8，請求出通道\n  ƒ Vp < vGS < 0 且 vDG ≥ - Vp              „ vGS > 0                                             長度比。【10 分】",
+    "number": "1",
+    "text": "5×1015 cm- 3     ‚",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "52",
-    "text": "有關共汲極 MOSFET 放大器的敘述，下列何者錯誤？\n  •等效輸入電阻很高                   ‚電流增益很高      ƒ電壓增益小於 1                „等效輸出電阻很高                                                                        10 V",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "53",
-    "text": "某一電子系統的頻率響應圖中，在斜率為-40 dB/dec 的線段上，若頻率為 10 kHz 的增益為 5，則 100 kHz 時的                                                 VDD\n  增益為何？\n  • 0.05                      ‚ 0.5        ƒ5                       „ 50",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "54",
-    "text": "有關放大器加上負回授之後的效果，下列敘述何者錯誤？\n  •頻寬增加                       ‚非線性失真減少     ƒ增益減少                    „穩定度增加                            【圖三】    Q3              Q2                       M1",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "55",
-    "text": "P 型半導體中，傳導電流的載子主要是：                                                                                                                    【圖四】          0V\n                                                                                                                                        Ro\n  •電子                         ‚電洞          ƒ質子                      „離子                                                                  vO",
+    "number": "1",
+    "text": "5×1010 cm- 3        ƒ",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "56",
-    "text": "當 P 型及 N 型材料相接觸時，即會產生一空乏層，而 P 型半導體之空乏層內應有：                                                                I REF              C                   M2\n  •電洞                         ‚電子          ƒ負離子                     „正離子                                                      Q1       RL",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "57",
-    "text": "若流入電晶體各極的電流取正值，且已知基極電流是 0.2 mA，集極電流是 2 mA，則射極電流值為若干？                                                              vI\n  • +2.2 mA                   ‚ -2.2 mA    ƒ +1.8 mA                „ -1.8 mA                                                                        - 6V",
+    "number": "1",
+    "text": "5×105 cm- 3       „ 1×105 cm- 3     DD\n                                                                                                                      / \\     \\\n【1】43.如【圖 43】所示之 NMOS 電路，若 v1 接地且 v2 接 VDD = 5 V，則 vO 的準位為何？                                                         D   E    F\n  •低準位                                                                                      RD\n                                                                                                                    / \\      / \\\n  ‚高準位                                                                                             vO              G H I         J\n  ƒ無法判別                                                              【圖 43】       v1            v2\n                                                                                                          （一）請問何謂前序走訪 (Preorder Traversal)？上圖之二元樹以前序走訪的順序為何？【3 分】\n  „高、低準位兩者交換變化\n                                                                                                   （二）請問何謂中序走訪 (Inorder Traversal)？上圖之二元樹以中序走訪的順序為何？【3 分】\n                                                                                                   （三）請問何謂後序走訪 (Postorder Traversal)？上圖之二元樹以後序走訪的順序為何？【4 分】\n【1】44.在 741 運算放大器中有一補償電容跨接於第二級的電壓放大器，下列何者不會受該補償電容之影響？\n  •效率                         ‚單位增益頻率      ƒ穩定度                     „電壓轉換率(slew rate)            題目二：\n【1】45.有一 BJT 偏壓於順向主動區(forward-active region)，若集極(collector)電流 iC = 2 mA、基極(base)電流 iB = 20 µA，        NAND 是一種邏輯運算子(operator)：a NAND b 定義成 NOT(a AND b)。NOR 也是一種邏輯運算子\n  其共基極電流增益(common-base current gain)為何？\n                                                                                                 (operator)：a NOR b 定義成 NOT(a OR b)。請化簡下列運算式：（以 AND、OR、NOT 邏輯運算子表示）\n  • 100                       ‚ 99         ƒ 100                    „ 101\n     101                         100                                                                  （一）a NAND a 【3 分】\n【3】46.矽二極體在溫度 20℃時之逆向飽和電流為 2mA，假設溫度上升至 60℃時，則逆向飽和電流變為多少？                                              （二）a NOR a 【3 分】\n  • 8 mA                      ‚ 16 mA      ƒ 32 mA                  „ 64 mA\n【3】47.有一基本放大器，其正回授百分數 ß=0.05，若欲使其振盪，則 A v 值至少應為何？                                                     （三）(a NAND b) NAND (a NAND b) 【4 分】\n  • 100                       ‚ 50         ƒ 20                     „1                           題目三：\n【3】48.有一個 P 通道空乏型 MOSFET，其臨限電壓 Vt =2V，假使其源極(source)接地而閘極(gate)接至+5V，欲使此元\n  件操作在飽和區(saturation)，則汲極(drain)之最低電壓為何？                                                             【圖三】為一採用主動負載(active load)的 MOSFET 放大器，各 MOSFET 的跨導與輸出電阻分別為 gmi\n  •7V                         ‚5V          ƒ3V                      „2V                          與 roi，i 為 MOSFET 之編號：\n【4】49.下列 BJT 放大器中，何者輸出阻抗最低？\n                                                                                                     （一）以 MOSFET 參數表示整個主動負載的小信號模型等效電阻 Ro。【4 分】\n  •串級共基極放大器                   ‚共基極放大器      ƒ共射極放大器                  „共集極放大器\n【3】50.下列 BJT 放大器中，何者具高電流增益，且具甚低電壓增益？                                                                 （二）以 MOSFET 參數表示該放大器之小信號電壓增益。【6 分】\n  •共閘極放大器                     ‚共射極放大器      ƒ共集極放大器                  „共基極放大器                      題目四：\n【2】51.一 n 型通道 JFET 的夾止電壓(pinch-off voltage)為 Vp ，其操作於歐姆區(ohmic region)的條件為何？\n  • vGS ≤ Vp < 0                           ‚ Vp < vGS < 0 且 vDG ≤ - Vp                             如【圖四】所示之 MOSFET 分壓器，若 Vt 1 = 2 V、Vt 2 = 1 V，且通道寬度比 W1/W2 = 5/8，請求出通道\n  ƒ Vp < vGS < 0 且 vDG ≥ - Vp              „ vGS > 0                                             長度比。【10 分】\n【4】52.有關共汲極 MOSFET 放大器的敘述，下列何者錯誤？\n  •等效輸入電阻很高                   ‚電流增益很高      ƒ電壓增益小於 1                „等效輸出電阻很高                                                                        10 V\n【1】53.某一電子系統的頻率響應圖中，在斜率為-40 dB/dec 的線段上，若頻率為 10 kHz 的增益為 5，則 100 kHz 時的                                                 VDD\n  增益為何？\n  •",
     "options": [],
     "answer": "2"
   }

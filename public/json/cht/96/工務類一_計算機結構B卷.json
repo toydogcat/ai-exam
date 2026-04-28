@@ -1,0 +1,314 @@
+[
+  {
+    "number": "11",
+    "text": "假設存取快取記憶體的時間為 40ns 且命中率為",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "12",
+    "text": "關於記憶體管理中分頁法（page）和分段法（segment）的敘述，下列何者錯誤？\n   \u0002本試卷正反兩頁共 50 題，每題 2 分，限用 2B 鉛筆在「答案卡」上作答。                                                            \u0001此二種方法可以合併使用                 \u0002二種方式皆允許程式長度大於記憶體容量\n   \u0003本試卷之試題皆為單選選擇題，請選出最適當答案，答錯不倒扣；未作答者，不予計分。                                                            \u0003 page 之大小固定，segment 之大小不固定  \u0004分段法不允許動態性的資料 linking 及 loading\n    答案卡務必繳回，\n    答案卡務必繳回，未繳回者該科以零分計算。\n   \u0004答案卡務必繳回 未繳回者該科以零分計算。",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "13",
+    "text": "一採用位元組定址（byte addressing）的系統，其字組（word）大小為 32 位元（bit）。試問欲定址記憶體",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "下列何者是用來存放最近使用過的位址所對應的實體頁位址，以避免存取分頁表？                                                                大小為 32 個字組的記憶體需要多少條位址線？\n  \u0001 block offset          \u0002 TLB (translation lookaside buffer)                                        \u00015            \u00026                               \u00037                      \u00048\n  \u0003 data cache            \u0004 critical cache",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "下列何者不是微程式（microprogramming）控制的優點？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "何種失誤(miss)是即使有無限容量的快取記憶體也會發生的失誤？                                                                     \u0001速度比較快       \u0002較具結構性             \u0003彈性較大                                 \u0004容易維護\n  \u0001容量失誤(capacity miss)       \u0002衝突失誤(conflict miss)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "程式計數器（program counter）的功能為：\n  \u0003強迫性失誤(compulsory miss)    \u0004重要失誤(critical miss)                                                      \u0001暫存指令                                         \u0002控制程式執行的順序",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "下列何種快取結構可以放置條件跳躍指令(branch instruction )的下個指令預測位址？                                                    \u0003記錄程式執行的狀態                                    \u0004記錄下一道指令的位址\n  \u0001 branch prediction buffer       \u0002 branch target buffer",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "請問 IEEE 754 所定義的浮點數，最大為多少？\n  \u0003 reorder buffer                 \u0004 branch delay slot                                                 \u0001 0 11111111 10000000000000000000000          \u0002 0 11111111 1111111111111111111111111",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "4",
+    "text": "下列有關超純量(superscalar)處理器的敘述，何者錯誤？                                                                     \u0003 1 11000000 10000000000000000000000          \u0004 0 10000000 00000000000000000000000\n  \u0001又稱為動態多重分發處理器                   \u0002希望打破每個時脈週期執行一個指令的限制",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "一個程式中的可平行部份約佔多少百分比時，才能從 20 個 CPU 得到 5 倍的增速？\n  \u0003藉由增加管線的 stage 數，以提高效能          \u0004藉由編譯器做指令排程，以消除相依性                                                   \u0001 95        \u0002 91         \u0003 84              \u0004 80",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "5",
+    "text": "在允許非循序的管線式電腦中，CPU 在等待資料快取記憶體傳回找不到的資料時，可以繼續由指令快取記",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "18",
+    "text": "下列對計算機算術的敘述，何者正確？\n 憶體取得指令，進行其他的命中(hit)，下列何者可提供以上技術？                                                                      \u0001二個浮點數相加不可能產生溢位（overflow）\n \u0001 nonblocking cache \u0002 data cache \u0003 instruction cache                            \u0004 cache indexing      \u0002二個不同符號的整數相加可能產生溢位\n                                                                                                       \u0003浮點數加法不具結合性（associative）",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "叢集電腦(cluster)通常是歸類為：\n                                                                                                       \u0004標準的布氏演算法（Booth’s algorithm）在所有情況下皆能增進乘法的效能\n  \u0001 SISD            \u0002 SIMD                              \u0003 MIMD                   \u0004 MISD",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "試算出下列程式區段中 X= X+1 被執行了多少次？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "7",
+    "text": "下列有關 RISC 架構的敘述，何者錯誤？\n  \u0001主記憶體的取存方式侷限於使用 load 指令與 store 指令                                                                              For (I=1; I<=100; I++)\n  \u0002每個指令格式的長度都是一樣                                                                                                      For (J=1; J<=I; J++)\n  \u0003單一指令可設計成處理非常複雜的運算                                                                                                       For (K=1; K<=J; K++)\n  \u0004指令的運算元(operand)之定位址模式(addressing mode)的個數很少\n                                                                                                                                X= X+1;",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "8",
+    "text": "下列何者無法減少條件跳躍處罰(branch penalty)？                                                                     \u0001 171700                  \u0002 100000             \u0003 176851                \u0004 970200\n  \u0001 dynamic branch prediction                           \u0002 branch target buffer",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "20",
+    "text": "假設一程式會循序存取下列區塊",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "6、34、9、34、6、1、9、41。如果一計算機系統採用一 8 個區塊（entry）\n  \u0003 delayed branch                                      \u0004 branch register\n                                                                                                      大小的直接對映式（direct-mapping）快取記憶體，試問會發生多少次快取失誤（miss）？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "9",
+    "text": "考慮下列的程式段：\n                                                                                                      \u00015             \u00026              \u00037           \u00048\n      for ( I = 1 ; I <= 100 ; I = I + 1) {",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "21",
+    "text": "下列何者屬於指令集架構（Instruction Set Architecture）的定義？\n                Y[I] = X[I] / C ;   // statement S1                                                    \u0001暫存器個數                                   \u0002快取記憶體組織\n                X[I] = X[I] + C ;     // statement S2                                                  \u0003加法器組織                                   \u0004管線深度（pipeline depth）\n           }",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "22",
+    "text": "假設在 1000 次記憶體存取中，有 40 次的失誤（miss）發生在第一層快取記憶體，20 次的失誤發生在第二\n X[I]具有下列何種性質？                                                                                        層快取記憶體，請問第一層、第二層，及整體的快取失誤率各是多少？\n \u0001輸出相依性(output dependence)                              \u0002反相依性(antidependence)                         \u0001 4%，50%，2%             \u0002 4%，2%，6%\n \u0003控制相依性(control dependence)                             \u0004資料相依性(data dependence)                       \u0003 4%，50%，6%            \u0004 4%，2%，2%",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "10",
+    "text": "一迴圈執行時所存取的資料，依賴於此迴圈之前產生的資料，此相依性稱為：",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "23",
+    "text": "在指令集中加入較複雜的指令，主要的優點是：\n   \u0001控制相依性(control dependence)        \u0002輸出相依性(output dependence)                                         \u0001降低程式的大小                                      \u0002降低 CPI\n   \u0003迴圈承載相依性(loop-carried dependence) \u0004名稱相依性(name dependence)                                           \u0003提昇頻率                                         \u0004增加 MIPS （million instruction per second）\n\n                                                                                                                                                  【請接續背面】",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "24",
+    "text": "針對單一週期（single cycle）、多重週期（multicycle）和管線化（pipelined）實作 MIPS 機器，下列敘述",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "37",
+    "text": "有關平行化(parallelism)的技術中，下列何者主要是以軟體為基礎？\n  何者正確？                                                                                        \u0001條件跳躍預測(branch prediction)      \u0002超長指令集(VLIW)\n  \u0001單一週期的時脈週期最短                                 \u0002多重週期的時脈頻率最慢                                    \u0003超純量(superscalar)               \u0004動態排程(dynamic scheduling)\n  \u0003管線化有最小的 CPI                                 \u0004單一週期所需的硬體最簡單",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "38",
+    "text": "下列對記分板(scorboarding)技術的敘述，何者錯誤？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "25",
+    "text": "下列對 RISC（reduced instruction set computer）及 CISC（complex instruction set computer）之敘述，      \u0001可提升指令平行化的程度\n                                                                                               \u0002運用暫存器重新命名(register renaming)的技巧\n  何者錯誤？\n                                                                                               \u0003利用共用資料匯流排(common data bus)將結果廣播至功能性單元(functional unit)",
+    "options": [
+      "CISC CPU 有較複雜的指令集                                                                         \u0004需要大量硬體支援",
+      "RISC CPU 指令長度多為固定"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "39",
+    "text": "下列實現 I/O 裝置與記憶體的資料傳輸技術中，何者較適合用於高效能裝置？",
+    "options": [
+      "RISC CPU 定址模式較多                                                                           \u0001輪詢(polling)   \u0002直接記憶體存取(DMA) \u0003窺探(snooping)                \u0004 I/O 中斷",
+      "通常對同一個程式而言，RISC CPU 指令數會少於 CISC CPU"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "40",
+    "text": "下列有關 RAID 之敘述，何者錯誤？\n  \u0001僅 C         \u0002僅 A、B           \u0003僅 C、D                               \u0004僅 A、B、D                  \u0001 RAID 是利用冗餘性(redundancy)提升硬碟儲存之有效性",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "26",
+    "text": "編譯器技術不能改善下列何者？                                                                              \u0002 RAID6 是最昂貴的 RAID 作法\n   \u0001 CPI（clock per instruction）                \u0002時脈頻率                                           \u0003 RAID0 只將資料分散到不同硬碟，並無錯誤更正功能\n   \u0003指令數目                                       \u0004控制危障（control hazard）                           \u0004 RAID1 是利用映射(mirroring)原理",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "27",
+    "text": "下列何種最佳化方法會找出共同子運算，並將第一次計算的值，存入暫時的變數中，以免重覆計算？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "41",
+    "text": "在虛擬記憶體中，最適合何種更新策略(update policy)？\n   \u0001程式碼移動(code motion)                                                                         \u0001 write through \u0002 write buffer   \u0003 write around           \u0004 write back\n   \u0002常數替換(constant propagation)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "42",
+    "text": "下列有關失誤(miss)的敘述，何者正確？\n   \u0003複製替換(copy propagation)                                                                     \u0001容量失誤(capacity miss)無法降低\n   \u0004去除共同子運算(common subexpression elimination)                                                  \u0002在直接對映式(direct mapped)的快取記憶體中，不會發生衝突失誤(conflict miss)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "28",
+    "text": "管線中的前饋（forwarding）技術無法改進下列何者？                                                               \u0003強迫性失誤(compulsory miss)也稱為冷啟動失誤(cold-start miss))\n   \u0001程式指令數目                       \u0002執行時間                                                         \u0004在全關聯(fully associative)快取記憶體中，不會發生容量失誤\n   \u0003資料危障產生的暫停                    \u0004 CPI（clock per instruction）",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "43",
+    "text": "下列與 Amdahl’s law 相關之敘述，何者錯誤？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "29",
+    "text": "在一個資料區塊大小為 16KB，且每個區塊為 4 個字組（每個字組 4 個 bytes）的直接對映（direct-mapping）                           \u0001可應用於平行計算的電腦上                        \u0002效能的增速(speedup)定義\n                                                                                               \u0003可用來比較兩個系統的效能                        \u0004程式指令間的資料相依程度\n  快取，假設位址為 32 位元，則此快取需要多少位元（含一有效位元）？\n  \u0001 147K 位元     \u0002 148K 位元   \u0003 149 K 位元                               \u0004 150 K 位元",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "44",
+    "text": "假設一個分頁系統(paging system)中，其主記憶體含 3 個區塊框(frame)，考慮下列 reference 順序：\n                                                                                                        1, 2, 3, 4, 2, 1, 5, 2, 1, 2, 3, 6, 4, 3",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "30",
+    "text": "有一 32 位元的虛擬位址，每頁為 4KB，分頁表的每個 Entry 為 4 bytes，則分頁表的總大小為何？\n                                                                                               如果使用 LRU (least-recently-used) replacement algorithm 情況下，將會有多少次的成功擊中(hit)？\n   \u0001 1MB         \u0002 2MB         \u0003 4MB                \u0004 8MB\n                                                                                               (請注意：剛開始時這 3 個分頁都是空的)",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "31",
+    "text": "暫存器檔（register file）係屬下列何者的一部份？                                                              \u00013                   \u00024                           \u00035         \u00046\n   \u0001快取記憶體              \u0002 DRAM                  \u0003 CPU                 \u0004 Flash memory",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "45",
+    "text": "請問 2 階記憶體結構中，假設快取記憶體的取存時間為 1 奈秒，主記憶體的取存時間為 100 奈秒；如果有",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "32",
+    "text": "下列何項技術可以加速一道指令（fetch、decode、execute）的完成？\n                                                                                             效取存時間為 10 奈秒，則 hit ratio 為何？\n   \u0001雙核心        \u0002管線化                \u0003超純量                              \u0004快取記憶體\n                                                                                             \u0001",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": "利用重新組織迴圈，使其重組後之迴圈中每一個回合(iteration)內的指令是從原來迴圈不同回合中挑選組合",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "46",
+    "text": "多處理器系統中，將微處理器和快取記憶體連接到共享記憶體，大多使用下列何種協定？\n  而成的，這種技術稱為：                                                                                  \u0001目錄式(directory-based)   \u0002暫存器式(register-based)\n  \u0001迴圈向量化( loop vectorized)                     \u0002軟體管線(software pipelining)                      \u0003窺探(snooping)           \u0004輪詢(polling)\n  \u0003迴圈展開(loop unrolling)                        \u0004動態排程(dynamic scheduling)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "在管線式(piplined)處理器中，同一個時脈週期，若硬體不能滿足某些指令共同硬體資源需求，導致指令無",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "34",
+    "text": "下列有關平行化(parallelism)的技術，何者可減少流程危障延遲(control hazard stall)？\n                                                                                             法執行，此現象稱之為：\n   \u0001追蹤排程(trace scheduling)         \u0002前饋(forwarding)\n                                                                                             \u0001流程危障(control hazard)                  \u0002資料危障(data hazard)\n   \u0003軟體管線(software pipelining)      \u0004迴圈展開(loop unrolling)\n                                                                                             \u0003結構危障(structural hazard)               \u0004衝突危障(conflict hazard)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "35",
+    "text": "如果記憶體的一區塊只可能出現在快取記憶體的某一位置，這種快取記憶體被稱為：",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "48",
+    "text": "在單一 I/O 裝置做 I/O 資料傳輸，下列何者具有最低延遲時間的特性？\n   \u0001直接對映(direct mapped)    \u0002全關聯(fully associative)\n                                                                                               \u0001輪詢(polling)      \u0002直接記憶體存取(DMA) \u0003窺探(snooping)             \u0004 I/O 中斷\n   \u0003組關聯(set associative)   \u0004區關聯(sector associative)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "49",
+    "text": "在 RAID 中，下列何者在運作時每筆存取都會動用所有硬碟？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "36",
+    "text": "考慮兩個相鄰的指令 i 和指令 j，若指令 i 出現在指令 j 之前，而指令 j 在指令 i 寫入資料前讀取資料，此\n                                                                                               \u0001 RAID1        \u0002 RAID3     \u0003 RAID2                        \u0004 RAID0\n  危障(hazard)稱為：",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "在快取記憶體中，下列何種技術可幫助寫透(write-through)策略提升處理速度？\n  \u0001 WAR                  \u0002 WAW                 \u0003 RAW                 \u0004 RAR\n                                                                                               \u0001寫入暫停(write stall)             \u0002寫入緩衝區(write buffer)\n                                                                                               \u0003寫回(write back)                \u0004寫入合併(write merging)",
+    "options": [],
+    "answer": "1"
+  }
+]

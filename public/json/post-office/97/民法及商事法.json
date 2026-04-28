@@ -1,0 +1,38 @@
+[
+  {
+    "number": "1",
+    "text": "\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b                                                      \u000e       \u000f   \u0007\u0010   \u0011   \u0012 \b\u0013                   \u0004\u0014               \u0015\u0016\u0017                                     \u0018                   \u0019           _____\u001a \u001b\b\u001c \u0013 \u0004\u0014\n  \u0015\u0016                                                                                                                                                                                                                                                                                  \u0013 \u001c                                                         \u0005\n                                                                                                                                                                                                                                                                                      ¹                   \u001e                           º®                          ±                       q                   à                   r                   ¿                        À6                                      S                   T                               \u0010                   8                        \b®                                      ±               \u0003¨                              ®                   ±               q                   à               r           \u0010               á                   /           \u0004¹                      Àß",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "_____\u001b\b\u001e \u001f                                \u0007! \u001f           \"       \u0010       #$ \b%     &        '        (       \u0007)                   *                           \u0010                   +           ,        - \b .                /           0           '           1       2\n  ( \u00073 4 \u0007\u0010                                5 \u0016",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "6 7     \u0010    8                   \b       \u00079   :       _____\u0010 ; <= \u0004> ; \u0016",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "4",
+    "text": "? @ A \u0010 B C \bD E @ A \u0010 F G \bHI J ) \"\u0007\u001b\b\u0004_____\u0016\u0017 K L M N O P Q R \u001b\b\n   6 : Q R \u0016                                                                                                                                                                                                                                                                          \u0013 \u001d                                                         \u0005\n                                                                                                                                                                                                                                                                                      ¹                       \u001e                       ºW                              °                           â                   ã               ¿                       ÀÄ                                           ä                   \u0002S                              T                   ¨                   å           J        S                   T                   \u0004\u001c                          æ                                       ç                                  \b6                          S               T                           \u0010           8                           \bä                      \u0002",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "S T     \u0010    @           U       V   W   \b<X      Y       \u0004_____Z<[                     \\        ]        \u0004[           \\               ]           ^                   _                   \u0016\n                                                                                                                                                                                                                                                                                                      S               T               ¢                   :                       ¸           e                       \u0007N                                  ¹                        e                   f                       Àß",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "6",
+    "text": "6 ` a   M b ) c d ; N \u0007e f \u0001$ \u0010 8     \bb \u0007g h i \u0010 j k \b9 c d l m n o \b\n   p \"n o O P q ( r _____s t u v s t : w $ \u0016",
+    "options": [],
+    "answer": "4"
+  }
+]

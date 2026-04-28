@@ -1,0 +1,38 @@
+[
+  {
+    "number": "1",
+    "text": "\u0001\u0002 Hicks \u0003 \u0004 \u0005\u0006\u0007 \b                                                                                                                                         \u000e           \u000f               \u0010            \u0011           \u0012               \u0013               \u0014               \u0015\b                                       \u0016           \u0017               \u0018\u0019          \u001a           \u001b               \u001c               \u0018\b                       \u001d\n                                                                                                                                                                                                                                                                                                                                                                                                                                         ²                    Â                   h                    C$               %           Y                JAVA $                   %           Ã           I       (¹[        \u0006).Ä   Å   \u0012   Æ   Ç       e   (È   É   \u0005\u0013   - #(m   G   g   h\n   \u0016       \u0017       \u0018\u001e           \u0004                       \u001f                   \u0018_____\u0018!                                       \"               #\n                                                                                                                                                                                                                                                                                                                                                                                                                                             Ê                    Ë                   )",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "C $ % &                                  JAVA '() * + , \u0005\u0013 - $ % .C $ % '(\u0013 \u0014 + , \u0005\u0013 - $ % /JAVA '                                                                                                                                                                                                                                                                                                                                                             3\n       (_____+                                  ,               \u0005\u0013           -        $           %       .0                   \u000212                       3           4               5            6           7               8               9                   \u0005:                   ;                   #                                                                                                                                         343",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "< = + , \u0013 - \u0005> ? @ A \u000e \u000f                                                                                                     _____\u0018B C (Inheritance)\u0018D                                                                                                                                                                           (Polymorphism)#(? E                                                                                       34543\n\n       F       G   *    H           I                       \u0004       J       \u0018K                L       M    N       O           P           3            Q)                                                                                                                                                                                                                                                                                           343\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                  3",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "4",
+    "text": "* R \u0005S T M N .U V ) * \u0005W T \u0019 \u001a                                                                                                                                                             X            Y           Z               \u0014               [           \\           S                T               ]           ^           ._              `           a               b           N       c\n       _____#(? E F G * H I \u0004 J \u0018K L M N O P 3 Q)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "1 C $ % J .d e f g h i j k l k \u0004 S T .m G n h                                                                                                                                                                                                                                       <_____>\u0005i o p #\n                                                                                                                                                                                                                                                                                                                                                                                                                                         \u001e '                                                       \u0005",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "6",
+    "text": "q r s 6 t 7 u ` v w x - .Qy c z { v w \u0018_____\u0018 | v w } ~  v w #                                                                                                                                                                                                                                                                                                                                                                                    Ì                   Í                            Unified   ®  \u0013 \u0014                                                                    (Unified Software Development Process)\u0005u  Î Ï &",
+    "options": [],
+    "answer": "4"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "number": "15",
+    "text": "下列何者不屬於 IEEE",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "下列無線通訊方式，依通訊距離排序，何者正確？\n   \u0003本試卷之試題皆為單選選擇題，請選出最適當答案，答錯不倒扣；未作答者，不予計分。\n    答案卡務必繳回，\n    答案卡務必繳回，未繳回者該科以零分計算。\n   \u0004答案卡務必繳回 未繳回者該科以零分計算。                                                                       \u0001 WPAN<WMAN<WLAN                               \u0002 WPAN<WLAN<WMAN\n                                                                                               \u0003 WLAN<WPAN<WMAN                               \u0004 WLAN<WMAN<WPAN",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "下列哪個協定具有 Relay 的規範？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "17",
+    "text": "有關 IEEE",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "2",
+    "text": "在 GSM 系統中，哪一個設備儲存有 MS 所在的 MSC 的資訊？                                                           \u0002可以使用在 Star Topology 或者 Ring Topology\n  \u0001 MS          \u0002 HLR            \u0003 BSC                                  \u0004 BTS                  \u0003可以使用在 Ring Topology 或者 Peer-to-Peer Topology\n                                                                                               \u0004只可以使用 Peer-to-Peer Topology",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "3",
+    "text": "下列何者不是 IEEE",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "下列何者不是 IEEE",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "在 GSM 系統中換手(Handoff)的各種情況中，變更最多資料的是下列何種換手情況？\n  \u0001 Inra-BSS        \u0002 Intra-MSC   \u0003 Inter-MSC  \u0004 Inter-BSS",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "請問 IEEE",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "5",
+    "text": "請問 IEEE",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "20",
+    "text": "下列有關 IEEE",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "6",
+    "text": "請問 IEEE",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "21",
+    "text": "下列何者不是 IEEE",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "下列對 IEEE",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "22",
+    "text": "請問 Bluetooth 協定將可使用的頻帶分為幾個頻道(channel)？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "8",
+    "text": "下列哪一個設備只存在於 UMT 系統，不存在於 GPRS 中？                                                              \u0001 77               \u0002 78            \u0003 79                                 \u0004 80\n  \u0001 GMSC       \u0002 SGSN           \u0003 HLR                                   \u0004 RNC",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "23",
+    "text": "下列何者決定藍芽(Bluetooth)通訊協定中 Piconet 的跳頻序列(Hopping Sequence)？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "9",
+    "text": "下列何項標準使用 OFDMA 技術？                                                                           \u0001隨機選擇                                \u0002根據當下時間\n  \u0001 IEEE",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "10",
+    "text": "下列何者不屬於 IEEE",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "24",
+    "text": "無線電話手機的射頻輸出功率通常以 dBm 為單位，20 dBm 約為多少瓦特(watt)？\n   \u0001 Third Management Connection            \u0002 Secondary Management Connection                  \u00012          \u00021                \u0003",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "25",
+    "text": "有關非對稱數位用戶迴路(ADSL)系統在裝機時必須於用戶端額外加裝一個分歧器(POTS Splitter)，其最主要的作用為",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "11",
+    "text": "在 IEEE",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "12",
+    "text": "請問 IEEE",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "26",
+    "text": "一個 3 KHz 頻寬的電話線路用來作資料通訊，假設線路上之訊雜比 S/N = 4095 (約 36dB)，根據沈農容量定理(Shannon",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "13",
+    "text": "下列何者不是 IEEE",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "27",
+    "text": "一個有線電視公司用一個電視頻道(頻寬約 6 MHz)作為資料傳輸，公司原先使用 32-QAM 技術的數據機，提供客戶",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "14",
+    "text": "請問 IEEE",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "28",
+    "text": "下列何者是無線區域網路(IEEE",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "39",
+    "text": "五個地面站台平均分享一個衛星回應器(Transponder)的 TDMA 網路，其一個訊框長度(Frame Duration)為 2 毫秒(ms)，\n   \u0001 88 至 108 (MHz)               \u0002 902 至 928 (MHz) \u0003",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "400 至",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "4835 (GHz)           \u0004",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "5",
+    "text": "725 至",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "5",
+    "text": "850 (GHz)      每個站台需要前置時間(PreambleTime)20 微秒(µs)，站台與站台之間需要保護時間(Guard Time)5 微秒，站台資料是以",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "29",
+    "text": "非同步傳輸模式(ATM)網路通訊協定堆疊分成三層，下列何者是錯誤的功能敘述？                                                                       QPSK 編碼，訊號率(Signal Rate)為 30 Mbaud，若一個語音頻道的資料率是 64 Kbps，則每一個站台最多可以傳送多少\n   \u0001 AAL(ATM Adaptation Layer)用來定義使用者的資料流是如何轉換成 ATM 細胞(cell)                                                    個語音頻道？\n   \u0002 ATM Layer 用來定義網路如何在使用者之間傳送細胞                                                                                \u0001 175                          \u0002 200           \u0003 225                           \u0004 300\n   \u0003 ATM Physical Layer 用來定義如何將 ATM 細胞放在實體的傳輸系統上，如 SONET",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "40",
+    "text": "下列何者是長度為 4 的正交碼(Orthogonal Code)？\n   \u0004 ATM Network Layer 用來定義網路選路(Routing)的方法                                                                      \u0001 (0 0 0 1), (0 0 1 0), (0 0 1 1), (0 1 0 0)   \u0002 (0 0 0 0), (0 1 0 1), (0 0 1 1), (0 1 1 0)",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "30",
+    "text": "下列何者是 HFC (Hybrid Fiber-Coaxial)網路上較普遍使用的資料傳輸標準？                                                              \u0003 (1 0 1 0), (0 1 0 1), (1 0 0 0), (0 1 1 0)   \u0004 (1 1 0 0), (0 0 1 1), (1 0 0 0), (0 0 0 1)\n   \u0001 V.90                         \u0002 PPPoE           \u0003 ITU-T                          \u0004 DOCSIS",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "41",
+    "text": "請問 GSM 基地台的發射機輸出功率為 2 毫瓦(3 dBm)，訊號經增益為 10dB 的天線輻射出去，訊號經路徑損耗 30dB，",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "31",
+    "text": "信號 s(t)可表示成 s(t) = A cos(2π fct + xπ/4)，式中 fc 是載波頻率，A 的值是 1 或",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "1",
+    "text": "3、−1、或−3，s(t)最                     最後由手機天線接收後經增益為 20 dB 的放大器放大，若手機天線增益為 3dB，則手機放大器輸出功率約是多少毫瓦\n   可能是下列何種調變信號？                                                                                                 (mW)？\n   \u0001 8 階正交振幅調變(8-QAM)                               \u0002 8 階相移鍵控調變(8-PSK)                                           \u00012                             \u00024              \u00036                              \u00048\n   \u0003 8 階幅移鍵控調變(8-ASK)                               \u0004 8 階頻移鍵控調變(8-FSK)",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "42",
+    "text": "在無線通訊中，當發射端天線和接收端天線之間電波能有視線路徑以及幾個間接路徑相通時，會發生下列何種現象？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "32",
+    "text": "行動電話系統採用之多工技術概分三種：CDMA(code-division multiple access)、TDMA(time-division multiple access)、                    \u0001萊斯衰退(Rician fading)                           \u0002瑞雷衰退(Rayleigh fading)\n   和 FDMA(frequency-division multiple access)，下列敘述何者錯誤？                                                          \u0003高斯衰退(Gaussian fading)                         \u0004懷特衰退(White fading)\n   \u0001第一代行動電話系統(AMPS)採用 FDMA",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "43",
+    "text": "對於多重路徑造成的衰退(Fading)與符際干擾(Intersymbol Interference)問題，下列何者不是適合的對抗技術？\n   \u0002第二代行動電話系統(GSM)採用 TDMA 和 FDMA，稱之 Multicarrier TDMA 系統                                                         \u0001適應性等化(Adaptive Equalization)技術                \u0002分集(Diversity)技術\n   \u0003第",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "2",
+    "text": "5 代行動電話系統(GPRS)採用 TDMA 和 CDMA                                                                            \u0003直接錯誤更正(Forward Error Correction)技術            \u0004低雜訊放大器(Low Noise Amplifier)技術\n   \u0004第三代行動電話系統(W-CDMA 或 cdma2000 系統)採用 CDMA",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "44",
+    "text": "一個 FHSS(Frequency Hopping Spread Spectrum)系統工作在",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "4 GHz ISM 頻段，總頻寬是 79 MHz，若一個頻道頻寬為",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": "有關行動電話通話交遞(Handover)的敘述，下列何者錯誤？                                                                               １MHz，則每一個頻道的跳選至少需要幾個 PN(Pseudonoise)位元來控制？\n   \u0001手機由某一基地台移動到另一新的基地台需要執行通話交遞                                                                                   \u0001 79                           \u0002 100           \u00037                              \u00049\n   \u0002硬交遞(Hard Handover)是手機在接收新基地台的信號之前，必須先中斷與原基地台的通話，採用 FDMA 和",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "45",
+    "text": "某一電話交換機的呼叫率(Calling Rate)是平均每分鐘 30 個呼叫，每一個呼叫平均維持時間(Holding Time)是 3 分鐘，\n     TDMA 的通訊系統通常採用硬交遞，因原基地台與新基地台的載波頻率不同\n                                                                                                                此交換機的訊務量(Traffic Intensity)是多少歐蘭(Erlang)？\n   \u0003軟交遞(Soft Handover)是當手機開始與一個新的基地台聯繫時，並不立即中斷與原基地台之間的通訊，直到\n                                                                                                                 \u0001",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "5                          \u00023              \u0003 10                            \u0004 90\n     與新基地台通訊穩定後才中斷，運作方式屬於 Break-Before-Make",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "46",
+    "text": "就 IEEE",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "34",
+    "text": "有關 GSM 系統資料庫的敘述，下列何者錯誤？\n                                                                                                                 \u0002最高資料率(data rate)可達 54 Mbps\n   \u0001 HLR(Home Location Register)紀錄用戶永久性的資料及目前用戶所在的位置\n                                                                                                                 \u0003網路存取方法(access method)採用 CSMA/CD(CSMA with collision detection)\n   \u0002 VLR(Visited Location Register)紀錄控制區域(LA)內所有手機用戶的位置\n                                                                                                                 \u0004 Ad hoc 網路架構無需要 AP(access point)做資料轉送\n   \u0003 SR(Subscriber Register)紀錄用戶電話號碼與手機的 IMEI 識別碼",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "在 SONET 設備中，何者可以在線上加入或抽取訊號？\n   \u0004 EIR(Equipment Identity Register)紀錄所有用戶手機的 IMEI 識別碼\n                                                                                                                 \u0001 STS Multiplexer/Demultiplexer                \u0002 Regenerator",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "35",
+    "text": "有關 GPRS 網路的敘述，下列何者錯誤？\n                                                                                                                 \u0003 ADM(Add/Drop Multiplexer)                    \u0004 Router\n   \u0001 GPRS 可提供封包交換服務(Packet-switched Service)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "48",
+    "text": "下列何者是 ATM 採用的多工技術？\n   \u0002 GPRS 主要提供電路交換服務(Circuit-switched Service)，增加資料率與網路效率\n                                                                                                                 \u0001分頻多工(Frequency Division Multiplexing, FDM)\n   \u0003 由 GSM 升級到 GPRS，需要加入 SGSN 和 GGSN 兩個網路設備節點\n                                                                                                                 \u0002分碼多工(Code Division Multiplexing, CDM)\n   \u0004 GPRS 數據傳輸速率，理論上可達",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "14",
+    "text": "4 Kbps 以上\n                                                                                                                 \u0003同步分時多工(Synchronous Time Division Multiplexing, Synchronous TDM)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "36",
+    "text": "請問 W-CDMA 系統利用循環冗餘核對碼(cyclic redundancy check；CRC)作為語音或使用者資料的錯誤檢測碼，假設\n                                                                                                                 \u0004非同步分時多工(Asynchronous Time Division Multiplexing, Asynchronous TDM)\n   有一個 15 位元訊框(15-bit frame)，其中 11 個位元是資料，4 個位元是訊框核對序列(frame check sequence；FCS)，所",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "49",
+    "text": "對 ADSL 調變技術的敘述，下列何者錯誤？\n   用 CRC-4 的多項式為 x4 + x3 + 1，若資料是 0 0 1 1 1 0 1 1 0 0 1，最右邊是 LSB，則下列何者是 FCS？                                     \u0001依據 ATM Forum 和 ANSI T1.413 Issue 2 所制定的標準，ADSL 是採用 DMT(Discrete Multitone)的調變技術\n   \u00011010                          \u00020100             \u00031001                            \u00040101                       \u0002 DMT 是結合 FDM(frequency division multiplexing)和 QAM(quadrature amplitude modulation)的技術",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "37",
+    "text": "請問 W-CDMA 系統之頻道編碼(Channel Coding)使用迴旋編碼(Convolution Coding)，假設有一個(2, 1, 3)迴旋碼，亦即                              \u0003 FDM 將頻寬分成上行頻寬(4 KHz 到 200 KHz)和下行頻寬(200 KHz 到",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "1",
+    "text": "1 MHz)\n   一個輸入位元產生兩個輸出位元，用連續三個輸入位元計算出冗餘位元(亦即限制長度為 3)，輸入與輸出的關係為 An =                                                     \u0004採用 256-QAM 下行傳輸速度可達 8 Mbps\n   Un⊕Un−1⊕Un−2 和 Bn = Un⊕Un−2，式中 Un、Un−1、Un−2 分別是目前和之前的兩個輸入位元，An 和 Bn 是對應的兩個輸出",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "50",
+    "text": "有關低階電信系統(low-tier telecommunication system)及數位無線電話系統(digital cordless telephony system)的敘\n   位元，⊕是 Exclusive OR 運算，若輸入位元序列是 1 0 1 0 1 0，輸出位元序列(A1B1, A2B2,…)為何？                                           述，下列何者錯誤？\n   \u0001 (1 0, 0 0, 1 0, 1 0, 1 0, 1 0)                 \u0002 (1 1, 1 0, 0 1, 1 0, 0 1, 1 0)                             \u0001 PHS 行動電話和 DECT 系統是屬於低階電信系統\n   \u0003 (1 1, 1 0, 0 0, 1 0, 0 1, 1 1)                 \u0004 (1 1, 1 0, 0 0, 1 0, 0 0, 1 0)                             \u0002 PHS 系統的細胞較 GSM 的大，基地台較少，適合都會區服務",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "38",
+    "text": "藍芽核心協定中的 SDP(Service Discovery Protocol)的功能為何？                                                                \u0003 PHS 系統降低輻射功率和縮小細胞範圍，增加系統服務用戶數量\n   \u0001負責連線的安全認證和加密                                    \u0002提供連結導向與非連結導向的服務                                             \u0004 PHS 使用頻段為 1895 到 1918 MHz\n   \u0003查詢裝置訊息與服務特性，使裝置間建立連線                            \u0004裝置定址與建立連線",
+    "options": [],
+    "answer": "3"
+  }
+]

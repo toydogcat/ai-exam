@@ -1,332 +1,644 @@
 [
   {
     "number": "1",
-    "text": "使用「題辭」，必須考量相應的社交場合，下列何者不適用於教育界或教育人士的題辭？\n       (A)化洽菁莪   (B)斗山望重  (C)敷教明倫   (D)喜得寧馨",
+    "text": "本科目禁止使用電子計算機。",
     "options": [],
     "answer": "4"
   },
   {
     "number": "2",
-    "text": "下列選項，完全沒有錯別字的文句是？\n       (A)人類與大自然習習相關，一味竭澤而漁只會遺害後代\n       (B)星空下綻放著美麗的煙火，絢爛的色彩、聲光令人目不暇給\n       (C)他是一位滿懷抱負的青年，將來必定大有作為，大家都視目以待\n       (D)所有暑期夏令營活動都已準備就序，卻被即將到來的颱風擾亂了",
+    "text": "本試題共 4 頁(A3 紙 1 張)。",
     "options": [],
     "answer": "2"
   },
   {
     "number": "3",
-    "text": "下列注音，何者有誤？\n       (A)「荏苒」：ㄖㄣˋ ㄖㄢˇ         (B)「錙銖」：ㄗ ㄓㄨ\n       (C)「渾沌」：ㄏㄨㄣˋ ㄉㄨㄣˋ       (D)「倥傯」：ㄎㄨㄥˇ    ㄗㄨㄥˇ",
+    "text": "本試題包括：國文寫作 1 篇(70 分)，須用藍、黑色鋼筆或原子筆在答案卷指定範圍內\n   注     作答；國文單選題 15 題(共 30 分)及英文單選題 40 題(共 100 分)，須用 2B 鉛筆在答\n   意     案卡作答。於本試題或其他紙張作答者不予計分；答案卷作答區計有正反 2 面，不提\n         供額外之答案卷。\n   事",
     "options": [],
     "answer": "1"
   },
   {
     "number": "4",
-    "text": "「視其所以，觀其所由，察其所安，人焉廋哉」意指？\n       (A)交朋友之法  (B)行事有本末先後 (C)察人善惡之方        (D)辨明才能高低之道",
+    "text": "單選題請就各題選項中選出最適當者為答案，各題答對者得該題所配分數，答錯或畫\n   項     記多於一個選項者，倒扣該題所配分數 3 分之 1，英文科倒扣計至該科之實得分數為零\n         為止，國文科倒扣計至單選題部分(30 分)為零為止；未作答者，不給分亦不扣分。",
     "options": [],
     "answer": "3"
   },
   {
     "number": "5",
-    "text": "下列選項，何者不是「同義詞」？\n       (A)抱薪救火／杯水車薪            (B)揚湯止沸／釜底抽薪\n       (C)芒刺在背／如坐針氈            (D)篳路藍縷／披荊斬棘",
+    "text": "本試題採雙面印刷，請注意正、背面試題。",
     "options": [],
     "answer": "1"
   },
   {
     "number": "6",
-    "text": "李煜 虞美人：「雕欄玉砌應猶在，只是朱顏改。」意指：\n       (A)年華老去，莫可奈何        (B)佳人遠離，思念情切\n       (C)景物依舊，人事全非        (D)身世飄零，孤苦無依",
+    "text": "考試結束前離場者，試題須隨答案卷(卡)繳回，俟本節考試結束後，始得至原試場索取。\n\n  壹、國文：100%\n  一、寫作：70%【請在『答案卷』上作答，必須抄題】\n\n       題目： 成長\n       文言白話不拘，但段落要分明。\n  二、單選題：30% 【15題，每題 2分，共 30分；請在『答案卡』題號 1~15畫記作答。】\n\n[D]",
     "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "使用「題辭」，必須考量相應的社交場合，下列何者不適用於教育界或教育人士的題辭？",
+    "options": [
+      "化洽菁莪",
+      "斗山望重",
+      "敷教明倫",
+      "喜得寧馨\n[B]"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "下列選項，完全沒有錯別字的文句是？",
+    "options": [
+      "人類與大自然習習相關，一味竭澤而漁只會遺害後代",
+      "星空下綻放著美麗的煙火，絢爛的色彩、聲光令人目不暇給",
+      "他是一位滿懷抱負的青年，將來必定大有作為，大家都視目以待",
+      "所有暑期夏令營活動都已準備就序，卻被即將到來的颱風擾亂了\n[A]"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "下列注音，何者有誤？",
+    "options": [
+      "「荏苒」：ㄖㄣˋ ㄖㄢˇ",
+      "「錙銖」：ㄗ ㄓㄨ",
+      "「渾沌」：ㄏㄨㄣˋ ㄉㄨㄣˋ",
+      "「倥傯」：ㄎㄨㄥˇ    ㄗㄨㄥˇ\n[C]"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "「視其所以，觀其所由，察其所安，人焉廋哉」意指？",
+    "options": [
+      "交朋友之法",
+      "行事有本末先後",
+      "察人善惡之方",
+      "辨明才能高低之道\n[A]"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "5",
+    "text": "下列選項，何者不是「同義詞」？",
+    "options": [
+      "抱薪救火／杯水車薪",
+      "揚湯止沸／釜底抽薪",
+      "芒刺在背／如坐針氈",
+      "篳路藍縷／披荊斬棘\n[C]"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "李煜 虞美人：「雕欄玉砌應猶在，只是朱顏改。」意指：",
+    "options": [
+      "年華老去，莫可奈何",
+      "佳人遠離，思念情切",
+      "景物依舊，人事全非",
+      "身世飄零，孤苦無依\n[C]"
+    ],
     "answer": "3"
   },
   {
     "number": "7",
-    "text": "下列選項，何者最具有「山重水複疑無路，柳暗花明又一村」的感覺？\n       (A)忽逢桃花林，夾岸數百步，中無雜樹，芳草鮮美，落英繽紛\n       (B)便得一山，山有小口，彷彿若有光\n       (C)初極狹，纔通人；復行數十步，豁然開朗。土地平曠，屋舍儼然\n       (D)太守即遣人隨其往，尋向所誌，遂迷不復得路\n                   共同科目(國文、英文) 第 1 頁，共 4 頁          【請翻頁繼續作答】",
-    "options": [],
+    "text": "下列選項，何者最具有「山重水複疑無路，柳暗花明又一村」的感覺？",
+    "options": [
+      "忽逢桃花林，夾岸數百步，中無雜樹，芳草鮮美，落英繽紛",
+      "便得一山，山有小口，彷彿若有光",
+      "初極狹，纔通人；復行數十步，豁然開朗。土地平曠，屋舍儼然",
+      "太守即遣人隨其往，尋向所誌，遂迷不復得路\n                   共同科目(國文、英文) 第 1 頁，共 4 頁          【請翻頁繼續作答】\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "8",
-    "text": "詩經中有不少詞語和典故，下列引自詩經的語彙中，何者正確？\n       (A)「弄璋」：生女的代稱      (B)「夢熊」：生男的代稱\n       (C)「棠棣」：養子的代稱      (D)「螟蛉」：兄弟的代稱",
-    "options": [],
+    "text": "詩經中有不少詞語和典故，下列引自詩經的語彙中，何者正確？",
+    "options": [
+      "「弄璋」：生女的代稱",
+      "「夢熊」：生男的代稱",
+      "「棠棣」：養子的代稱",
+      "「螟蛉」：兄弟的代稱\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "9",
-    "text": "下列皆是形容死亡的成語，哀悼的對象，何者正確？\n       (A)覆醢之痛－知己 (B)絕絃之痛－學生 (C)折翼之痛－兄弟                                         (D)失怙之痛－母親",
-    "options": [],
+    "text": "下列皆是形容死亡的成語，哀悼的對象，何者正確？",
+    "options": [
+      "覆醢之痛－知己",
+      "絕絃之痛－學生",
+      "折翼之痛－兄弟",
+      "失怙之痛－母親\n[C]"
+    ],
     "answer": "3"
   },
   {
     "number": "10",
-    "text": "論語 為政：「君子不器。」意指：\n        (A)君子不像器皿能容納多物，而是終身堅守一個目標\n        (B)君子不像器皿易遭損壞，而是永存於天地之間\n        (C)君子不像器皿只有一定的用途，而當通達眾務，不偏於材\n        (D)君子以仁存心，以禮行之，不像器皿呆滯無生命",
-    "options": [],
+    "text": "論語 為政：「君子不器。」意指：",
+    "options": [
+      "君子不像器皿能容納多物，而是終身堅守一個目標",
+      "君子不像器皿易遭損壞，而是永存於天地之間",
+      "君子不像器皿只有一定的用途，而當通達眾務，不偏於材",
+      "君子以仁存心，以禮行之，不像器皿呆滯無生命\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "11",
-    "text": "下列「」內的字，讀音相同的是？\n        (A)兼「葭」蒼蒼／名聞「遐」邇                                 (B)言簡意「賅」／「垓」下之圍\n        (C)羽扇「綸」巾／為國「掄」才                                 (D)檣「傾」楫摧／「頃」刻之間",
-    "options": [],
+    "text": "下列「」內的字，讀音相同的是？",
+    "options": [
+      "兼「葭」蒼蒼／名聞「遐」邇",
+      "言簡意「賅」／「垓」下之圍",
+      "羽扇「綸」巾／為國「掄」才",
+      "檣「傾」楫摧／「頃」刻之間\n[D]"
+    ],
     "answer": "2"
   },
   {
     "number": "12",
-    "text": "「發□忘食、□步自封、出□不意」，左列空格應填的字依序是：\n        (A)奮、故、奇  (B)奮、固、其 (C)憤、固、奇  (D)憤、故、其",
-    "options": [],
+    "text": "「發□忘食、□步自封、出□不意」，左列空格應填的字依序是：",
+    "options": [
+      "奮、故、奇",
+      "奮、固、其",
+      "憤、固、奇",
+      "憤、故、其\n[B]"
+    ],
     "answer": "4"
   },
   {
     "number": "13",
-    "text": "下列的稱呼，何者不洽當？\n        (A)稱已逝的母親－先妣                                     (B)尊稱他人的兄弟－賢喬梓\n        (C)稱已逝的妻子－先室                                     (D)稱他人的兒子－令郎",
-    "options": [],
+    "text": "下列的稱呼，何者不洽當？",
+    "options": [
+      "稱已逝的母親－先妣",
+      "尊稱他人的兄弟－賢喬梓",
+      "稱已逝的妻子－先室",
+      "稱他人的兒子－令郎\n[D]"
+    ],
     "answer": "2"
   },
   {
     "number": "14",
-    "text": "「□□要價，就地還錢」，缺空的字彙是？\n        (A)謾天     (B)滿天     (C)瞞天                                               (D)漫天",
-    "options": [],
+    "text": "「□□要價，就地還錢」，缺空的字彙是？",
+    "options": [
+      "謾天",
+      "滿天",
+      "瞞天",
+      "漫天\n[D]"
+    ],
     "answer": "4"
   },
   {
     "number": "15",
-    "text": "「□窗高臥：比喻悠閒自得；□面稱王：指自立為王；馬耳□風：比喻充耳不聞、無動於衷\n        ；日薄□山：比喻人將老死或事物即將衰亡」，缺空的字依序是：\n        (A)東、南、西、北 (B)南、北、東、西 (C)北、南、西、東 (D)北、南、東、西\n\n\n    貳、英文：100%\n     【單選題： 40 題，每題 2.5 分，共 100 分；請在『答案卡』題號 16~55 畫記作答。】",
-    "options": [],
+    "text": "「□窗高臥：比喻悠閒自得；□面稱王：指自立為王；馬耳□風：比喻充耳不聞、無動於衷\n        ；日薄□山：比喻人將老死或事物即將衰亡」，缺空的字依序是：",
+    "options": [
+      "東、南、西、北",
+      "南、北、東、西",
+      "北、南、西、東",
+      "北、南、東、西\n\n\n    貳、英文：100%\n     【單選題： 40 題，每題"
+    ],
     "answer": "4"
   },
   {
-    "number": "16",
-    "text": "The final stage of preparation involves ___ the paint onto the steel.\n        (A) bake                (B) bakes               (C) baking              (D) baked",
+    "number": "2",
+    "text": "5 分，共 100 分；請在『答案卡』題號 16~55 畫記作答。】\n\n[C]",
     "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "The final stage of preparation involves ___ the paint onto the steel.",
+    "options": [
+      "bake",
+      "bakes",
+      "baking",
+      "baked\n[A]"
+    ],
     "answer": "3"
   },
   {
     "number": "17",
-    "text": "I think she should ___ the presentation.\n        (A) enjoy               (B) enjoys               (C) enjoying           (D) enjoyed",
-    "options": [],
+    "text": "I think she should ___ the presentation.",
+    "options": [
+      "enjoy",
+      "enjoys",
+      "enjoying",
+      "enjoyed\n[C]"
+    ],
     "answer": "1"
   },
   {
     "number": "18",
-    "text": "Sandra is participating ___ Saturday’s activity.\n        (A) of                   (B) to                  (C) in                 (D) too",
-    "options": [],
+    "text": "Sandra is participating ___ Saturday’s activity.",
+    "options": [
+      "of",
+      "to",
+      "in",
+      "too\n[D]"
+    ],
     "answer": "3"
   },
   {
     "number": "19",
-    "text": "New procedures are needed ___ pollution.\n        (A) control           (B) controls               (C) controlling        (D) to control",
-    "options": [],
+    "text": "New procedures are needed ___ pollution.",
+    "options": [
+      "control",
+      "controls",
+      "controlling",
+      "to control\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "20",
-    "text": "The investments pay him monthly ___.\n        (A) interest          (B) interests              (C) interesting        (D) interested",
-    "options": [],
+    "text": "The investments pay him monthly ___.",
+    "options": [
+      "interest",
+      "interests",
+      "interesting",
+      "interested\n[A]"
+    ],
     "answer": "1"
   },
   {
     "number": "21",
-    "text": "They don’t have ___ much, ___.\n        (A) too; either      (B) too; neither            (C) to; either         (D) to; neither",
-    "options": [],
+    "text": "They don’t have ___ much, ___.",
+    "options": [
+      "too; either",
+      "too; neither",
+      "to; either",
+      "to; neither\n[D]"
+    ],
     "answer": "1"
   },
   {
     "number": "22",
-    "text": "She often wishes she ___ wealthier.\n        (A) is                 (B) are                   (C) was                (D) were\n\n\n                                    共同科目(國文、英文) 第 2 頁，共 4 頁",
-    "options": [],
+    "text": "She often wishes she ___ wealthier.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were\n\n\n                                    共同科目(國文、英文) 第 2 頁，共 4 頁\n[C]"
+    ],
     "answer": "4"
   },
   {
     "number": "23",
-    "text": "The local population felt that we were overly ___ of their concerns.\n        (A) dismiss             (B) dismissing          (C) dismissive          (D) dismissed",
-    "options": [],
+    "text": "The local population felt that we were overly ___ of their concerns.",
+    "options": [
+      "dismiss",
+      "dismissing",
+      "dismissive",
+      "dismissed\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "24",
-    "text": "Janet ___ by the job and asked for more information.\n        (A) had intrigued       (B) was intrigued     (C) had to intrigue       (D) was intriguing",
-    "options": [],
+    "text": "Janet ___ by the job and asked for more information.",
+    "options": [
+      "had intrigued",
+      "was intrigued",
+      "had to intrigue",
+      "was intriguing\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "25",
-    "text": "The company needs to work out an alternative ___ arrangement with its creditors.\n        (A) finance          (B) finances             (C) financial          (D) financed",
-    "options": [],
+    "text": "The company needs to work out an alternative ___ arrangement with its creditors.",
+    "options": [
+      "finance",
+      "finances",
+      "financial",
+      "financed\n[D]"
+    ],
     "answer": "3"
   },
   {
     "number": "26",
-    "text": "If I knew of a contractor, I ___ one to you.\n        (A) recommends           (B) is recommending    (C) had recommended (D) would recommend",
-    "options": [],
+    "text": "If I knew of a contractor, I ___ one to you.",
+    "options": [
+      "recommends",
+      "is recommending",
+      "had recommended",
+      "would recommend\n[D]"
+    ],
     "answer": "4"
   },
   {
     "number": "27",
-    "text": "___ bags belong to ___.\n        (A) That; they         (B) That; them           (C) Those; there        (D) Those; them",
-    "options": [],
+    "text": "___ bags belong to ___.",
+    "options": [
+      "That; they",
+      "That; them",
+      "Those; there",
+      "Those; them\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "28",
-    "text": "These paintings must be carefully guarded because they are ___ works of art.\n        (A) priceless          (B) to price           (C) pricing            (D) priced",
-    "options": [],
+    "text": "These paintings must be carefully guarded because they are ___ works of art.",
+    "options": [
+      "priceless",
+      "to price",
+      "pricing",
+      "priced\n[C]"
+    ],
     "answer": "1"
   },
   {
     "number": "29",
-    "text": "The area is known ___ its cactus products.\n        (A) in                 (B) of                   (C) for                 (D) our",
-    "options": [],
+    "text": "The area is known ___ its cactus products.",
+    "options": [
+      "in",
+      "of",
+      "for",
+      "our\n[D]"
+    ],
     "answer": "3"
   },
   {
     "number": "30",
-    "text": "The research is well ___ in the academic community.\n        (A) respects            (B) respectful       (C) respecting             (D) respected",
-    "options": [],
+    "text": "The research is well ___ in the academic community.",
+    "options": [
+      "respects",
+      "respectful",
+      "respecting",
+      "respected\n[C]"
+    ],
     "answer": "4"
   },
   {
     "number": "31",
-    "text": "If we don’t stop ___, we will never meet the deadline.\n        (A) procrastinate       (B) procrastinator      (C) procrastinating     (D) procrastinates",
-    "options": [],
+    "text": "If we don’t stop ___, we will never meet the deadline.",
+    "options": [
+      "procrastinate",
+      "procrastinator",
+      "procrastinating",
+      "procrastinates\n[A]"
+    ],
     "answer": "3"
   },
   {
     "number": "32",
-    "text": "The ___ could have been prevented if the correct safety procedures were followed.\n        (A) blaze             (B) blazes               (C) blazing            (D) blazed",
-    "options": [],
+    "text": "The ___ could have been prevented if the correct safety procedures were followed.",
+    "options": [
+      "blaze",
+      "blazes",
+      "blazing",
+      "blazed\n[A]"
+    ],
     "answer": "1"
   },
   {
     "number": "33",
-    "text": "The nicest scenic area is ___ the reservoir.\n        (A) at                   (B) on                 (C) in                  (D) of",
-    "options": [],
+    "text": "The nicest scenic area is ___ the reservoir.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "of\n[D]"
+    ],
     "answer": "1"
   },
   {
     "number": "34",
-    "text": "The government’s new ___ plan is designed to increase industrial output and raise incomes.\n        (A) awful            (B) plastic              (C) floating            (D) economic",
-    "options": [],
+    "text": "The government’s new ___ plan is designed to increase industrial output and raise incomes.",
+    "options": [
+      "awful",
+      "plastic",
+      "floating",
+      "economic\n[D]"
+    ],
     "answer": "4"
   },
   {
     "number": "35",
-    "text": "Since setting up a task force, the issue ___.\n        (A) can resolve          (B) is resolving       (C) was resolved        (D) has been resolved",
-    "options": [],
+    "text": "Since setting up a task force, the issue ___.",
+    "options": [
+      "can resolve",
+      "is resolving",
+      "was resolved",
+      "has been resolved\n[B]"
+    ],
     "answer": "4"
   },
   {
     "number": "36",
-    "text": "During peak periods, we experience a surge in ___.\n        (A) area              (B) volume               (C) height               (D) weight",
-    "options": [],
+    "text": "During peak periods, we experience a surge in ___.",
+    "options": [
+      "area",
+      "volume",
+      "height",
+      "weight\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "37",
-    "text": "The new facility is intended to provide employment for local ___.\n        (A) speakers             (B) buffaloes         (C) villagers            (D) interviews",
-    "options": [],
+    "text": "The new facility is intended to provide employment for local ___.",
+    "options": [
+      "speakers",
+      "buffaloes",
+      "villagers",
+      "interviews\n[C]"
+    ],
     "answer": "3"
   },
   {
     "number": "38",
-    "text": "Despite his extensive ___, Paul lacked vital skills.\n        (A) collar              (B) college              (C) education          (D) entertainment",
-    "options": [],
+    "text": "Despite his extensive ___, Paul lacked vital skills.",
+    "options": [
+      "collar",
+      "college",
+      "education",
+      "entertainment\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "39",
-    "text": "Using ___ will help you avoid embarrassing spills at business lunches.\n        (A) customs            (B) napkins            (C) museums              (D) relatives",
-    "options": [],
+    "text": "Using ___ will help you avoid embarrassing spills at business lunches.",
+    "options": [
+      "customs",
+      "napkins",
+      "museums",
+      "relatives\n[B]"
+    ],
     "answer": "2"
   },
   {
     "number": "40",
-    "text": "Sandy is a ___ competitor. She always wants to win.\n        (A) mad                (B) born               (C) fast                  (D) dry",
-    "options": [],
+    "text": "Sandy is a ___ competitor. She always wants to win.",
+    "options": [
+      "mad",
+      "born",
+      "fast",
+      "dry\n[D]"
+    ],
     "answer": "2"
   },
   {
     "number": "41",
-    "text": "Tania is working her way up the corporate ___.\n        (A) theater            (B) heater              (C) raider               (D) ladder",
-    "options": [],
+    "text": "Tania is working her way up the corporate ___.",
+    "options": [
+      "theater",
+      "heater",
+      "raider",
+      "ladder\n[B]"
+    ],
     "answer": "4"
   },
   {
     "number": "42",
-    "text": "I believe he is having a(n) ___ reaction to the peanuts. Please call 119.\n        (A) personal             (B) allergic             (C) nervous             (D) confused",
+    "text": "I believe he is having a(n) ___ reaction to the peanuts. Please call",
     "options": [],
     "answer": "2"
   },
   {
     "number": "43",
-    "text": "I’d love another ___ of that pie.\n        (A) fraction            (B) whole               (C) slice               (D) part",
-    "options": [],
+    "text": "I’d love another ___ of that pie.",
+    "options": [
+      "fraction",
+      "whole",
+      "slice",
+      "part\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "44",
-    "text": "We will need to ___ the system, but then everything should work well.\n        (A) solo               (B) tweak               (C) count              (D) busk\n                                    共同科目(國文、英文) 第 3 頁，共 4 頁                                      【請翻頁繼續作答】",
-    "options": [],
+    "text": "We will need to ___ the system, but then everything should work well.",
+    "options": [
+      "solo",
+      "tweak",
+      "count",
+      "busk\n                                    共同科目(國文、英文) 第 3 頁，共 4 頁                                      【請翻頁繼續作答】\n[B]"
+    ],
     "answer": "2"
   },
   {
     "number": "45",
-    "text": "The small ___ was damaged by the waves.\n        (A) fate             (B) craft                    (C) fee              (D) digit",
-    "options": [],
+    "text": "The small ___ was damaged by the waves.",
+    "options": [
+      "fate",
+      "craft",
+      "fee",
+      "digit\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "46",
-    "text": "This examination will be ___ of several sections.\n        (A) inquired           (B) revolved            (C) comprised           (D) verbalized",
-    "options": [],
+    "text": "This examination will be ___ of several sections.",
+    "options": [
+      "inquired",
+      "revolved",
+      "comprised",
+      "verbalized\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "47",
-    "text": "These slippery tiles are a serious ___ to the public when it rains.\n        (A) allure               (B) hazard              (C) reptile           (D) momentum",
-    "options": [],
+    "text": "These slippery tiles are a serious ___ to the public when it rains.",
+    "options": [
+      "allure",
+      "hazard",
+      "reptile",
+      "momentum\n[C]"
+    ],
     "answer": "2"
   },
   {
     "number": "48",
-    "text": "In our ___ to become efficient, we cannot rush to conclusions.\n        (A) cone               (B) audio                (C) quest              (D) errand",
-    "options": [],
+    "text": "In our ___ to become efficient, we cannot rush to conclusions.",
+    "options": [
+      "cone",
+      "audio",
+      "quest",
+      "errand\n[B]"
+    ],
     "answer": "3"
   },
   {
     "number": "49",
-    "text": "Many customers are ___ of that company’s poor customer service.\n        (A) urban            (B) critical           (C) offensive              (D) shocking",
-    "options": [],
+    "text": "Many customers are ___ of that company’s poor customer service.",
+    "options": [
+      "urban",
+      "critical",
+      "offensive",
+      "shocking\n[B]"
+    ],
     "answer": "2"
   },
   {
     "number": "50",
-    "text": "Many businesses have been ___ jobs to countries with lower labor costs.\n        (A) intervening       (B) outsourcing         (C) networking          (D) automating",
-    "options": [],
+    "text": "Many businesses have been ___ jobs to countries with lower labor costs.",
+    "options": [
+      "intervening",
+      "outsourcing",
+      "networking",
+      "automating\n[D]"
+    ],
     "answer": "2"
   },
   {
     "number": "51",
-    "text": "We should be careful to avoid ___ that may cause offense.\n        (A) person             (B) search             (C) capital              (D) behavior",
-    "options": [],
+    "text": "We should be careful to avoid ___ that may cause offense.",
+    "options": [
+      "person",
+      "search",
+      "capital",
+      "behavior\n\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "52",
-    "text": "Ben’s ___ in information systems might be useful in his new job.\n        (A) expertise          (B) comedian           (C) transportation       (D) plateau",
-    "options": [],
+    "text": "Ben’s ___ in information systems might be useful in his new job.",
+    "options": [
+      "expertise",
+      "comedian",
+      "transportation",
+      "plateau\n[D]"
+    ],
     "answer": "1"
   },
   {
     "number": "53",
-    "text": "The ___ of all ten countries will need to approve of the deal.\n        (A) reservations        (B) strangers           (C) stadiums           (D) parliaments",
-    "options": [],
+    "text": "The ___ of all ten countries will need to approve of the deal.",
+    "options": [
+      "reservations",
+      "strangers",
+      "stadiums",
+      "parliaments\n[A]"
+    ],
     "answer": "4"
   },
   {
     "number": "54",
-    "text": "I wrote three tests and completed an interview before being ___.\n        (A) selected             (B) rhymed             (C) gossiped           (D) cradled",
-    "options": [],
+    "text": "I wrote three tests and completed an interview before being ___.",
+    "options": [
+      "selected",
+      "rhymed",
+      "gossiped",
+      "cradled\n[B]"
+    ],
     "answer": "1"
   },
   {
     "number": "55",
-    "text": "It took three rounds of ___ to come up with a contract.\n        (A) surroundings         (B) negotiations       (C) responsibilities   (D) loudspeakers\n\n\n\n\n                                    共同科目(國文、英文) 第 4 頁，共 4 頁",
-    "options": [],
+    "text": "It took three rounds of ___ to come up with a contract.",
+    "options": [
+      "surroundings",
+      "negotiations",
+      "responsibilities",
+      "loudspeakers\n\n\n\n\n                                    共同科目(國文、英文) 第 4 頁，共 4 頁"
+    ],
     "answer": "2"
   }
 ]

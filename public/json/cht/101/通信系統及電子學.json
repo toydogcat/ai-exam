@@ -1,365 +1,188 @@
 [
   {
-    "number": "17",
-    "text": "若使用 CRC(cyclic redundancy check)編碼的方式來傳送一二位元序列 1101011，其生成多項式為 x4+x3+1，則\n        中華電信股份有限公司 101 年從業人員(基層專員)遴選甄試試題                                                           經 CRC 編碼後其傳送之序列為何？\n遴選類別【代碼】 ：工務類專業職(三)專員【C1501】                                                                       • 11010110000         ‚ 11010110111      ƒ 11010111010 „ 11010111101\n專業科目：",
-    "options": [
-      "通信系統、",
-      "電子學"
-    ],
-    "answer": "3"
-  },
-  {
-    "number": "18",
-    "text": "假設有 12 組不同的訊號，每一個訊號的頻寬都是 10KHz，若要將這些信號用 TDM 和 PAM 的方式多工調變\n                                                       ＊請填寫入場通知書編號： _______________                (multiplexing and modulation)並以傳輸線來傳送，其所需之最小頻寬為何？\n注意：•作答前須檢查答案卡(卷)、入場通知書編號、桌角號碼、應試類別是否相符，如有不同應立即請                                                    • 60KHz                     ‚ 120KHz    ƒ 240KHz  „ 480KHz\n    監試人員處理，否則不予計分。",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "19",
-    "text": "下列之類比調變技術中，何者有最佳的功率使用效率(power efficiency)？\n   ‚本試卷為一張雙面，測驗題型分為【四選一單選選擇題 60 題，每題配分 1 分】與【非選擇題 4                                                • DSB-SC      ‚ SSB-SC   ƒ VSB                 „ FM\n    題，每題配分 10 分】。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "20",
-    "text": "如果僅考慮 AWGN 通道的影響，下列何種調變技術在相同的 SNR 情形下，其符元錯誤率(probability of symbol\n   ƒ選擇題限用 2B 鉛筆於答案卡上作答，請選出最適當答案，答錯不倒扣；未作答者，不予計分。\n   „非選擇題限用藍、黑色鋼筆或原子筆於答案卷上採橫式作答，不必抄題但須標示題號，並請從答                                                     error)最低？\n    案卷內第一頁開始書寫，違反者該科酌予扣分。                                                                          • 2-FSK         ‚ 4-FSK    ƒ 8-FSK       „ 16-FSK\n   …請勿於答案卡(卷)上書寫姓名、編號或其他不應有的文字、標記、符號等，違反者該科以零分計算。",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "21",
-    "text": "802.11 於 1997 年發表，下列何者非其所規範之實體層的使用傳輸技術？\n   †應考人得自備簡易型電子計算器，但不得發出聲響，且不具財務、工程及儲存程式功能。應考人                                                     • OFDM                ‚ DSSS     ƒ FHSS     „ Infrared\n    於測驗時將不符規定之電子計算器放置於桌面或使用，經勸阻無效，仍執意使用者，該科扣 10",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "22",
-    "text": "ATM 傳送方式是利用細胞(cell) ，下列何者非 ATM 的傳輸優點？\n    分；該電子計算器並由監試人員保管至該節測驗結束後歸還。\n   ‡答案卡(卷)務必繳回，未繳回者該科以零分計算。                                                                        •寡占式頻寬          ‚支援多種傳輸速率        ƒ非固定式長度細胞                „支援多種傳輸媒介",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "23",
-    "text": "資料以分封交換方式來傳送時，系統可以採用 Datagram（資料元）及下列何種方式來傳送？\n第 1 部份：四選一單選選擇題 60 題（每題 1 分）                                                                       •細胞繼送(Cell Relay)        ‚訊框繼送(Frame Relay)",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "在交換網路中，下列何項通訊協定可以設定 VLAN，讓 overhead 傳送到相同 domain 的所有 Switch 上？                                ƒ電路交換(Circuit-Switching) „虛擬電路(Virtual Circuit)\n • FTP         ‚ VTP       ƒ ISDN           „ STP",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "24",
-    "text": "當以市內電話撥打至手機時，這通電話的訊息會先透過公眾交換電話網路，傳送到某一裝置，然後此裝置再",
+    "number": "2",
+    "text": "50 ~",
     "options": [],
     "answer": "2"
   },
   {
     "number": "2",
-    "text": "下列何者屬於內部路由協定(interior routing protocol)的範疇？(a) RIP     (b) BGP (c) OSPF (d) IGRP              將這通電話轉到基地台，基地台再透過一個無線頻道將訊號傳到手機。請問此裝置為何？\n • (a)(b)(c)   ‚ (a)(c)(d)              ƒ (a)(b)(d)            „ (b)(c)(d)                         • BSC         ‚ MSC     ƒ MTP      „ NOC",
+    "text": "69 GHz ‚",
     "options": [],
     "answer": "2"
   },
   {
     "number": "3",
-    "text": "在下列常見的錯誤檢查方式中，何者同時具偵測錯誤和更正錯誤之功能？(a)同位位元檢查                                    (b)漢明碼   (c)",
+    "text": "4 ~3.7 GHz ƒ",
     "options": [],
     "answer": "4"
-  },
-  {
-    "number": "25",
-    "text": "下列何項網路設備可以用來分割子網路？\n ECC (d) CRC                                                                                       • Repeater    ‚ L2 Switch              ƒ L3 Switch        „ Router\n • (b)(d)     ‚ (a)(c)   ƒ (a)(b)   „ (b)(c)",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "26",
-    "text": "下列哪一個頻段不是 GSM 系統使用的頻率？",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "下列何者不屬 4G LTE 相關技術？                                                                           • 900MHz       ‚ 1800MHz   ƒ 1900MHz                      „ 2400MHz\n • HSPA           ‚ OFDMA               ƒ MIMO                „ All-IP networks",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "27",
-    "text": "下列何種調變與編碼率的組合能傳送的實質資料量最大？",
-    "options": [],
-    "answer": "3"
   },
   {
     "number": "5",
-    "text": "假設 A 公司申請到 168.95.0.0/20 位址。請問其共可切割多少個 Subnets（假設每一 Subnet 需要 30 個 IP）？                       • QPSK 1/2 碼率 ‚ 16QAM 2/3 碼率 ƒ 16QAM 3/4 碼率               „ 64QAM 1/3 碼率\n • 64             ‚ 128             ƒ 192           „ 256",
+    "text": "15 ~",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "28",
-    "text": "下列何種通訊系統使用 OFDM 的技術？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "6",
-    "text": "以傳送單一訊息的頻寬來傳送兩種訊號，這種技術屬於何種調變？                                                                 • Bluetooth   ‚ GSM                    ƒ IEEE 802.11a     „ IEEE 802.11b\n • FM          ‚ BPSK     ƒ QAM                               „ GMSK",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "29",
-    "text": "GSM 系統是使用何種調變技術？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "7",
-    "text": "請問 IPSec 通訊協定是由何種協定組成？(a) IP (b) AH (c) SSL         (d) ESP                                   • ASK           ‚ BPSK                 ƒ GMSK             „ 64QAM\n •僅(a)(b)          ‚僅(b)(d)      ƒ僅(c)(d)                      „ (a)(b)(d)",
+    "number": "5",
+    "text": "35 GHz „",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "30",
-    "text": "請問 60~108 KHz 的頻帶若使用 FDM 系統的架構，可分出幾個 4KHz 頻寬的通道？",
+    "number": "5",
+    "text": "725 ~",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "8",
-    "text": "下列何者不屬於三階編碼？                                                                                  •6                  ‚ 12         ƒ 18          „ 24\n • B8ZS        ‚ Bipolar-AMI            ƒ Manchester          „ MLT-3",
+    "number": "5",
+    "text": "735 GHz                            •",
     "options": [],
-    "answer": "3"
+    "answer": "2"
   },
   {
-    "number": "31",
-    "text": "如【圖 31】所示之二極體截波器(clipper)，若輸入電壓 vi 為一振福±10 V 的三角波，VB = 5 V，而二極體的導",
+    "number": "4",
+    "text": "3 V                                            R           +\n【3】10.在光纖線路中分為多模態與單模態，其中多模態光纖比單模態光纖傳輸能力差，是因為：                                                      ‚",
     "options": [],
     "answer": "1"
   },
   {
-    "number": "9",
-    "text": "在 WiMAX 中分執照頻段和非執照頻段，下列何者為國際 FWA(Fixed Wireless Access)頻段所使用？                                 通電壓為 0.7 V，則輸出電壓 vo 的最小值約為何？\n • 2.50 ~ 2.69 GHz ‚ 3.4 ~3.7 GHz ƒ 5.15 ~ 5.35 GHz „ 5.725 ~ 5.735 GHz                            • 4.3 V                                            R           +",
+    "number": "5",
+    "text": "7 V\n                                                                                                                                      【圖 31】 vi + −               vo\n  •光子吸收         ‚折射率不同     ƒ模態色散     „散射                                                           ƒ -5.7 V                                             VB +\n                                                                                                   „ -9.3 V                                                       −\n【2】11.下列的調變方式中，何種是屬於等峰值(constant envelope)的調變方式？                                                                                                           −\n  • ASK         ‚ MSK           ƒ QPSK           „ 16QAM\n【2】12.下列何種通訊系統不是使用在",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "10",
-    "text": "在光纖線路中分為多模態與單模態，其中多模態光纖比單模態光纖傳輸能力差，是因為：                                                      ‚ 5.7 V\n                                                                                                                                      【圖 31】 vi + −               vo\n  •光子吸收         ‚折射率不同     ƒ模態色散     „散射                                                           ƒ -5.7 V                                             VB +\n                                                                                                   „ -9.3 V                                                       −",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "11",
-    "text": "下列的調變方式中，何種是屬於等峰值(constant envelope)的調變方式？                                                                                                           −\n  • ASK         ‚ MSK           ƒ QPSK           „ 16QAM",
+    "number": "2",
+    "text": "4GHz 頻帶？                                                                   【2】32.在考慮歐利效應(Early effect)的 BJT 混合 p 型(hybrid- p)等效電路中，假設熱電壓(thermal voltage)與歐利電壓\n  • Bluetooth   ‚ IEEE",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "12",
-    "text": "下列何種通訊系統不是使用在 2.4GHz 頻帶？",
+    "number": "1",
+    "text": "5                 ‚2                      ƒ3           „ 10                                【4】34.一單級差分放大器(difference amplifier)在某一頻率的差模(differential-mode)增益為 20 dB、共模(common-mode)\n【2】15. (7, 4)Hamming code 最多可改正幾個位元的錯誤？                                                            增益為-10 dB，其在該頻率之共模拒斥比(common-mode rejection ratio, CMRR)為何？\n  •0                       ‚1         ƒ2                      „3                                   • -200 dB        ‚ -2 dB              ƒ 10 dB              „ 30 dB\n【4】16.若一接收機希望收到的信號頻率為 18MHz，其所使用的本地振盪器頻率為",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "32",
-    "text": "在考慮歐利效應(Early effect)的 BJT 混合 p 型(hybrid- p)等效電路中，假設熱電壓(thermal voltage)與歐利電壓\n  • Bluetooth   ‚ IEEE 802.11a ƒ IEEE 802.11b                 „ IEEE 802.11g                       (Early voltage)分別為 25 mV 與 50 V，且已知跨導(transconductance) gm 為 50 mA/V，則輸出電阻 ro 為何？",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "13",
-    "text": "下列何種行動通訊系統不是使用展頻技術？                                                                          • 50 kO                 ‚ 40 kO          ƒ 25 kO                 „ 10 kO\n  • Bluetooth   ‚ IEEE 802.11b          ƒ WiMAX               „ WCDMA",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "33",
-    "text": "當溫度上升時，下列何項 FET 參數亦隨之上升？",
+    "number": "19",
+    "text": "6MHz，請問其鏡射頻率(image                                  【3】35.一交流電壓的基本波(fundamental) 振幅為 1 Vrms ，三次諧波(harmonic)與五次諧波分別為",
     "options": [],
     "answer": "4"
   },
   {
-    "number": "14",
-    "text": "根據 Shannon 的 information capacity theorem，在 AWGN 的通道下若要將單位頻率的資訊容量由 1 提升至 2                   •載子遷移率(mobility)                         ‚ MOSFET 的導電參數\n  bps/Hz，則在相同雜訊功率的條件下，訊號功率需提高至幾倍？                                                                  ƒ JFET 的跨導參數(transconductance parameter) „電荷載子碰撞頻率\n  • 1.5                 ‚2                      ƒ3           „ 10",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "34",
-    "text": "一單級差分放大器(difference amplifier)在某一頻率的差模(differential-mode)增益為 20 dB、共模(common-mode)",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "15",
-    "text": "(7, 4)Hamming code 最多可改正幾個位元的錯誤？                                                            增益為-10 dB，其在該頻率之共模拒斥比(common-mode rejection ratio, CMRR)為何？\n  •0                       ‚1         ƒ2                      „3                                   • -200 dB        ‚ -2 dB              ƒ 10 dB              „ 30 dB",
+    "number": "1",
+    "text": "6MHz          ‚",
     "options": [],
     "answer": "2"
   },
   {
     "number": "16",
-    "text": "若一接收機希望收到的信號頻率為 18MHz，其所使用的本地振盪器頻率為 19.6MHz，請問其鏡射頻率(image",
+    "text": "4MHz ƒ",
     "options": [],
     "answer": "4"
   },
   {
-    "number": "35",
-    "text": "一交流電壓的基本波(fundamental) 振幅為 1 Vrms ，三次諧波(harmonic)與五次諧波分別為 0.4 Vrms 與 0.3 Vrms ，\n  frequency)會產生在哪個頻率？                                                                              其總諧波失真(total harmonic distortion, THD)為何？\n  • 1.6MHz          ‚ 16.4MHz ƒ 19.6MHz „ 21.2MHz                                                  • 30 %               ‚ 40 %               ƒ 50 %      „ 70 %\n                                                                                                                                        【請接續背面】\n\f                                                                                                                                                                                                       VDD = 5 V",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "36",
-    "text": "矽半導體本質(Intrinsic)濃度 Ni=1.5×1010 原子   cm3，在密度為 5×1022 原子    cm3 中，每 108 個矽原子加入一個",
+    "number": "19",
+    "text": "6MHz „",
     "options": [],
     "answer": "4"
   },
   {
-    "number": "53",
-    "text": "如【圖 53】所示之 NMOS 電路，若 v1 接地且 v2 接 VDD = 5 V，則 vO 的準位為何？\n  硼原子，則電子濃度應為多少電子 cm3？                                                                          •低準位\n                                                                                                                                                                                                             RD\n  • 1.5×1010          ‚ 5×1022             ƒ 5×1032           „ 4.5×105                         ‚高準位\n                                                                                                                                                                                                                        vO",
+    "number": "21",
+    "text": "2MHz                                                  • 30 %               ‚ 40 %               ƒ 50 %      „ 70 %\n                                                                                                                                        【請接續背面】\n                                                                                                                                                                                                       VDD = 5 V\n【4】36.矽半導體本質(Intrinsic)濃度 Ni=1.5×1010 原子   cm3，在密度為 5×1022 原子    cm3 中，每 108 個矽原子加入一個         【1】53.如【圖 53】所示之 NMOS 電路，若 v1 接地且 v2 接 VDD = 5 V，則 vO 的準位為何？\n  硼原子，則電子濃度應為多少電子 cm3？                                                                          •低準位\n                                                                                                                                                                                                             RD\n  •",
     "options": [],
     "answer": "1"
   },
   {
-    "number": "37",
-    "text": "一半波整流電路，若輸入交流電壓為 110 伏特有效值，RL 的阻值為 4kO，求直流輸出電壓 Edc 約為多少伏特？                                ƒ無法判別\n  • 35          ‚ 49.5        ƒ 60.5         „ 70                                               „高、低準位兩者交換變化                                        【圖 53】 v1                                                      v2",
+    "number": "1",
+    "text": "5×1010          ‚ 5×1022             ƒ 5×1032           „",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "38",
-    "text": "設計一具濾波電容 C 與負載 RL 之全波整流電路，其輸入信號為 Vi=120sin(2πx60t)，要求漣波電壓 Vr 為 2 V，\n  若 RL=10kO，則濾波電容 C 至少應為多少？\n  • 50 µF          ‚ 100 µF    ƒ 150 µF         „ 200 µF",
+    "number": "4",
+    "text": "5×105                         ‚高準位\n                                                                                                                                                                                                                        vO\n【2】37.一半波整流電路，若輸入交流電壓為 110 伏特有效值，RL 的阻值為 4kO，求直流輸出電壓 Edc 約為多少伏特？                                ƒ無法判別\n  • 35          ‚",
     "options": [],
     "answer": "1"
-  },
-  {
-    "number": "54",
-    "text": "在 741 運算放大器中有一補償電容跨接於第二級的電壓放大器，下列何者不會受該補償電容之影響？",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "39",
-    "text": "某差動放大器的 CMRR 為 100dB，Ad 為 100，當共模輸入電壓為 10mV 時，其輸出電壓為何？                                    •效率              ‚單位增益頻率   ƒ穩定度       „電壓轉換率(slew rate)\n  • 1 mV         ‚ 100 µV           ƒ 10 µV       „ 1 µV",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "55",
-    "text": "有一 BJT 偏壓於順向主動區(forward-active region)，若集極(collector)電流 iC = 2 mA、基極(base)電流 iB = 20 µA，",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "40",
-    "text": "三個 MOS 元件 A、B、C， 其閘極寬度(W)與長度(L)分別為 W/L=1µm/10µm, W/L=1µm/20µm, W/L=2µm/10µm,              其共基極電流增益(common-base current gain)為何？\n  其餘條件都相同，在相同操作電壓且處於飽和區內，請比較 ID，gm (transconductance)，ro (汲極輸出電阻)和 fT (截                        • 100            ‚ 99                   ƒ 100                „ 101\n  止頻率)關係為何？                                                                                        101             100\n  • gm (A 元件) < gm (B 元件)         ‚ ro (B 元件) < ro (C 元件)",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "56",
-    "text": "矽二極體在溫度 20℃時之逆向飽和電流為 2mA，假設溫度上升至 60℃時，則逆向飽和電流變為多少？\n  ƒ fT (B 元件) < fT (C 元件)         „ ID (A 元件) < ID (B 元件)                                       • 8 mA         ‚ 16 mA      ƒ 32 mA      „ 64 mA",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "41",
-    "text": "設計一具有交換電壓為 VDD 電源電壓一半之 CMOS 反相器，假設 NMOS 與 PMOS 之臨界電壓 Vtn=|Vtp | 且具",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "57",
-    "text": "有一基本放大器，其正回授百分數 ß=0.05，若欲使其振盪，則 A v 值至少應為何？\n  有相同通道長度，而其移動率(mobility) µnmos=3µpmos，則 PMOS 與 NMOS 電晶體寬度的關係為何？                                • 100         ‚ 50          ƒ 20           „1\n  • WNMOS=3WPMOS ‚ 3WNMOS=WPMOS        ƒ WNMOS=WPMOS   „與電晶體寬度無關",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "58",
-    "text": "有一個 P 通道空乏型 MOSFET，其臨限電壓 Vt =2V，假使其源極(source)接地而閘極(gate)接至+5V，欲使此元",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "42",
-    "text": "如【圖 42】所示電路中，欲使 IZ = 5mA，則 R 值應為若干？                                                       件操作在飽和區(saturation)，則汲極(drain)之最低電壓為何？\n  • 500 O                                                                                       •7V                ‚5V             ƒ3V           „2V\n  ‚ 1 kO                              【圖 42】",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "59",
-    "text": "下列 BJT 放大器中，何者輸出阻抗最低？\n  ƒ 1.5 kO\n                                                                                                •串級共基極放大器       ‚共基極放大器                                         ƒ共射極放大器                  „共集極放大器\n  „ 2 kO",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "60",
-    "text": "下列 BJT 放大器中，何者具高電流增益，且具甚低電壓增益？",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "43",
-    "text": "在擴大機特性測試中，以 60Hz 正弦波通過一待測之擴大機，得一輸出波形 e(t)=sin377t+0.4sin754t+0.3sin1131t，\n                                                                                                •共閘極放大器         ‚共射極放大器    ƒ共集極放大器                                                       „共基極放大器\n  則此擴大機之總諧波失真百分率為若干？\n  • 50%         ‚ 41%          ƒ 27%      „ 13%                                               第 2 部份：非選擇題四大題（每大題 10 分）",
-    "options": [],
-    "answer": "1"
-  },
-  {
-    "number": "44",
-    "text": "P 通道空乏型 MOSFET 之夾止電壓 VGS(P) = 3V，且閘極電壓為 6V、源極電壓為 5V 以及汲極電壓為 0V，則                       題目一：\n  其工作於何種模式？\n  •崩潰模式             ‚夾止飽和區模式           ƒ歐姆區模式      „截止區模式                                         假設接收到的訊號 r(t)=s(t)+n(t)，其中 s(t)是傳送的訊號，而 n(t)是 AWGN (Additive White Gaussian",
-    "options": [],
-    "answer": "2"
-  },
-  {
-    "number": "45",
-    "text": "若 N 通道空乏型 MOSFET 工作於夾止飽和區，閘源極間電壓為 -2V，夾止電壓為 -5V，飽和電流 IDSS=2.5mA，                        Noise)，請找出匹配濾波器 h(t)為何？（提示：使用 Schwarz's inequality）【10 分】\n  則汲極電流約為何？                                                                                                            ∞\n                                                                                                                                                            2\n                                                                                                                                                                     ∞              ∞\n                                                                                                                   ∫                                            ≤∫       H ( f ) df ∫ S ( f ) df\n                                                                                                                                              j 2πft                           2            2\n  • 5 mA            k 3.5 mA    l 2.25 mA     m 0.9 mA                                                                     H ( f ) S ( f )e            df\n                                                                                              題目二：                  −∞                                           −∞                 −∞",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "46",
-    "text": "某 JFET 夾止電壓 VGS(P)= -4V，IDSS = 8mA，若汲極電流為 2mA，則其閘-源極間電壓 VGS 為何？\n  • 4V                k 2V                 l -1V        m -2V                                     請列出常見的五種 VPN (Virtual Private Network)協定技術，並簡要說明其特性。【10 分】",
-    "options": [],
-    "answer": "4"
-  },
-  {
-    "number": "47",
-    "text": "某差動放大器之 CMRR= 60dB，其差模訊號增益為 200，則共模訊號增益為何？                                              題目三：\n  • 10           k2            l 0.2         m 0.04\n                                                                                                   下圖【圖三】中為兩個 MOS 分壓電路，VDD=3.6 V，電晶體參數：µ nCOX=270 µA/V2 ，µ pCOX =90 µA/V2，",
-    "options": [],
-    "answer": "3"
-  },
-  {
-    "number": "48",
-    "text": "單相二極體橋式全波整流器，交流輸入電壓 vi = 20sin60π t V ，則下列敘述何者正確？\n  •直流電壓頻率為 30Hz              ‚直流電壓有效值為 14.1 V\n                                                                                              Vtn = |Vtp | = 1V，忽略 Body effect(λ=0,γ=0)，且電晶體大小為 NMOS (W/L) N =2 µm/0.6 µm，PMOS (W/L) P =\n                                                                                                                                                                        VDD\n  ƒ直流電壓平均值為 14.1 V           „二極體之逆向峰值電壓為 40 V                                                6 µm/0.6 µ m：",
-    "options": [],
-    "answer": "2"
   },
   {
     "number": "49",
-    "text": "BJT 偏壓時若基-射極接面為逆偏，而基-集極接面為順偏，則下列敘述何者正確？                                                     （一）求 I1 與 Vo 1 為何？【5 分】\n  • BJT 耐壓及增益皆提高               k BJT 耐壓及增益皆下降                                                      （二）求 I2 與 Vo 2 為何？【5 分】                              VDD\n  l BJT 耐壓提高且增益降低              m BJT 耐壓降低且增益提高\n                                                                                                                                                                                                      Vo2",
+    "text": "5        ƒ",
     "options": [],
     "answer": "2"
   },
   {
-    "number": "50",
-    "text": "一般 BJT 基極(B)、集極(C)及射極(E)之? 雜濃度大小依序為何？\n  •E>C>B            kB>C>E         lB>E>C                     mE>B>C                                                                                                     【圖三】                    I1\n                                                                                                                                                                                                       I2\n                                                                                   7",
+    "number": "60",
+    "text": "5         „ 70                                               „高、低準位兩者交換變化                                        【圖 53】 v1                                                      v2\n\n【1】38.設計一具濾波電容 C 與負載 RL 之全波整流電路，其輸入信號為 Vi=120sin(2πx60t)，要求漣波電壓 Vr 為 2 V，\n  若 RL=10kO，則濾波電容 C 至少應為多少？\n  • 50 µF          ‚ 100 µF    ƒ 150 µF         „ 200 µF\n                                                                                              【1】54.在 741 運算放大器中有一補償電容跨接於第二級的電壓放大器，下列何者不會受該補償電容之影響？\n【3】39.某差動放大器的 CMRR 為 100dB，Ad 為 100，當共模輸入電壓為 10mV 時，其輸出電壓為何？                                    •效率              ‚單位增益頻率   ƒ穩定度       „電壓轉換率(slew rate)\n  • 1 mV         ‚ 100 µV           ƒ 10 µV       „ 1 µV                                      【1】55.有一 BJT 偏壓於順向主動區(forward-active region)，若集極(collector)電流 iC = 2 mA、基極(base)電流 iB = 20 µA，\n【3】40.三個 MOS 元件 A、B、C， 其閘極寬度(W)與長度(L)分別為 W/L=1µm/10µm, W/L=1µm/20µm, W/L=2µm/10µm,              其共基極電流增益(common-base current gain)為何？\n  其餘條件都相同，在相同操作電壓且處於飽和區內，請比較 ID，gm (transconductance)，ro (汲極輸出電阻)和 fT (截                        • 100            ‚ 99                   ƒ 100                „ 101\n  止頻率)關係為何？                                                                                        101             100\n  • gm (A 元件) < gm (B 元件)         ‚ ro (B 元件) < ro (C 元件)                                     【3】56.矽二極體在溫度 20℃時之逆向飽和電流為 2mA，假設溫度上升至 60℃時，則逆向飽和電流變為多少？\n  ƒ fT (B 元件) < fT (C 元件)         „ ID (A 元件) < ID (B 元件)                                       • 8 mA         ‚ 16 mA      ƒ 32 mA      „ 64 mA\n【2】41.設計一具有交換電壓為 VDD 電源電壓一半之 CMOS 反相器，假設 NMOS 與 PMOS 之臨界電壓 Vtn=|Vtp | 且具                      【3】57.有一基本放大器，其正回授百分數 ß=0.05，若欲使其振盪，則 A v 值至少應為何？\n  有相同通道長度，而其移動率(mobility) µnmos=3µpmos，則 PMOS 與 NMOS 電晶體寬度的關係為何？                                • 100         ‚ 50          ƒ 20           „1\n  • WNMOS=3WPMOS ‚ 3WNMOS=WPMOS        ƒ WNMOS=WPMOS   „與電晶體寬度無關\n                                                                                              【3】58.有一個 P 通道空乏型 MOSFET，其臨限電壓 Vt =2V，假使其源極(source)接地而閘極(gate)接至+5V，欲使此元\n【1】42.如【圖 42】所示電路中，欲使 IZ = 5mA，則 R 值應為若干？                                                       件操作在飽和區(saturation)，則汲極(drain)之最低電壓為何？\n  • 500 O                                                                                       •7V                ‚5V             ƒ3V           „2V\n  ‚ 1 kO                              【圖 42】                                                  【4】59.下列 BJT 放大器中，何者輸出阻抗最低？\n  ƒ",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "5 kO\n                                                                                                •串級共基極放大器       ‚共基極放大器                                         ƒ共射極放大器                  „共集極放大器\n  „ 2 kO\n                                                                                              【3】60.下列 BJT 放大器中，何者具高電流增益，且具甚低電壓增益？\n【1】43.在擴大機特性測試中，以 60Hz 正弦波通過一待測之擴大機，得一輸出波形 e(t)=sin377t+0.4sin754t+0.3sin1131t，\n                                                                                                •共閘極放大器         ‚共射極放大器    ƒ共集極放大器                                                       „共基極放大器\n  則此擴大機之總諧波失真百分率為若干？\n  • 50%         ‚ 41%          ƒ 27%      „ 13%                                               第 2 部份：非選擇題四大題（每大題 10 分）\n【2】44. P 通道空乏型 MOSFET 之夾止電壓 VGS(P) = 3V，且閘極電壓為 6V、源極電壓為 5V 以及汲極電壓為 0V，則                       題目一：\n  其工作於何種模式？\n  •崩潰模式             ‚夾止飽和區模式           ƒ歐姆區模式      „截止區模式                                         假設接收到的訊號 r(t)=s(t)+n(t)，其中 s(t)是傳送的訊號，而 n(t)是 AWGN (Additive White Gaussian\n【4】45.若 N 通道空乏型 MOSFET 工作於夾止飽和區，閘源極間電壓為 -2V，夾止電壓為 -5V，飽和電流 IDSS=2.5mA，                        Noise)，請找出匹配濾波器 h(t)為何？（提示：使用 Schwarz's inequality）【10 分】\n  則汲極電流約為何？                                                                                                            ∞\n                                                                                                                                                            2\n                                                                                                                                                                     ∞              ∞\n                                                                                                                   ∫                                            ≤∫       H ( f ) df ∫ S ( f ) df\n                                                                                                                                              j 2πft                           2            2\n  • 5 mA            k",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "5 mA    l",
     "options": [],
     "answer": "4"
   },
   {
-    "number": "51",
-    "text": "在一般 BJT 電流增益的頻率響應圖中，若直流增益為 100，且已知截止頻率(cut-off frequency)為 10 rad/sec，\n  單位增益頻率(unity-gain frequency)為何？\n                                                                                                                                                                                                Vo1\n  • 105 rad/sec        ‚ 107 rad/sec ƒ 109 rad/sec „ 1011 rad/sec\n                                                                                              題目四：",
+    "number": "2",
+    "text": "25 mA     m",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "1 V\n                                                                                              Vtn = |Vtp | = 1V，忽略 Body effect(λ=0,γ=0)，且電晶體大小為 NMOS (W/L) N =2 µm/0.6 µm，PMOS (W/L) P =\n                                                                                                                                                                        VDD\n  ƒ直流電壓平均值為",
     "options": [],
     "answer": "3"
   },
   {
-    "number": "52",
-    "text": "矽(Si)的本質載子濃度(intrinsic carrier concentration)為 1.5×1010 cm- 3，在同樣的溫度下，若受體(acceptor)濃度\n                                                                                                  繪出傳統 CMOS 電路圖以實現佈林函數 Y = AB + AB ：\n  為 1.5×1015 cm- 3，熱平衡下的電子濃度約為何？\n  • 1.5×1015 cm- 3     ‚ 1.5×1010 cm- 3        ƒ 1.5×105 cm- 3       „ 1×105 cm- 3                （一）先求出 Y ，並展開。【5 分】                               (A)      (B)\n                                                                                                  （二）以 Y = Y 實現一級(one stage)CMOS 電路圖， A 、 A 、 B 、 B 為輸入。（提示：其中 Y 以第（一）\n                                                                                                     小題中展開結果代入）【5 分】",
-    "options": [],
+    "number": "14",
+    "text": "1 V           „二極體之逆向峰值電壓為 40 V                                                6 µm/0.6 µ m：\n【2】49. BJT 偏壓時若基-射極接面為逆偏，而基-集極接面為順偏，則下列敘述何者正確？                                                     （一）求 I1 與 Vo 1 為何？【5 分】\n  • BJT 耐壓及增益皆提高               k BJT 耐壓及增益皆下降                                                      （二）求 I2 與 Vo 2 為何？【5 分】                              VDD\n  l BJT 耐壓提高且增益降低              m BJT 耐壓降低且增益提高\n                                                                                                                                                                                                      Vo2\n【4】50.一般 BJT 基極",
+    "options": [
+      "、集極",
+      "及射極(E)之? 雜濃度大小依序為何？\n  •E>C>B            kB>C>E         lB>E>C                     mE>B>C                                                                                                     【圖三】                    I1\n                                                                                                                                                                                                       I2\n                                                                                   7\n【3】51.在一般 BJT 電流增益的頻率響應圖中，若直流增益為 100，且已知截止頻率(cut-off frequency)為 10 rad/sec，\n  單位增益頻率(unity-gain frequency)為何？\n                                                                                                                                                                                                Vo1\n  • 105 rad/sec        ‚ 107 rad/sec ƒ 109 rad/sec „ 1011 rad/sec\n                                                                                              題目四：\n【3】52.矽(Si)的本質載子濃度(intrinsic carrier concentration)為"
+    ],
     "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "5×1010 cm- 3，在同樣的溫度下，若受體(acceptor)濃度\n                                                                                                  繪出傳統 CMOS 電路圖以實現佈林函數 Y = AB + AB ：\n  為",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "5×1015 cm- 3，熱平衡下的電子濃度約為何？\n  •",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "5×1015 cm- 3     ‚",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "5×1010 cm- 3        ƒ",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "5×105 cm- 3       „ 1×105 cm- 3                （一）先求出 Y ，並展開。【5 分】",
+    "options": [
+      "",
+      "（二）以 Y = Y 實現一級(one stage)CMOS 電路圖， A 、 A 、 B 、 B 為輸入。（提示：其中 Y 以第（一）\n                                                                                                     小題中展開結果代入）【5 分】"
+    ],
+    "answer": "2"
   }
 ]

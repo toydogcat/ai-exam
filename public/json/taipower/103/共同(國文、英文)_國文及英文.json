@@ -1,0 +1,655 @@
+[
+  {
+    "number": "1",
+    "text": "本科目禁止使用電子計算器。",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "本試題共 4 頁(A3 紙 1 張)。",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "本試題包括：國文寫作 1 篇(70 分)，須用藍、黑色鋼筆或原子筆在答案卷指定範圍內作\n注     答；國文單選題 15 題(共 30 分)及英文單選題 40 題(共 100 分)，須用 2B 鉛筆在答案卡\n意     作答。於本試題或其他紙張作答者不予計分；答案卷作答區計有正反 2 面，不提供額外\n      之答案卷。\n事",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "單選題請就各題選項中選出最適當者為答案，各題答對者得該題所配分數，答錯或畫記\n項     多於一個選項者，倒扣該題所配分數 3 分之 1，英文科倒扣計至該科之實得分數為零為\n      止，國文科倒扣計至單選題部分(30 分)為零為止；未作答者，不給分亦不扣分。",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "本試題採雙面印刷，請注意正、背面試題。",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "考試結束前離場者，試題須隨答案卷(卡)繳回，俟該節考試結束後，始得至原試場索取。\n\n壹、國文：100%\n一、寫作：70%【請在『答案卷』上作答，必須抄題】\n\n    題目：電力與生活\n    文言白話不拘，但段落要分明。\n二、單選題：30% 【15題，每題 2分，共 30分；請在『答案卡』題號 1~15畫記作答。】",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "下列選項，屬於讚美的是：",
+    "options": [
+      "大筆如椽",
+      "買櫝還珠",
+      "羊質虎皮",
+      "得魚忘筌"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "下列選項，何者時間最短？",
+    "options": [
+      "一秩",
+      "一稔",
+      "一世",
+      "一甲子"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "詩文中「東風」、「楊柳」、「桃花」等詞，所指的季節為：",
+    "options": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "下列選項，何者無錯別字？",
+    "options": [
+      "老身常談",
+      "見危知著",
+      "故步自封",
+      "一夜知秋"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "下列各組語詞，意義近似的是：",
+    "options": [
+      "棋逢敵手/判若雲泥",
+      "戶限為穿/門庭若市",
+      "名副其實/虛有其表",
+      "三緘其口/信口開河"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "下列各組語詞「」中的字，注音完全相同的是：",
+    "options": [
+      "粗「獷」/空「曠」",
+      "樑「柱」/「拄」仗",
+      "「撩」亂/同「僚」",
+      "「裨」益/「脾」氣"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "下列選項，何者最適合祝賀工廠開業題辭？",
+    "options": [
+      "賓至如歸",
+      "民胞物與",
+      "鵬程萬里",
+      "開物成務"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "8",
+    "text": "本公司足球隊榮獲 102 年全國五人制聯賽冠軍，「比賽獲得冠軍」與下列哪個語詞意義最相\n   近？",
+    "options": [
+      "出奇制勝",
+      "獨占鰲頭",
+      "嶄露頭角",
+      "奔逸絕塵"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "9",
+    "text": "下列選項，何者非指書信？",
+    "options": [
+      "金匱",
+      "尺牘",
+      "魚雁",
+      "雙鯉魚\n\n\n\n                 共同科目(國文、英文) 第 1 頁，共 4 頁          【請翻頁繼續作答】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "10",
+    "text": "下列選項，何者較不適合壽慶題辭？",
+    "options": [
+      "日月入懷",
+      "椿萱並茂",
+      "南極騰輝",
+      "齒德俱尊"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "11",
+    "text": "下列歷史人物中，哪兩位的關係可稱為「喬梓」？",
+    "options": [
+      "程頣、程顥",
+      "陶侃、陶潛",
+      "司馬懿、司馬昭",
+      "李賀、李白"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "12",
+    "text": "「追奔逐□、□柯一夢、紫氣□來、剪燭□窗」，成語的缺空處依次排列為：",
+    "options": [
+      "北、南、西、東",
+      "北、南、東、西",
+      "南、西、北、東",
+      "西、南、東、北"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "13",
+    "text": "甲君為八十歲，乙君為花甲之年，兩者相差多少歲？",
+    "options": [
+      "十歲",
+      "二十歲",
+      "三十歲",
+      "四十歲"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "下列選項，何者意義與其他 3 個不同？",
+    "options": [
+      "積少成多",
+      "集腋成裘",
+      "積土成山",
+      "積非成是"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "15",
+    "text": "本公司面臨國際燃煤、石油、天然氣價格上漲等不可抗力因素，經營上雖然比較辛苦，但各\n   層級同仁仍然致力於降低成本或增加收入，採取各種措施如減少燃料及材料庫存、活化土地\n   資產、光纖電路出租、降低外購電力成本、合理化資本支出等，這種以「聚合眾人的智慧和\n   能力」為共同目標並努力的情形與下列哪個語詞意義最相近？",
+    "options": [
+      "眾望所歸",
+      "各自為政",
+      "洞燭機先",
+      "群策群力\n\n\n貳、英文：100%\n【單選題： 40 題，每題"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "5 分，共 100 分；請在『答案卡』題號 16~55 畫記作答。】",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "The crowds ___ huge last weekend.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "17",
+    "text": "Where are the keys? Can you help ___ find them?",
+    "options": [
+      "I",
+      "my",
+      "me",
+      "mine"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "18",
+    "text": "Don’t leave the window___. It wastes electricity.",
+    "options": [
+      "open",
+      "opens",
+      "opening",
+      "opened"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "19",
+    "text": "The mechanic doesn’t think you ___ anything. The car is just getting old.",
+    "options": [
+      "break",
+      "breaks",
+      "broke",
+      "broken"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "20",
+    "text": "She said she will ___ me to a new restaurant next weekend.",
+    "options": [
+      "takes",
+      "take",
+      "took",
+      "taken"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "21",
+    "text": "Trevor ___ the kettle with water each evening.",
+    "options": [
+      "fill",
+      "fills",
+      "filling",
+      "filled"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "22",
+    "text": "Sandra and Tammy have already ___ to their podcast.",
+    "options": [
+      "listen",
+      "listens",
+      "listening",
+      "listened"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "23",
+    "text": "It is company policy to maintain a sizeable ___ of fuel.",
+    "options": [
+      "reserve",
+      "reserves",
+      "reserving",
+      "reserved\n\n\n\n                              共同科目(國文、英文) 第 2 頁，共 4 頁"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "24",
+    "text": "I’ve been ___ with that question all night.",
+    "options": [
+      "wrestle",
+      "wrestles",
+      "wrestling",
+      "wrestled"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "25",
+    "text": "I’d like to ___ this phone for another one, please.",
+    "options": [
+      "exchange",
+      "exchanges",
+      "exchanging",
+      "exchanged"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "26",
+    "text": "When you added salt to the soup, its flavor ___ quite a bit.",
+    "options": [
+      "enhances",
+      "was enhanced",
+      "is enhancing",
+      "could enhance"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "27",
+    "text": "The weather is terrible. I don’t recommend ___ out.",
+    "options": [
+      "venture",
+      "ventures",
+      "to venture",
+      "venturing"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "28",
+    "text": "We haven’t renovated in many years and now we have ___ some new office furniture.",
+    "options": [
+      "purchase",
+      "purchases",
+      "to purchase",
+      "am purchasing"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "29",
+    "text": "To whom was that man ___?",
+    "options": [
+      "refer",
+      "refers",
+      "referring",
+      "to refer"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "30",
+    "text": "She ___ hopes she doesn’t have to give a report.",
+    "options": [
+      "honest",
+      "honestly",
+      "dishonest",
+      "dishonesty"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "31",
+    "text": "With any luck, the company will soon be operating ___ the black.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "up"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "32",
+    "text": "It can be hard to deal ___ criticism, but you have to roll with the punches.",
+    "options": [
+      "in",
+      "on",
+      "out",
+      "with"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": "People who live in glass houses shouldn’t caste stones ___ other people.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "34",
+    "text": "She wishes she ___ her own boss.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "35",
+    "text": "Working outside in the summer makes me ___ a lot.",
+    "options": [
+      "sweat",
+      "taste",
+      "believe",
+      "feed"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "36",
+    "text": "Terry received a ___ award during the retirement ceremony.",
+    "options": [
+      "sore",
+      "sick",
+      "scared",
+      "special"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "37",
+    "text": "Assigning one person to this job was a ___. I should have assigned two people.",
+    "options": [
+      "drama",
+      "quarter",
+      "mistake",
+      "ketchup"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "38",
+    "text": "You need safety gear. What ___ do you take?",
+    "options": [
+      "rest",
+      "size",
+      "wing",
+      "trash"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "39",
+    "text": "I was ___ for an important meeting. My boss was very disappointed.",
+    "options": [
+      "lost",
+      "late",
+      "long",
+      "left"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "40",
+    "text": "The fence is made out of ___.",
+    "options": [
+      "merit",
+      "sprite",
+      "lens",
+      "iron"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "41",
+    "text": "Janet is ___ so she will be on leave next month.",
+    "options": [
+      "pregnant",
+      "multiple",
+      "expensive",
+      "financial\n\n\n                               共同科目(國文、英文) 第 3 頁，共 4 頁                                     【請翻頁繼續作答】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "42",
+    "text": "Taking a ___ is a popular way to spend a vacation.",
+    "options": [
+      "tuition",
+      "resident",
+      "cruise",
+      "stroke"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "43",
+    "text": "We’ll be ordering ___ for the office on Friday.",
+    "options": [
+      "getaway",
+      "prototype",
+      "hemisphere",
+      "stationery"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "44",
+    "text": "I’m glad we hired Markus. He’s good at his job and a ___ young manager.",
+    "options": [
+      "promising",
+      "delighted",
+      "habitual",
+      "attractive"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "45",
+    "text": "Mr. Chang has been asked to join a ___ discussion at the conference.",
+    "options": [
+      "quilt",
+      "syrup",
+      "hawk",
+      "panel"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "46",
+    "text": "We need to resolve three ___ at the meeting.",
+    "options": [
+      "issues",
+      "organs",
+      "scarves",
+      "gowns"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "47",
+    "text": "We shouldn’t be quick to draw conclusions, ___ of what the media says.",
+    "options": [
+      "likewise",
+      "regardless",
+      "in short",
+      "for instance"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "48",
+    "text": "Be sure to ___ to the message by tomorrow afternoon.",
+    "options": [
+      "hush",
+      "reply",
+      "claim",
+      "grieve"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "49",
+    "text": "“I’m Lovin’ It” has been a successful ___ for McDonalds.",
+    "options": [
+      "slogan",
+      "boulder",
+      "garment",
+      "dynasty"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "Most of Jenson’s shirts are ___ colors like light pink and yellow.",
+    "options": [
+      "groundless",
+      "behavior",
+      "reward",
+      "pastel\n\n     Sam and Mark are working on a group project. They begin by making a 51 of tasks they need to\ncomplete. They 52 do some research and analysis. Then they need to write a report. Finally, they will\nneed to put together a presentation.\n     Once they have a plan, it’s time to 53 work. Sam uses the Internet to 54 the information they\nneed. Mark creates a spreadsheet for the data they find. They create a graph and look at their\nspreadsheet. Something is wrong. The results don’t make"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "55",
+    "text": "Sam sees the problem. Mark has\nentered the data upside down!",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "51",
+    "text": "",
+    "options": [
+      "checklist",
+      "printer",
+      "notebook",
+      "aircraft"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "52",
+    "text": "",
+    "options": [
+      "need",
+      "needs",
+      "need to",
+      "needed"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "53",
+    "text": "",
+    "options": [
+      "start",
+      "starts",
+      "starting",
+      "started"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "54",
+    "text": "",
+    "options": [
+      "look",
+      "see",
+      "find",
+      "watch"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "55",
+    "text": "",
+    "options": [
+      "idea",
+      "good",
+      "reason",
+      "sense\n\n\n\n\n                              共同科目(國文、英文) 第 4 頁，共 4 頁"
+    ],
+    "answer": "4"
+  }
+]

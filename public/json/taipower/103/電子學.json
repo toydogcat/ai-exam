@@ -1,0 +1,792 @@
+[
+  {
+    "number": "1",
+    "text": "本科目禁止使用電子計算器。",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "本試題共 5 頁(含 A3 紙 1 張、A4 紙 1 張)。\n注",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "本試題為單選題共 50 題，每題 2 分、共 100 分，須用 2B 鉛筆在答案卡畫記作答，於本\n意        試題或其他紙張作答者不予計分。",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "請就各題選項中選出最適當者為答案，各題答對得該題所配分數，答錯或畫記多於一個\n事        選項者，倒扣該題所配分數 3 分之 1，倒扣至本科之實得分數為零為止；未作答者，不\n項        給分亦不扣分。",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "本試題採雙面印刷，請注意正、背面試題。",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "考試結束前離場者，試題須隨答案卡繳回，俟該節考試結束後，始得至原試場索取。",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "頻率為 200 MHz 之訊號，其波長為多少？",
+    "options": [
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "0",
+    "text": "015 公尺",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "0",
+    "text": "15 公尺",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "5 公尺",
+    "options": [
+      "15 公尺"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "某一電路的輸入電壓波形方程式為 V(t)＝100 2 sin(314t + 15°)伏特，則此電路在 t＝1/600 秒\n  時的電壓值約為？",
+    "options": [
+      "141 V",
+      "100 V",
+      ""
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "一原子失去電子後，其游離後將變成？",
+    "options": [
+      "帶負電的離子",
+      "不帶電",
+      "可能帶正電亦可能帶負電",
+      "帶正電的離子"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "電子層中，每層可容納電子的數目為多少？",
+    "options": [
+      "2n2",
+      "n2",
+      "2n",
+      "n\n                      D1                                                                               1KΩ\n                           4k\n                                                            1kΩ\n                      D2   1k                                                                                VZ1\n                                                 Vo\n                                                                                            Vi ( t )               Vo ( t )\n                                                                            1kΩ   VO\n    15V         1V\n                                                      12V                                                    VZ2\n                                 1k\n\n\n\n\n                     【圖 1】                                        【圖 2】                                   【圖 3】"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "如【圖 1】所示，若設 D1、D2 皆為理想二極體，試求 Vo 為多少？",
+    "options": [
+      "5 V",
+      "4 V",
+      "3 V",
+      "2 V"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "如【圖 2】所示，若稽納二極體之稽納電壓為 10 V，則輸出電壓 Vo＝？",
+    "options": [
+      "12 V",
+      "10 V",
+      "6 V",
+      "2 V"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "對於電晶體(BJT)敘述，下列何者有誤？",
+    "options": [
+      "射極摻雜濃度最高",
+      "作為開關使用時，工作於飽和區或截止區",
+      "集極面積寬度最大",
+      "射極接地式放大器又稱射極隨耦器"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "8",
+    "text": "如【圖 3】所示，Vi(t)＝10sin(ωt)伏特，稽納二極體之崩潰電壓 VZ1＝4 V，VZ2＝10 V，順向\n  電壓降為 0 V，則輸出波形 Vo(t)約為下列何者？",
+    "options": [
+      "",
+      "",
+      "",
+      "Vo ( t )                         Vo ( t )                        Vo ( t )                 Vo ( t )\n\n                                     10V                             10V                      10 V\n\n                                     4V                                                        4V\n      0                               0                                0                         0\n    -4V\n                                ωt                                ωt -4V               ωt                                     ωt\n    -10V\n                                                                                             -1 0 V\n\n\n                                                  電子學 第 1 頁，共 5 頁                                            【請翻頁繼續作答】"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "9",
+    "text": "一電源電路之輸出電壓為 10 +",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "0",
+    "text": "1sin(ωt)伏特，則其漣波百分比約為多少？",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "0",
+    "text": "7 ％",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "4 ％",
+    "options": [
+      "2 ％",
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "8 ％\n          10 : 1\n\n                   C1                                C3\n                                                                                    AC\n                                                                                    AC\n                                                                                    110V\n  100V                      D1                 D2              D3             D4    110V\n  60HZ\n                                                                                    60Hz\n                                                                                    60HZ\n                                                                                                                                              RL   VO\n                                                                                                                                          C\n                                 C2                                 C4\n                                                     Vo\n\n                            【圖 4】                                                                            【圖 5】",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "10",
+    "text": "如【圖 4】所示電路，電路輸出 Vo＝？",
+    "options": [
+      "10 2 V",
+      "20 2 V",
+      "30 2 V",
+      "40 2 V"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "11",
+    "text": "一直流電源其無載電壓為 50 V，內電阻為 2 Ω，滿載提供電流為 5 A，則此電源之電壓調整\n   率為何？",
+    "options": [
+      "10 ％",
+      "15 ％",
+      "20 ％",
+      "25 ％"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "12",
+    "text": "如【圖 5】所示，下列 RL 與 C 的組合中，何者會使 Vo 的漣波電壓最小？",
+    "options": [
+      "RL=5 kΩ、C=5 μF",
+      "RL=10 kΩ、C=10 μF",
+      "RL=20 kΩ、C=20 μF",
+      "RL=1 kΩ、C=1 μF\n\n                                                                                                             IC\n                   C\n                                                                         RB        Rc                  VCC\n                                      D                                                    IC    Vcc\n                                                                                                       RC\n           Vi           R                                 Vo                                                        Q2\n                                  4V                                                                                           Q1\n\n\n                                                                                                         0                                    VCE (V)\n                        【圖 6】                                                                   【圖 7】                               VCC"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "13",
+    "text": "如【圖 6】所示箝位電路，假設二極體在順向偏壓時其切入電壓(cut-in voltage)可省略不計，\n   若輸入電壓 Vi 為 20 Vp-p 之方波，則 Vo 輸出波形約為下列何者？",
+    "options": [
+      "",
+      "",
+      "",
+      "Vo                                         Vo                                         Vo                              Vo\n\n                                                                                        +24V                              0                             t\n   +16V\n                                                                                                                         -4V\n                                              +4V\n                                                0                                   t\n     0                                    t                                             +4V\n   -4V\n                                              -16V\n                                                                                          0                         t   -24V"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "關於電晶體三種基本放大電路組態特性比較，下列何者有誤？",
+    "options": [
+      "共集極功率增益最小",
+      "共集極電流增益最小",
+      "共集極輸入阻抗最大",
+      "共基極輸出阻抗最大"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "15",
+    "text": "下列有關電晶體 α 與 β 關係，何者有誤？",
+    "options": [
+      "1/β = 1 - (1/α)",
+      "1/α = 1 + (1/β)",
+      "β = α / (1-α)",
+      "α = β / (1+β)"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "16",
+    "text": "如【圖 7】所示為一偏壓電路及其直流輸出負載線電路，工作點原在 Q1 位置，若想修正至\n   Q2 位置，則需",
+    "options": [
+      "增加 RB",
+      "減少 RB",
+      "增加 RC",
+      "減少 RC"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "17",
+    "text": "承第 16 題，若 VCC＝12 V，VBE＝0.7 V，β＝100，RB＝100 kΩ，RC＝400 kΩ，則 IC 約為？",
+    "options": [
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "8 mA",
+    "options": [
+      ""
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "5",
+    "text": "6 mA",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "11",
+    "text": "3 mA",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "15",
+    "text": "8 mA\n\n\n\n                                                               電子學 第 2 頁，共 5 頁",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "18",
+    "text": "維持韋恩電橋震盪器工作之電壓增益(AV)，最小需要多少？",
+    "options": [
+      "3",
+      "2",
+      "1",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "0",
+    "text": "8\n                                                                    V cc\n                          Vcc=8.2V\n                                                                                                     R\n                            RC                            R1               Rc",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "6k\n           RB                               Vo\n           100k\n      Vi                                                                              vi                      C                   vo\n                                           VZ = 4V        R2\n                β = 100\n\n\n\n                  【圖 8】                                         【圖 9】                                【圖 10】",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "19",
+    "text": "如【圖 8】所示，若 VCE(sat)=0.2 V，VBE=0.7 V、Vi=2.7 V，則 Vo 約為多少？",
+    "options": [
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "0",
+    "text": "7 V",
+    "options": [
+      "4 V",
+      "5 V",
+      "2 V"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "20",
+    "text": "如【圖 9】所示之電路，VCC＝10 V，R1＝R2＝100 kΩ，RC＝1 kΩ，電晶體為矽質，β＝50，\n   則其集極與射極之電位差 VCE 約為？",
+    "options": [
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "5 V",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "6 V",
+    "options": [
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "7 V",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "6",
+    "text": "8 V",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "21",
+    "text": "如【圖 10】所示，若 R=40 Ω，C=8 μF，則濾波器的截止頻率(cut-off frequency)約為？",
+    "options": [
+      "200 Hz",
+      "300 Hz",
+      "400 Hz",
+      "500 Hz\n\n                      +Vcc                                                                                                       Vcc\n                                                      2kΩ                        iT\n                                                                                 a                                                 2kΩ\n                                                      i                                                           R1         R2          C3\n                                                                                                                                               Vo\n                                                          4vT       50i         10Ω        vT                               C2\n                                                                                                         C1\n                                                                                                Vi\n     Ri                                                                          b                                     R3\n                                     10Ω                                                                                     R4           C4\n\n\n\n            【圖 11】                                              【圖 12】                                                 【圖 13】"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "22",
+    "text": "如【圖 11】所示，若三個電晶體之特性完全相同，其低頻小訊號混合 π 參數的 rb=0，ro=∞，\n   β=100，rπ 忽略不計，則輸入阻抗為多少？",
+    "options": [
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "0",
+    "text": "1 MΩ",
+    "options": [
+      "1 MΩ",
+      "10 MΩ",
+      "100 MΩ"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "23",
+    "text": "某一射極耦合電路，其輸入阻抗為 10 kΩ，負載為 10 Ω，電壓增益為 10，則功率增益為多少？",
+    "options": [
+      "80 dB",
+      "70 dB",
+      "60 dB",
+      "50 dB"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "24",
+    "text": "下列何者非為變壓器耦合之優點？",
+    "options": [
+      "具高效率",
+      "頻率響應佳",
+      "阻抗匹配容易",
+      "可隔絕直流"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "25",
+    "text": "下列哪一組數字的顯示，可用來檢查七段顯示器每一段的好壞？",
+    "options": [
+      "(2,3)",
+      "(3,9)",
+      "(4,7)",
+      "(2,4)"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "26",
+    "text": "如【圖 12】所示，請問其戴維寧等效電阻 Rab 為？",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "0",
+    "text": "5 Ω",
+    "options": [
+      "5 Ω",
+      "50 Ω",
+      "500 Ω"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "27",
+    "text": "如【圖 13】所示，電路中各電容作用之敘述下列何者有誤？",
+    "options": [
+      "C1 可隔離直流",
+      "C2 可防止增益衰減",
+      "C3 可提高電壓增益",
+      "C4 可消除交流負回授\n\n                                                     電子學 第 3 頁，共 5 頁                                                             【請翻頁繼續作答】\n                                      +11.8V\n                                                                                             30V\n             10kΩ          1kΩ                                   VDD =+8V\n                           iO                           ID       VT =2V\n                                        Vo                                                      8kΩ\n             1μF                1μF                                       2\n\n   Vi                                                            K=1mA/V                      D\n                                                         Q1                   Vi         G\n        ii\n                                                                  Vo                          S\n             10kΩ    2kΩ              1μF                                          2MΩ          2kΩ\n                                                   RS   1kΩ\n\n\n\n                    【圖 14】                        【圖 15】                            【圖 16】"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "28",
+    "text": "如【圖 14】所示，若電晶體 β=60，VBE =0.7 V，VT =26 mV，η=1，則電晶體的 rπ為多少？",
+    "options": [
+      "6 Ω",
+      "60 Ω",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "0",
+    "text": "6 KΩ",
+    "options": [
+      "6 KΩ"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "29",
+    "text": "承第 28 題，請問電壓增益 Vo/Vi 為？",
+    "options": [
+      "60",
+      "100",
+      "-60",
+      "-100"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "30",
+    "text": "承第 29 題，請問電流增益 io/ii 約為？",
+    "options": [
+      "53",
+      "63",
+      "73",
+      "83"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "31",
+    "text": "數位電路中的正反器通常是？",
+    "options": [
+      "單穩態多諧振盪器",
+      "間歇震盪器",
+      "無穩態多諧振盪器",
+      "雙穩態多諧振盪器"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "32",
+    "text": "共基極放大器，在室溫 26℃下工作，電壓增益為 13，若直流工作點 IEQ＝0.5 mA，則小信號\n   re 電阻為多少歐姆(Ω)？",
+    "options": [
+      "52 Ω",
+      "26 Ω",
+      "13 Ω",
+      "26 kΩ"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": "如【圖 15】所示，Q1 是？",
+    "options": [
+      "N 通道 JFET",
+      "增強型 N通道 MOSFET",
+      "增強型 P 通道 MOSFET",
+      "P 通道 JFET"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "34",
+    "text": "承第 33 題，求 ID 的電流為多少？",
+    "options": [
+      "9 mA",
+      "4 mA",
+      "8 mA",
+      "3 mA"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "35",
+    "text": "某一 JFET 之 IDSS＝10 mA，Vgs（OFF）＝-5 V，試計算在偏壓點 Vgs＝-2 V 的 gm 值為何？",
+    "options": [
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "2 mS",
+    "options": [
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "1",
+    "text": "8 mS",
+    "options": [
+      ""
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "4 mS",
+    "options": [
+      ""
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "5",
+    "text": "6 mS",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "36",
+    "text": "FET 電晶體與 BJT 電晶體兩者比較，下列何者有誤？",
+    "options": [
+      "FET 易受溫度升高影響",
+      "FET 輸入電阻較高",
+      "BJT 操作速度較快",
+      "FET 為電壓控制，BJT 為電流控制"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "37",
+    "text": "某一 N 通道 JFET 的汲極飽和電流 IDss =27 mA ，汲極電流 ID=3 mA。若截止電壓(cut-off\n   voltage) Vgs(off)= -3 V，則閘源極電壓 Vgs 為多少？",
+    "options": [
+      "2 V",
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "414 V",
+    "options": [
+      "-2 V",
+      "0 V"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "38",
+    "text": "有關 MOSFET 之敘述，下列何者有誤？",
+    "options": [
+      "閘極與通道間使用二氧化矽以提高絕緣",
+      "MOSFET 適於應用在大型積體電路數位系統",
+      "空乏型 MOSFET 內部有預設通道",
+      "增強型 MOSFET 在 Vgs＝0 時工作在夾止區"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "39",
+    "text": "如【圖 16】所示，VDS＝10V，則 VGS＝？",
+    "options": [
+      "-2.5 V",
+      "-4.0 V",
+      "-5.5 V",
+      "-6.0 V"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "40",
+    "text": "有關理想運算放大器 OPA 之特性描述，下列何者有誤？",
+    "options": [
+      "輸入電阻為∞",
+      "輸出電阻為 0",
+      "共模拒斥比為∞",
+      "增益頻寬為 0\n\n\n                                               電子學 第 4 頁，共 5 頁                                     【請另頁繼續作答】"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "41",
+    "text": "如【圖 17】所示，增強型 MOSFET 之 IDSS＝12 mA，gm＝3 mS，則 VDS＝？",
+    "options": [
+      "9 V",
+      "11 V",
+      "7 V",
+      "13 V\n                        +15V                                                  +12V\n                                                                                                                     Vo1     25kΩ"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "0",
+    "text": "2μF\n\n                                                                        ID        R D = 7k Ω\n                                 RD =500Ω\n\n\n\n\n                                                                                                         OPA1\n                             D                                                                 Vo                          R1 =50kΩ\n          C1                                                     C1\n   Vin                                                   Vi                        C2                                                    OPA2     Vo2\n                                  C2\n                                            Vo\n                   RG                                          2M Ω               RS\n                   =100MΩ                                                                                                  R2 =10kΩ\n\n\n                  【圖 17】                                              【圖 18】                                                 【圖 19】",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "42",
+    "text": "承第 41 題，若 Vin＝600 mV，則輸出電壓 Vout＝？",
+    "options": [
+      "600 mV",
+      "900 mV",
+      "1250 mV",
+      "1800 mV"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "43",
+    "text": "如【圖 18】所示，N 通道 JFET 電路，已知 JFET 之 IDss =16 mA，VP= -4 V，若欲使該 JFET\n   工作於飽和區，且汲極電流 ID=1mA，則 RS 為多少？",
+    "options": [
+      "3kΩ",
+      "4 kΩ",
+      "5 kΩ",
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "6",
+    "text": "8 kΩ",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "44",
+    "text": "承第 43 題，電壓增益 AV=？",
+    "options": [
+      "-1",
+      "-2",
+      "-3",
+      "-4"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "45",
+    "text": "如【圖 19】所示電路，VCC＝±15V，則下列敘述何者有誤？",
+    "options": [
+      "Vo2 輸出範圍為-3 V 至 3 V",
+      "β＝0.2",
+      "震盪週期為 4 ms",
+      "震盪頻率為 500 Hz\n\n              R                                                                                                                         80kΩ\n                                                                                        +12V\n   Vin\n                            OPA                                                                                                        +10V\n         Zi\n              3R                                 V out        Vi=10sin ωt V                                            40kΩ\n                                  3R                                                 OPA            Vo          3V\n                                                         10V                                                           10kΩ            OPA              Vo\n                                                                       R                                        2V\n                                                                              R\n                                                                                        -12V                           10kΩ\n                                   R                                                                                                    -10V\n\n\n              【圖 20】                                                   【圖 21】                                                         【圖 22】"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "46",
+    "text": "如【圖 20】所示，假設放大器為理想放大器，輸入阻抗 Zi 為多少？",
+    "options": [
+      "4 R",
+      "3 R",
+      "2 R",
+      "R"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "47",
+    "text": "一哈特萊震盪器，其震盪線圈 L＝400 μH，若電容可從 400 pF 調至 900 pF，則振盪頻率範圍\n   約為多少？",
+    "options": [
+      "141 Hz～333 Hz",
+      "265 kHz～397.5 kHz",
+      ""
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "6 MHz～2.5 MHz",
+    "options": [
+      "442 GHz～995 GHz"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "48",
+    "text": "如【圖 21】所示電路，其輸出端之工作週期為多少？",
+    "options": [
+      ""
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": "3 ％",
+    "options": [
+      ""
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "7 ％",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "49",
+    "text": "如【圖 22】所示電路，其輸出電壓 Vo 為何？",
+    "options": [
+      "-6 V",
+      "-3 V",
+      "3 V",
+      "6 V"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "某差動放大器，其共模拒斥比 CMRR＝20 dB，Ad＝100，假設輸入 V1＝10 μV，V2＝8 μV，\n   則輸出電壓 Vo＝？",
+    "options": [
+      "200 μV",
+      "245 μV",
+      "290 μV",
+      "360 μV\n\n\n                                                          電子學 第 5 頁，共 5 頁"
+    ],
+    "answer": "4"
+  }
+]

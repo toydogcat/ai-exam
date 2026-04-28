@@ -1,0 +1,392 @@
+[
+  {
+    "number": "10",
+    "text": "加一負向電壓於 NMOS 電晶體之 body 端，則：\n類別：\n類別：工務類專業職(四\n   工務類專業職 四)第一類專員\n            第一類專員                                                             \u0001門檻電壓(threshold voltage)下降              \u0002通道之等效電阻上升\n科目：\n科目：電子學                  *請填寫入場通知書號碼：_______________                           \u0003通道載子濃度上升                               \u0004通道下方之空乏區減少\n注意：\u0001作答前須檢查試卷與答案卡所標示之卷別\n    作答前須檢查試卷與答案卡所標示之卷別(分\n    作答前須檢查試卷與答案卡所標示之卷別 分 A、    、B 卷)是否一致\n                                    是否一致，\n                                    是否一致，以及入場通知書號碼、\n                                         以及入場通知書號碼、桌角",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "11",
+    "text": "若一 npn BJT 之直流操作狀況為：VBE=0.7 V，VCE=0.2 V，IB=10µA，IC=1 mA，\n    號碼、\n    號碼、應試類組是否相符。\n       應試類組是否相符。                                                              則下列結論何者正確？\n   \u0002本試卷正反兩頁共 50 題，每題 2 分，限用 2B 鉛筆在「答案卡」上作答。\n   \u0003本試卷之試題皆為單選選擇題，請選出最適當答案，答錯不倒扣；未作答者，不予計分。                                   \u0001 β =100                   \u0002 β ≥100     \u0003 β ≤100               \u0004 β =1000\n    答案卡務必繳回，\n    答案卡務必繳回，未繳回者該科以零分計算。\n   \u0004答案卡務必繳回 未繳回者該科以零分計算。",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "12",
+    "text": "對於反向器之特性，下列何者錯誤？\n                                                                              \u0001操作之速度受到 propagation delay 影響           \u0002 tPHL 與 tPLH 可能不相同",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "在【圖一】的電路中，VDD 為 5 伏，QP 與 QN 分別代表                                            \u0003 NMH=VIH-VOH                           \u0004 NML=VIL-VOL\n  PMOS 與 NMOS 電晶體。若輸入為 A 與 B，輸出為 Y，則此",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "13",
+    "text": "下列何種類比數位轉換器適合高速應用？\n  電路所執行之運算為下列何者？                                                              \u0001 feed-back type                        \u0002 dual-slope converter\n  \u0001 AND                                                                       \u0003 charge-redistribution converter       \u0004 flash ADC\n  \u0002 OR",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "有關 MOS 電晶體的通道長度調變(channel length modulation)現象，下列敘述何者錯誤？\n                                                 【圖一】\n  \u0003 NAND                                                                      \u0001通道長度越長此現象越明顯                           \u0002通道發生 pinch-off 所造成\n  \u0004 NOR                                                                       \u0003造成電晶體之輸出阻抗降低                           \u0004電晶體操作於線性區(triode region)時則無此現象",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "在【圖二】的電路中，下列何者正確？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "對於 emitter follower 放大級之敘述，下列何者錯誤？\n \u0001 Y=AB+CD                                                                    \u0001電壓增益<1                                 \u0002輸出及輸入訊號為反向\n                                                                              \u0003可當作輸出級使用                               \u0004可當作 level shifter 使用\n \u0002 Y=AB+CD",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "有關運算放大器之補償(compensation)技術，何者為正確作法？\n                             【圖二】\n \u0003 Y=A(B+CD)                                                                  \u0001使 dominant pole 之頻率上升                  \u0002使 dominant pole 與 second pole 分開\n                                                                              \u0003增加額外的 high-frequency pole              \u0004使 phase margin 降低\n \u0004 Y=A+B+CD",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "有關 NMOS depletion-type 電晶體之敘述，下列何者錯誤？\n                                                                              \u0001門檻電壓(Vt)>0                             \u0002 gate 電壓越高，電流越大",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "有關負回授電路的特性，下列何者錯誤？\n                                                                              \u0003導電之載子以電子為主                             \u0004 body effect 影響門檻電壓\n  \u0001可降低非線性失真",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "若 slew rate 為 1 V/µs 之運算放大器當做 unit-gain buffer，輸入之 pulse 高為",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "有關離散式(discrete)元件組成的電路與積體電路(IC, integrated circuit)比較，下列何者正確？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "在一理想二極體與一電阻串接而成的整流器中，若輸入電壓為 10sinωt 伏，則電阻上的直流電壓為若干\n  \u0001離散式元件電路可操作於較低的頻率                                                           伏？\n  \u0002 IC 的體積較大                                                                  \u0001",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "1",
+    "text": "59                     \u0002",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "18       \u00035                     \u0004",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "6",
+    "text": "36\n  \u0003 IC 各級間通常以電容交連(coupling)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "20",
+    "text": "若一尺度常數(scale constant) n=1 的二極體在電流 i=1 毫安時順向壓降 v=0.7 伏，則當 i=0.1 毫安時壓降\n  \u0004在積體電路內應儘量使用主動元件以節省成本                                                       為若干伏？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "5",
+    "text": "有關 CMOS 閘電路中，若 Y 為輸出，則有關上拉電路(PUN, pull up network)與下拉電路(PDN, pull down      \u0001",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "21",
+    "text": "在【圖三】的橋式整流電路中，若二次側交流電壓為弦波 12 伏(rms)，二極體順向壓降 VD=0.7 伏，且\n  \u0001上拉電路專供非反相輸入之用                                                              負載電阻 R=100 歐，則負載電壓 vo 的直流成分 Vo 為若干伏？\n  \u0002上拉電路主要由 NMOS 組成                                                            \u0001",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "5\n  \u0003下拉電路若導通將使輸出為高電壓                                                            \u0002",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "8",
+    "text": "3\n  \u0004若上拉電路接成並聯則下拉電路將接成串聯                                                                                                 【圖三】\n                                                                              \u0003",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "9",
+    "text": "4",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "6",
+    "text": "若運算放大器為有限增益，則所組成之反向(inverting)組態放大器：                                        \u0004",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "16",
+    "text": "3\n  \u0001一定具備 virtual short circuit 之特性  \u0002輸入阻抗為有限值\n  \u0003電壓增益只與電阻比值有關                    \u0004電壓增益也可為正值",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "22",
+    "text": "承上題，流經二極體的電流峰值為若干毫安？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "下列何者不是理想運算放大器之特性？                                                           \u0001 85        \u0002 156      \u0003 233        \u0004 306\n  \u0001差動(differential)電壓增益=∞          \u0002共模(common-mode)電壓增益=∞",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "23",
+    "text": "若一電壓放大器之輸出電壓在輸出端接上外加的",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "4",
+    "text": "7K 歐負載後即較未接此負載前下降 6%，則此放大\n  \u0003輸入阻抗=∞                          \u0004輸出阻抗=0\n                                                                              器之輸出阻抗為若干歐？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "8",
+    "text": "下列何者不會造成電壓放大器之輸出波形扭曲(distortion)？\n                                                                              \u0001 300       \u0002 400      \u0003 500        \u0004 600\n  \u0001有限頻寬                  \u0002輸入阻抗非無限大 \u0003slew rate 限制        \u0004頻率響應之相位非線性",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "9",
+    "text": "由理想運算放大器組成之積分器電路，下列敘述何者錯誤？\n  \u0001輸出電壓為負積分結果 \u0002直流增益無限大             \u0003相位為 90°             \u0004容易受限於高頻雜訊\n                                                                                                              【請接續背面】",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "24",
+    "text": "在【圖四】單一電源的 BJT 電路中，VCC=15 伏，β=100，",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "38",
+    "text": "關於 741 運算放大器，下列敘述何者錯誤？\n   vBE=0.7 伏，R1=100K 歐，R2=50K 歐。則在基極上的戴維寧等效                                       \u0001輸入級為雙端輸入單端輸出                           \u0002第二級為單端輸入單端輸出\n   電路(Thevenin equivalent circuit)之電壓為若干伏？                     【圖四】               \u0003電壓增益主要由輸出級提供                           \u0004電路中包括保護電路\n   \u00015",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "39",
+    "text": "關於輸出級之敘述，下列何者錯誤？\n   \u00026                                                                             \u0001 class-A 為線性操作放大器                      \u0002 class-B 無靜態功率消耗\n   \u00037                                                                             \u0003 class-B 的輸出通常為失真之波形                   \u0004 class-AB 可兼顧效率及線性度\n   \u00048",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "40",
+    "text": "關於 pseudo NMOS logic 之敘述，下列何者錯誤？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "25",
+    "text": "承上題，基極上的戴維寧等效電路之電阻為若干歐？                                                        \u0001pull-up 及 pull-down network 皆使用 NMOS 電晶體\n   \u0001",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "33",
+    "text": "3K                \u0004 22K            \u0002具有靜態功率消耗",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "26",
+    "text": "由理想運算放大器所組成之非反向(non-inverting)組態放大器，下列敘述何者錯誤？                                  \u0003負載(active load)越大，則 VOL 上升\n   \u0001輸出阻抗為 0 Ω                             \u0002輸入阻抗為無限大                               \u0004VOH 不受負載之大小影響\n   \u0003電壓增益由電阻比值決定                           \u0004電壓增益可為任意之正實數",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "41",
+    "text": "下列何者為一濾波器之 transfer function？\n                                                                                                                                                            3s 3",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "27",
+    "text": "若將 slew rate 為 1V/µs 之運算放大器接成一 unit-gain buffer，輸入振幅 1V 之弦波訊號，在不失真下最           \u0001 T (s) = 2 3           \u0002 T (s) = 2 3 j \u0003 T ( s ) = 2 3s \u0004 T (s) =\n                                                                                       s − 3s + 2           s − 3s + 2          s + 3s + 2             s 2 + 3s + 2\n   高之輸入頻率為何？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "42",
+    "text": "請問 Class-A 放大器之最大輸出效率(efficiency)為：\n   \u0001 1000000 Hz           \u0002 10000 Hz      \u0003 159155 Hz            \u0004 318310 Hz      \u0001 20%               \u0002 25%             \u0003 33%         \u0004 50%",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "28",
+    "text": "對於運算放大器之 slew rate，下列敘述何者錯誤？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "43",
+    "text": "在【圖五】的 MOSFET 的電路中，若 VDD=15 伏，VGS=2 伏，\n   \u0001與電路之頻寬成正比                             \u0002與電容值成反比                                汲極(drain)電壓 VD=10 伏，RD=RS=10K 歐，則 RG1 與 RG2 之値\n   \u0003受限於電路之直流電流                            \u0004為大訊號操作下之非理想特性                          分別應為下列何者？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "29",
+    "text": "下列何者為 n-type 異質半導體(extrinsic semiconductor)之特性？\n                                                                                  \u0001 8M 歐與 7M 歐\n   \u0001電子為唯一之導電載子(carrier)                   \u0002穩定狀態下 np > ni2                         \u0002 7M 歐與 8M 歐                                   【圖五】\n   \u0003雜質濃度越高，電洞濃度越低                         \u0004導電度與溫度無關                               \u0003 680K 歐與 470K 歐",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "30",
+    "text": "關於 pn-junction 的敘述，下列何者錯誤？                                                     \u0004 470K 歐與 680K 歐\n   \u0001內建電壓(building potential)隨掺雜濃度提高而增加",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "44",
+    "text": "承上題，則 ID 為若干毫安？\n   \u0002操作在順向偏壓下空乏區(depletion region)寬度上升                                             \u0001",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "在【圖六】的 MOSFET 電路中，若 VDD=15 伏，",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "31",
+    "text": "關於 PMOS 電晶體之敘述，何者錯誤？                                                           RG1=6M 歐，RG2=4M 歐，RD=5K 歐，RS=2K 歐，               【圖六】\n   \u0001 source 端的電壓比 drain 端的電壓高             \u0002導電載子以電洞為主                              Rsig=1K 歐，ro=50K 歐，gm=0.5 毫安/伏，Vt=1 伏，\n   \u0003載子在通道中的運動模式為擴散(diffusion)             \u0004載子由 source 端流向 drain 端                 則就交流小信號 vsig 而言，此放大器的輸入阻抗 Rin",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "32",
+    "text": "下列何種電路只消耗動態功率？                                                                 為若干歐？\n   \u0001 pseudo NMOS 邏輯       \u0002 TTL 邏輯        \u0003 dynamic 邏輯           \u0004 ECL 邏輯         \u0001 999                                 \u0002",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "98K",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "33",
+    "text": "有關 CMOS SRAM 之敘述，下列何者正確？                                                       \u0003",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "4M                                \u0004 4M\n   \u0001每一位元只使用 4 個電晶體                        \u0002無靜態功率消耗",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "46",
+    "text": "承上題，若汲極上電壓 vD 為直流電壓 VD 與交流電壓 vd 之和，且 vsig=0.1 伏，則 vd 為若干伏？\n   \u0003儲存之資料不會因為電源關閉而消失                      \u0004為 ratioless 之電路設計                      \u0001 -1.782            \u0002 -2.193          \u0003 -3.864      \u0004 -4.577",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "34",
+    "text": "關於濾波器之敘述，下列何者錯誤？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "承上題，此汲極輸出放大器的交流輸出阻抗 Rout 為若干？\n   \u0001 Butterworth 低通濾波器為單調下降之頻率響應 \u0002 Chebychev 低通濾波器為單調下降之頻率響應                      \u0001",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "1",
+    "text": "43K             \u0002 2K              \u0003",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "34K       \u0004",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "4",
+    "text": "56K\n   \u0003階數由 transfer function 之分母決定           \u0004 transfer function 之係數必需為實數",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "48",
+    "text": "承上題，若將 RS 短路且 ID=2.5 毫安，則 vd 將變為若干伏？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "35",
+    "text": "假設一系統之 transfer function 為 H =           a1 s\n                                                            ，下列何者錯誤？              \u00010                                    \u0002",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "25\n                                    s + (ω 0 / Q ) s + ω 02\n                                    2\n                                                                                  \u00033                                    \u00045\n   \u0001為一階系統                                  \u0002頻率響應為帶通(band-pass)特性",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "49",
+    "text": "在【圖七】的理想運算放大器電路中，若 R1=2K 歐，\n                                                                                  R =68K 歐，C =0.01 微法拉(micro-farad)，則此放大器轉       【圖七】\n   \u0003低頻增益為 0                                \u0004高頻增益為 0                               2           2",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "36",
+    "text": "在 common emitter 放大級之 emitter 端加上 degeneration 電阻，下列何者錯誤？                      移函數的時間常數為若干毫秒？\n   \u0001輸入阻抗上升             \u0002輸出阻抗上升             \u0003轉導值上升         \u0004可視為一負回授                \u0001",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "37",
+    "text": "對於頻率響應的敘述，下列何者錯誤？                                                              \u0002",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "承上題，此放大器轉移函數的波德圖(Bode diagram)在頻率 ω 高於 3dB 點後將以下列何者之速度變化？\n                                                                                  \u0001 -20dB/dec \u0002 -10dB/dec      \u0003 10dB/dec      \u0004 20dB/dec",
+    "options": [],
+    "answer": "1"
+  }
+]

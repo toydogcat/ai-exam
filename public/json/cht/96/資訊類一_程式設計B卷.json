@@ -1,0 +1,248 @@
+[
+  {
+    "number": "5",
+    "text": "下列敘述何者錯誤？\n類別：\n類別：資訊類專業職(一\n   資訊類專業職 一)專員\n            專員                                                                     \u0001 PRODUCT 與 SUPPLIER 兩個實體是多對多的關係\n科目：\n科目：程式設計及資料庫原理           *請填寫入場通知書號碼：_______________                                \u0002一個 PRODUCT 實體會有 1 到多個 PART\n                                                                                   \u0003 SUPPLY 的主鍵是 QUANTITY\n注意：\u0001作答前須檢查試卷與答案卡所標示之卷別\n    作答前須檢查試卷與答案卡所標示之卷別(分\n    作答前須檢查試卷與答案卡所標示之卷別 分 A、    、B 卷)是否一致\n                                    是否一致，\n                                    是否一致，以及入場通知書號碼、\n                                         以及入場通知書號碼、桌角                              \u0004 SUPPLY 是一個三元的關聯 (relationship)\n    號碼、\n    號碼、應試類組是否相符。\n       應試類組是否相符。\n   \u0002本試卷正反兩頁共 40 題，每題",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "5 分，限用 2B 鉛筆在「答案卡」上作答。",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "6",
+    "text": "承上題，下列哪一個關聯架構會是從上圖之實體關聯圖轉出來的？\n   \u0003本試卷之試題皆為單選選擇題，請選出最適當答案，答錯不倒扣；未作答者，不予計分。                                        \u0001 SUPPLY(PRODUCT_CODE, SUPPLIER_CODE, PART_CODE, QUANTITY)\n    答案卡務必繳回，\n    答案卡務必繳回，未繳回者該科以零分計算。\n   \u0004答案卡務必繳回 未繳回者該科以零分計算。                                                           \u0002 SUPPLY(PRODUCT_CODE, SUPPLIER_CODE, QUANTITY)\n                                                                                   \u0003 PRODUCT(PRODUCT_CODE, NAME, DESCRIPTION, PART_CODE)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "下列有關資料庫管理系統中的資料定義語言(DDL)，何者正確？                                                   \u0004 SUPPLIER(SUPPLIER_CODE, NAME, ADDRESS, TELEPHONE, QUANTITY)\n \u0001 DDL 是一種高階語言",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "7",
+    "text": "使用資料庫管理系統的重要優點之一是可以達到資料獨立性(data independent)，下列何者是指資料獨\n \u0002 DDL 就是結構化查詢語言 SQL                                                                立的特性？\n \u0003 DDL 是用來定義使用者要如何擷取資料庫內資料的語言                                                      \u0001應用程式與資料庫結構完全不相關\n \u0004 DDL 是用來敘述資料庫裡有哪些資料項和資料庫架構的語言                                                    \u0002變動資料庫結構時，應用程式必須修改\n（題組一：\n 題組一：請回答第 2～    ～ 4 題）                                                             \u0003應用程式不依賴於特定的儲存結構或存取策略\n 下列為一關聯式資料庫架構，試就本資料庫架構回答第 2~4 題：                                                   \u0004應用程式必須描述資料的存取方式\n   STUDENT(Name, StudentNumber, Class, E-mail, Sex, Telephone)",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "8",
+    "text": "下列哪一個 SQL 敘述是用來處理使用者存取權限的？\n   COURSE(CourseName, CourseNumber, CreditHours, Department)                       \u0001 DROP        \u0002 CREATE    \u0003 REVOKE                                 \u0004 INSERT\n   SECTION(SectionIdentifier, CourseNumber, Semester, Year, Instructor)\n   GRADE_REPORT(StudentNumber, SectionIdentifier, Grade)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "9",
+    "text": "下列有關資料模型(data model)的敘述，何者錯誤？\n                                                                                    \u0001資料模型是用來表達資料庫架構的工具                           \u0002資料模型無法表現出資料間的相關關係",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "上面之關聯式資料庫架構，哪個欄位是外來鍵？                                                             \u0003實體關聯圖就是一種資料模型                               \u0004描述資料庫時可以有多種資料模型可使用\n \u0001 STUDENT.StudentNumber                           \u0002 COURSE.CourseNumber",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "10",
+    "text": "有關關聯資料模型裡實體完整性限制(entity integrity constraint)是指下列哪種特性？\n \u0003 SECTION.SectionIdentifier                       \u0004 GRADE_REPORT.StudentNumber\n                                                                                    \u0001每個關聯一定要有主鍵欄位(primary key)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "3",
+    "text": "承上題，下列哪個 SQL 是查詢學號為’96116211’的學生所修的所有課程編號？                                        \u0002每個外來鍵(foreign key)一定要是別的關聯的主鍵\n \u0001 SELECT CourseNumber                                                              \u0003每一筆資料的主鍵欄必須不可空值(non-null)\n   FROM COURSE                                                                      \u0004每個外來鍵(foreign key)的值一定要在某關聯的主鍵欄裡出現\n   WHERE StudentNumber=’96116211’",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "11",
+    "text": "結構化(structured)程式包括三個主要結構，下列何者非屬之?\n \u0002 SELECT CourseNumber\n   FROM GRADE_REPORT, SECTION                                                       1循序(sequential)              2選擇(selection)  3迴圈(loop)              4跳躍(jump)\n   WHERE GRADE_REPORT.SectionIdentifier = SECTION. SectionIdentifier",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "12",
+    "text": "在處理算術式(expression)轉換時，通常會使用下列何種資料結構?\n     AND SECTION.StudentNumber=’96116211’                                           1佇列(queue)                   2堆疊(stack)      3串列(serial)            4表列(list)\n \u0003 SELECT CourseNumber",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "13",
+    "text": "某些程式語言可以直接或間接重複呼叫副程式本身，這種方式稱為：\n   FROM SECTION, COURSE                                                             1疊算(iteration)               2重複(repetition) 3回復(recovery)          4遞廻(recursion)\n   WHERE SECTION.CourseNumber = COURSE.CourseNumber",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "執行程式時，若某變數值只在特定區塊內有效，則此變數稱為：\n     AND SECTION.StudentNumber=’96116211’\n \u0004 SELECT CourseNumber                                                              1內部(internal)變數              2外部(external)變數 3區域(local)變數           4全域(global)變數\n   FROM COURSE, STUDENT",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "若採用快速排序(quick sort)執行 N 個資料的排序，則最差的執行效率(efficiency)為何?\n   WHERE StudentNumber=’96116211’                                                   1 O(N)                       2 O(N2)         3 O(log N)             4 O(N log N)",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "4",
+    "text": "承上題，下面 SQL 的查詢敘述，是查何項資料？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "16",
+    "text": "若採用堆積排序(heap sort)執行 N 個資料的排序，則平均的執行效率(efficiency)為何?\n     SELECT StudentNumber, COUNT(*)                                                 1 O(N)                       2 O(N2)         3 O(log N)             4 O(N log N)\n     FROM GRADE_REPORT",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "若某一廻圈(loop)被執行在特定的條件後不再重複，則其廻圈控制方式應是下列何者?\n     GROUP BY StudentNumber\n \u0001某一個學生總共修了幾門課                                     \u0002全部學生總共修了幾門課                     1計數(counter)控制               2變數(variable)控制 3衛哨(sentinel)控制        4定數(constant)控制\n \u0003每一個學生修幾門課                                        \u0004全部學生總人數",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "下列何種呼叫副程式的方式可在離開該副程式後繼續使用該參數值?\n                                                                                    1傳值呼叫(called by value)                       2傳址呼叫(called by address)\n（題組二：\n 題組二：請回答第 5～\n           ～ 6 題）                                                                   3傳式呼叫(called by expression)                  4傳時呼叫(called by time)\n 下列為一產品/供應商之資料庫實體關聯圖(Entity-Relationship Diagram)，請回答第 5~6 題：",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "19",
+    "text": "若想設計一個丟骰子遊戲的程式，可用下列何種方式使亂數產生器(random number generator)產生一\n                                                                                     點到六點的值?\n                                                                                    1模數(modulus)                 2除數(divisor)    3乘數(multiplier)        4雜湊(hash)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "20",
+    "text": "下列程式片段之廻圈(loop)被執行幾次?\n                                                                                      …\n                                                                                       for(i = 1; i < 100; i=i+2)\n                                                                                      …\n                                                                                    1 49 次                       2 50 次          3 99 次                 4 100 次\n\n                                                                                                                    【請接續背面】",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "21",
+    "text": "執行下列程式片段，會輸出什麼結果？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "28",
+    "text": "若將 A/B-C+(D*E+A)*C 轉為後序(postfix)，下列何者正確？\n  for(i=0;i<5;i++){                                                                           \u0001 +-AB/C*+DE*AC            \u0002 -*AC+*DE-C/AB      \u0003 AB/C-DE*+AC*-       \u0004 AB/C-DE*A+C*+\n           j = 0;",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "29",
+    "text": "下列程式執行後，會輸出甚麼結果？\n           sum = 0;                                                                                   #include <stdio.h>\n           do {                                                                                       void silly(int *a, int b)\n                 j++;                                                                                 {     *a = b;      }\n                 sum += i + j;                                                                        int main(void)\n           }while(j<i);                                                                               {\n        }                                                                                                  int x[]={10, 12, 5, 8, 2, 15, 14};\n        printf(\"sum = %d\\n\", sum);                                                                         int i;\n  \u0001 sum=9                        \u0002 sum=35                     \u0003 sum=26           \u0004 sum=61\n                                                                                                            silly(&x[0], 5);",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "22",
+    "text": "有關物件導向技術中有關類別繼承 (Inheritance)的觀念，下列何者正確？                                                                 silly(&x[2], x[5]);\n  \u0001子類別又稱基礎類別(Base class)                                      \u0002繼承是一種 Has-a 的關聯性                             silly(&x[5], x[4]);\n  \u0003繼承是一種 Is-a 的關聯性                                            \u0004多重繼承是指一個父類別有數個子類別                            for(i=0; i<7; i++)\n                                                                                                                 printf(\"%3d\", x[i]);",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "23",
+    "text": "物件導向技術中有關訊息的多形(Polymorphism)是指：\n  \u0001物件的屬性是另一個物件                                                                                           return(0);\n  \u0002訊息的方法名稱相同，但是參數型態或個數不同，卻是不同的方法                                                                     }\n  \u0003針對同一個訊息，不同的物件有不同的反應，也就是同一個名稱擁有不同的操作                                                        \u0001 0 12 5 8 2 15 14                                   \u0002 0 12 15 8 5 2 2 14\n  \u0004每一個物件都擁有獨一無二的識別字來辨識物件                                                                      \u0003 5 12 5 8 2 15 14                                   \u0004 5 12 15 8 2 2 14",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "24",
+    "text": "若程式陣列變數宣告如下：",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "30",
+    "text": "下列程式執行後，會輸出甚麼結果？\n                char str[40]= \"Happy\";                                                               public class test2 {\n                                                                                                       public static long f(long n)\n               char month[12][10]={\"January\", \"February\", \"March\", \"April\",                            {\n                                 \"May\", \"June\", \"July\", \"August\", \"September\",                           if(n==0 || n==1)\n                                                                                                           return n;\n                                 \"October\", \"November\", \"December\"};                                     else\n          則下列程式片段會輸出甚麼結果？                                                                                  return f(n-1)+2*f(n-2);\n          for(i=0;i<5; i++)                                                                            }\n                  printf(\"%c\", month[7][i]);                                                              public static void main(String[] args)\n  \u0001 August                       \u0002 Augus                      \u0003 July             \u0004 Septem                 {",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "25",
+    "text": "假設有球隊與球員兩類別，球隊是由球員組成，但是如果某球隊不存在，其所屬的球員還是會存在，                                                             long n=5,m;\n                                                                                                            m=f(n);\n   則球隊與球員兩類別是下列何種關聯性？                                                                                       System.out.println(m);\n  \u0001聚合關係(Aggregation)                                          \u0002組成關係(Composition)                          }\n  \u0003一般化關係(Generalization)                                      \u0004繼承關係(Inheritance)                           }\n                                                                                              \u0001 21                    \u00028                      \u00035                  \u0004 11",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "26",
+    "text": "下列 printf( )函式會執行幾次？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "31",
+    "text": "有關關聯式資料庫的敘述，下列何者正確?\n           for(i=0; i<7 ; i++)\n             for(j=0 ; j<i ; j++)                                                             1資料與程式有相依性 2資料結構較受限制                            3使用一組表格來表示資料 4各資料具有重複性\n                 printf(\"%4d\",i*j);",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "32",
+    "text": "關聯式資料模型不包括下列何者?\n  \u0001 21 次                         \u0002 15 次                       \u00037次                \u0004 28 次       1資料結構                   2資料操作                   3資料安全               4資料完整性",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "27",
+    "text": "下列演算法為輸入一個十進位數字，將該數字轉為二進位數字。",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "33",
+    "text": "關聯式資料模型通常以下列何種語言來操作儲存在關聯表中的資料?\n                Algorithm： Convert Decimal to Binary                                          1 SQL                   2 HTML                  3 XML               4 XSL\n                                read a decimal number\n                                while number>0 do",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "34",
+    "text": "關聯表是一種具有名稱的幾維資料表?\n                                digit = number modulo 2                                       1一維                     2二維                     3三維                 4四維\n                                push digit to stack",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "35",
+    "text": "通常正規化(normalization)是以功能____＿的分析為基礎。空格中應填列下列何者？\n                                number = number/2\n                                end-while                                                     1相依性(dependency)        2互斥性(exclusion)         3獨立性(independency)  4組合性(combination)\n                                while stack is not empty do",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "36",
+    "text": "採用何種技術可達成資料庫的平行處理與容錯?\n                                pop a digit from stack and print it out                       1 RAID                  2 RFID                  3 CGI               4 CAD\n                                end-while",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "37",
+    "text": "下列何者不是三大檔案結構(file organization)之一?\n     若輸入之十進位數字為 12 則第一個 while 迴圈結束時，stack 之內容為何？                                              1循序式(sequential)        2索引式(indexed)           3階層式(hierarchical)  4雜湊式(hashed)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "38",
+    "text": "以 SQL 執行資料列之排序，可採用下列何種命令?\n          \u0001            \u0002              \u0003              \u0004                                        1 SORT BY               2 GROUT BY              3 DISTINCT BY       4 ORDER BY",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "39",
+    "text": "下列何種合併之條件是根據相同的共同欄位值，並且會消除結果表格中的重複欄位?\n              0            1              1              0\n                                                                                              1等值合併(equi-join)        2自然合併(natural join)     3外部合併(outerjoin)    4聯集合併(union join)\n              0            3              1              1\n                           6              0              0",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "40",
+    "text": "美國國家標準局（ANSI）之標準規劃需求委員會(SPARC)發展出的三層資料庫系統架構包括內部層\n              1\n              1            12             0              1                                     (Internal level)、外部層(external level)、概念層(conceptual level)。其中何者為使用者看到的資料庫樣貌？\n                                                                                              \u0001內部層                    \u0002外部層                    \u0003概念層                \u0004內部層與概念層",
+    "options": [],
+    "answer": "2"
+  }
+]

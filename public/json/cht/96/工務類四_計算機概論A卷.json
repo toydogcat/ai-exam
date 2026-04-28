@@ -1,0 +1,306 @@
+[
+  {
+    "number": "11",
+    "text": "設計資料倉儲時所用的資料模型稱之為何？\n類別：\n類別：工務類專業職(四\n   工務類專業職 四)第一類專員\n            第一類專員\n                                                                                                \u0001 Multi-dimensional Data Model                  \u0002 semantic data model\n科目：\n科目：計算機概論                *請填寫入場通知書號碼：_______________\n                                                                                                \u0003 relational data model                         \u0004 ER model\n注意：\u0001作答前須檢查試卷與答案卡所標示之卷別\n    作答前須檢查試卷與答案卡所標示之卷別(分\n    作答前須檢查試卷與答案卡所標示之卷別 分 A、    、B 卷)是否一致\n                                    是否一致，\n                                    是否一致，以及入場通知書號碼、\n                                         以及入場通知書號碼、桌角\n    號碼、\n    號碼、應試類組是否相符。\n       應試類組是否相符。",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "12",
+    "text": "資料庫系統通常以什麼樣的資料單位為處理上的基本單位？\n   \u0002本試卷正反兩頁共 50 題，每題 2 分，限用 2B 鉛筆在「答案卡」上作答。                                                     \u0001字串(string)               \u0002資料記錄(data record) \u0003檔案(file)                  \u0004位元(bit)\n   \u0003本試卷之試題皆為單選選擇題，請選出最適當答案，答錯不倒扣；未作答者，不予計分。\n    答案卡務必繳回，\n    答案卡務必繳回，未繳回者該科以零分計算。\n   \u0004答案卡務必繳回 未繳回者該科以零分計算。",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "13",
+    "text": "下列何者不是交易(transaction)應該具有的特性？\n                                                                                                \u0001 availability            \u0002 consistency         \u0003 isolation             \u0004 durability",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "下列有關物件導向程式語言的敘述，何者正確？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "若一具有 n 位元的電腦系統採用 1 的補數法來表示負整數, 則所能表示的最小整數為何？\n \u0001 class variables 會因為物件的產生或消失而產生或消失\n                                                                                                 \u0001 -2n-1      \u0002 -2n + 1    \u0003 -2n-1 + 1  \u0004 -2n\n \u0002 A 種物件內有 B 種物件，也就是 A 種物件 has-a B 種物件時，適合將 A 物件放入 B 物件中成為 B",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "下列何項是無線區域網路的標準協定?\n   物件的物件變數(instance variable)\n                                                                                                \u0001 Bluetooth               \u0002 IEEE",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "在通信網路中，網路與網路界面間使用不同協定的網路節點設備稱之為何?\n \u0004一個類別(class)中可以有名稱相同的物件變數\n                                                                                                \u0001 switch                  \u0002 access point        \u0003 gateway               \u0004 router",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "下列 SQL 語法的空格應填入哪一個關鍵字？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "關於 cookie 的敘述，下列何者錯誤？\n      INSERT _______ PRODUCT VALUES (‘ABC’, 45);\n                                                                                                \u0001 cookie 儲存在使用者的電腦上                             \u0002 cookie 無法用來對使用者做認證(authentication)\n \u0001 INTO               \u0002 TO                    \u0003 FOR                    \u0004 ON\n                                                                                                \u0003 cookie 會記錄你有多常造訪一個網站                          \u0004 cookie 會記錄你的喜好(preferences)",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "有關 C 語言的敘述，下列何者錯誤？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "下列何項非常類似於要徑法(Critical Path Method, CPM)？\n \u0001 C 函式的參數傳遞是傳值呼叫(Call by value)              \u0002 C 的函式中可定義其他函式\n                                                                                                \u0001 Networking chart        \u0002 PERT chart          \u0003 Gantt chart           \u0004 Flow chart\n \u0003位址(Address)亦可傳入函式中                          \u0004 C 具有使用者自訂資料型態的功能",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "19",
+    "text": "請問 PCM( Pulse Code Modulation)是哪一種轉換？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "下列敘述何者錯誤？\n                                                                                                \u0001 Analog-to-analog        \u0002 Analog-to-digital   \u0003 Digital-to-analog     \u0004 Digital-to-digital\n \u0001 Java 是跨平台的程式語言",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "20",
+    "text": "下列何項術語不直接與 Web Services 架構相關？\n \u0002 Java 由 Sun Microsystems 和 Microsoft 聯合發展出來的\n                                                                                                \u0001 RSVP                    \u0002 WSDL                \u0003 XML                   \u0004 SOAP\n \u0003 Java 是物件導向，高階程式語言",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "21",
+    "text": "在哪些輸入條件下，下列邏輯電路的輸出為 1？\n \u0004執行 Java 程式需要 Java Virtual Machine\n                                                                                                \u0001 A=0、B=1",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "5",
+    "text": "基本上計算機能直接處理的語言是由 0 與 1 所組成的何種語言？\n                                                                                                \u0002 A=0、B=0\n \u0001機器語言                \u0002組合語言                   \u0003高階語言                    \u0004編譯語言\n                                                                                                \u0003 A=0、B=0；A=0、B=1",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "6",
+    "text": "下列各閘中，何者又稱為萬用閘(Universal Gate)？\n                                                                                                \u0004 A=1、B=0；A=0、B=1\n \u0001 NOR 閘              \u0002 AND 閘                 \u0003 XOR 閘                  \u0004 XNOR 閘",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "22",
+    "text": "在范紐曼〈von Neumann〉計算機結構中，哪兩種組成元件必須載入到記憶體？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "下列四個數值何者與其他三者不同？\n                                                                                                \u0001資料與索引                    \u0002資料與指令                \u0003指令與堆疊                  \u0004索引與堆疊\n \u0001 (1011101.111)2     \u0002 (135.7)8              \u0003 (93.775)10             \u0004 (5",
+    "options": [
+      "7)16"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "23",
+    "text": "某一公司之網路位址(network address)為",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "8",
+    "text": "下列程式的計算時間複雜度(Time Complexity)為何？\n                                                                                                部電腦，則其網路遮罩應為何？\n    i := 2\n    while i < n do                                                                              \u0001",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "24",
+    "text": "下列何者為全球資訊網(World Wide Web)表示網頁地址的方式？\n          i := i2\n                                                                                                \u0001 URL                     \u0002 HTML                \u0003 DNS                   \u0004 UML\n          x := x + 1\n       end",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "25",
+    "text": "視訊控制卡包含一個_____，用以釋放 CPU 為了顯示影像所需的數百萬次運算所造成的負荷。空格中應為\n \u0001 Θ(n2)              \u0002 Θ(n log2n)            \u0003 Θ(log2n)               \u0004 Θ(log2log2n)           下列何者？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "9",
+    "text": "下列何者不是 ER 模型表示資料所用的方式？                                                                        \u0001電纜                       \u0002微處理器                 \u0003 DRAM                  \u0004硬碟\n \u0001 relationship       \u0002 attribute             \u0003 class                  \u0004 entity",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "26",
+    "text": "下列何者之規格保證提供了足夠的字元來涵蓋世界上主要的語言？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "10",
+    "text": "關聯式資料庫查詢語言的理論基礎為何？                                                                           \u0001 UNICODE                 \u0002 ASCII               \u0003 EBCDIC                \u0004 RAM\n \u0001 join dependency    \u0002 functional dependency \u0003 normalization theory   \u0004 relational algebra\n                                                                                                                                           【請接續背面】",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "27",
+    "text": "資訊安全中最重要的三項目標為 CIA，其中 C 是保密性(Confidentiality)、A 是可用性(Availability)，I 則是",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "41",
+    "text": "已知下列程式片段，執行完此片段之後 svar 的值為多少？\n 下列何者？                                                                                      svar = x",
+    "options": [
+      "int x(n)\n \u0001資訊(information)       \u0002完整性(integrity)       \u0003獨立性(independence)   \u0004區隔性(isolation)       { if (n<=1) return 1; else return (x(n-1)+x(n-2));};"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "28",
+    "text": "請問 OSI 所定的網路七層架構中，哪一層負責處理封包的路由及定址？                                                  \u00016                         \u00025                          \u00034                               \u00043\n \u0001實體層                   \u0002連接層                  \u0003網路層                 \u0004傳輸層",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "42",
+    "text": "物件會依照傳入的參數不同，自動呼叫對應的函式稱之為何？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "29",
+    "text": "在作業系統的概念中，下列何者與「讓多個程式可同時在主記憶體中執行」無關？                                                \u0001 polymorphism             \u0002 messaging                 \u0003 inheritance                    \u0004 encapsulation\n \u0001虛擬記憶體(Virtual Memory)                       \u0002批次處理(Batch Processing)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "43",
+    "text": "下列為 Java 程式，在執行完程式片段後，標準輸出會顯示什麼結果？\n \u0003 CPU 排程(CPU Scheduing)                      \u0004多元程式(Multi-programming)                        Class sample 1{ public static void main (String args[])",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "30",
+    "text": "有一應用程式需要以一個變數來表示一個月中的某一天，請問此變數至少需要多少位元？                                                  { int a = 3; System.out.print(a<<=2);}}\n \u00013                     \u00024                    \u00035                   \u00046                  \u00013                         \u00022                          \u00036                               \u0004 12",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "31",
+    "text": "請問 WORD 的何項功能可以用來製作大量含不同收件人資訊的邀請函？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "44",
+    "text": "請選出正確的 Internet 服務及相對應的通訊埠為何？\n \u0001合併列印                  \u0002交互參照                 \u0003追蹤修訂                \u0004製作目錄               \u0001 smtp : 25                \u0002 ftp : 23                  \u0003 telnet : 21                    \u0004 http : 82",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "32",
+    "text": "下列記憶相關裝置中，何者速度最快？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "下列何項排序演算法有平均最佳執行時間？\n \u0001暫存器(register)                               \u0002快取(cache)                               \u0001 quick sort               \u0002 merge sort                \u0003 heap sort                      \u0004bubble sort\n \u0003主記憶體(main memory)                           \u0004硬碟(hard disk)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "46",
+    "text": "若資料序列(Sequence)為 18, 25, 63, 50, 42, 32, 9，且雜湊函數(Hash Function)為 H(key) = key mod 9，則與 18",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "33",
+    "text": "組合語言中，哪一種定址模式表示指令運算元即為指標所指的記憶體位置？                                                   發生碰撞(Collision)的資料有幾個？\n \u0001立即(immediate)         \u0002間接(indirect)         \u0003直接(direct)          \u0004索引(index)          \u00011                         \u00022                          \u00033                               \u00044",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "34",
+    "text": "每一個網頁有一個獨特的位址，稱為下列何者？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "47",
+    "text": "右圖為一個無方向性(Undirected)的加權圖(Weighted Graph)，頂點(Vertex)上的數字為其編號，線(Edge)上的\n \u0001超連結(Hyperlink)        \u0002探索工具(Google)         \u0003萬用資源定位器(URL) \u0004瀏覽器(IE)                   數字代表花費(Cost)。此圖形的最小花費展開樹(Minimum-Cost Spanning Tree)的總花費(Total Cost)為：",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "35",
+    "text": "何種 CPU 的結構設計是儘可能小型化，簡單化，因此此類結構的 CPU 處理速度較快，系統也相對穩定？                                 \u0001 15\n \u0001 CISC                 \u0002 RISC                \u0003 ENIAC              \u0004 MITS              \u0002 16",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "36",
+    "text": "下列何者不屬於 ATM（自動提款機）的資料處理作業方式？                                                                                                                                    1                       2\n                                                                                       \u0003 17                                                                                9                        2\n \u0001即時處理                  \u0002連線處理                 \u0003批次處理                \u0004分散處理                                                                                 7                         3\n                                                                                       \u0004 18\n                                                                                                                                                                                           5",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "37",
+    "text": "已知下列霍夫曼編碼規則：                                                                                                                                      0                     3\n                                                                                                                                                         8\n    字母      a       b         c         d     e       f                                                                                                                6               1\n    編碼      1111    00        01        110   100     1110\n                                                                                                                                                                   4                       5\n    請問下列哪一個字串會得到 11110010001110 的編碼結果？                                                                                                                                         4\n \u0001 fabcf                \u0002 abecd               \u0003 debcd              \u0004 edcbf",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "48",
+    "text": "如果依序輸入六項資料，下列何者所建立的二元搜尋樹(Binary Search Tree)層數最少？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "38",
+    "text": "當主機的 IP 位址已知，何項協定名稱是用來找出該主機的 MAC 位址？\n                                                                                       \u0001 4, 1, 5, 6, 2, 3         \u0002 1, 2, 3, 4, 5, 6          \u0003 3, 2, 6, 1, 4, 5               \u0004 3, 2, 5, 1, 4, 6\n \u0001 SIP                  \u0002 NNIP                \u0003 ARP                \u0004 RTP",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "49",
+    "text": "請問 Output 端何種排列順序是可能的？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "39",
+    "text": "下列關於 JSP(或 ASP)網頁技術敘述，何者錯誤？\n                                                                                       \u0001 145623                                Output\n \u0001 JSP(或 ASP)程式是由 server 端執行\n                                                                                       \u0002 463251\n \u0002 JSP(或 ASP)程式會產生 HTML 檔案                                                                                                  <=                                                 <= 123456\n                                                                                       \u0003 356421\n \u0003 JSP(或 ASP)程式是由 client 端下載並執行\n                                                                                       \u0004 263451\n \u0004 JSP(或 ASP)程式在不同的 client 端會產生不同的 HTML 檔案",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "40",
+    "text": "下列關於 IPv6 之敘述，何者錯誤？\n                                                                                                                                                              STACK\n \u0001支援固定長度基底標頭                                  \u0002支援擴展變動長度標頭",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "50",
+    "text": "某作業系統之實體記憶體有 256 K bytes，而其虛擬位址(virtual address)有 20 bit，其中 13 bit 要設為 page frame\n \u0003支援 64 位元 IP 位址                              \u0004支援任何廣播位址\n                                                                                       裡的 Offset，假設每一地址的資料為 1 byte，則實體記憶體可以放進多少 page？\n                                                                                       \u00018                         \u0002 16                        \u0003 32                             \u0004 64",
+    "options": [],
+    "answer": "1"
+  }
+]

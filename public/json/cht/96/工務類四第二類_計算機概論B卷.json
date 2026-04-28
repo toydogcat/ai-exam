@@ -1,0 +1,332 @@
+[
+  {
+    "number": "7",
+    "text": "` EXCEL   U      h    “Nov-06-2007”  ' c   ' : ~ u#\u0011\n\u0016           \u0017         \u0018\u0019          \u001a               \u0016           \u001b      \u000f      \u001c (\u001d)\u001e \u001f \u0016 \u001b \u0011\n                                                                                                                                                                                           \u0001 mmmm-dd-yyyy                            \u0002 mmm-dd-yyyy                                        \u0003 mmm-d-yyyy                                             \u0004 mm-dd-yyyy\n              !       \u0018\"        #                   $           %      &                                                             *\u0001\u0002\u0003\u0004 \u0005 \u0006 \u0007 \b\n                          \u0001\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \u0002",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "8",
+    "text": "   \u0003             40   c \u000e                                    x   c \u000e                     4 Kbytec  u 7200 rpmc   \u0003   \n        \u000e                                             \u000e\u000f\b\u0010(\u0011 A\u0012B \b)\u0013 \u0014 \u0015 \u0016 \u0017\u0018 \u0019 \u001a \u001b \u001c \u001d \u001e \u001f   \u0012! \"\n                           \u001f   \u0012# \u0007$ % \u0013 \u0014 & ' (                                                                                                                                            1 u",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "9",
+    "text": ")       U ¡ ¢  B £ ¤cgiga (G )r U                                      2   ¥         Q       T \u0011\n                                                                                                                                                                                           \u0001 10                                      \u0002 20                                                 \u0003 30                                                     \u0004 40",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "1",
+    "text": "\u0001\u0002\u0003(Modem)\u0004 \u0005 \u0006 \u0007 \b \u0003                                                                                 \u000e \u000f \u0010 \u0011",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "10",
+    "text": "¦ :  N § ¨ ©             IEEE           ª « ¬ ­ ® / \u0001U ¡ R c® / \u0001 ¯ °  U ¡  '  \u001fK ( )                                                                               8 d ± (bits)c\n    \u0001                 \u0012     \u0013         \u0014   \u0015                         (CPU)        \u0002\u0016 \u0017 \u0016 \u0018          (I/O)                    \u0003\u0019 \u001a \u001b    (memory)                   \u0004\u001c \u001d \u001e      (bus)\n                                                                                                                                                                                           ² ³  ± uk ´ µ ¶  ± c· \u001f                                       4 d ± u¯ ° ¸ k ¹ º » @ \u0001\u000f \u0010 (fraction)c² »                                                       3 d ± u¼ \u0001",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "! \" #$ % \u0004                                                             C++& ' ( ) * + \u0019 \u001a \u001b , -                      . / \u0011\n                                                                                                                                                                                           (exponent)c ¼ \u0001\u000f  ½ ) ¾ -4 ¿(excess-4 code)c  \u001f                                                                        \u000e d 10 °                      \u0001T h À Á Â        01100101\n    \u0001* + \u0019 \u001a \u001b , - 0 \u0019 \u001a \u001b                                                            (   )    1    2   3\n                                                                                                                                                                                              ® / \u0001Ã ¿^ Ä \u0011\n    \u0002* + \u0019 \u001a \u001b , - 4 5 6 7 8 9 & ' : \u0007\n                                                                                                                                                                                           \u0001",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "1",
+    "text": "5                                     \u0002",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "75                                               \u0003",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "0                                                    \u0004",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "3",
+    "text": "5\n    \u0003* + \u0019 \u001a \u001b , - 0 ; < = > ? @                                                                    A       2   B    C",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "11",
+    "text": "( ) Å Æ Ç È ¤cÉ ¼ ~ \u000e dÊ  dK\n    \u0004* + \u0019 \u001a \u001b , - 0 & ' D E 2 F\n                                                                                                                                                                                           \u0001e f g                                    \u0002X \b Ë                                               \u0003X \b ±                                                   \u0004 URL",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "3",
+    "text": "G H \u0001\u0002 ASCII \u0003 \u0004 \u0005 \u0002\u0006 \u0007\b                                                                    \u0003 \u0004 ‘A’               \u0003 \u0004 \u0005        \u0006 \u000e \u000f",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "12",
+    "text": "( )  Ì \u0013 \u0014 \u0015                 N §                    ct u( ) \u001f #J Í Î \u0011\n                                                                                                                                                                                           \u0001 CISC                                    \u0002 RISC                                               \u0003 DRAM                                                   \u0004Ï E \u0013 \u0014\n    I             J       K\u0001 0101 0110",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "13",
+    "text": "#$ Ð  Ñ                          Ò É Ó Ô \u0011\n    \u0002 0110 0101\n                                                                                                                                                                                           \u0001m Õ ( ) $ Ö  × Ø                                                                             \u0002Ù \u0014                   Ú\n    \u0003 0100 0001\n                                                                                                                                                                                           \u0003E & Ù \u0014                                                                                       \u0004m Õ           Û    \u0016   \u0017    R\n    \u0004 0011 1000",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "14",
+    "text": "dN § Ü Ý                 Þ ß \u0004 à á â ã  #ä å \u0018 2 h æ                                             ç \u001b \u0011\n                                                                                                                                                                                           \u0001N § \u0014 è                                  \u0002& ' a b                                             \u0003ç \u001b  &                                                 \u0004\u0007 \b \u0003é _",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "23",
+    "text": "#$ % \u0004 L M N O                                                            P \" Q R \u0011\n    I             J       K\u0001 S                T           U",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "15",
+    "text": "        1970 ê r            PASCAL a b \u0004 À v w ë ì uí î cï ð Y Z                                                            ñò ó             & ' : \u0007 \u0011\n    \u0002V W X \b '\n                                                                                                                                                                                           \u0001ô 5 a b                                  \u0002a õ ö O                                             \u00036 7 8 9                                                 \u0004^ _ º & ' : \u0007\n    \u0003Y Z [",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "Ã ÷ \u0015 ø ù ( ) ³ ú a b û ü                                  & '  y ý \u001f #$ \u0011\n    \u0004\\ ] ^ _\n                                                                                                                                                                                           \u0001\u0003\u0015 a b                                   \u0002þ \b R                                               \u0003\u0001\u0002\u0003 & '                                                 \u0004\u0004 \u0005 a b",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "\u0006 Ñ  Ú ¹ \u0007 (ERP)c\u0004 \b 5 ô                                          \u000f           Ò É       T        Ó Ô                         c% \u000e \u000f \u001f #$ \u0011\n                                                                                                                                                                                           \u0001ä å ñ\u0010 \u0011                                                                                      \u0002½ \u0012 ñ\u0013 \u0014 ø \u0007 ñ, \u0015\n                                                                                                                                                                                           \u0003ö O Ý \u0016                                                                                       \u0004\u0017 \u0018  Ú",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "\u0019 \u001a h À ( )          Google \u001b \u001c \u0015 Å Æ ö \u001d c\u001e \u001f                                           \u001c \u0014 /é _ h                  ! \" u\u001f #$ \u0011\n    \u0001 0101 0110                                                                  \u0002 0110 0101                                \u0003 0100 0001                          \u0004 0011 1000\n                                                                                                                                                                                           \u0001\u001b \u001c \u0015 ö O                                \u0002Ò # ' ö O                                           \u0003$ % & ö O                                               \u0004Å Æ ö O",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "` C a b                                 c\u001f                                \u000e de f g h 0 i j k D E                           l 5 m n ^ o cp q \u0018 i j \u0011",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "' Internet ( ) Q ' * + \u0004 ² ,                                        \u0011\n    \u0001 continue;                                                                  \u0002 break;                                   \u0003 end;                               \u0004 return;\n                                                                                                                                                                                           \u0001- .     T1 / · ( )                                                                            \u0002- . N 0 )                       1   ·   (       )\n                                                                                                                                                                                           \u0003- . N 0 )                                                                                     \u0004- .  ) N 2 ) O",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "5",
+    "text": "`V W r \u0001(Boolean Algebra) c\u001f s ' t uv w \u0011\n                                                                                                                                                                                                                  DSL ( )                                                                                                              3       )    \u0001\u0002\u0003(      )\n                            (AB)’= A’ + B’\u0011",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "20",
+    "text": "        MP3 u#\u0004 ² 4 á                      5 6 7 8  9  ' \u0011\n    \u0001x y z                                                                       \u0002^ 5 z                                     \u0003{ | } ~ z                           \u0004 , z\n                                                                                                                                                                                           \u0001 MP3 7 8          :   h     À    \u000e   ;       <    =       \n                                                                                                                                                                                           \u0002 MP3 7 8 > \u0006 Û g ñ[ ? @ 5 6 A h À \u0013 \u0014",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "6",
+    "text": "  \u001f & '                                                         cp=p+i*j  D E                    \u0011\n                                                                                                                                                                                                                                                                                      \u000e     \u001f    3\n                                                                                                                                                                                           \u0003 MP3 B C 7 8 ? @ Â D @ cE 5 F ¥ G % H < I\n                          for (i=9; i > 4; i=i-2)\n\n                                                                                                                                                                                           \u0004 MP3 B C \u0004 J K L B C\n                                                        for (j=i; j <= 12; j=j+3)\n                                                                     p=p+i*j;\n    \u00016                                                                           \u00027                                         \u00038                                   \u0004 12\n                                                                                                                                                                                                                                                                             \u0010\b \u0011 \u0012 \u0013 \u0014 \u0015",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "21",
+    "text": "#'Í Î \u0004 \u000e 'Ð · M ' \u0004 * N O                              cp h P r         Q ¿        \u0011",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "37",
+    "text": "         V W               ² Ì É       ° J x X u CIAc                     C \u0004 [ i ± (Confidentiality)ñA \u0004 h ) ± (Availability)cI  \u0004\n   \u0001R S J ) Í Î     (Bluetooth)                                     \u0002J ) T U Í Î       (RFID)                                        \u001f #$ \u0011\n   \u0003J ) ö O (Wi-Fi)                                                 \u0004 HSDPA(High Speed Downloading Packet Access)                \u0001                  (information)                 \u0002j \b ±       (integrity)         \u0003² ³ ±              (independence)   \u0004 ´ ±     (isolation)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "22",
+    "text": "#$ ý u WWW *                V W X Y                 N Ë x C V W \u0003¸ \u0011",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "38",
+    "text": "        OSI z ~                   ö O µ ¶ é _            c \u000e ¶ ´ · \u0013 \u0014 ¸ \u000e              O . c ~ m \u0011\n   \u0001 SSL                      \u0002 SET                                 \u0003 Smart Card                   \u0004Entrust                      \u0001¹ \u001b ¶                                            \u0002( · ¶                           \u0003ö O ¶                               \u0004 \u0016 ¶",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "23",
+    "text": "ö \u001d 7       ' u#\u0011",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "39",
+    "text": "` Ñ                          ë ì       c\u001f #$ M º0  d& ' h $ ¤`Ò \u0019 \u001a \u001b                                       D E »J e \u0011\n   \u0001 DOC                      \u0002 TXT                                 \u0003 MP3                          \u0004HTML                         \u0001¼ © \u0019 \u001a \u001b                     (Virtual Memory)                                    \u0002½     \u0013        \u0014     (Batch Processing)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "24",
+    "text": "uZ É [ \\   V W c] ^                   \u0017 _ P Ê ` ) c\u001f #'Q ' ² a \u0011                                                         \u0003 CPU \u001e &                     (CPU Scheduing)                                      \u0004 ± & '              (Multi-programming)\n   \u0001ù   b \u0010     (Backup) \u0002ù   Ã ¶ c d e                         \u0003ù   f g       (Hiding)      \u0004ù   h i",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "40",
+    "text": " \u000e  ) & '  É À \u000e d¾ \u0001 U ¡ \u000e d¿                                                \u000e À c   ¾ \u0001Á   É    ± \u0011",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "25",
+    "text": "#$ h ù j \b           Þ ß e t k ÷ ý N § h l N                   IP  m \u0011                                                     \u00013                                                \u00024                               \u00035                                   \u00046\n   \u0001 DNS                      \u0002 PROXY                               \u0003 HTTP                         \u0004 URL",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "41",
+    "text": "        WORD                  #J Ó Ô h À )                \u0010  ? £ ; % $ Â 7 \u0017                         Ã  Ä \u0011",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "26",
+    "text": "#$ u\u000e d( ·  ) ö O M J ) ö O                            n - co þ × \u0006 p $ &           q ) \u0015    Ó Ô \u0011                        \u00015 Å                  Æ                           \u0002x Ç G                          \u0003È É Ê Ë                             \u0004\u0010  x Ì\n   \u0001J ) r P /     (Wireless AP)                                     \u0002O . \u0015     (Router)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "42",
+    "text": "\u0019 \u001a Í e n -                           c#$  ­ ² F \u0011\n   \u0003L s \u0015     (Gateway)                                             \u0004t · \u0015      (Bridge)                                         \u0001Î r \u0015                    (register)                                               \u0002F P       (cache)",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "27",
+    "text": "      TCP/IP \u0004 \u000e 'K                                                                                                         \u0003Ò \u0019 \u001a \u001b                    (main memory)                                          \u0004¢        (hard disk)\n   \u0001ö O u v : b               \u0002ö O *             w    ~             \u0003ö O  Ñ                       \u0004ö O \u001b \u001c \u0015",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "43",
+    "text": "ô 5 a b                     c \u000e '~ m ¨ ' U ¡ ¼  X \b ± Ï u¼ X z ¼                                      \u0019 \u001a \u001b  - \u0011",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "28",
+    "text": "x n  + ä y     cz ( ) Ð · M '                   IC {c | } {ñá ~ Ù ¸ {c\u0004 ( ) #'Í Î \u0011                                        \u0001³ Ï                (immediate)                   \u0002& ·     (indirect)              \u0003/ ·       (direct)                  \u0004 Ç     (index)\n   \u0001 RFID                     \u0002 GPS                                 \u0003 VR                           \u0004 AI",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "44",
+    "text": " \u000e d\u0016 \u0017 \u0018 \u0019 \u001a \u001b \u001c \u001d \u001e \u001f \u0007 ! \u0001\u0002 \" \u000f",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "29",
+    "text": "  À    16 uí  \u0001T      3F5H  À      8 uí  »  #U ¡ \u0011                                                                     \u0001¾ ( ^                    (Hyperlink)             \u0002Ð   Ñ       (Google)          \u0003£ )  Ú ~  \u0015               (URL) \u0004Ò Ó \u0015       (IE)\n   \u0001 17658                    \u0002 0317058                             \u0003 033333118                    \u0004 10138",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "45",
+    "text": "#' CPU                       ^ _ : \u0007 \u0004 Ôh Ô @ Õ º cÖ ª º c×   \" ^ _                                      CPU \u0013 \u0014  ­ Ø F c           : Í > Ù ~ \u0011",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "30",
+    "text": "À ¯       \u0001(5 d ± ) U ¡      10 °               T -10 ¤cU ¡ ^ Ä u#\u0011                                                       \u0001 CISC                                            \u0002 RISC                           \u0003 ENIAC                              \u0004 MITS\n   \u0001 11010                    \u0002 10110                               \u0003 10101                        \u0004 11100",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "46",
+    "text": "#$ % \u0005 \u0006                          ATMÚ\u0004 * m Û \u0003Ü   \u0013 \u0014  Ñ Q ' \u0011",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "31",
+    "text": "`  \u0016 \u0017 Q 7 \u001fc\u001f Y Z N O                    \u0016 \u0018 u 1\u0011                                                                           \u0001Ï ¤\u0013 \u0014                                           \u0002( ) \u0013 \u0014                         \u0003½     \u0013        \u0014                    \u0004 Ý \u0013 \u0014\n   \u0001 A=0ñB=1",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "47",
+    "text": "# $ \u0001\u0002% & ' ( ) * + ,\n   \u0002 A=0ñB=0                                                                                                                           g     Þ                  a              b            c            d         e            f\n   \u0003 A=0ñB=0A=0ñB=1                                                                                                                   Ã     ¿                  1111           00           01           110       100          1110\n   \u0004 A=1ñB=0A=0ñB=1                                                                                                                     \u001f                    \u000e dg ß ø Á Â              11110010001110          Ã ¿^ Ä \u0011",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "32",
+    "text": "`        von Neumann\u0007 \b \u0003^ _                       c p 'ô ý ± 7    \u0017 Â \u0019 \u001a \u001b \u0011                                         \u0001 fabcf                                           \u0002 abecd                          \u0003 debcd                              \u0004 edcbf\n   \u0001  M  Ç                 \u0002  M ¼                             \u0003¼  M                       \u0004 Ç M  ",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "48",
+    "text": "\u0001\u0002 S-R - . \u0007                             /       X\u001d 0 1 !        1\u000f",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "33",
+    "text": " \u000e   ö O  m (network address)u",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "34",
+    "text": "#$ uW              ö (World Wide Web)U ¡ ö \u001d  m                    Q ' \u0011\n   \u0001 URL                      \u0002 HTML                                \u0003 DNS                          \u0004 UML",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "35",
+    "text": "2       ¸ {\u000e ; \u000e d_____c) À                    CPU uZ        ¡ < ¡ z        \u0001¢ £       X \b z \u0011 ý      ´ ¤ ¥¦     u      \u0001 S=1ñR=1                                         \u0002 S=1ñR=0                        \u0003 S=0ñR=1                            \u0004 S=0ñR=0\n       \u001f #$ \u0011",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "49",
+    "text": "#$ % \u0004 L M N O                                  P \" Q R \u0011\n   \u0001N 3                       \u0002§ \u0013 \u0014 \u0015                              \u0003 DRAM                         \u0004¢                           \u0001S T U                                            \u0002V W X \b '                       \u0003Y Z [                               \u0004\\ ] ^ _",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "36",
+    "text": "#$ ¹  [ ¨ m Õ Z © ª                 g ±             « ¬ ­ ® ¯ Ò É       a b \u0011",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "#$ à ¼ ` á ¤&                                   c( )  á                 â ã \u000e d ä Ê Ë  ä                \u000e ô ¼  \u0011\n   \u0001 UNICODE                  \u0002 ASCII                               \u0003 EBCDIC                       \u0004 RAM                         \u0001               ¨     ©                           \u0002\u0017  å æ                         \u0003  ^ _                             \u0004þ \b R",
+    "options": [],
+    "answer": "1"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "number": "1",
+    "text": "\u0001\u0002\u0003\u0004\u0005\u0004\u0006\u0007\u0004\b                 1   \u000e \u000f \u0010 \u0011 10 \u0012\u0007\u0002\u0013   \u0014 \u0002\u0015 1     \u000e \u000f \u0010 \u0011\n  10 \u0012\u0007 \u0013       \u0016 \u0017 \u0018 \u0019",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": "0 1 2 \u0017     100,000 \u00043 \u0018 \u0019 4 5 6 7 8 9 : ; < = > 50,000 \u0012 ? 1 2 \u0018 \u0019 @\n   A \u0017 B C A \u0004\b 50,000 \u0004 D \u0004\u0004\u0010 12 \u0012 B \u0004\b 20,000 \u0004 D \u0004 30 \u0012 C \u0004\b\n   10,000 \u0004 D \u0004 20 \u0012 \u001a? 1 2 \u0007 NAV \u001f D \u0004_____\u0012",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "E F \u0002\u0015 \u0010 \u0011 GE F                               \u0010       \u0011    \u0007H       (Bid-Ask Spread)I J K _____\u001c \u001d \u0007L M N O                                                      I        ”75”b”96”b”87”b”66”b”55”b”78”b”89”b”76”b”94”b”” \u001a C10   \u0011 \u0007\u0019",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "4",
+    "text": "P Q \u0013 \u0007%R 1 S T U V  W \u0001X   O \u0007Y Z [ \\ ] ^ _ ) ”\u0002\u0002\u0013 ”\u0007T U W X                                                                                                        \u001f    _____\n   O \u0007Y Z \u001f + \\ ] \u0001^ _ ) _____\u0007T U   (` a \u0002 \u0013 b    \u0013 b\u0002\u0002\u0013 b \u0002\u0013\n                                                                                                                                                                   Sub score()\n   %c Q \u0003d ( ! \u0011 )\n                                                                                                                                                                              Dim I, J As Integer",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "0 e f g h i j D 100 \u0012k l e f g 4 \u0004\u0004\b 5 6 m \u0010                                                                      94 \u0012 W ? h i \u0004\bm \u0010 \u001f\n                                                                                                                                                                              Sheets(“sheet1”).Select\n   D \u0004_____\u0012] e _ ) \u0002\u0015 D n / 100 \u0012k l \u0007e f j                                                                         o ! 4 \u0004\u0004\b\u0007p q     r\n                                                                                                                                                                              For I = 4 to 13\n    ) D 100 \u0012k l C 2 \u0012\u0007s \u0006t ^\n                                                                                                                                                                                 score1 = InputBox(“                      :” + Range(“B”&I).Value, “z ( ]                                                         ”, “”)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "6",
+    "text": "u v \u0007 XYZ w \"                     x   y   w       \"       \u0007z    (   {       \"       n| }     5 ~             XYZ w \" \u0007   \u001f _____\n                                                                                                                                                                                 If score1 = “” Then end\n     Function XYZ(ByVal n)\n                                                                                                                                                                                 Range(“C”&I).Value=score1\n            If n = 1 Then\n                                                                                                                                                                              Next\n                        XYZ = 1\n                                                                                                                                                                            End Sub\n            Else\n                        XYZ = n * XYZ(n-1)\n            End If\n     End Function\n\n\n                                                                                                                                                                                                                        $                                        k       ",
+    "options": [],
+    "answer": "4"
+  }
+]

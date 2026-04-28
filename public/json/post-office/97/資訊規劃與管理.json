@@ -1,0 +1,43 @@
+[
+  {
+    "number": "1",
+    "text": "\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b               \u0001\u0002\u0003                 \u000e\u000f\u0010\u0011\u0012\u0013\u0014\u0015\u0016\u0017\u0018\u0019 SQL \u0001\u0002\u0003                                                                                                                       layer)!Å Æ Ú (transport layer)!è êÚ                                                                                                                                                                                                         (network layer)\u001b &  a Ú                                                                                                                                      (link layer)\u001bÛ\n   \u001a\u001b_____\u001c \u001d \u001e \u001f         !\" # $ %       &   ' ( ) * +\u0018\n                                                                                                                                                                                     ï     Ý                                             Ú               î                   p                              \u0015                              ð                           &            ñ           Ú       >    ë       ì            \u0015\u0016\u0017\u0018",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "2",
+    "text": ", - . / 0 \u0015\u00011 \u0006\u00072 _____\u0006\u0007\u001b3 4 5 6 7 8 !9 : ; \u0005, - < = > ? \u0015@ A B\n   C\u001b 2 3 \u0013\u00011 \u0006\u0007D E F G H I J \u000f\u0018\n                                                                                                                                                                                 \u001d &                                       \u0005",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "_____\u0006\u0007K \u000fL M \u0003N \u0001\u0002\u0003        O P \u00011 Q R & O P \u00011 S T \u0015* +\u001b U V W\n   X \u0010; \u0005Y Z [ !\\ ] ^ _ \u0015` a b [ c d \u0018                                                                                                                                           Û¦                            \u000e\u000f¸                                                 ¹                   !ò                      p               H                   ó                          ô            !\u00011                      õ       ö        [               ÷                   N                   U           V           ø            ù           )                          ú           \u001bû          ü               ý",
+    "options": [
+      "è            é    è"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "4",
+    "text": "\u0001\u0002\u0003e f N g h \u0015i j 4 5 H 2 k l H I !_____!m n g h N o p g h \u0018                                                                                                                          ê(Internet)!",
+    "options": [
+      ",                                                                                                              -               õ                   þ           è           ê(Intranet)!",
+      ",                                                                                   -                          è               ê(Extranet)¬                                                     \u0001\u0010\u0018"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "5",
+    "text": "q r d \u001b\u0001\u0002\u0003g h \u0015i j s \u001a\u001bt_____u v w x y \bD z N \u0001\u0002\u0003\u0004\u0005\u0006\u0007{ | \u0015\n   } ~ \u0018\n                                                                                                                                                                                 \u001d \"\u0005\n                                                                                                                                                                                   \"\u0005",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "6",
+    "text": "\u0001\u0002\u0003 e  \u0015i j s \u001a\u001b % \u0001\u0002  > ?                                        [                          \u0015                      [           *       +{        |\n   (Transitive Dependency) 6 2 _____\u0018                                                                                                                                            \u0002                 Ò           2                                  \u0003                   \u0004               \u0005           \u0006               »                                  \u0007           \b                        J           \u0001\u0002\u0003Õ                                  b               Ò                   \u001bÛ                                          ä            Ò                           2                                M           \u0001\u0002\u0003                   5",
+    "options": [],
+    "answer": "4"
+  }
+]

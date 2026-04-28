@@ -1,0 +1,326 @@
+[
+  {
+    "number": "16",
+    "text": "經常使用瀏覽器瀏覽網頁，當我們所瀏覽的網頁找不到時，伺服器會傳回錯誤代碼，此錯誤代碼通常\n類別：\n類別：資訊類專業職(一\n   資訊類專業職 一)專員  專員                                                                                為何？\n科目：\n科目：internet 網路與平台技術          *請填寫入場通知書號碼：_______________\n                                                                                                 \u0001 401               \u0002 403                  \u0003 405                  \u0004 500\n注意：\u0001作答前須檢查試卷與答案卡所標示之卷別\n    作答前須檢查試卷與答案卡所標示之卷別(分\n    作答前須檢查試卷與答案卡所標示之卷別 分 A、    、B 卷)是否一致\n                                    是否一致，\n                                    是否一致，以及入場通知書號碼、\n                                         以及入場通知書號碼、桌角\n    號碼、\n    號碼、應試類組是否相符。\n       應試類組是否相符。",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "在 TCP/IP 的協定中，大部份的協定所使用的錯誤偵測方法都是使用檢查和(checksum)。如果在 IP 的\n   \u0002本試卷正反兩頁共 50 題，每題 2 分，限用 2B 鉛筆在「答案卡」上作答。                                                       標頭中之資料分別是下列的 20 個位元組資料(4500,001C,0001,0000,0411,0000,0A0C,0E05,0C06,0709)，\n   \u0003本試卷之試題皆為單選選擇題，請選出最適當答案，答錯不倒扣；未作答者，不予計分。                                                       其中資料都是 16 進位，則檢查和為何？\n    答案卡務必繳回，\n    答案卡務必繳回，未繳回者該科以零分計算。\n   \u0004答案卡務必繳回 未繳回者該科以零分計算。\n                                                                                                 \u0001 8BB1              \u0002 7C30                 \u0003 9AC2                 \u0004 A018",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "1",
+    "text": "某一網站之網址為 http://www.yahoo.com.tw/，其中”.com”之意義為何？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "承上題，如果 IP 標頭的位元組編號由 0~19，則此檢查和應該取代 20 位元組的哪些位元組之內容？\n \u0001 Computer                 \u0002 Company         \u0003 Common             \u0004 Commerce                    \u0001 6~7 位元組           \u0002 8~9 位元組              \u0003 10~11 位元組            \u0004 12~13 位元組",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "請問 TCP/IP 網路中非連結導向(Connection-Less)之傳輸層的主要通訊協定為何？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "19",
+    "text": "下列對於網際網路中路由協定(Routing protocol)之敘述，何者正確？\n \u0001 TCP                      \u0002 UDP             \u0003 HTTP               \u0004 IP                          \u0001 RIP(Routing Information Protocol)是一種自主系統內(Intra-Autonomous System)的路由協定",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "3",
+    "text": "下列何者是 TCP/IP 網路中標準的網路管理通訊協定？                                                                   \u0002 OSPF (Open Shortest Path First)是一種自主系統間(Inter-Autonomous System)的路由協定\n \u0001 SMTP                     \u0002 ICMP            \u0003 SNMP               \u0004 SMI                         \u0003 BGP (Border Gateway Protocol)是一種自主系統內(Intra-Autonomous System)的路由協定",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "4",
+    "text": "無線區域網路(Wireless LAN; IEEE",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "20",
+    "text": "下列對於 IPSEC 的敘述，何者錯誤？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "5",
+    "text": "網際網路上，所使用之多媒體 e-mail 傳輸的通訊協定為何？                                                                \u0001全名 IP Security，是由 IETF 所設計的一套協定，以提供網際網路上封包的網路安全\n \u0001 POP                      \u0002 MIME            \u0003 SMTP               \u0004 IMAP                        \u0002 IPSEC 並沒有規定要使用哪一種特定的加密或認證方法",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "6",
+    "text": "下列何種網頁程式語言，可處理活動式(active)網頁文件？                                                                 \u0003在 IP 層定義二個協定，一是認證標頭(Authentication Header，AH)，另一是封裝安全 Payload 協定\n \u0001 Java                     \u0002 CGI             \u0003 ASP                \u0004 HTML                        \u0004當一個 IP 資料包有攜帶認證標頭時，在 IP 標頭的協定欄之值要設為 48",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "7",
+    "text": "於 TCP/IP 網路中，下列何種應用層(Application Layer)的通訊協定是使用連結導向之連線服務？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "21",
+    "text": "下列對於 PPP(Point-to-Point Protocol)通訊協定的資料框之敘述，何者正確？\n \u0001 TFTP                     \u0002 SNMP            \u0003 HTTP               \u0004 ICMP                        \u0001 PPP 的資料框中位址欄位(Address Field)的值都是 11111111",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "8",
+    "text": "乙太區域網路(Ethernet LAN)中網路介面卡(NIC)所使用的資料編碼(Data Encoding)方法為何？                                    \u0002 PPP 的資料框中最大的總長度是 1024 位元組\n \u0001 NRZ-L                    \u0002 Manchester      \u0003 NRZI               \u0004 Differential Manchester     \u0003在 PPP 的資料框中前後各有一旗標，其值為 01111110，如果傳輸資料中有 01111110，則 PPP 會採",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "9",
+    "text": "下列哪一種主幹(Backbone)網路架構是最具彈性且易於管理？                                                                用位元組填補(byte stuffing)技術在該資料前加入 01111111，以避免錯誤\n                                                                                                 \u0004 PPP 的錯誤檢查方式與 TCP/IP 的方式相同，使用檢查和的方式\n \u0001 Routed                                     \u0002 Rack-Mounted Collapsed\n \u0003 Chasis-Based Collapsed                     \u0004 Virtual LAN",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "22",
+    "text": "當一台行動裝置移動到外地網路而未取得該網路的位址時，行動裝置可送出什麼訊息以取得該網路的\n                                                                                                  位址？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "10",
+    "text": "在網際網路中，下列何種機制是負責將網域名稱(Domain Name)轉換為 IP 位址？\n                                                                                                 \u0001 agent discovery   \u0002 agent solicitation   \u0003 agent advertisement \u0004 registration request\n \u0001 IIS                      \u0002 ARP             \u0003 DNS                \u0004 OSPF",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "23",
+    "text": "下列對於",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "11",
+    "text": "下列何項協定不是在 OSI 七層的第四層(傳輸層)以上的協定？\n                                                                                                 \u0001",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "4GHz，調變技術為 FHSS(或 DSSS)，理論上最大的傳送速率為 11 Mbps",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "12",
+    "text": "下列哪一個位址是用來定址個別應用程式的位址？\n                                                                                                 \u0003",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "4GHz，調變技術為 FHSS(或 DSSS)，理論上最大的傳送速率為 54 Mbps\n \u0001實體位址                      \u0002 IP 位址           \u0003埠位址                 \u0004 URL\n                                                                                                 \u0004",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "2",
+    "text": "4GHz，調變技術為 FHSS，理論上最大的傳送速率為 2 Mbps",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "13",
+    "text": "如果一條 T-1 專線提供 24 個聲音通道(voice channels)，則一條 T-3 專線提供多少個聲音通道？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "24",
+    "text": "在網際網路上傳輸多媒體資料時，經常會因為網路傳輸的延遲不固定，而造成影像播放容易造成抖動\n \u0001 96                       \u0002 168             \u0003 256                \u0004 672\n                                                                                                  現象，在 RTP 協定中如何解決此問題？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "14",
+    "text": "使用郵件存取協定 POP3，是郵件的接收者從郵局伺服器的信箱下載郵件，其使用的協定及埠各為何？\n                                                                                                 \u0001每一個封包加入時間印(timestamp)及每個封包給一個序號\n \u0001 TCP，100                  \u0002 TCP，110         \u0003 UDP，100            \u0004 UDP，110\n                                                                                                 \u0002增加傳輸區塊的個數，以增加傳輸效率",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "簡易網路管理協定(SNMP)之協定資料單元(PDU)其通訊埠的使用為何？\n                                                                                                 \u0003經過資料壓縮，再傳送\n \u0001埠 141 為代理器使用，埠 142 為管理者使用                   \u0002埠 151 為代理器使用，埠 152 為管理者使用\n                                                                                                 \u0004以混合的方式增加資料流個數\n \u0003埠 161 為代理器使用，埠 162 為管理者使用                   \u0004埠 171 為代理器使用，埠 172 為管理者使用\n\n                                                                                                                                    【請接續背面】",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "25",
+    "text": "下列對於 Web service 的核心元素之敘述，何者錯誤？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "34",
+    "text": "在 TCP 協定中的 TCP 資料框中有一個標頭(header)，其中有一個欄位用來顯示 TCP 標頭的欄位長度，\n  \u0001 UDDI（Universal Description，Discovery and Integration）是用來讓服務提供者註冊服務及服務使用                             是一個 4 位元的欄位，將此欄位的值乘於多少才是標頭的長度？\n   者找尋服務的地方                                                                                           \u00012                 \u00024                 \u00036                \u00048\n  \u0002 WSDL（Web Service Description Language）是用來描述服務的介面，當使用者取得服務 WSDL 時，",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "35",
+    "text": "請問 402 位元組的資料包可被分成幾個 ATM 資料包？\n   可以經由 WSDL 來得知服務如何呼叫                                                                                \u00016                 \u00027                 \u00038                \u00049\n  \u0003 SOAP（Simple Object Access Protocol）是服務提供者及使用者間傳遞請求時所使用之協定",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "36",
+    "text": "下列何者不是 DNS (Domain Name System)主要構成元素之一？\n  \u0004以 Web service 為技術的 SOA 基本上是有狀態的型態之服務(stateful service)                                             \u0001 Name Resolvers   \u0002 DNS Database     \u0003 Name servers    \u0004 IIS",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "26",
+    "text": "下列何者非 SOAP 訊息中的主要元素？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "37",
+    "text": "下列何者為網路上目前常用的自動化錯誤控制(error control)的機制？\n  \u0001 Envelope                \u0002 Header             \u0003 Title              \u0004 Body                          \u0001 ARQ              \u0002 sliding window   \u0003 stop-and-wait   \u0004 ARP",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "27",
+    "text": "下列何者不是 Web Service 的 WSDL 所支援的訊息模式？",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "38",
+    "text": "網際網路中 IPv6 位址長度為何？\n  \u0001 Request/Response        \u0002 Two-Way            \u0003 Solicit/Response   \u0004 Notification                  \u0001 4 Bytes          \u0002 8 Bytes          \u0003 16 bytes        \u0004 32 Bytes",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "28",
+    "text": "下列對於 DOM(Document Object Model)之敘述，何者錯誤？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "39",
+    "text": "檔案傳輸協定(FTP)伺服器通常都是以哪二個埠來做為控制連線及資料連線？\n  \u0001 DOM 文件中的邏輯結構可以用節點樹的形式進行描述                                                                         \u0001埠 20 做為控制連線、埠 21 做為資料連線              \u0002埠 20 做為資料連線、埠 21 做為控制連線\n  \u0002透過對 XML 文件的解析處理，XML 文件中的元素便轉換為 DOM 文件中的節點物件                                                        \u0003埠 14 做為控制連線、埠 15 做為資料連線              \u0004埠 14 做為資料連線、埠 15 做為控制連線\n  \u0003 DOM 的文件節點有 Document、Element、Comment、Type 等等節點類型",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "40",
+    "text": "請問 Sockets 與 Winsocks 是下列何種形式的軟體例子？\n  \u0004要以 Java 程式來處理 XML 文件，DOM 是最好的方法                                                                    \u0001 API              \u0002 TPX              \u0003 DLL             \u0004 RPC",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "29",
+    "text": "請問 CSS(Cascading Style Sheets)可以用來輔助 HTML 檔案內容的呈現，當有多種型態的 CSS 存取時",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "41",
+    "text": "快速路由器(Fast Router)是在 ISO/OSI 七層模式(Model)中的哪一層工作？\n   (像",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "1",
+    "text": "Browser default、2. External style sheet、3. Internal style sheet、4. Inline style)，其串接的順序應該\n                                                                                                      \u0001實體層               \u0002資料連結層             \u0003網路層              \u0004傳輸層\n   為何？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "42",
+    "text": "網際網路上管理與控制 e-mail Serve 和 e-mail Client 間之通訊協定為何？\n  \u0001 1, 2, 3, 4              \u0002 4, 1, 2, 3         \u0003 1, 4, 3, 2         \u0004 4, 3, 2, 1\n                                                                                                      \u0001 SMTP             \u0002 IMAP             \u0003 MIME            \u0004 CMC",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "30",
+    "text": "請問 Java 的 Servlet 下主要方法(method)中，不包含下列哪一個方法？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "43",
+    "text": "下列何項功能是網路防火牆(Firewall)所無法提供的？\n  \u0001 init()                  \u0002 load()             \u0003 service()          \u0004 destroy()\n                                                                                                      \u0001破解病毒                                 \u0002流量管理稽核",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "31",
+    "text": "請問 Servlet 與 JSP 經常是網路程式設計中常用的方法，以 JSP、Servlet 及 Java Bean 來構成\n   MVC(Model-View-Control)架構可改善只使用 JSP 負責 request 及 response 時延展性較差的缺點，下列                             \u0003封包過濾                                 \u0004阻絕異常存取\n   對於此種設計模式中，何者為較佳的方式？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "44",
+    "text": "下列何種通訊協定其功能是執行非連結導向(Connection-Less)之整批式檔案傳輸？\n  \u0001 Java Bean 負責 Model、JSP 負責 view、Servlet 負責 Control                                                 \u0001 FTP              \u0002 TFTP             \u0003 TELNET          \u0004 HTTP\n  \u0002 Java Bean 負責 view、JSP 負責 Model、Servlet 負責 Control",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "下列何種 Web 安全功能是使用於網際網路之應用層(Application Layer)?\n  \u0003 Java Bean 負責 Control、JSP 負責 view、Servlet 負責 Model                                                 \u0001 SSL              \u0002 SET              \u0003 TLS             \u0004 IPSec\n  \u0004 Java Bean 負責 Model、JSP 負責 Control、Servlet 負責 view",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "46",
+    "text": "如果要將兩個不同 Domain 之區域網路 IEEE",
+    "options": [],
+    "answer": "1"
+  },
+  {
+    "number": "32",
+    "text": "群播(Multicasting)經常用於多人會議的應用上，下列何種群播路由協定，群播封包被封裝在一個以核                                               \u0001 Repeater         \u0002 Hub              \u0003 Bridge          \u0004 Router\n   心路由器為目的地的單點傳送封包內？",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "47",
+    "text": "網際網路上網頁文件互相傳輸之通訊協定為何？\n  \u0001 DVMRP (Distance Vector Multicast Routing Protocol)                                                \u0001 HTML             \u0002 XML              \u0003 HTTP            \u0004 FTP\n  \u0002 MOSPF (Multicast Open Shortest Path First)",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "48",
+    "text": "目前 Gigabit Ethernet 網路(乙太網路)，其傳輸速率可達到下列何者？\n  \u0003 CBT (Core-Based Tree)                                                                             \u0001 1 Gbps           \u0002 10 Gbps          \u0003 20 Gbps         \u0004 40 Gbps\n  \u0004 PIM (Protocol Independent Multicast)",
+    "options": [],
+    "answer": "3"
+  },
+  {
+    "number": "49",
+    "text": "下列何者不是 TCP/IP 網路中網際網路層(Internet Layer)IP 的輔助通訊協定？",
+    "options": [],
+    "answer": "2"
+  },
+  {
+    "number": "33",
+    "text": "在區域網路中經常使用循環冗餘檢查(CRC)的方式來做資料檢查，以確定所接收的資料是否正確。假                                                     \u0001 UDP              \u0002 ICMP             \u0003 OSPF            \u0004 IGMP\n   設某一區域網路使用的 CRC 函數為 X4+X3+X+1，則接收端收到下列資料中，何者會顯示為正確的？",
+    "options": [],
+    "answer": "4"
+  },
+  {
+    "number": "50",
+    "text": "下列何項通訊協定係於網際網路上將 IP 位址轉換為實體位址(或稱 MAC 位址)？\n  \u0001 110010111010                                 \u0002 110010110101                                       \u0001 ARQ              \u0002 DNS              \u0003 BGP             \u0004 ARP\n  \u0003 110010110010                                 \u0004 110010111001",
+    "options": [],
+    "answer": "1"
+  }
+]
