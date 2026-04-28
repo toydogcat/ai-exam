@@ -1,5 +1,6 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue'
+import { withBase } from 'vitepress'
 
 const props = defineProps({
   agency: String,
@@ -15,7 +16,7 @@ const ticketNumber = ref('')
 
 const fetchQuestions = async () => {
   try {
-    const res = await fetch(`/json/${props.agency}/${props.year}/${props.subject}.json`)
+    const res = await fetch(withBase(`/json/${props.agency}/${props.year}/${props.subject}.json`))
     questions.value = await res.json()
   } catch (err) {
     console.error('Failed to fetch questions:', err)

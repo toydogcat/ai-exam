@@ -1,10 +1,11 @@
 <script setup>
 import { ref, onMounted } from 'vue'
+import { withBase } from 'vitepress'
 
 const catalog = ref({})
 
 onMounted(async () => {
-  const res = await fetch('/json/catalog.json')
+  const res = await fetch(withBase('/json/catalog.json'))
   catalog.value = await res.json()
 })
 </script>
@@ -20,7 +21,7 @@ onMounted(async () => {
     <h3>{{ year }} 年</h3>
     <div class="subject-list">
       <a v-for="sub in subjects" :key="sub" 
-         :href="agency + '-' + year + '-' + sub.replace(/\//g, '-').replace(/ /g, '-')"
+         :href="withBase('/exams/' + agency + '-' + year + '-' + sub.replace(/\//g, '-').replace(/ /g, '-'))"
          class="exam-link">
         {{ sub }}
       </a>
