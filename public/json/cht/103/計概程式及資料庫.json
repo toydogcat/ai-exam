@@ -1,0 +1,806 @@
+[
+  {
+    "number": "1",
+    "type": "multiple_choice",
+    "text": "下列何者不是物件導向程式的主要特色？",
+    "options": [
+      "遞迴",
+      "封裝",
+      "繼承",
+      "多形"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "容量 2^m 記憶位置，每個位置 n 位元，則記憶位址暫存器大小？",
+    "options": [
+      "m 位元",
+      "n 位元",
+      "m+n 位元",
+      "m*n 位元"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "3",
+    "type": "multiple_choice",
+    "text": "子網域遮罩 255.255.24.192，140.12.0.0 網段中何者屬不同子網？",
+    "options": [
+      "140.12.23.71",
+      "140.12.26.72",
+      "140.12.48.96",
+      "140.12.80.80"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "4",
+    "type": "multiple_choice",
+    "text": "負責監督協調電腦各單元動作與傳輸者？",
+    "options": [
+      "控制單元",
+      "主記憶體",
+      "ALU",
+      "I/O"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "CPU 執行指令正確順序？",
+    "options": [
+      "取資、取指、分析、執行",
+      "取指、取資、分析、執行",
+      "取指、分析、取資、執行",
+      "取指、分析、執行、取資"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "下列何者不是作業系統？",
+    "options": [
+      "Windows XP",
+      "Linux",
+      "Unix",
+      "Oracle"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "程式需 140s，乘法占 112s，速提昇幾倍可使總時減為 1/4？",
+    "options": [
+      "4倍",
+      "8倍",
+      "16倍",
+      "32倍"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "數位與類比信號轉換者？",
+    "options": [
+      "多工器",
+      "編譯器",
+      "直譯器",
+      "數據機"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "高階轉低階語言的程式？",
+    "options": [
+      "編輯",
+      "載入",
+      "編譯",
+      "連結"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "嵌入式 OS 常設計於何種設備？",
+    "options": [
+      "硬碟",
+      "ROM",
+      "RAM",
+      "光碟"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "存取速度最快者？",
+    "options": [
+      "暫存器",
+      "SRAM",
+      "ROM",
+      "硬碟"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "理論上平均等待時間最短的排程？",
+    "options": [
+      "Priority",
+      "FCFS",
+      "RR",
+      "SJF"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "不直接影響計算速度者？",
+    "options": [
+      "CPU時脈",
+      "指令集",
+      "主存容量",
+      "硬碟空間"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "兩個位元組 (2 bytes) 最大正整數？",
+    "options": [
+      "65535",
+      "65536",
+      "32767",
+      "32768"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "Call by Address 傳遞參數為何？",
+    "options": [
+      "值",
+      "位址",
+      "名稱",
+      "計算結果"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "Java 跨平台運作機制？",
+    "options": [
+      "物件導向",
+      "例外處理",
+      "JVM",
+      "多執行緒"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "遞迴函數以何結構實現最有效？",
+    "options": [
+      "佇列",
+      "堆疊",
+      "串列",
+      "樹"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "(3,5,9,4,7) 氣泡排序第一次循環結束後？",
+    "options": [
+      "(3,5,4,9,7)",
+      "(3,5,4,7,9)",
+      "(5,3,4,9,7)",
+      "(5,3,9,4,7)"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "256 節點二元樹之最小樹高？",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "有關 TCP 與 UDP 敘述正確者？",
+    "options": [
+      "UDP不屬傳輸層",
+      "TCP比UDP快",
+      "UDP是連線導向",
+      "UDP無法保證送達"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "MS Office 中簡報軟體？",
+    "options": [
+      "Word",
+      "PowerPoint",
+      "Excel",
+      "Access"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "IPv4 位址位元數？",
+    "options": [
+      "8",
+      "16",
+      "32",
+      "64"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "光纖媒介敘述正確者？",
+    "options": [
+      "電磁干擾低",
+      "傳輸率低",
+      "安全低",
+      "容易衰減"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "自動取得 IP 之伺服器？",
+    "options": [
+      "DNS",
+      "IMAP",
+      "Proxy",
+      "DHCP"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "25",
+    "type": "multiple_choice",
+    "text": "WWW 之通訊協定？",
+    "options": [
+      "HTTP",
+      "IMAP",
+      "POP3",
+      "SMTP"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "全雙工傳輸模式？",
+    "options": [
+      "電話交談",
+      "有線電視",
+      "收音機",
+      "無線對講機"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "WAP 設計另須採用何種語言？",
+    "options": [
+      "HTTP",
+      "HTML",
+      "WML",
+      "XHTML"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "零時差攻擊 (Zero-day Attack) 正確敘述？",
+    "options": [
+      "同時區攻擊",
+      "弱點發現但無修補前之攻擊",
+      "午夜攻擊",
+      "攻擊後馬上有修補"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "縱深防禦主要目的？",
+    "options": [
+      "省成本",
+      "分散權責",
+      "快回應",
+      "避免單點突破造成全面崩潰"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "傳送防洩主要方法？",
+    "options": [
+      "壓縮",
+      "加密",
+      "防毒",
+      "防火牆"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "伺服端執行的動態網頁程式？",
+    "options": [
+      "JS",
+      "HTML",
+      "ASP",
+      "Flash"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "Java 執行平台需安裝？",
+    "options": [
+      "JS",
+      "JVM",
+      "Eclipse",
+      "Active X"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "for(int k=10; k<=2; ____) 若增值 -2 填入？",
+    "options": [
+      "k -= 2",
+      "k-2",
+      "k = k-1",
+      "k = -2"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "i=1~5 sum 累加結果？",
+    "options": [
+      "10",
+      "0",
+      "5",
+      "15"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "average = (____) total / counter; 中填入？",
+    "options": [
+      "int",
+      "float",
+      "new",
+      "char"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "a=12, b=14 while(a>14) 輸出 a+b？",
+    "options": [
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "switch case 標籤錯誤用法？",
+    "options": [
+      "case 2:",
+      "case 20:",
+      "case 'A':",
+      "case \"A\":"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "Java switch case 1 無 break 會輸出？",
+    "options": [
+      "長袖",
+      "長袖+短袖",
+      "短袖",
+      "輕薄"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "下列何者「不是」迴圈？",
+    "options": [
+      "if-else",
+      "while",
+      "do-while",
+      "for"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "m = n++; n 原為 20，執行後 m, n 分別？",
+    "options": [
+      "20, 20",
+      "20, 21",
+      "21, 20",
+      "21, 21"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "二擇一且必作其一之寫法？",
+    "options": [
+      "if-else",
+      "if",
+      "for",
+      "break"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "迴圈內跳過後半部直接下輪迴？",
+    "options": [
+      "continue",
+      "break",
+      "switch",
+      "default"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "43",
+    "type": "multiple_choice",
+    "text": "處理 A[100] 每個元素最佳敘述？",
+    "options": [
+      "do-while",
+      "while",
+      "for",
+      "switch"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "撰寫觀念正確者？",
+    "options": [
+      "變數越簡越好",
+      "左對齊",
+      "獨立邏輯寫成函數",
+      "短就好"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "有關函數敘述錯誤者？",
+    "options": [
+      "可重呼",
+      "return須指回哪",
+      "參數可多個",
+      "可有傳回"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "學生選多課，課有多學生，關聯性為？",
+    "options": [
+      "1:1",
+      "1:N",
+      "M:N",
+      "繼承"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "不屬於 ACID 屬性者？",
+    "options": [
+      "單元性",
+      "一致性",
+      "持續性",
+      "獨立性"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "關聯式資料庫中之虛擬關聯表？",
+    "options": [
+      "基底",
+      "具名",
+      "結果",
+      "視界 (View)"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "選出指定條件的值組？",
+    "options": [
+      "Join",
+      "Selection",
+      "Projection",
+      "Difference"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "刪除整個資料表 SQL？",
+    "options": [
+      "DROP",
+      "DELETE",
+      "TRUNCATE",
+      "ALTER"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "51",
+    "type": "multiple_choice",
+    "text": "拒絕插入、刪除或更新之參考完整性？",
+    "options": [
+      "Restrict",
+      "Set Null",
+      "Set Default",
+      "Cascade"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "52",
+    "type": "multiple_choice",
+    "text": "SELECT sid, name FROM Students WHERE GPA... ORDER BY GPA 錯誤敘述？",
+    "options": [
+      "Students是關聯名",
+      "GPA是欄位",
+      "ORDER是關聯名",
+      "sid是欄位"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "53",
+    "type": "multiple_choice",
+    "text": "網購將同票賣兩人，最可能沒做好？",
+    "options": [
+      "回復",
+      "備份",
+      "並行控制",
+      "鏡射"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "54",
+    "type": "multiple_choice",
+    "text": "有關主鍵 (Primary Key) 錯誤者？",
+    "options": [
+      "唯一性",
+      "可有多個主鍵",
+      "可多欄組成",
+      "不可為null"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "55",
+    "type": "multiple_choice",
+    "text": "有關外來鍵 (Foreign Key) 錯誤者？",
+    "options": [
+      "參照主鍵",
+      "可有多個外鍵",
+      "可多欄組成",
+      "具有唯一性"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "56",
+    "type": "multiple_choice",
+    "text": "ER schema 實體型態轉化為？",
+    "options": [
+      "資料表",
+      "屬性",
+      "主鍵",
+      "值組"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "57",
+    "type": "multiple_choice",
+    "text": "非 SQL 命令者？",
+    "options": [
+      "UPDATE",
+      "INSERT",
+      "ALTER",
+      "PROJECT"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "58",
+    "type": "multiple_choice",
+    "text": "SQL 查部門人數不會用到？",
+    "options": [
+      "SELECT",
+      "GROUP BY",
+      "COUNT",
+      "HAVING"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "59",
+    "type": "multiple_choice",
+    "text": "SQL 查書名含「資料庫」？",
+    "options": [
+      "HAVING",
+      "LIKE",
+      "GROUP BY",
+      "ORDER BY"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "60",
+    "type": "multiple_choice",
+    "text": "SQL 排序敘述錯誤者？",
+    "options": [
+      "可遞增",
+      "可遞減",
+      "可多欄混合",
+      "兩欄排序必同方向"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "問答 1",
+    "type": "essay",
+    "text": "成為 Candidate Key 必須滿足哪兩個條件？",
+    "answer": "【解答】1.唯一性(Uniqueness): 各值組的 CK 值皆不相同 2.最小性(Minimality): CK 的任何真子集皆無法滿足唯一性。"
+  },
+  {
+    "number": "問答 2",
+    "type": "essay",
+    "text": "(一)(62)10 轉二、八、十六進位？(二)1001 若為 1 的補數與 2 的補數，其十進位值？",
+    "answer": "【解答】(一)二: 111110, 八: 76, 十六: 3E。(二)1001 若為 1 的補數 = - (0110)2 = -6；若為 2 的補數 = - (0111)2 = -7。"
+  },
+  {
+    "number": "問答 3",
+    "type": "essay",
+    "text": "分析程式片段 (a) i=1; while(i<10) if(i%2==0) out(i++); (b) i=1; while(i<10) if((i++)%2==0) out(i);",
+    "answer": "【解答】(a) 死迴圈：i=1 時不符合 if，i 不變，永遠為 1。(b) 輸出：3, 5, 7, 9。執行 9 次。當 i=2, 4, 6, 8 時符合條件輸出。"
+  },
+  {
+    "number": "問答 4",
+    "type": "essay",
+    "text": "SQL Join 結果：(一)NATURAL JOIN (二)LEFT OUTER JOIN (三)RIGHT OUTER JOIN",
+    "answer": "【解答】(一) (b, 2, x), (c, 3, y)。(二) (a, 1, NULL), (b, 2, x), (c, 3, y)。(三) (b, 2, x), (c, 3, y), (NULL, 4, z)。"
+  }
+]

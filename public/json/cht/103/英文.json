@@ -1,159 +1,652 @@
 [
   {
+    "number": "1",
+    "type": "multiple_choice",
+    "text": "Most of the ________ were satisfied with the annual bonus.",
+    "options": [
+      "antiques",
+      "customers",
+      "employees",
+      "custodians"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "Group registrations are not allowed. Each member must register ________.",
+    "options": [
+      "intelligently",
+      "respectfully",
+      "individually",
+      "surreptitiously"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "3",
+    "type": "multiple_choice",
+    "text": "Small businesses can respond to new market ________ fast.",
+    "options": [
+      "locations",
+      "trends",
+      "resources",
+      "flaws"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "4",
+    "type": "multiple_choice",
+    "text": "________ between different departments is the key to project work.",
+    "options": [
+      "encouragement",
+      "entertainment",
+      "congratulation",
+      "cooperation"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "Many graduates fight into the renown and ________ companies.",
+    "options": [
+      "prestigious",
+      "preposterous",
+      "provocative",
+      "progressive"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "The golfer won the championship in the professional golf ________.",
+    "options": [
+      "banquet",
+      "acquisition",
+      "shipment",
+      "tournament"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "A fine will be ________ on the drivers who fail to pay toll.",
+    "options": [
+      "rewarded",
+      "imposed",
+      "escorted",
+      "donated"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "Many portable products are made as ________ as possible to carry.",
+    "options": [
+      "lightweight",
+      "economical",
+      "cheap",
+      "ecological"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "All employees are required not to discuss ________ information.",
+    "options": [
+      "congratulatory",
+      "relative",
+      "confidential",
+      "proficient"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "10",
-    "text": "Many customers in Taiwan believe that they were being ________ as compared to the much lower price of the same product sold in the US.",
+    "type": "multiple_choice",
+    "text": "Customers believe they were being ________ compared to US price.",
     "options": [
-      "underestimated  overcharged",
-      "overhauled  understaffed"
+      "underestimated",
+      "overcharged",
+      "overhauled",
+      "understaffed"
     ],
-    "answer": "2"
+    "answer": "B",
+    "score": 2
   },
   {
-    "number": "19",
-    "text": "The city is going to hold a public hearing to discuss ________ the historical building should be torn down.",
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "The ________ plan provides income security after retirement.",
     "options": [
-      "whatever  whether or not  in case that  no matter how",
-      "】"
+      "bonus",
+      "rebate",
+      "refund",
+      "pension"
     ],
-    "answer": "2"
+    "answer": "D",
+    "score": 2
   },
   {
-    "number": "29",
-    "text": "Many expressive people can recall ________ colorful childhoods; singer Carly Simon, comedian Billy Crystal, and poet Nikki Giovanni ________ their parents with involving them with richly creative experiences.",
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "Children go trick-or-treating in special ________ on Halloween.",
     "options": [
-      "there / credited  their / credit",
-      "where / credit  which of / credits"
+      "costumes",
+      "feathers",
+      "hermits",
+      "umpires"
     ],
-    "answer": "2"
+    "answer": "A",
+    "score": 2
   },
   {
-    "number": "30",
-    "text": "A: Is this film good to watch?",
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "Employees considered non-essential were ________.",
     "options": [
-      "B: Yes, it is.  __________________. It’s so moving.  Rarely before I have seen this  Rarely have I seen before this  Rarely I have seen this before  Rarely have I seen this before",
-      "bonus  rebate  refund  pension"
+      "furloughed",
+      "integrated",
+      "overturned",
+      "quarantined"
     ],
-    "answer": "4"
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "This book offers a ________ guide to hotels in Tokyo.",
+    "options": [
+      "comprehensive",
+      "revolutionary",
+      "philosophical",
+      "superstitious"
+    ],
+    "answer": "A",
+    "score": 2
   },
   {
     "number": "15",
-    "text": "Nowadays, many industries try to do something for ________ problems. They know the earth is greatly damaged by pollutants. \n\n## 三、克漏字測驗【請依照段落上下文意，選出最適當的答案】 第一篇： \n\nMany business professionals are troubled by countless meetings, many of which are not effective and become a waste of time. The truth is, it is not that difficult to plan and conduct a meeting with 31 results. Bad meetings are those that tend to drone on forever, you never seem to 32 the point, and you leave wondering why you were even present. 33 , effective ones always make attendees feel that they have really accomplished something. \n\nSo what makes a meeting effective? Effective meetings are about three basics: They achieve the meeting’s 34 . They take up a minimum amount of time. They leave participants feeling that a sensible process has been followed. If you structure your meeting planning, preparation, execution, and follow up around these three basic 35 , the result will be an effective meeting.",
+    "type": "multiple_choice",
+    "text": "Industries try to do something for ________ problems.",
     "options": [
-      "environmental \n\n- intellectual \n\n- occasional \n\n【請接續背面】 \n\n|",
-      "31.conditional|hazardous|opposing|productive|\n|---|---|---|---|\n|",
-      "32.rely on|get to|turn over|take off|\n|",
-      "33.By far|No matter how|On the contrary|Likewise|\n|",
-      "34.repair|revenue|objective|budget|\n|",
-      "35.criteria|propaganda|relations|orders|\n\n\n\n## 第二篇： \n\nThis is probably what many people see in their offices: employees 36 themselves into work every morning and the office is quiet and almost a dull place to stay in. In this case, the employees’ morale may need a 37 . But why is low morale a problem? For starters, low morale can lead to poor cooperation, low productivity and increased 38 , with more employees leaving--and eventually prevent a business from reaching its goals. A positive office morale can build a company’s success. Everyone needs to feel that his or her work has a real purpose, and also that he or she is greatly 39 and needed by the company. While achieving the goal, employees should also be encouraged to take time to reflect and appreciate what has been done so far. By doing so, they will gain more 40 to continue the good work. \n\n|",
-      "36.grab|shred|drag|pour|\n|---|---|---|---|\n|",
-      "37.finale|campfire|liquor|boost|\n|",
-      "38.undertaking|turnover|uptake|currency|\n|",
-      "39.preowned|valued|examined|interrogated|\n|",
-      "40.momentum|liability|procedure|hurdles|\n\n\n\n## 四、閱讀測驗【請在下列各題中選出最適當的答案】 \n\n## 第一篇： \n\nModern chemistry is a field at a crossroads . According to a recent study, 60 percent of Europeans have negative views of the chemical industry. Another study shows that 74 percent of Americans have similar feelings. These results show that people are worried about the harmful effects that chemicals have on people and the environment. Over the last 80 years, chemists have made much of modern life possible, but today we need products that help people without causing harm to the environment or costing too much. \n\nIn 1998, green chemistry began. Its main goals are to stop new environmental problems and to provide solutions to the problems we already have. In this way, green chemistry offers new opportunities to the field of chemistry. One important goal of green chemistry today is finding ways to stop the world’s dependence on petroleum. Since petroleum is expensive, toxic, and likely to be gone within decades, it is even more important to find safe and clean solutions. In recent years, green chemists have made biofuels from plants and other natural materials. This solution follows several important principles of green chemistry. First, biofuels come from renewable materials such as soybeans and corn. Second making biofuel produces 60 to 80 percent less toxic waste than producing petroleum fuels. Finally, biofuels naturally change into materials that do not harm the environment. For all these reasons, biofuels seem like a good solution."
+      "arithmetical",
+      "environmental",
+      "intellectual",
+      "occasional"
     ],
-    "answer": "2"
+    "answer": "B",
+    "score": 2
   },
   {
-    "number": "44",
-    "text": "Which of the following descriptions about petroleum is true?",
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "Mr. Johnson rarely gets upset in the office, ________?",
     "options": [
-      "Petroleum can be safe and clean.",
-      "Petroleum can be used up soon.",
-      "Green chemists try to improve the use of petroleum.",
-      "Europeans depend less on petroleum than Americans do."
+      "does he",
+      "doesn't he",
+      "will he",
+      "won't he"
     ],
-    "answer": "2"
+    "answer": "A",
+    "score": 2
   },
   {
-    "number": "45",
-    "text": "Which of the following descriptions about biofuels is true?",
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "The typhoon forced the organizer ________ the game.",
     "options": [
-      "Biofuels can completely replace petroleum soon in the next few decades.",
-      "Green chemists hardly have faith in the development of biofuels.",
-      "Modern lifestyle depends more on biofuels than on petroleum now.",
-      "Biofuels are renewable and produce the least harm to the environment."
+      "to cancel",
+      "cancelling",
+      "cancel",
+      "cancelled"
     ],
-    "answer": "4"
+    "answer": "A",
+    "score": 2
   },
   {
-    "number": "46",
-    "text": "Which of the following is the best title for the above passage?",
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "________ I read the proposal ________ the budget was so high.",
     "options": [
-      "Success and Growth of Grocery Business",
-      "Founder of the Wal-Mart Empire",
-      "The Great Depression and Wal-Mart",
-      "Wal-Mart: Customers’ Satisfaction First"
+      "Until / I realized",
+      "Not until / didn't realize",
+      "Not until / did I realize",
+      "Until that / did I realize"
     ],
-    "answer": "2"
+    "answer": "C",
+    "score": 2
   },
   {
-    "number": "47",
-    "text": "Which of the following is closest in meaning to the phrase “ rock-bottom prices ”?",
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "Discuss ________ the historical building should be torn down.",
     "options": [
-      "The original prices",
-      "The lowest prices",
-      "The wholesaler prices",
-      "The manufacturer prices"
+      "whatever",
+      "whether or not",
+      "in case that",
+      "no matter how"
     ],
-    "answer": "2"
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "It seemed that the walls ________.",
+    "options": [
+      "had repainted",
+      "are repainted",
+      "have been painted",
+      "had been repainted"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "It is imperative that the city council ________ in favor of the plan.",
+    "options": [
+      "to vote",
+      "vote",
+      "votes",
+      "has voted"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "The manager talks as if he ________ mad at you.",
+    "options": [
+      "is",
+      "be",
+      "were",
+      "can be"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "If the weather is good, we ________ the company outing.",
+    "options": [
+      "were to have",
+      "haven't had",
+      "can have",
+      "do have"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "________ English, many Chinese novels gain popularity.",
+    "options": [
+      "Written in",
+      "To translate into",
+      "To write in",
+      "Translated to"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "25",
+    "type": "multiple_choice",
+    "text": "________ the CEO walked in, managers became nervous.",
+    "options": [
+      "As long as",
+      "As soon as",
+      "Due to",
+      "Until"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "It has always been very generous ________ you to assist us.",
+    "options": [
+      "for",
+      "of",
+      "to",
+      "with"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "If I had read the book carefully, ________ the test.",
+    "options": [
+      "I shall pass",
+      "I should be passed",
+      "I would have passed",
+      "I would not have passed"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "To see is ________.",
+    "options": [
+      "believe",
+      "believed",
+      "believing",
+      "to believe"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "Many people recall ________ childhoods; they ________ their parents...",
+    "options": [
+      "there / credited",
+      "their / credit",
+      "where / credit",
+      "which of / credits"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "A: Is this film good? B: Yes. ________. It's so moving.",
+    "options": [
+      "Rarely before I have seen",
+      "Rarely have I seen before",
+      "Rarely I have seen this",
+      "Rarely have I seen this before"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "Many business professionals are troubled... plan a meeting with ________ results.",
+    "options": [
+      "conditional",
+      "hazardous",
+      "opposing",
+      "productive"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "Bad meetings... you never seem to ________ the point.",
+    "options": [
+      "rely on",
+      "get to",
+      "turn over",
+      "take off"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "________ , effective ones always make attendees feel accomplished.",
+    "options": [
+      "By far",
+      "No matter how",
+      "On the contrary",
+      "Likewise"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "They achieve the meeting's ________.",
+    "options": [
+      "repair",
+      "revenue",
+      "objective",
+      "budget"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "If you structure around these three basic ________...",
+    "options": [
+      "criteria",
+      "propaganda",
+      "relations",
+      "orders"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "Employees ________ themselves into work every morning...",
+    "options": [
+      "grab",
+      "shred",
+      "drag",
+      "pour"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "Employees’ morale may need a ________.",
+    "options": [
+      "finale",
+      "campfire",
+      "liquor",
+      "boost"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "Low morale can lead to increased ________ (離職率).",
+    "options": [
+      "undertaking",
+      "turnover",
+      "uptake",
+      "currency"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "He or she is greatly ________ and needed by the company.",
+    "options": [
+      "preowned",
+      "valued",
+      "examined",
+      "interrogated"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "They will gain more ________ to continue the good work.",
+    "options": [
+      "momentum",
+      "liability",
+      "procedure",
+      "hurdles"
+    ],
+    "answer": "A",
+    "score": 2
   },
   {
     "number": "41",
-    "text": "What is the above passage mainly about?",
+    "type": "multiple_choice",
+    "text": "What is the passage mainly about? (Green Chemistry)",
     "options": [
-      "Why Europeans and Americans stop using petroleum.",
-      "How chemists make petroleum less expensive.",
-      "How to reduce the costs of producing biofuels.",
-      "New chemical solutions to keep the environment safe and clean."
+      "Europeans view",
+      "Petroleum cost",
+      "Biofuel cost",
+      "New chemical solutions for environment"
     ],
-    "answer": "4"
+    "answer": "D",
+    "score": 2
   },
   {
     "number": "42",
-    "text": "Which of the following is closest in meaning to the underlined phrase “ at a crossroads ” in the first sentence?",
+    "type": "multiple_choice",
+    "text": "Meaning of 'at a crossroads'?",
     "options": [
-      "At the place where people cross the road.",
-      "At the place where several roads are blocked.",
-      "At the point where a decision has to be made.",
-      "At the point where many opinions need to be considered."
+      "Cross road",
+      "Roads blocked",
+      "Point where decision has to be made",
+      "Many opinions"
     ],
-    "answer": "3"
+    "answer": "C",
+    "score": 2
   },
   {
     "number": "43",
-    "text": "Which of the following is NOT mentioned in the above passage?",
+    "type": "multiple_choice",
+    "text": "Which is NOT mentioned? (Green Chemistry)",
     "options": [
-      "Biofuels are renewable, so they are much less costly.",
-      "Petroleum fuels produce more toxic waste than biofuels.",
-      "Wal-Mart business was severely hit by the Great Depression.",
-      "Walton pioneered many concepts in retail business.",
-      "Sam Walton inherited Ben Franklin to start his retail business.",
-      "Wal-Mart declined after Sam Walton passed away."
+      "Biofuels are much less costly",
+      "Petroleum more toxic",
+      "Worry about harmful effects",
+      "Reduce use of petroleum"
     ],
-    "answer": "1"
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "True about petroleum?",
+    "options": [
+      "Safe and clean",
+      "Can be used up soon",
+      "Green chemists improve it",
+      "Europeans depend less than US"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "True about biofuels?",
+    "options": [
+      "Completely replace petroleum soon",
+      "Chemists hardly have faith",
+      "Modern life depends more on it",
+      "Renewable and least harm"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "Best title for Sam Walton passage?",
+    "options": [
+      "Success of Grocery",
+      "Founder of Wal-Mart Empire",
+      "Great Depression",
+      "Customers First"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "Meaning of 'rock-bottom prices'?",
+    "options": [
+      "Original",
+      "Lowest",
+      "Wholesaler",
+      "Manufacturer"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "True about the passage? (Wal-Mart)",
+    "options": [
+      "Severely hit by Depression",
+      "Walton pioneered many concepts",
+      "Inherited Ben Franklin",
+      "Declined after death"
+    ],
+    "answer": "B",
+    "score": 2
   },
   {
     "number": "49",
-    "text": "What is the most crucial contribution that Walton had to Wal-Mart?",
+    "type": "multiple_choice",
+    "text": "Crucial contribution of Walton?",
     "options": [
-      "Establishing the solid foundation for Wal-Mart to continue its growth.",
-      "Storing sufficient inventory to make sure the shelves were always full.",
-      "Educating customers to purchase grocery items with coupons.",
-      "Helping the city to build the public infrastructure as a return to the society."
+      "Solid foundation for growth",
+      "Storing inventory",
+      "Educating with coupons",
+      "Building infrastructure"
     ],
-    "answer": "1"
+    "answer": "A",
+    "score": 2
   },
   {
     "number": "50",
-    "text": "Which of the following is closest in meaning to the phrase “ make ends meet ”?",
+    "type": "multiple_choice",
+    "text": "Meaning of 'make ends meet'?",
     "options": [
-      "To make both sides happy",
-      "To make people do what they want",
-      "To make and spend equal amounts of money",
-      "To make the wishes come true",
-      "Many people worry about the harmful effects of chemistry industry.",
-      "Green chemistry may reduce the use of petroleum."
+      "Both sides happy",
+      "Do what they want",
+      "Make and spend equal amounts",
+      "Wishes come true"
     ],
-    "answer": "3"
+    "answer": "C",
+    "score": 2
   }
 ]

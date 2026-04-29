@@ -1,0 +1,806 @@
+[
+  {
+    "number": "1",
+    "type": "multiple_choice",
+    "text": "下列何者不是容積式壓縮機？",
+    "options": [
+      "離心式",
+      "往復式",
+      "螺旋式",
+      "渦卷式"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "冷卻水溫度上升，對冰水主機效率影響？",
+    "options": [
+      "高載增低載減",
+      "減少",
+      "沒影響",
+      "增加"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "3",
+    "type": "multiple_choice",
+    "text": "氣冷式冰水主機較水冷式效率為？",
+    "options": [
+      "高載高低載低",
+      "不一定",
+      "高",
+      "低"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "4",
+    "type": "multiple_choice",
+    "text": "下列何者「不是」儲冰空調設置目的？",
+    "options": [
+      "降契約容量",
+      "降尖峰用電",
+      "省電費",
+      "減設置成本"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "儲冰空調相對於傳統空調，其用電量為？",
+    "options": [
+      "增加",
+      "減少",
+      "不變",
+      "視噸數而定"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "非共沸冷媒需補充時，應由何處充填？",
+    "options": [
+      "高壓儲液器",
+      "低壓儲液器",
+      "高壓吐氣管",
+      "低壓吸氣管"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "10 HP 馬達 800 RPM，若需 1200 RPM，馬力數應選？",
+    "options": [
+      "8 HP",
+      "12 HP",
+      "15 HP",
+      "18 HP"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "冷卻水塔排氣呈現白霧狀代表？",
+    "options": [
+      "水過冷",
+      "水太熱",
+      "露點低於乾球",
+      "露點高於周圍乾球"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "正常運轉時，壓縮機排氣溫度較冷凝溫度？",
+    "options": [
+      "高",
+      "低",
+      "相同",
+      "不一定"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "有關理想冷媒特性何者錯誤？",
+    "options": [
+      "GWP零",
+      "ODP零",
+      "單位體積焓差大",
+      "單位質量潛熱低"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "R-134 冷凝 40度 蒸發 -10度，COP 不可超過？",
+    "options": [
+      "5.26",
+      "4.95",
+      "4.70",
+      "4.15"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "15度 100kg 水變 5度，需排熱多少 kJ？",
+    "options": [
+      "4186",
+      "6372",
+      "2000",
+      "1000"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "空調負載中何者有潛熱產生？",
+    "options": [
+      "照明",
+      "人體",
+      "電熱器",
+      "電動機"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "吸收式空調最常用製冷流體組合？",
+    "options": [
+      "氨/溴化銀",
+      "水/溴化鋰",
+      "水/溴化銀",
+      "氨/溴化鋰"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "1 標準大氣壓力約等於多少 kPa？",
+    "options": [
+      "1.01",
+      "10.1",
+      "101.3",
+      "1010"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "空氣經化學除濕後，其溫度？",
+    "options": [
+      "上升",
+      "下降",
+      "不變",
+      "視除濕量而定"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "窗型冷氣除濕是將蒸發盤管溫降至空氣何種溫度以下？",
+    "options": [
+      "沸點",
+      "凝固點",
+      "露點",
+      "三相點"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "能量效率比 EER 單位？",
+    "options": [
+      "kcal/kJ",
+      "kcal/(hW)",
+      "kcal/W",
+      "kcal/h"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "壓縮機等熵壓縮是指過程為？",
+    "options": [
+      "等溫可逆",
+      "絕熱可逆",
+      "等壓可逆",
+      "不可逆"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "空氣線圖之水平線為？",
+    "options": [
+      "等溫線",
+      "等焓線",
+      "相對濕度",
+      "絕對濕度"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "何種流體性質與伯努利定律無直接關聯？",
+    "options": [
+      "壓力",
+      "高度",
+      "溫度",
+      "密度"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "摩擦損失與管路直徑關係？",
+    "options": [
+      "正比",
+      "平方正比",
+      "反比",
+      "平方反比"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "熱泵夏天運轉效率較冬天？",
+    "options": [
+      "高",
+      "低",
+      "相同",
+      "視負載而定"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "熵值 (Entropy) 單位？",
+    "options": [
+      "kJ/kg",
+      "kJ/kg.K",
+      "kJ/kWH",
+      "kJ/kg.H"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "25",
+    "type": "multiple_choice",
+    "text": "兩台泵串聯運轉何者正確？",
+    "options": [
+      "揚程相同",
+      "流量相同",
+      "揚程流量皆同",
+      "皆不同"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "中央空調關閉時應先關？",
+    "options": [
+      "冷卻水泵",
+      "冰水泵",
+      "冷卻水風扇",
+      "冰水主機"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "壓縮機從蒸發器吸取冷媒狀態應為？",
+    "options": [
+      "汽態",
+      "液態",
+      "固態",
+      "皆可"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "何種遮陽方式較能減少空調負荷？",
+    "options": [
+      "外遮陽",
+      "內遮陽",
+      "相同",
+      "皆無法"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "引入外氣室內空氣指標依據？",
+    "options": [
+      "溫度",
+      "相對濕度",
+      "絕對濕度",
+      "CO2濃度"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "一般辦公大樓何種儲冰回收年限較短？",
+    "options": [
+      "全量",
+      "分量",
+      "相同",
+      "無法比較"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "解釋電流與磁場大小方向關係稱？",
+    "options": [
+      "右手定則",
+      "法拉第",
+      "冷次",
+      "安培定律"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "高壓電容器切離後，法規要求幾分鐘內降至 50V 以下？",
+    "options": [
+      "5分鐘",
+      "1分鐘",
+      "5分鐘至5V",
+      "1分鐘至5V"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "圖33 直流穩定狀態，求 iL 與 vC？",
+    "options": [
+      "2A, 12V",
+      "3.72A, 12V",
+      "2A, 10V",
+      "3.72A, 10V"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "承上題，電容與電感儲能 WC, WL 分別？",
+    "options": [
+      "4J, 72J",
+      "50J, 4J",
+      "72J, 4J",
+      "50J, 13.8J"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "圖35 t=0 啟斷，電容器電壓方程式？",
+    "options": [
+      "5e^-t/1.8",
+      "5e^-t/0.2",
+      "15e^-t/1.8",
+      "15e^-t/0.2"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "三相短路故障電流計算式？",
+    "options": [
+      "E/(Z1+Z2+Z0)",
+      "3E/(Z1+Z2+Z0)",
+      "E/(Z1+Z2)",
+      "E/Z1"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "單相分相啟動電機，繞組關係何者正確？",
+    "options": [
+      "啟動粗運轉多",
+      "啟動細運轉多",
+      "啟動落後運轉",
+      "運轉接離心"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "三相 Y 接中性點加電阻目的？",
+    "options": [
+      "防負載大",
+      "降接地故障電流",
+      "防雷擊",
+      "偵測漏電"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "v=150cos(wt-60), i=10sin(wt-10)，負載特性？",
+    "options": [
+      "超前50容性",
+      "超前50感性",
+      "超前40容性",
+      "落後40感性"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "60Hz 電機接到 50Hz 電源，轉速會？",
+    "options": [
+      "變慢",
+      "變快",
+      "不變",
+      "燒毀"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "10uF 與 30uF 串聯接 200V 電源，何者正確？",
+    "options": [
+      "30uF先毀",
+      "10uF先毀",
+      "皆安全",
+      "總電容 40"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "圖42 電橋 R1=10A，求 R6 功耗？",
+    "options": [
+      "61.2 W",
+      "250.5 W",
+      "1714 W",
+      "2204 W"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "43",
+    "type": "multiple_choice",
+    "text": "承上題，電源輸出總功率？",
+    "options": [
+      "1258",
+      "1500",
+      "1714",
+      "3714"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "4極 60Hz 鼠籠式 s=5%，同步速與滿載速？",
+    "options": [
+      "1800, 90",
+      "1800, 1710",
+      "1800, 1200",
+      "1800, 1800"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "變壓器並聯運轉必須條件？",
+    "options": [
+      "廠牌同",
+      "端電壓同",
+      "大壓高10%",
+      "不可並聯"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "馬達變頻控制目的？",
+    "options": [
+      "節能高效率",
+      "法規處罰",
+      "減故障",
+      "體積小"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "110V RLC 串聯 R=11 L=10m C=100u，I=10A 頻率為何？",
+    "options": [
+      "100 Hz",
+      "159 Hz",
+      "1000 Hz",
+      "1591 Hz"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "5歐 5H 5F 串聯接 100V 直流，穩定後 VC 與 IL？",
+    "options": [
+      "0V, 20A",
+      "50V, 20A",
+      "100V, 0A",
+      "100V, 20A"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "110V 60Hz 1Hp 感應機 eff=0.75 PF=0.8，滿載電流？",
+    "options": [
+      "15.15",
+      "11.30",
+      "9.04",
+      "8.47"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "變壓器損失敘述正確者？",
+    "options": [
+      "銅固鐵正比",
+      "鐵固銅正比",
+      "鐵損固定24小時有",
+      "銅鐵均正比平方"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "51",
+    "type": "multiple_choice",
+    "text": "兩平行電源線物理現象？",
+    "options": [
+      "中磁增排斥",
+      "中磁增相吸",
+      "中磁抵相吸",
+      "中磁抵排斥"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "52",
+    "type": "multiple_choice",
+    "text": "220/110V 變壓器接 110V 1200W 熱器，一次側電流？",
+    "options": [
+      "10.9",
+      "21.8",
+      "5.45",
+      "43.6"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "53",
+    "type": "multiple_choice",
+    "text": "承上題，變壓器從一次側看去等效電阻？",
+    "options": [
+      "5.04",
+      "10.08",
+      "20.16",
+      "40.32"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "54",
+    "type": "multiple_choice",
+    "text": "三相四線 Y 接負載不平衡，中性線電流成份？",
+    "options": [
+      "總和0",
+      "電流0",
+      "負相序",
+      "零相序"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "55",
+    "type": "multiple_choice",
+    "text": "低壓配電中具過載兼短路保護功能者？",
+    "options": [
+      "開關",
+      "VCB",
+      "OCB",
+      "NFB"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "56",
+    "type": "multiple_choice",
+    "text": "發光效率最高省電者？",
+    "options": [
+      "60W鎢絲",
+      "8W LED",
+      "20W T5",
+      "20W 省電"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "57",
+    "type": "multiple_choice",
+    "text": "加電容改善功率因數「不是」產生的效益？",
+    "options": [
+      "停電次數減少",
+      "線電流減少",
+      "壓降減少",
+      "電費減少"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "58",
+    "type": "multiple_choice",
+    "text": "諾頓定理等效電路？",
+    "options": [
+      "開壓並阻",
+      "短流並阻",
+      "短流串阻",
+      "開壓串阻"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "59",
+    "type": "multiple_choice",
+    "text": "配電 C 接腳接地目的？",
+    "options": [
+      "防走火",
+      "分攤台電風險",
+      "高準確度",
+      "外殼接地避感電"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "60",
+    "type": "multiple_choice",
+    "text": "電磁場敘述錯誤者？",
+    "options": [
+      "B與電流正比",
+      "越遠B越低",
+      "磁通變化不生電勢",
+      "導磁材磁阻低"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "問答 1",
+    "type": "essay",
+    "text": "請以能量守恆觀點，說明熱泵之製熱能源效率為何會大於 1？",
+    "answer": "【解答】能源效率 COP = QH / W。熱泵從低溫環境吸收熱量 QL，加上輸入功 W，傳遞熱量 QH = QL + W 到高溫端。因 QH > W，故 COP > 1。"
+  },
+  {
+    "number": "問答 2",
+    "type": "essay",
+    "text": "空調混合空氣計算：(一)空氣進入盤管乾球溫？(二)負載比線露點 12度所需冰水溫？(三)冷卻容量？",
+    "answer": "【解答】(一)Tm = (1*35 + 4*24) / 5 = 26.2 ℃。(二)查表可知出口乾球 12.5度時冰水為 6度，故接近 6度。(三)Q = m * delta h = 5.49 * (hi - ho) kW。"
+  },
+  {
+    "number": "問答 3",
+    "type": "essay",
+    "text": "(一)等效電路參數 R, X, Rc, Xm 意義？(二)500kW 變壓器滿載效率與全日效率計算。",
+    "answer": "【解答】(一)R1,R2:卷阻; Xl1,Xl2:漏抗; Rc:鐵損阻; Xm:激磁電抗。(二)滿載效率 = 500 / (500 + 8 + 10) = 96.5%。全日效率需累加 24 小時功與損。"
+  },
+  {
+    "number": "問答 4",
+    "type": "essay",
+    "text": "求圖示電路節點電壓 v1 與 v2。",
+    "answer": "【解答】利用 KCL 於節點 1 與 2 聯立方程式求解。v1 = 12V, v2 = 10V (範例值)。"
+  }
+]

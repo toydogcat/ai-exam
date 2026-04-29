@@ -1,0 +1,806 @@
+[
+  {
+    "number": "1",
+    "type": "multiple_choice",
+    "text": "某科技企業收購廣播、電視、唱片及電影院，就所有權營管來說屬？",
+    "options": [
+      "垂直整合",
+      "水平整合",
+      "雙邊整合",
+      "多元管理"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "下列何種敘述「不是」假事件 (Pseudo-event) 特點？",
+    "options": [
+      "人為製造",
+      "常不具新聞價值",
+      "有時弄假成真",
+      "常更吸引閱聽人"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "3",
+    "type": "multiple_choice",
+    "text": "透過記者攝影鏡頭報導出來的新聞事件是？",
+    "options": [
+      "客觀真實",
+      "符號真實",
+      "主觀真實",
+      "永恆真實"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "4",
+    "type": "multiple_choice",
+    "text": "為節省開支，新聞媒體會用的策略何者錯誤？",
+    "options": [
+      "集中報導少數機構",
+      "新聞商品化",
+      "強化深入性故事報導",
+      "人盡其用"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "若說記者只是「傳聲筒」，是指？",
+    "options": [
+      "具專業忠實表達",
+      "無專業任消息來源擺佈",
+      "很真誠忠實再現",
+      "透過麥克風說話"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "下列哪個陳述與「媒體霸權」產生無關？",
+    "options": [
+      "從業人員社會化",
+      "從業人員意識型態",
+      "內容具弱勢關懷",
+      "內容捍衛主流價值"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "傳播效果論中「皮下注射」效果與下面哪一個意思不同？",
+    "options": [
+      "魔彈論",
+      "大效果論",
+      "刺激反應論",
+      "中效果論"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "小花看電視劇罵小三，若依 Hall 的解讀類型來說屬？",
+    "options": [
+      "劣勢解讀",
+      "協商解讀",
+      "對立解讀",
+      "優勢解讀"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "提出「意見領袖」的傳播學者為何人？",
+    "options": [
+      "Hovland",
+      "Lazarsfeld",
+      "Lasswell",
+      "Lippman"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "大版面報導個資法對資安影響，就議題設定論效果模式說，不存在何種效果？",
+    "options": [
+      "優先模式",
+      "知曉模式",
+      "顯著模式",
+      "預知模式"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "資訊展運用正妹進行活動宣傳，屬於哪一種宣傳技術？",
+    "options": [
+      "粉飾法",
+      "轉移法",
+      "堆牌法",
+      "樂隊車法"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "某人運用誇大標題散佈產品含輻射，哪一選項「不是」行銷效果討論重點？",
+    "options": [
+      "造成恐慌",
+      "病毒行銷",
+      "負面新聞卡位",
+      "運用事實主持公義"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "候選人挖對方醜聞，屬於何種宣傳手法？",
+    "options": [
+      "咒罵法",
+      "轉移法",
+      "堆牌法",
+      "粉飾法"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "當說記者寫新聞受媒體組織影響時，與下列哪個理論有關？",
+    "options": [
+      "認知不和諧",
+      "沉默螺旋",
+      "守門人論",
+      "創新傳播"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "媒體霸權論中所指的國家機器「不包含」下列何項？",
+    "options": [
+      "家庭",
+      "教堂",
+      "司法機關",
+      "同儕"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "閱聽人按需求動機選擇媒體內容，屬於下列哪個理論基礎？",
+    "options": [
+      "涵化理論",
+      "議題設定",
+      "使用與滿足",
+      "媒體霸權"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "媒體大量報導藝人「事業線」，就新聞學來說媒體犯了什麼錯誤？",
+    "options": [
+      "貶抑男性",
+      "物化女性",
+      "階級再現",
+      "種族再現"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "廣告商通常運用哪些方法介入新聞？A.買新聞 B.買記者 C.置入性行銷",
+    "options": [
+      "僅A、B",
+      "僅B、C",
+      "僅A、C",
+      "A、B、C"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "下列何者「不是」市場導向對新聞產生的衝擊？",
+    "options": [
+      "具新聞價值的內容充斥",
+      "軟性新聞題材多",
+      "大眾興趣成主流",
+      "公眾議題被忽略"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "「有錢的人聲音最大」，放在媒體報導係指？",
+    "options": [
+      "大量報導弱勢",
+      "媒體近用權有利有錢人",
+      "大聲對媒體說話",
+      "音量大於沒錢者"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "下列何項敘述「不是」傳播的通性？",
+    "options": [
+      "具心理治療性",
+      "非普遍存在",
+      "有內容層面",
+      "有關係層面"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "下列何項敘述「不是」組織傳播的內涵？",
+    "options": [
+      "在組織架構內傳播",
+      "具一定規範",
+      "不具任務導向",
+      "著重內部協調聯繫"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "新聞議題從另類媒體擴散到主流媒體時稱為？",
+    "options": [
+      "變動效果",
+      "天花板效果",
+      "溢散效果",
+      "感知效果"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "下列何者提出媒體的「回響效果」(resonance) 概念？",
+    "options": [
+      "Gitlin",
+      "Gerbner",
+      "Golding",
+      "Goldmann"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "25",
+    "type": "multiple_choice",
+    "text": "對台灣人來說，議題建構論所指之「第一類議題」是？",
+    "options": [
+      "油價上漲",
+      "犯罪率",
+      "四川地震",
+      "越勞問題"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "下列何項敘述「不是」沉默螺旋論理論內涵？",
+    "options": [
+      "民眾不怕被孤立",
+      "準統計官能",
+      "看趨勢選擇表達",
+      "強勢方更願表達"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "提出「沉默螺旋論」理論是哪位學者？",
+    "options": [
+      "Murdock",
+      "Morley",
+      "Noelle-Neumann",
+      "Noetzel"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "下列何項敘述與媒體「使用與滿足理論」基本假設無關？",
+    "options": [
+      "有目的性",
+      "主動的",
+      "基於滿足使用",
+      "媒體駕馭閱聽人"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "政府推動改革創新，需注意對閱聽人要有下列何種內涵方有效？",
+    "options": [
+      "難度",
+      "不能上手",
+      "相對利益",
+      "與經驗不一致"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "媒體報導「草莓族工作效率低」之新聞時，存在什麼迷思？",
+    "options": [
+      "階級迷思",
+      "世代迷思",
+      "美醜迷思",
+      "性別迷思"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "提供服務給非營利慈善團體、教會、大學，這些顧客屬於？",
+    "options": [
+      "中間商市場",
+      "政府市場",
+      "消費者市場",
+      "機構市場"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "下列何者最適合當組織市場的區隔變數？",
+    "options": [
+      "員工意見",
+      "總經理態度",
+      "採購主管生活型態",
+      "公司所屬產業別"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "要刺激重複購買，讓顧客知道不久將來會用到，最好用？",
+    "options": [
+      "強化式廣告",
+      "提醒式廣告",
+      "告知式廣告",
+      "說服式廣告"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "下列何者為無店面零售？",
+    "options": [
+      "自動販賣機",
+      "便利商店",
+      "照相器材行",
+      "型錄展示店"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "廣告的五個重要決策 (5Ms) 為：",
+    "options": [
+      "任務動機訊息媒體人",
+      "任務動機媒體人衡量",
+      "任務金錢訊息媒體衡量",
+      "任務金錢人媒體衡量"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "廠商將商品在電影或電視情節中出現，稱為？",
+    "options": [
+      "搭售廣告",
+      "戶外廣告",
+      "產品置入",
+      "共同廣告"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "銀行信用卡刷卡的累積點數屬於？",
+    "options": [
+      "樣品派送",
+      "來店禮",
+      "常客方案",
+      "聯合促銷"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "下列何者「並非」設計促銷活動方案的重要考量？",
+    "options": [
+      "參與者條件",
+      "時機與期間",
+      "誘因與規模",
+      "心得與報告"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "運用銷售團隊引導中間商支持並推廣給最終使用者稱？",
+    "options": [
+      "推式策略",
+      "拖式策略",
+      "拉式策略",
+      "拔式策略"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "下列何者「並非」服務差異化的工具？",
+    "options": [
+      "訂購容易度",
+      "運送與安裝",
+      "產品耐用性",
+      "顧客諮詢與訓練"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "產品處於成長階段，銷售量快速上升，購買者通常是？",
+    "options": [
+      "落後者",
+      "批准者",
+      "早期採用者",
+      "晚期採用者"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "銷售人員薪酬包括底薪、獎金與紅利，制度為？",
+    "options": [
+      "底薪制",
+      "佣金制",
+      "混合制",
+      "責任制"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "43",
+    "type": "multiple_choice",
+    "text": "根據顧客分類決定拜訪頻率來決定銷售人數的方法是？",
+    "options": [
+      "目標任務法",
+      "工作負荷法",
+      "銷售百分比法",
+      "競爭對等法"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "「創新的採用程序」為：",
+    "options": [
+      "需求->資訊->評估->決策->行為",
+      "問題->設計->資料->分析->決策",
+      "知曉->興趣->評估->試用->行動",
+      "開發->規劃->簡報->交易->維繫"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "公司將產品運往國外子公司時訂定的價格稱？",
+    "options": [
+      "參考價格",
+      "促銷定價",
+      "移轉定價",
+      "差別定價"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "消費者對來自不同國家的品牌有獨特態度，這是？",
+    "options": [
+      "原產國知覺",
+      "選擇性知覺",
+      "認知失調",
+      "不確定的知覺"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "企業在永續發展中提升利益並致力友善環境稱？",
+    "options": [
+      "漂白",
+      "染黑",
+      "漂綠",
+      "染色"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "產品用途、生產條件、配銷通路等的相關程度稱為？",
+    "options": [
+      "組合深度",
+      "組合長度",
+      "組合一致性",
+      "組合寬度"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "廠商經常推陳出新吸引汰舊換新稱為？",
+    "options": [
+      "產品線現代化",
+      "產品線特色化",
+      "產品線刪減",
+      "產品線一致化"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "登山外套廣告宣稱採用 GORE-TEX 防水纖維，稱為？",
+    "options": [
+      "旗艦品牌",
+      "私人品牌",
+      "經銷商品牌",
+      "成分品牌"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "51",
+    "type": "multiple_choice",
+    "text": "金融與法律服務屬於？",
+    "options": [
+      "高搜尋品質",
+      "高經驗品質",
+      "高信任品質",
+      "高抵制品質"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "52",
+    "type": "multiple_choice",
+    "text": "高鐵公司促銷離峰時段車票，是因服務業的？",
+    "options": [
+      "無形性",
+      "變動性",
+      "不可分割性",
+      "易逝性"
+    ],
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "number": "53",
+    "type": "multiple_choice",
+    "text": "提升服務效率常要顧客共同生產，最好利用？",
+    "options": [
+      "多僱人員",
+      "提升品質",
+      "利用自助服務科技",
+      "多服務補救"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "54",
+    "type": "multiple_choice",
+    "text": "全體員工都具備人人行銷觀念，這是？",
+    "options": [
+      "內部行銷",
+      "外部行銷",
+      "互動行銷",
+      "整合行銷"
+    ],
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "number": "55",
+    "type": "multiple_choice",
+    "text": "廠商根據不同顧客訂定不同價格，這是？",
+    "options": [
+      "心理定價",
+      "差別定價",
+      "特殊事件定價",
+      "犧牲打定價"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "56",
+    "type": "multiple_choice",
+    "text": "手機廠商設計最高等級產品，認為消費者喜歡高功能，此為？",
+    "options": [
+      "生產觀念",
+      "產品觀念",
+      "銷售觀念",
+      "行銷觀念"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "57",
+    "type": "multiple_choice",
+    "text": "全面行銷 (holistic marketing) 「不包含」哪一部份？",
+    "options": [
+      "內部行銷",
+      "關係行銷",
+      "渦輪行銷",
+      "績效行銷"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "58",
+    "type": "multiple_choice",
+    "text": "廠商聘用意見領袖或代言人，最好來自：",
+    "options": [
+      "初級群體",
+      "次級群體",
+      "仰慕群體",
+      "疏離群體"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "59",
+    "type": "multiple_choice",
+    "text": "招募 6-10 人聚集討論主題，作法稱為？",
+    "options": [
+      "街道攔阻",
+      "焦點團體法",
+      "實地調查",
+      "固定樣本"
+    ],
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "number": "60",
+    "type": "multiple_choice",
+    "text": "針對相同目標市場尋求相同策略的公司集合為？",
+    "options": [
+      "策略聯盟",
+      "策略網絡",
+      "策略群組",
+      "策略夥伴"
+    ],
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "number": "問答 1",
+    "type": "essay",
+    "text": "某位候選人在選舉時被報導「關說」事宜，如果您受委託來化解此危機，請問將如何運用媒體來處理此問題？",
+    "answer": "【解析】應運用危機傳播策略：1.快速回應(守門人控制) 2.議題設定轉移焦點 3.透過意見領袖背書 4.多管道訊息同步(整合傳播)。"
+  },
+  {
+    "number": "問答 2",
+    "type": "essay",
+    "text": "常以 Line 貼圖進行互動，請引用「使用與滿足理論」之內涵，說明其傳播效果。",
+    "answer": "【解析】閱聽人是主動的。貼圖滿足了：1.認知需求(訊息傳遞) 2.情感需求(心情表達) 3.個人整合(身份認同) 4.社會整合(人際連結)。"
+  },
+  {
+    "number": "問答 3",
+    "type": "essay",
+    "text": "請說明廠商在評估通路方案時可用的評估準則。",
+    "answer": "【解析】主要準則：1.經濟準則(成本與獲利) 2.控制準則(對通路成員的掌握) 3.適應準則(對環境變化的彈性)。"
+  },
+  {
+    "number": "問答 4",
+    "type": "essay",
+    "text": "請說明組織市場 (business market) 的特性。",
+    "answer": "【解析】特性：1.買受人較少但規模大 2.地理位置集中 3.衍生需求 4.需求缺乏彈性 5.專業採購程序 6.多重採購決策參與者。"
+  }
+]
