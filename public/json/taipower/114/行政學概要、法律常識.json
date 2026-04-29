@@ -1,0 +1,132 @@
+[
+  {
+    "number": "1",
+    "type": "multiple_choice",
+    "text": "下列何者屬於「情境領導理論」的主張？",
+    "options": [
+      "調整部屬態度因應環境變化",
+      "領導風格隨部屬成熟度與情境調整",
+      "領導者風格一致方便部屬配合",
+      "領導者以身作則建立部屬榜樣"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "「主張恢復公共行政在憲政制度中的地位，以取得參與治理過程的正當性，而行政人員正是身為憲政秩序的捍衛者」，何者最符合？",
+    "options": [
+      "黑堡宣言 (Blacksburg Manifesto)",
+      "第五項修練",
+      "權變理論",
+      "華格納法則"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "有關「民間機構自行備具私有土地投資興建，擁有所有權，並自為營運」，係屬於何種模式？",
+    "options": [
+      "BOO (Build-Own-Operate)",
+      "BOT (Build-Operate-Transfer)",
+      "BTO (Build-Transfer-Operate)",
+      "ROT (Rehabilitate-Operate-Transfer)"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "我國機關中有幾個係屬「獨立機關」：(1)國發會 (2)陸委會 (3)金管會 (4)公平會 (5)海委會 (6)NCC？",
+    "options": [
+      "0 個",
+      "1 個",
+      "2 個",
+      "3 個"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "民眾對於發電廠、變電所等公共設施，存在「不要建設在我家後院」的自利心態，稱為？",
+    "options": [
+      "公有地悲劇",
+      "螃蟹效應",
+      "破窗理論",
+      "鄰避情結 (NIMBY)"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "有關賽蒙 (Herbert A. Simon) 的行政決策理論，下列何者為其主張？",
+    "options": [
+      "主張決策是絕對理性",
+      "主張行政人觀點",
+      "只能依經濟效率選出一個令人滿意的方案",
+      "執行重要程度高於決定"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "25",
+    "type": "multiple_choice",
+    "text": "有關「零基預算」的敘述，下列何者正確？",
+    "options": [
+      "核心概念係指每年預算從假定的「零點」開始重新評估",
+      "薪資福利屬於「激勵因子」",
+      "常用平衡計分卡作為分配依據",
+      "質詢屬於內部問責"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "依《票據法》規定，票據上記載金額之文字與號碼不符時，以何者為準？",
+    "options": [
+      "以號碼為準",
+      "以文字為準",
+      "以較低者為準",
+      "以較高者為準"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "依《民法》第 179 條規定，無法律上原因而受利益，致他人受損害者，應返還其利益，稱為？",
+    "options": [
+      "侵權行為",
+      "不當得利",
+      "懸賞廣告",
+      "無因管理"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "依《中央法規標準法》第 11 條規定，法律不得牴觸下列何者？",
+    "options": [
+      "條約",
+      "判決",
+      "命令",
+      "憲法"
+    ],
+    "answer": "D",
+    "score": 2
+  }
+]
