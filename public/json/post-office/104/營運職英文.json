@@ -1,5 +1,60 @@
 [
   {
+    "number": "1",
+    "text": "Which of the following is the most appropriate title for the above passage?",
+    "options": [
+      "VW penalized and banned in the US",
+      "Diesel-fuelled cars emitting more CO",
+      "More rigid control over automobile emissions",
+      "How the VW emissions scandal being unearthed"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "The underlined word “duped” is closest in meaning to _____________________?",
+    "options": [
+      "deceived",
+      "negotiated",
+      "compromised",
+      "authorized"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "3",
+    "text": "Who or what organization unveiled the VW scandal?",
+    "options": [
+      "A BMW office in Seattle",
+      "University of West Virginia",
+      "California Air Resources Board",
+      "A US non-government organization"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "4",
+    "text": "Which of the following statements is NOT true?",
+    "options": [
+      "Volkswagen confessed to cheating on emissions tests.",
+      "Volkswagen vehicles emissions passed road trip test in the US but not in the European lab.",
+      "Doubts are raised over the trustworthiness of Volkswagen as well as the automobile industry.",
+      "ICCT was curious why Volkswagen vehicles always passed the US emissions tests."
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "5",
+    "text": "According to the passage, what is “defeat device software ” ?",
+    "options": [
+      "It’s an anti-collision device to protect the vehicle.",
+      "It’s a software designed to reduce fuel consumption.",
+      "It’s a software that makes cars appear less polluting.",
+      "It’s a device that helps diesel vehicles perform better.  \n \n第二篇： \nWhen we walk through the world in our daily life, we think that our eyes are sending information to our \nbrain which it then processes to show us an accurate view of “the real world.” But the truth is that what our brain \nshows us isn’t exactly what our eyes are seeing. Our brain is constantly interpreting everything we see. \nThe brain creates shortcuts in order to quickly make sense out of the world around us. It receives about 40 \nmillion sensory inputs every second and it’s trying to make sense of it all. It uses rules of thumb, based on past \nexperience, to make guesses about what we see. Most of the time that works, but sometimes it causes mistakes.  \nWe have two types of vision: central and peripheral. Central vision is what we use to look at things directly \nand to see the details. Peripheral vision is the rest of the visual field - areas that are visible, but that we’re not \nlooking at directly. Being able to see things out of the corner of our eye is certainly useful, but research from \nKansas State University shows that peripheral vision is more important for understanding the world around us \nthan most people realize. It seems that we get information on what types of scene we are looking at from our \nperipheral vision. \nResearchers conducted an experiment and showed people photographs of common scenes, such as a kitchen \nor a living room. They found that if the central part of the photo was missing, people could still identify what \nthey were looking at. But when the peripheral part of the photo was missing, then they couldn’t accurately guess \nwhat the scene was. They concluded that the central vision is the most critical for specific object recognition, but \nperipheral vision is used for getting the overall impression of a scene."
+    ],
+    "answer": "3"
+  },
+  {
     "number": "6",
     "text": "What is the passage mainly about?",
     "options": [
@@ -50,7 +105,7 @@
       "For us to understand what we see around, the peripheral view is used the most.",
       "What we thought we had seen may not be real because of our limited vision.",
       "One will not be able to know what is around when the central vision is blocked.",
-      "We should not trust what we see, because we don’t know what information our eyes send to our brain.\n第三篇：\nNorway is mostly known for its natural beauty, fjords and mountains, the amazing Northern Lights and the\nMidnight Sun. The Kingdom of Norway is a constitutional monarchy located in Northern Europe, the western\nportion of the Scandinavian Peninsula. Geographically Norway is located about as far north in Europe as you can\nget, and hosts the northernmost point of Europe-the North cape cliff. It is part of the Scandinavian peninsula.\nNorway has a population of about 5 million, and it is the second least densely populated country in Europe,\nwith a majority living in Oslo and the eastern parts of the country. Norway has a very elongated shape, one of the\nlongest and most rugged coastlines in the world, with some 50,000 islands off this extremely indented coastline.\nA vast number of fjords are cutting their way from the coastline into the country, carved out by the ice. The\nfjords are quite unique and beautiful, but naturally they have also been a challenge for the road planners. Thus a\nferry crossing the fjord is a typical sight in Norway. In fact, the ferries are defined as part of the road systems\nThe Arctic northern part of Norway is densely populated, with no railroad connections north of Bodo and\nvery few roads, and the roads are often closed during the winter due to heavy snowfall. One might expect the sea\nto be frozen during the winter months due to the northern latitude, but the sea is in fact always open thanks to th\ncurrent passing along the coast. Naturally the sea has been the “main road” for the population along the coast.\nFishing has always played an important part in Norway’s economy, due to the vast coastline and mountains\ncovering large areas of the country. Only the eastern parts of southern Norway has a topography suited for\nagriculture and larger farms. Along the coast people typically have a minor piece of soil for a cow and some\npotatoes, combined with fishing."
+      "We should not trust what we see, because we don’t know what information our eyes send to our brain. \n \n第三篇： \nNorway is mostly known for its natural beauty, fjords and mountains, the amazing Northern Lights and the \nMidnight Sun. The Kingdom of Norway is a constitutional monarchy located in Northern Europe, the western \nportion of the Scandinavian Peninsula. Geographically Norway is located about as far north in Europe as you can \nget, and hosts the northernmost point of Europe-the North cape cliff. It is part of the Scandinavian peninsula.  \nNorway has a population of about 5 million, and it is the second least densely populated country in Europe, \nwith a majority living in Oslo and the eastern parts of the country. Norway has a very elongated shape, one of the \nlongest and most rugged coastlines in the world, with some 50,000 islands off this extremely indented coastline. \nA vast number of fjords are cutting their way from the coastline into the country, carved out by the ice. The \nfjords are quite unique and beautiful, but naturally they have also been a challenge for the road planners. Thus a \nferry crossing the fjord is a typical sight in Norway. In fact, the ferries are defined as part of the road systems.  \nThe Arctic northern part of Norway is densely populated, with no railroad connections north of Bodo and \nvery few roads, and the roads are often closed during the winter due to heavy snowfall. One might expect the sea \nto be frozen during the winter months due to the northern latitude, but the sea is in fact always open thanks to the \ncurrent passing along the coast. Naturally the sea has been the “main road” for the population along the coast. \nFishing has always played an important part in Norway’s economy, due to the vast coastline and mountains \ncovering large areas of the country. Only the eastern parts of southern Norway has a topography suited for \nagriculture and larger farms. Along the coast people typically have a minor piece of soil for a cow and some \npotatoes, combined with fishing."
     ],
     "answer": "1"
   },
@@ -72,68 +127,13 @@
       "An opening in the earth’s crust from which lava, ash, and hot gases flow",
       "An elongated lowland between ranges of mountains, hills, or other uplands",
       "A large natural stream of water emptying into an ocean, lake, or other body of water",
-      "A long narrow inlet of the sea between steep cliffs\nAlthough the Volkswagen emissions scandal has caught many by surprise, in fact it has been brewing for a\nwhile. It all started when the European wing of the US NGO International Council on Clean Transportation\n(ICCT) set out to prove modern diesels were genuinely clean and would therefore be able to make a significant\ncontribution to improving both CO2 emissions and air quality.\nThe US has higher emissions standards than Europe, which were regularly passed by VW’s diesel-fuelled\ncars. The ICCT decided to test why this was the case—and had some surprising results. Partnering with a team\nfrom the University of West Virginia, the team fitted portable emissions testing equipment to three vehicles (two\nVWs and one BMW) on a run from San Diego to Seattle, which turned up very disappointing results for the VWs.\nThe VW Jetta tested on the road trip exceeded NOx (one of the regulated toxic emissions) standards by 15 to 35\ntimes the legal limit.\nWhen similar vehicles were subjected to their official test in the California Air Resources Board’s laboratory,\nhowever, they passed. The road test emissions numbers in the lab all fell within the accepted levels of NOx\nemissions. Following investigations into the matter, VW has admitted to gaming the US air pollution tests. Nearly\nhalf a million cars have been recalled for containing “defeat device software” that only turns on the cars’\nemissions controls when they are undergoing official testing."
+      "A long narrow inlet of the sea between steep cliffs"
     ],
     "answer": "4"
-  },
-  {
-    "number": "1",
-    "text": "Which of the following is the most appropriate title for the above passage?",
-    "options": [
-      "VW penalized and banned in the US",
-      "Diesel-fuelled cars emitting more CO2",
-      "More rigid control over automobile emissions",
-      "How the VW emissions scandal being unearthed"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "2",
-    "text": "The underlined word “duped” is closest in meaning to _____________________?",
-    "options": [
-      "deceived",
-      "negotiated",
-      "compromised",
-      "authorized"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "3",
-    "text": "Who or what organization unveiled the VW scandal?",
-    "options": [
-      "A BMW office in Seattle",
-      "University of West Virginia",
-      "California Air Resources Board",
-      "A US non-government organization"
-    ],
-    "answer": "4"
-  },
-  {
-    "number": "4",
-    "text": "Which of the following statements is NOT true?",
-    "options": [
-      "Volkswagen confessed to cheating on emissions tests.",
-      "Volkswagen vehicles emissions passed road trip test in the US but not in the European lab.",
-      "Doubts are raised over the trustworthiness of Volkswagen as well as the automobile industry.",
-      "ICCT was curious why Volkswagen vehicles always passed the US emissions tests."
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "5",
-    "text": "According to the passage, what is “defeat device software ” ?",
-    "options": [
-      "It’s an anti-collision device to protect the vehicle.",
-      "It’s a software designed to reduce fuel consumption.",
-      "It’s a software that makes cars appear less polluting.",
-      "It’s a device that helps diesel vehicles perform better.\n第二篇：\nWhen we walk through the world in our daily life, we think that our eyes are sending information to our\nbrain which it then processes to show us an accurate view of “the real world.” But the truth is that what our brain\nshows us isn’t exactly what our eyes are seeing. Our brain is constantly interpreting everything we see.\nThe brain creates shortcuts in order to quickly make sense out of the world around us. It receives about 40\nmillion sensory inputs every second and it’s trying to make sense of it all. It uses rules of thumb, based on past\nexperience, to make guesses about what we see. Most of the time that works, but sometimes it causes mistakes.\nWe have two types of vision: central and peripheral. Central vision is what we use to look at things directly\nand to see the details. Peripheral vision is the rest of the visual field - areas that are visible, but that we’re not\nlooking at directly. Being able to see things out of the corner of our eye is certainly useful, but research from\nKansas State University shows that peripheral vision is more important for understanding the world around us\nthan most people realize. It seems that we get information on what types of scene we are looking at from our\nperipheral vision.\nh         Researchers conducted an experiment and showed people photographs of common scenes, such as a kitchen\nor a living room. They found that if the central part of the photo was missing, people could still identify what\nthey were looking at. But when the peripheral part of the photo was missing, then they couldn’t accurately guess\nwhat the scene was. They concluded that the central vision is the most critical for specific object recognition, but\nperipheral vision is used for getting the overall impression of a scene.\n【請接續背面】"
-    ],
-    "answer": "3"
   },
   {
     "number": "13",
-    "text": "According to the passage, why has the sea been the “main road” for the population of the Arctic northern part along\nthe coast?",
+    "text": "According to the passage, why has the sea been the “main road” for the population of the Arctic northern part along \nthe coast?",
     "options": [
       "The northern Norwegians prefer to go by ferry rather than go by train.",
       "There are too many fjords in this area.",
@@ -160,7 +160,7 @@
       "Midnight Sun.",
       "Volcano eruption.",
       "Mountains.",
-      "Northern Lights.\n第四篇：\nMartin Luther King Jr. delivered his “I Have a Dream” speech on August 28, 1963, at the March on\nWashington for Jobs and Freedom. Many regard it as the greatest speech of the twentieth century and, more than\nthat, one of the greatest speeches in history. Though King was one of several featured speakers that day, “I Have a\nDream” became synonymous with the aims of the march and the entire civil rights movement. His dream\nrepresented the dream of millions of Americans demanding a free, equal, and just nation.\nA scholar and a pastor, King was able to combine academic, political, and biblical elements in his “I Have a\nDream” speech. He referenced the Bill of Rights, the Declaration of Independence, the Emancipation Proclamation,\nand the Bible. When delivering his address, he spoke with accessible language and used repetition to drive home\nimportant points; the phrase “I have a dream” is repeated nine times in the speech. Though King had a script in\nfront of him, as the speech progressed and the crowd responded, he began to improvise his message. In fact, the “I\nhave a dream” section, the most well-known portion of the address, was entirely extemporaneous. The power of\nthis section is a testament to King’s oratory skills and the conviction with which he spoke. Just as his namesake\nMartin Luther sparked the Protestant Reformation in the sixteenth century, King and his “I Have a Dream” speech\nemboldened his followers and changed history.\n“I Have a Dream” comprises a large part of King’s legacy. Portions of the speech are instantly recognizable\nand have become part of America’s culture. King’s dream became the nation’s dream, and it did not die when he\nwas assassinated in"
+      "Northern Lights. \n \n第四篇： \nMartin Luther King Jr. delivered his “I Have a Dream” speech on August 28, 1963, at the March on \nWashington for Jobs and Freedom. Many regard it as the greatest speech of the twentieth century and, more than \nthat, one of the greatest speeches in history. Though King was one of several featured speakers that day, “I Have a \nDream” became synonymous with the aims of the march and the entire civil rights movement. His dream \nrepresented the dream of millions of Americans demanding a free, equal, and just nation.  \nA scholar and a pastor, King was able to combine academic, political, and biblical elements in his “I Have a \nDream” speech. He referenced the Bill of Rights, the Declaration of Independence, the Emancipation Proclamation, \nand the Bible. When delivering his address, he spoke with accessible language and used repetition to drive home \nimportant points; the phrase “I have a dream” is repeated nine times in the speech. Though King had a script in \nfront of him, as the speech progressed and the crowd responded, he began to improvise his message. In fact, the “I \nhave a dream” section, the most well-known portion of the address, was entirely extemporaneous. The power of \nthis section is a testament to King’s oratory skills and the conviction with which he spoke. Just as his namesake \nMartin Luther sparked the Protestant Reformation in the sixteenth century, King and his “I Have a Dream” speech \nemboldened his followers and changed history. \n“I Have a Dream” comprises a large part of King’s legacy. Portions of the speech are instantly recognizable \nand have become part of America’s culture. King’s dream became the nation’s dream, and it did not die when he \nwas assassinated in 1968. That year, his widow Coretta Scott King founded the King Center for Nonviolent Social \nChange in Atlanta, Georgia, as a way of furthering her husband’s work for change. In 1986, King became the only \ntwentieth-century figure whose birthday has been designated a public holiday, celebrated on the third Monday of \nJanuary. However, it was not until 1993 that Martin Luther King Day was celebrated in all fifty states."
     ],
     "answer": "2"
   },
@@ -168,12 +168,34 @@
     "number": "16",
     "text": "Which of the following is the most appropriate title to the article?",
     "options": [
-      "A Brief Biography of Dr. Martin Luther King Jr.\ne",
+      "A Brief Biography of Dr. Martin Luther King Jr.",
       "A Touching Story of Dr. Martin Luther King Jr.",
       "A new report for Dr. Martin Luther King Jr.",
       "An Introduction of Dr. Martin Luther King Jr.’s Speech “I Have a Dream”"
     ],
     "answer": "4"
+  },
+  {
+    "number": "17",
+    "text": "According to the passage, in which year did Dr. Martin Luther King Jr. die?",
+    "options": [
+      "In 1963.",
+      "In 1968.",
+      "In 1986.",
+      "In 1993."
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "What did Dr. Martin Luther King Jr.’s wife do after his death?",
+    "options": [
+      "She made her husband’s birthday designated a public holiday.",
+      "She established the King Center for Nonviolent Social Change in Atlanta, Georgia.",
+      "She listed this speech as one of the greatest speeches in history.",
+      "She substituted for her husband to deliver this speech to the Americans."
+    ],
+    "answer": "2"
   },
   {
     "number": "19",

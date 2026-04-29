@@ -1,13 +1,25 @@
 [
   {
     "number": "1",
-    "text": "Which of the following is the most appropriate title to the passage? � Solutions to America’s Obesity",
+    "text": "Which of the following is the most appropriate title to the passage?",
     "options": [
+      "Solutions to America’s Obesity",
       "The Wrong Obesity Campaigns",
       "Exercise More, Eat Less",
       "Keeping Away from Sugars"
     ],
-    "answer": "2"
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "Which of the following statement is TRUE about sugar?",
+    "options": [
+      "Sugar may have been the number one culprit of obesity.",
+      "Glucose helps to reduce insulin levels.",
+      "The evidence about sugar is not conclusive.",
+      "Sugar slows down metabolism and causes obesity."
+    ],
+    "answer": "1"
   },
   {
     "number": "3",
@@ -24,20 +36,45 @@
     "number": "4",
     "text": "The underlined word “secreted” is closest in meaning to ___________________.",
     "options": [
-      "disclosed � omitted",
-      "produced � prevented",
-      "4"
+      "disclosed",
+      "omitted",
+      "produced",
+      "prevented"
     ],
     "answer": "3"
+  },
+  {
+    "number": "5",
+    "text": "What could be the intended action that the author advocated?",
+    "options": [
+      "For Americans to watch their calories.",
+      "For the government to launch anti-obesity campaigns.",
+      "For Americans to exercise regularly and eat less.",
+      "For the public to see the truth and facts about obesity.  \n \n \n \n \n第二篇： \nThe Golden Gate Bridge is celebrating its 75th anniversary. The bridge opened to vehicle traffic on May 28th, \n1937. Since then, more than two billion vehicles have crossed the world famous structure between San Francisco \nand Marin County, California. As many as one hundred and twelve thousand cars make the trip each day. \nThe Golden Gate Bridge had the longest suspension span in the world, at the time it was built. The \nsuspended roadway stretches 1,280 meters between the bridge’s two tall towers. Today it still rates among the top \nten longest bridge spans in existence. \nMary Currie, working for the Golden Gate Bridge, Highway and Transportation District says the bridge is \none of the most extraordinary engineering projects of all time. It is an engineering marvel in civil engineering and \nstructural engineering. Named after the Golden Gate Strait, the bridge crosses the strait’s narrow passage of water \nto connect the San Francisco Bay to the Pacific Ocean. Joseph Strauss was the chief engineer of the Golden Gate \nBridge project. Its engineering work began in 1933, and it took four years to complete. \nArchitect Irving Morrow gets credit for the bridge’s bright orange color. The Navy wanted the bridge \npainted in yellow and black. The Air Force had suggested red and white. Thanks to Irving Morrow’s brilliant way \nof seeing how that color would blend with the environment, and it would contrast with the ocean and the air \nabove, and it would also allow the art deco styling to really stand out."
+    ],
+    "answer": "4"
   },
   {
     "number": "6",
     "text": "Which of the following is the most appropriate title for the above passage?",
     "options": [
-      "A Replica of the Golden Gate Bridge � The Golden Gate Bridge Gala",
-      "The Golden Gate Bridge: Hub of San Francisco � What to Know About the Golden Gate Bridge"
+      "A Replica of the Golden Gate Bridge",
+      "The Golden Gate Bridge Gala",
+      "The Golden Gate Bridge: Hub of San Francisco",
+      "What to Know About the Golden Gate Bridge"
     ],
     "answer": "4"
+  },
+  {
+    "number": "7",
+    "text": "Which of the following about the Golden Gate Bridge is NOT true?",
+    "options": [
+      "It was completed in 1937.",
+      "The use of the bridge is monitored by the Air Force.",
+      "Its color blends with the environment.",
+      "The bridge has two towers to hold the roadway."
+    ],
+    "answer": "2"
   },
   {
     "number": "8",
@@ -45,9 +82,32 @@
     "options": [
       "Without the Golden Gate Bridge, civil engineering could face fierce competition and be rendered obsolete.",
       "Without the Golden Gate Bridge, transportation in the San Francisco area would be a big problem.",
-      "The bridge has boosted the economy in San Francisco since"
+      "The bridge has boosted the economy in San Francisco since 1937.",
+      "The bridge is the cause of many traffic problems in San Francisco."
     ],
     "answer": "2"
+  },
+  {
+    "number": "9",
+    "text": "The underlined word “span” is closest in meaning to ________________.",
+    "options": [
+      "height",
+      "depth",
+      "length",
+      "duration"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "10",
+    "text": "Which of the following people is most directly involved in the Golden Gate Bridge project?",
+    "options": [
+      "Joseph Strauss.",
+      "Marie Currie.",
+      "The Navy.",
+      "The Air Force. \n \n第三篇： \nIt is not uncommon to see this in any classroom. The typical classroom has a teacher who views his or her \njob as pouring information into the students’ brains. The door to the room is closed and the chairs are bolted to \nthe floor, facing the teacher. Students take careful notes, knowing they will be tested on the material later. For \nhomework they are asked to read assigned material from a textbook and will be tested later. This couldn’t be any \nmore different from life after college, where you are your own teacher, charged with figuring out what you need \nto know, where to find the information, and how to digest it and make it helpful and useful to you. In fact, real \nlife is the ultimate open book exam. The doors are thrown wide open, allowing you to draw on endless resources \naround you as you tackle open-ended problems related to work, family, friends and the world at large. A \nmasterful professor once told me that he provocatively suggests that students take classes from the worst teachers \nin their school because this will prepare them for life, where they won’t have talented educators leading the way.  \nJust as evolution is a series of trial-and-error experiments, life is full of false starts and inevitable stumbling. \nThe key to success is the ability to extract the lessons out of each of these experiences and to move on with that \nnew knowledge. There is no teacher that can accompany students along in the journey of life. What one student \ncan learn in a classroom is to learn everything about learning."
+    ],
+    "answer": "1"
   },
   {
     "number": "11",
@@ -73,8 +133,9 @@
   },
   {
     "number": "13",
-    "text": "Which of the following is NOT what can be observed in a typical college classroom? � Students concentrate on lectures and take notes.",
+    "text": "Which of the following is NOT what can be observed in a typical college classroom?",
     "options": [
+      "Students concentrate on lectures and take notes.",
       "Students are asked to solve real-life problems with no standardized answers.",
       "Professors assign material for students to study, on which they will be tested.",
       "Professors pour as much knowledge into students’ brains."
@@ -99,7 +160,7 @@
       "It is a method of trying out many means to solve problems.",
       "It is an example of successful model in order to avoid mistakes.",
       "It is an experimental procedure to eliminate errors.",
-      "It is a theory to discover the exact number of mistakes."
+      "It is a theory to discover the exact number of mistakes.  \n \n第四篇： \nDo you feel nervous when you meet new people? Does speaking in public send a chill up your spine? Is it \nsometimes difficult for you to express your true feelings to others? If you answered “yes” to any of these questions, \nyou may be a shy person. But if you are, don’t despair. You are not alone. In fact, research shows that most people \nare shy. Almost 80 percent of people report feeling shy at some point in their lives. And with each passing year, \nshyness becomes more common. With shyness being so prevalent, scientists have long desired to know what causes \nit. Although they do not have definite answers, they do have some interesting ideas about why we are shy. \nA common belief is that people become shy during life as a result of troubling social experiences. But \nscientists now say there is evidence that we are born shy. Studies show that 15 to 20 percent of babies behave \nshyly. These babies tend to be a little quieter and more reactive to unfamiliar sounds and images than other babies. \nInterestingly, these shy babies usually have shy parents and grandparents. Consequently, many scientists now \nbelieve that shyness is genetic.  \nFamily size might a factor in shyness as well. In an empirical study conducted by Harvard University, the \nresult revealed that 66 percent of shy children had older brothers and sisters. The Harvard researchers concluded \nthat menacing behavior by the older siblings made the younger children become shy. For those without brothers \nand sisters, growing up alone could also lead to the lack of social skills. When they reach school, interacting with \nteachers and classmates can be difficult."
     ],
     "answer": "1"
   },
@@ -113,6 +174,17 @@
       "Studies found hereditary personality traits."
     ],
     "answer": "2"
+  },
+  {
+    "number": "17",
+    "text": "Which of the following factor is NOT associated with shyness?",
+    "options": [
+      "Heredity.",
+      "Family size.",
+      "Birth order.",
+      "Education level."
+    ],
+    "answer": "4"
   },
   {
     "number": "18",
@@ -129,9 +201,22 @@
     "number": "19",
     "text": "Which of the following is NOT what a shy person may experience?",
     "options": [
-      "Confronting the menace � Being reactive to unfamiliar surroundings",
-      "Fear of social interaction with peers and superiors � Trouble expressing true emotions and feelings"
+      "Confronting the menace",
+      "Being reactive to unfamiliar surroundings",
+      "Fear of social interaction with peers and superiors",
+      "Trouble expressing true emotions and feelings"
     ],
     "answer": "1"
+  },
+  {
+    "number": "20",
+    "text": "The underlined word “consequently” is closest in meaning to ___________________.",
+    "options": [
+      "as a matter of fact",
+      "in particular",
+      "as a result",
+      "in theory"
+    ],
+    "answer": "3"
   }
 ]

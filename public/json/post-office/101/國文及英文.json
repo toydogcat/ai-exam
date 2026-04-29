@@ -1,35 +1,509 @@
 [
   {
-    "number": "9",
-    "text": "《禮記‧學記》中云：「學然後知不足，教然後知困。⋯⋯故曰教學相長也。〈? 命〉曰：『學學 半。』其此之謂乎？」文中「學學半」之音、義，下列何者正確？ � 音為「ㄒㄩㄝˊ、ㄒㄩㄝˊ」，義為「學習若遇不解之處，須請老師教導學習」",
+    "number": "1",
+    "text": "與莊子進行濠梁之辯的惠施，對其形象之敘述，下列何者錯誤？",
     "options": [
-      "� 音為「ㄒㄩㄝˊ、ㄒ? ㄠˋ」，義為「學生學習，老師也得到教學相長的成效」",
-      "� 音為「ㄒ? ㄠˋ、ㄒㄩㄝˊ」，義為「教導學生，實則有一半是自己增長知識」",
-      "� 音為「ㄒ? ㄠˋ、ㄒ? ㄠˋ」，義為「整體知識學習的成效，師與生各得其半」",
-      "3"
+      "惠施與公孫龍都是戰國時期有名的辯者",
+      "惠施曾於魏國任官，後因與張儀不和離開魏國",
+      "惠施的思想主張為離堅白與合同異",
+      "惠施所提「歷物十事」，現今僅能從《莊子》書中見其梗概"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "2",
+    "text": "《史記‧魏公子列傳》：「公子引侯生坐上坐，偏贊賓客，賓客皆驚。酒酣，公子起，為壽侯生前。」\n這段話的大意是：",
+    "options": [
+      "公子在侯生面前，把賓客一一介紹給侯生認識，賓客受寵若驚",
+      "公子不斷的讚美賓客的才華，賓客覺得汗顏",
+      "公子當著眾人面前，向侯生祝壽",
+      "公子將侯生介紹給賓客，讓賓客覺得相當驚訝"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "3",
+    "text": "過去某航空公司曾運用「海內存知己，天涯若比鄰」作為形象廣告用詞，請問此一詞句原出於初唐\n四傑當中哪一位的作品？",
+    "options": [
+      "王勃",
+      "駱賓王",
+      "楊炯",
+      "盧照鄰"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "4",
+    "text": "以楊業家族為背景的楊家將故事在小說、戲曲、電視劇中不斷的被敘說及扮演。若要設計楊門府邸\n當中廳堂的掛軸文字，以描述其忠肝義膽，志遠忘軀的精神，下列字句何者最不可能出現？",
+    "options": [
+      "富貴不能淫，貧賤不能移，威武不能屈",
+      "人生自古誰無死，留取丹心照汗青",
+      "猛志逸四海，騫翮思遠翥",
+      "但使龍城飛將在，不教胡馬度陰山"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "5",
+    "text": "當驪歌聲起，一位老師要引用先哲智慧寫下畢業祝辭，鼓勵同學實事求是，勿憑空妄想，下列有關\n「魚」的文句，何者運用在祝辭中較為允當？",
+    "options": [
+      "《莊子‧外物》：「得兔而忘蹄，得魚而忘筌」",
+      "《幼學瓊林》：「鮒魚困涸轍，難待西江水」",
+      "《漢書‧董仲舒傳》：「臨淵羨魚，不如退而結網」",
+      "東方朔〈答客難〉：「水至清則無魚，人至察則無徒」"
     ],
     "answer": "3"
   },
   {
-    "number": "38",
-    "text": "The relationship between a salesperson and a client is important: both parties want to feel satisfied with their deal and ________ wants to feel cheated.",
+    "number": "6",
+    "text": "錢大昕〈奕喻〉言及：「今之學者，讀古人書，多訾古人之失；與今人居，亦樂稱人失。⋯⋯平心\n而度之，吾果無一失乎？吾能知人之失，而不能見吾之失。」這句話背後的寓意是：",
     "options": [
-      "neither � either � each � every",
-      "】"
+      "時常以古人或他人之失為借鑑，正可以看出一己之失何在",
+      "識人如讀書，需於細微處多作思量，才不致有失",
+      "為人除了應該時常指正別人的缺點，同時也要看到自己的缺點",
+      "人往往只處處看別人的缺點，而對自己的缺失卻常視若無睹"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "7",
+    "text": "《史記‧刺客列傳》描述刺客聶政告訴嚴仲子：「今殺人之相，相又國君之親，此其勢不可以多人，\n多人不能無生得失，生得失則語泄，語泄是韓舉國而與仲子為讎，豈不殆哉！」其中「相、多人、生得失、\n語泄」等詞彙重複出現，所使用的修辭格為：",
+    "options": [
+      "轉化",
+      "頂真",
+      "映襯",
+      "轉品"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "8",
+    "text": "唐人傳奇名著〈李娃傳〉中敘寫：「（生）見一姥垂白上僂，即娃母也。生跪拜前致詞曰：『聞茲\n地有隙院，願稅以居，信乎？』姥曰：『懼其淺陋湫隘，不足以辱長者所處，安敢言直耶？』」就這段引\n文而言，滎陽生向姥姥表明來意為何？",
+    "options": [
+      "打掃整理舊屋",
+      "意欲購買房子",
+      "租屋寢臥以居",
+      "就地啟建樓房"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "9",
+    "text": "《禮記‧學記》中云：「學然後知不足，教然後知困。⋯⋯故曰教學相長也。〈? 命〉曰：『學學\n半。』其此之謂乎？」文中「學學半」之音、義，下列何者正確？",
+    "options": [
+      "音為「ㄒㄩㄝˊ、ㄒㄩㄝˊ」，義為「學習若遇不解之處，須請老師教導學習」",
+      "音為「ㄒㄩㄝˊ、ㄒ? ㄠˋ」，義為「學生學習，老師也得到教學相長的成效」",
+      "音為「ㄒ? ㄠˋ、ㄒㄩㄝˊ」，義為「教導學生，實則有一半是自己增長知識」",
+      "音為「ㄒ? ㄠˋ、ㄒ? ㄠˋ」，義為「整體知識學習的成效，師與生各得其半」"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "10",
+    "text": "現代文藝創作多有改寫中國古代文學作品賦予新意，下列敘述何者錯誤？",
+    "options": [
+      "朱西甯〈破曉時分〉是改寫自宋話本〈錯斬崔寧〉",
+      "魯迅〈鑄劍〉是改寫自志怪小說〈列異傳〉",
+      "白先勇〈遊園驚夢〉脫胎自王實甫《西廂記》",
+      "雲門舞集劇作〈九歌〉，源自屈原《楚辭》"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "11",
+    "text": "魏晉南北朝時期為中國文學自覺的時代，文學相關的總集或專著應運而生，下列敘述何者錯誤？",
+    "options": [
+      "《昭明文選》是中國現存的最早一部詩文總集，由昭明太子蕭統組織文人共同編選，涵括賦、詩、騷、\n七、詔、冊、令⋯⋯等眾多文體",
+      "《樂府詩集》是一部集錄了我國古代歌謠及樂府的詩歌總集，為魏晉南北朝時郭茂倩編纂，共五千多首。\n它的內容各類有總序，每曲有題解",
+      "《世說新語》是魏晉時期志人小說之代表，由劉義慶與門下食客共同編撰。內容分有：「德行」、「言語」、\n「政事」、「文學」⋯⋯等共三十六類",
+      "《文心雕龍》是中國第一部有系統的文學理論及批評專著。由劉勰撰述。包括「總論」、「文體論」、「創\n作論」、「批評論」和「總序」等五部分"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "12",
+    "text": "請選出正確讀音的選項：",
+    "options": [
+      "唐朝有位前往天竺國取經的玄「奘 / ㄓㄤˋ」法師",
+      "宋朝陳「慥 / ㄓㄠˋ」之妻柳氏凶悍善妒，人稱河東獅吼",
+      "清高宗乾隆年間有位權臣貪官名叫和「珅 / ㄕㄣ」",
+      "職棒統一獅隊請來一位日本投手「鎌 / ㄑㄧㄢ」田祐哉"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "13",
+    "text": "請選出正確字形的選項：",
+    "options": [
+      "西裝筆挺",
+      "篷蓽生輝",
+      "滿腹勞騷",
+      "固步自封"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "14",
+    "text": "請選出句法結構相同的選項：",
+    "options": [
+      "同工異曲 / 鬼斧神工",
+      "單槍匹馬 / 變驢變馬",
+      "撥雲見日 / 白虹貫日",
+      "戴罪立功 / 前功盡棄"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "15",
+    "text": "「楊貴妃天生麗質，五官清秀，艷冠群芳，能使○○○○○○○，因此深受唐玄宗寵幸。」以上文\n句空缺處應該填入的選項是：",
+    "options": [
+      "三月三日天氣新",
+      "六宮粉黛無顏色",
+      "七彩色筆載雲煙",
+      "九霄龍吟驚天變"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "16",
+    "text": "孟子說：「徵於色，發於聲，而後喻。」這句話意謂：",
+    "options": [
+      "追逐聲色，沈溺逸樂時，應自我警惕",
+      "察顏觀色，戒慎恐懼，才能惕勵自己",
+      "觀人神色，聽人言語，而後可以瞭解其人",
+      "由不滿的臉色和言詞，來徵驗人品的高下"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "17",
+    "text": "莊子說過一則寓言：「汝不知夫螳螂乎？怒其臂以當車轍，不知其不勝任也，是其才之美者也。戒\n之！慎之！」這段話是要告訴我們：",
+    "options": [
+      "要學螳螂修身養性，成為美才",
+      "不要學螳螂不自量力，自尋死路",
+      "要學螳螂一夫當關、萬夫莫敵的勇氣",
+      "不要學螳螂性情反覆，小不忍而亂大謀"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "18",
+    "text": "曹丕《典論‧論文》曾經提出「四科八目」說，指陳不同文體有不同的寫作要求。下列何者正確？",
+    "options": [
+      "奏議宜雅，書論宜理，銘誄尚實，詩賦欲麗",
+      "書論宜雅，銘誄尚理，詩賦欲實，奏議宜麗",
+      "銘誄尚雅，詩賦欲理，奏議宜實，書論宜麗",
+      "詩賦欲雅，奏議宜理，書論宜實，銘誄尚麗"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "19",
+    "text": "『貓生兒，以小漸大。貓兒問母：當何所食？母答兒言：「人自教汝。」夜至他家，隱甕器間。有\n人見已，而相約敕：「酥乳肉等，極好覆蓋；雞雛高舉，莫使貓食。」貓兒即知：雞酥乳酪，皆是我食。』\n以上這則故事中，人們害怕貓兒竊食而將食物藏好，故貓兒得知食物。請問此一人類的行為可用下列何者\n形容？",
+    "options": [
+      "此地無銀三百兩",
+      "守株待兔徒無功",
+      "錙銖必較費心思",
+      "狼狽為奸反受害"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "20",
+    "text": "王禹偁〈村行〉：「馬穿山徑菊初黃，信馬悠悠野興長。萬壑有聲含晚籟，數峰無語立斜陽。棠梨葉\n落胭脂色，蕎麥花開白雪香。何事吟餘忽惆悵？村橋原樹似吾鄉。」下列有關本詩的分析，正確的選項是：",
+    "options": [
+      "從形式上看，本詩應屬七言絕句",
+      "詩中所描寫的景色屬於冬天的景色",
+      "全詩句句寫景亦兼寫情，自首至尾流露濃厚的愁苦心緒",
+      "詩人行遊所見，彷彿故鄉景物，所以勾起他惆悵的思鄉情懷"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "21",
+    "text": "清代文學家王士禎曾為一本小說題詩：「姑妄言之姑聽之，豆棚瓜架雨如絲。料應厭作人間語，愛\n聽秋墳鬼唱詩。」由此觀之，他所題的這本小說是：",
+    "options": [
+      "西遊記",
+      "紅樓夢",
+      "聊齋志異",
+      "兒女英雄傳"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "22",
+    "text": "以物擬人、藉物抒寫情志，是文學作品中常見的寫作手法。下列選項「    」內的詞語，哪一個物\n象比喻到人的身上時，較具有正面的意義？",
+    "options": [
+      "「牛」牽到北京嘛是「牛」（臺灣俗諺）",
+      "專家還不是訓練有素的「狗」（陳之藩〈哲學家皇帝〉）",
+      "民主，並不是一群會投票的「驢」（陳之藩〈哲學家皇帝〉）",
+      "我也? 陶醉在兩情相悅，像飛舞中的「彩蝶」（慎芝〈最後一夜〉歌詞）"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "23",
+    "text": "印度詩人泰戈爾曾說：「錯誤就住在真理的隔壁，因此常使我們上當。」這句話的旨趣是：",
+    "options": [
+      "不怕做錯事，只怕不做事",
+      "真理愈辯愈明，是非公道自在人心",
+      "凡事深思熟慮，智者方能洞見真理",
+      "做事積極的人，往往會付出慘痛的代價"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "24",
+    "text": "他的中英文學養俱佳，生前曾經嚴厲批判魯迅；擔任過臺灣師範學院英語系主任，翻譯《莎士比亞\n全集》；以幽默小品文見長，文中常見博雅、哲理的內容，反諷的寫作技巧。這位現代散文作家是：",
+    "options": [
+      "徐志摩",
+      "梁實秋",
+      "陳之藩",
+      "余光中"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "25",
+    "text": "有關中國書法的敘述，下列何者正確？",
+    "options": [
+      "晉王羲之擅長行書，代表作為〈蘭亭集序〉",
+      "唐歐陽詢擅長草書，代表作為〈九成宮醴泉銘〉",
+      "宋蘇東坡擅長隸書，代表作為〈前後赤壁賦〉",
+      "明唐伯虎擅長篆書，代表作為〈四大才子秋香譜〉"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "26",
+    "text": "As a college student, Jennifer’s dream job is to work as a summer ________ at a law firm.",
+    "options": [
+      "internal",
+      "intern",
+      "intermission",
+      "interlink"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "27",
+    "text": "For most readers, her diary was a record of her inner ________.",
+    "options": [
+      "conflict",
+      "control",
+      "contest",
+      "congestion"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "28",
+    "text": "People in Taiwan can easily find many ________ stores in their neighborhood.",
+    "options": [
+      "convenience",
+      "competence",
+      "comfortable",
+      "consumption"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "29",
+    "text": "Our interest rate is ________. Clients with good records can get a lower rate.",
+    "options": [
+      "luxurious",
+      "negotiable",
+      "permanent",
+      "statistical"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "30",
+    "text": "For fear that its economy would ________, the Spanish government is trying to get loans from its neighbors.",
+    "options": [
+      "collapse",
+      "heighten",
+      "refresh",
+      "triumph"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "31",
+    "text": "Because of credit ________, many companies which have financial difficulties cannot get a loan from banks.",
+    "options": [
+      "crunch",
+      "facility",
+      "rating",
+      "voucher"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "32",
+    "text": "I need to check my ________ to make sure that I am free for the meeting.",
+    "options": [
+      "calendar",
+      "calculator",
+      "diploma",
+      "dictionary"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "33",
+    "text": "Our manager ________ from his position yesterday because he needed more time to take care of his sick father.",
+    "options": [
+      "neglected",
+      "resigned",
+      "shivered",
+      "whistled  \n二、文法測驗"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "34",
+    "text": "The outer planets are cooler than the inner ones ________ they are further from the sun.",
+    "options": [
+      "whereas",
+      "although",
+      "since",
+      "until"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "35",
+    "text": "Giraffes sleep only ________ an hour at a time.",
+    "options": [
+      "by",
+      "for",
+      "in",
+      "during"
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "36",
+    "text": "I suggested he ________ English hard to get a good job.",
+    "options": [
+      "studies",
+      "studying",
+      "study",
+      "to study"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "37",
+    "text": "He ________ last year. He and his wife just celebrated their first anniversary.",
+    "options": [
+      "got married",
+      "has been married",
+      "has married",
+      "is married"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "38",
+    "text": "The relationship between a salesperson and a client is important: both parties want to feel satisfied with their \ndeal and ________ wants to feel cheated.",
+    "options": [
+      "neither",
+      "either",
+      "each",
+      "every"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "39",
+    "text": "The recent decline in stock markets has led to greater ________ in inexpensive goods.",
+    "options": [
+      "interest",
+      "interested",
+      "interesting",
+      "interestingly"
     ],
     "answer": "1"
   },
   {
     "number": "40",
-    "text": "Ang Lee ________ one of the best movie directors in the world. \n\n## 三、克漏字測驗【請依照段落上下文意，選出最適當的答案】 \n\nMost people would agree that their lives have been positively affected by the Internet and e-mail. The Internet allows us to access large amounts of information on nearly any topic quickly and cheaply. E-mail allows us to communicate with friends, family, and colleagues 41 instantly even when they are on another continent. 42 , a question on many people’s minds concerns privacy. Does a company or government agency have the right to 43 a record of the sites you visit on the Internet? Does your employer have the right to 44 your e-mail message? \n\nDemocratic societies create large zones of privacy for individuals by 45 the power of public and private authorities to look into anyone’s personal matters. Although privacy is still a very important value, the computer age has brought a new debate over privacy rights. \n\n|",
+    "text": "Ang Lee ________ one of the best movie directors in the world.",
     "options": [
-      "41.�almost|�barely|�enough|�much|\n|---|---|---|---|\n|",
-      "42.�Additionally|�Furthermore|�However|�Moreover|\n|",
-      "43.�break|�catch|�keep|�play|\n|",
-      "44.�guess|�look|�read|�write|\n|",
-      "45.�expanding|�limiting|�protecting|�stressing|\n\n\n\n## 四、閱讀測驗 \n\nFor many years, stress has been perceived as a possible cause of illness. Now some health experts have begun to look into the positive effects that stressful activity can have on people. \n\nIt has been observed that patients report feelings of greater well-being after completing stressful tasks that have been set for them by their doctors. It is believed that such mildly stressful activities— organizing the children to go on vacation, preparing for a dinner party in just one afternoon— can improve our health and help to protect us from illness such as heart disease. \n\nNew research supports these views. When we are forced to carry out a task under pressure, the stress caused can damage cells in both our brain and body. The cells react to this “attack” by producing proteins to repair themselves. Through this process of self-repair, cells become stronger and more resistant to future stress and even disease. \n\nThe reason for investigating “stress therapy” was the observation that, as we get older, the body becomes increasingly less efficient. That’s why the body needs to be continually put under low levels of stress, to stimulate the mind and body. However, it is important that this is the right kind of stress. Short-term stress is beneficial as long as it is not too intense and will give a sense of achievement, like that gained by completing a task like putting together furniture following the instruction manual. Long-term stress can be harmful as it is often associated with situations for which there is no easy solution. \n\n- 3"
+      "considers being",
+      "has considered to be",
+      "may consider being",
+      "is considered to be \n三、克漏字測驗"
     ],
     "answer": "4"
+  },
+  {
+    "number": "41",
+    "text": "",
+    "options": [
+      "almost",
+      "barely",
+      "enough",
+      "much"
+    ],
+    "answer": "4"
+  },
+  {
+    "number": "42",
+    "text": "",
+    "options": [
+      "Additionally",
+      "Furthermore",
+      "However",
+      "Moreover"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "43",
+    "text": "",
+    "options": [
+      "break",
+      "catch",
+      "keep",
+      "play"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "44",
+    "text": "",
+    "options": [
+      "guess",
+      "look",
+      "read",
+      "write"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "45",
+    "text": "",
+    "options": [
+      "expanding",
+      "limiting",
+      "protecting",
+      "stressing  \n四、閱讀測驗 \nFor many years, stress has been perceived as a possible cause of illness. Now some health experts have begun \nto look into the positive effects that stressful activity can have on people.  \nIt has been observed that patients report feelings of greater well-being after completing stressful tasks that \nhave been set for them by their doctors. It is believed that such mildly stressful activities— organizing the children \nto go on vacation, preparing for a dinner party in just one afternoon— can improve our health and help to protect us \nfrom illness such as heart disease.  \nNew research supports these views. When we are forced to carry out a task under pressure, the stress caused \ncan damage cells in both our brain and body. The cells react to this “attack” by producing proteins to repair \nthemselves. Through this process of self-repair, cells become stronger and more resistant to future stress and even \ndisease.  \nThe reason for investigating “stress therapy” was the observation that, as we get older, the body becomes \nincreasingly less efficient. That’s why the body needs to be continually put under low levels of stress, to stimulate \nthe mind and body. However, it is important that this is the right kind of stress. Short-term stress is beneficial as \nlong as it is not too intense and will give a sense of achievement, like that gained by completing a task like putting \ntogether furniture following the instruction manual. Long-term stress can be harmful as it is often associated with \nsituations for which there is no easy solution."
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "46",
+    "text": "What is the main idea of this article?",
+    "options": [
+      "Doctors worry about patients’ mental health.",
+      "Health experts conduct new researches.",
+      "Stress is not necessarily harmful to health.",
+      "Diseases are the natural outcome of stress."
+    ],
+    "answer": "3"
   },
   {
     "number": "47",
@@ -52,6 +526,17 @@
       "Mild stress makes them healthy."
     ],
     "answer": "4"
+  },
+  {
+    "number": "49",
+    "text": "According to the article, what illness people can avoid having if they have appropriate amount of stress?",
+    "options": [
+      "Heart disease",
+      "Liver problems",
+      "Kidney failure",
+      "Stomach ulcer"
+    ],
+    "answer": "1"
   },
   {
     "number": "50",

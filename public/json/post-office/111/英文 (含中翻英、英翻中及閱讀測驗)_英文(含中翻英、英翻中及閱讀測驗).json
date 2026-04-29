@@ -8,7 +8,7 @@
       "It is located in the rural area of Australia’s biggest city.",
       "It has attracted many but only backpackers so far."
     ],
-    "answer": "2"
+    "answer": "4"
   },
   {
     "number": "2",
@@ -50,7 +50,7 @@
       "People would like to try this new type of lodging.",
       "The Hotel provides more privacy than its Japanese counterparts.",
       "The Hotel sits in an area with many people.",
-      "The Hotel is better than others of its kind.\nite found that 95 percent of\ner than it was before the\ntheir positive news on\nnvironment, more comfortable\nrs find themselves dealing\nrate when both happen in the\naces and routines to help you\ne” and keep work from creeping\nt is just for work—a place\nse know not to disturb you\nss is already happening in\nard in the sci-fi world are not\ncts. Currently available devices\n. Cochlear implants can\nthe blind see again. Bionic\nfor able-bodied people, a\n第二篇：\nDid you know that Paris’s international landmark, now considered one of the world’s most famous buildings,\nhad not always been so well-received? Built as an entrance and the centerpiece to the 1889 World’s Fair in the\n100th anniversary of the French Revolution, the all-steel structure seemed to rise oddly in an all classic Paris.\nIt was heartily disliked by Parisian intellects and artists who signed a statement: “We, writers, painters,\nsculptors, architects, passionate lovers of the beauty, until now intact, of Paris, hereby protest with all our might,\nwith all our indignation, in the name of French taste gone unrecognized, in the name of French art and history\nunder threat, against the construction, in the very heart of our capital, of the useless and monstrous Eiffel Tower.”\nHowever, the renowned monument, currently regarded as a symbol of romance, survived all the hate.\nThe Tower was initially intended to be demolished about 20 years after the exposition. Gustave Eiffel, who\ndesigned and oversaw the building of the Tower, knew then that its scientific uses could protect it from its\nadversaries and prolong its lifespan. He therefore specified and pushed for the Tower’s purposes: meteorological\nand astronomical observations, physics experiments, optical telegraph communications and wind studies. Finally\nand decisively he succeeded in saving the Tower by putting it forward as a monumental support antenna for\nwireless broadcasting.\nIn the 1930s, after the Tower had remained the world’s tallest architecture for 41 years, many nicknames\nflourished in the press and publications, but later “the Iron Lady” just stuck and was picked up by the public. The\nword “Iron,” of course, means the structure is made of puddled iron, while the Tower is a “Lady” partly because\nthe French noun tour (tower) is feminine and partly because the fine decorative meshed arches between its four\npillars, or legs, look like a lacy skirt."
+      "The Hotel is better than others of its kind. \n第二篇：  \nDid you know that Paris’s international landmark, now considered one of the world’s most famous buildings, \nhad not always been so well-received? Built as an entrance and the centerpiece to the 1889 World’s Fair in the \n100th anniversary of the French Revolution, the all-steel structure seemed to rise oddly in an all classic Paris. \nIt was heartily disliked by Parisian intellects and artists who signed a statement: “We, writers, painters, \nsculptors, architects, passionate lovers of the beauty, until now intact, of Paris, hereby protest with all our might, \nwith all our indignation, in the name of French taste gone unrecognized, in the name of French art and history \nunder threat, against the construction, in the very heart of our capital, of the useless and monstrous Eiffel Tower.” \nHowever, the renowned monument, currently regarded as a symbol of romance, survived all the hate. \nThe Tower was initially intended to be demolished about 20 years after the exposition. Gustave Eiffel, who \ndesigned and oversaw the building of the Tower, knew then that its scientific uses could protect it from its \nadversaries and prolong its lifespan. He therefore specified and pushed for the Tower’s purposes: meteorological \nand astronomical observations, physics experiments, optical telegraph communications and wind studies. Finally \nand decisively he succeeded in saving the Tower by putting it forward as a monumental support antenna for \nwireless broadcasting. \nIn the 1930s, after the Tower had remained the world’s tallest architecture for 41 years, many nicknames \nflourished in the press and publications, but later “the Iron Lady” just stuck and was picked up by the public. The \nword “Iron,” of course, means the structure is made of puddled iron, while the Tower is a “Lady” partly because \nthe French noun tour (tower) is feminine and partly because the fine decorative meshed arches between its four \npillars, or legs, look like a lacy skirt."
     ],
     "answer": "2"
   },
@@ -61,9 +61,20 @@
       "It was intended to be the landmark of Paris.",
       "It mourned the sacrifice of common people in the French Revolution.",
       "No other structures in the world were taller than it until 1970s.",
-      "It was originally scheduled to be torn down around"
+      "It was originally scheduled to be torn down around 1909."
     ],
     "answer": "4"
+  },
+  {
+    "number": "7",
+    "text": "What did people who disliked the Eiffel Tower say about it?",
+    "options": [
+      "The Tower copied the design by another famous artist.",
+      "Building the Tower cost far more than it should have.",
+      "The Tower was ugly and huge, and served no purposes.",
+      "It was dangerous to conduct experiments on the Tower."
+    ],
+    "answer": "3"
   },
   {
     "number": "8",

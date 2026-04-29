@@ -1,107 +1,54 @@
 [
   {
-    "number": "8",
-    "text": "中華郵政公司以外之保險業者，得否經營簡易人壽保險業務？",
-    "options": [
-      "-L671",
-      "須經中華郵政公司同意始得經營           須經交通部同意始得經營\n第一節／共同科目（2）\n：郵政三法（含郵政法、郵政儲金匯兌法、簡易人壽保險法）及英文"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "9",
-    "text": "下列何人得聲明終止保險契約？\n(含中翻英、英翻中及閱讀測驗)",
-    "options": [
-      "要保人",
-      "被保險人",
-      "受益人",
-      "保險\n＊入場通知書編號：_______________"
-    ],
-    "answer": "1"
-  },
-  {
-    "number": "10",
-    "text": "依簡易人壽保險法規定，以未滿 15 歲之未成年人為被保險人時，其下列\n注意：",
-    "options": [
-      "作答前須檢查答案卡（卷），測驗入場通知書編號、座位標籤號碼、應試科目是否相符，如有不                     生效力？\n同應立即請監試人員處理。使用非本人答案卡（卷）作答者，不予計分。",
-      "滿期給付",
-      "死亡給付",
-      "理賠給付",
-      "所有",
-      "本試卷為一張雙面，測驗題型分為【四選一單選選擇題 20 題，第 1-10 題，每題"
-    ],
-    "answer": "2"
-  },
-  {
     "number": "1",
-    "text": "5 分；第 11-20\n題，每題 2 分，合計 35 分】與【非選擇題 5 題，含申論題 3 題，每題 15 分；翻譯題 2 大題，每      第二部分：\n【閱讀測驗 2 篇，四選一單選選擇題 10 題，每題 2 分，合計 20\n題 10 分，合計 65 分】\n，總計 100 分。                                      第一篇：",
+    "text": "意圖供行使之用，而變造郵票者，依郵政法規定，下列敘述何者錯誤？",
     "options": [
-      "選擇題限用 2B 鉛筆於答案卡上作答，請選出最適當答案，答錯不倒扣；未作答者，不予計分。\nIt’s no secret that people like",
-      "非選擇題限以藍、黑色鋼筆或原子筆於答案卷上採橫式作答，並請依標題指示之題號於各題指定\n作答區內作答。                                                        crossing the last item off a to-do lis\n請勿於答案卡（卷）上書寫姓名、入場通知書編號或與答案無關之任何文字或符號。                          willing to go to achieve “completeness\n本項測驗僅得使用簡易型電子計算器(不具任何財務函數、工程函數、儲存程式、文數字編輯、                     desire to motivate people in specific\n內建程式、外接插卡、攝(錄)影音、資料傳輸、通訊或類似功能)，且不得發出聲響。應考人如                    descriptions to artificially reframe i\n有下列情事扣該節成績 10 分，如再犯者該節不予計分。1.電子計算器發出聲響，經制止仍執意                  arbitrary groups. Then, the effect of\n續犯者。2.將不符規定之電子計算器置於桌面或使用，經制止仍執意續犯者。                            that behavior changed in significant a\n答案卡（卷）務必繳回，未繳回者該節以零分計算。                                        up something.\nIn an online experiment, researc\n第一部分：\n【四選一單選選擇題 10 題，每題"
+      "得處六月以上五年以下有期徒刑",
+      "郵政服務人員犯該罪者，加重其刑至二分之一",
+      "負輔助載運郵件責任者之服務人員犯該罪者，不加重其刑",
+      "負輔助載運郵件責任者之服務人員犯該罪者，加重其刑至二分之一"
     ],
-    "answer": "3"
+    "answer": "1"
   },
   {
     "number": "2",
-    "text": "下列各郵件發生損失，均於交寄日起 6 個月內請求補償時，何者應予以補償？\nenough?” How many items should we buy?",
+    "text": "下列各郵件發生損失，均於交寄日起6 個月內請求補償時，何者應予以補償？",
     "options": [
       "普通掛號信函一部被竊",
-      "保價郵件因地震全部毀損                             donate? Companies may want to consider",
+      "保價郵件因地震全部毀損",
       "快捷郵件因颱風全部毀損",
-      "包裹遞交收件人時封面完好，但重量因內件性質而減少                “completion” for purchase. It is highl"
+      "包裹遞交收件人時封面完好，但重量因內件性質而減少"
     ],
     "answer": "2"
   },
   {
     "number": "3",
-    "text": "依郵政法規定，違反郵政法第二十八條規定，規避、妨礙、拒絕檢查或提供資料者，罰則為何？                    Designing products and packaging by th",
+    "text": "依郵政法規定，違反郵政法第二十八條規定，規避、妨礙、拒絕檢查或提供資料者，罰則為何？",
     "options": [
       "得處新臺幣二萬元以上十萬元以下罰鍰",
-      "得處新臺幣二萬元以上十萬元以下罰金"
+      "得處新臺幣二萬元以上十萬元以下罰金",
+      "得處拘役",
+      "得處新臺幣九萬元以下罰金"
     ],
     "answer": "1"
-  },
-  {
-    "number": "11",
-    "text": "Which of the following is the mai",
-    "options": [
-      "得處拘役",
-      "得處新臺幣九萬元以下罰金",
-      "Researchers always need to complete"
-    ],
-    "answer": "2"
   },
   {
     "number": "4",
     "text": "有關郵件之敘述，下列何者錯誤？",
     "options": [
-      "People’s behavior of completion can",
       "誤收他人之郵件，故意不返還者，處新臺幣二千元以上一萬元以下罰鍰",
-      "Businesses should sell more products",
       "無故開拆或隱匿他人之郵件者，得處新臺幣九萬元罰鍰",
-      "Product packaging aims to attract cu",
-      "關於各類國內郵件業務，國際郵政公約或協定規定與郵政法牴觸者，原則上適用郵政法之規定"
+      "關於各類國內郵件業務，國際郵政公約或協定規定與郵政法牴觸者，原則上適用郵政法之規定",
+      "各類郵件上書寫二人以上之收件人者，得向其中任何一人投遞之"
     ],
     "answer": "2"
   },
   {
-    "number": "12",
-    "text": "Which of the following about the",
-    "options": [
-      "各類郵件上書寫二人以上之收件人者，得向其中任何一人投遞之",
-      "It found that customers can be drive"
-    ],
-    "answer": "1"
-  },
-  {
     "number": "5",
-    "text": "某甲 18 歲未婚，至郵局辦理劃撥存款新臺幣（以下同）2 萬元，某乙滿 18 歲已婚至郵局購買郵政匯",
+    "text": "某甲18 歲未婚，至郵局辦理劃撥存款新臺幣（以下同）2 萬元，某乙滿18 歲已婚至郵局購買郵政匯\n票1 萬元，渠等對中華郵政公司所為之行為效力如何？",
     "options": [
-      "It discovered that a traditional six\n票 1 萬元，渠等對中華郵政公司所為之行為效力如何？",
-      "It used bottles of different beer br",
       "某甲之行為無效，某乙有效",
       "兩人之行為均有效",
-      "It stated that purchasing more than",
       "某甲之行為有效，某乙無效",
       "兩人之行為均無效"
     ],
@@ -111,36 +58,109 @@
     "number": "6",
     "text": "有關郵政匯票之敘述，下列何者錯誤？",
     "options": [
-      "abandon",
-      "calculate",
-      "郵政匯票受款人之兌領請求權，自發票日起算，三年間不行使，因時效而消滅"
-    ],
-    "answer": "2"
-  },
-  {
-    "number": "14",
-    "text": "According to the passage, people",
-    "options": [
+      "郵政匯票受款人之兌領請求權，自發票日起算，三年間不行使，因時效而消滅",
       "郵政匯票兌領請求權因時效而消滅未經兌款者，中華郵政公司應通知受款人領回",
-      "start a collection",
       "郵政匯票遺失或毀損，匯款人或受款人得申請掛失或繳回，並領回匯款，原匯票即予作廢",
-      "finish the to-do list",
       "郵政匯票業經兌領或已依規定領回匯款時，中華郵政公司應拒絕受理掛失或繳回"
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "7",
     "text": "有關郵政存簿儲金，下列敘述何者錯誤？",
     "options": [
-      "Businesses should consider packaging",
       "存簿儲金如為公益法人，不受每一團體僅得為一戶之限制",
-      "Businesses should lower prices by se",
-      "Customers should learn to buy more.",
       "存簿儲金如為公益法人，儲戶存款逾計息之最高存款限額，超過限額之數，仍給利息",
-      "Customers should ask companies to de",
       "存簿儲金如為政府機關，儲戶存款逾計息之最高存款限額，超過限額之數，仍給利息",
-      "存簿儲金如為個人戶，存款逾計息之最高存款限額，超過限額之數，不給利息\n第二篇：\nWith the plethora of payment options, greater security and improved delivery, 96 percent of adult\ninternet access and a bank account now shop online, which is almost the entire customer base. Online sho\nnow as popular as shopping in store (or even more so), as customers can save time, avoid the crowds and\nproducts at their leisure without stepping outdoors.\nBut e-commerce isn’t perfect. It’s not uncommon for people to place an order online only to be di\nby delayed delivery, or receiving an item that fails to meet expectations. Perhaps they want to ask an e\nquestion before clicking the purchase button, or to feel an affinity with your brand. Millennials, in pa\nincreasingly need to identify with your brand and message, before committing to buy. Experts stated that\nhumanizing the e-commerce experience will lead to higher sales and improve customer retention. In fact,\njust a good idea; it’s imperative.\nWith online shoppers notoriously fickle, many business owners find themselves faced with a quanda\nHow do they take their businesses online without sacrificing their brand’s customer service differentiat\ndelivered through personal touch? It’s all about creating an online experience that surpasses the custom\nexpectations. Investing in the right technology is a necessary start. A tech-enabled business is the fir\ntowards building a product or service that is measurable and sustainable. Delivering a superlative user\nonline means ensuring that your site functions to perfection. It’s imperative that your shopping cart is\nsecure, your customers aren’t left with any doubts, and there are no broken links or error messages.\nIn addition, the purchasing experience should be as simple as possible. One of the main reasons f\ncart abandonment is forcing users to create a new account or jump through too many hoops in order to com\npurchase. 60 percent of consumers are less loyal to brands after just one poor experience with their web\nIn the evolving world of online e-commerce, customer satisfaction is as much about competitive different\nit is about evolving with the times. To provide an exceptional customer experience as well as to keep yo\nbrand strategy focused on the user experience is critical. Only by doing this, can a business execute th\ntouch for their product or service."
+      "存簿儲金如為個人戶，存款逾計息之最高存款限額，超過限額之數，不給利息"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "8",
+    "text": "中華郵政公司以外之保險業者，得否經營簡易人壽保險業務？",
+    "options": [
+      "得經營簡易人壽保險業務",
+      "不得經營簡易人壽保險業務",
+      "須經中華郵政公司同意始得經營",
+      "須經交通部同意始得經營"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "9",
+    "text": "下列何人得聲明終止保險契約？",
+    "options": [
+      "要保人",
+      "被保險人",
+      "受益人",
+      "保險人"
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "10",
+    "text": "依簡易人壽保險法規定，以未滿15 歲之未成年人為被保險人時，其下列何種給付須滿一定年齡始發\n生效力？",
+    "options": [
+      "滿期給付",
+      "死亡給付",
+      "理賠給付",
+      "所有給付 \n第二部分："
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "11",
+    "text": "Which of the following is the main idea of the passage above?",
+    "options": [
+      "Researchers always need to complete their research.",
+      "People’s behavior of completion can be used to promote sales.",
+      "Businesses should sell more products to customers by promotion.",
+      "Product packaging aims to attract customers’ attention."
+    ],
+    "answer": "2"
+  },
+  {
+    "number": "12",
+    "text": "Which of the following about the online experiment is TRUE?",
+    "options": [
+      "It found that customers can be driven by a sense of completion when making purchases.",
+      "It discovered that a traditional six-pack beer product can have a slow turnover.",
+      "It used bottles of different beer brands to test customers’ preference for product packaging.",
+      "It stated that purchasing more than what is really needed is a waste of resources."
+    ],
+    "answer": "1"
+  },
+  {
+    "number": "13",
+    "text": "Which of the following is closest in meaning to the underlined word “harness”?",
+    "options": [
+      "abandon",
+      "calculate",
+      "manage",
+      "barge"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "14",
+    "text": "According to the passage, people generally feel the need to _________________.",
+    "options": [
+      "start a collection",
+      "purchase as much as possible",
+      "finish the to-do list",
+      "get the best discount"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": "15",
+    "text": "What can be inferred from the passage?",
+    "options": [
+      "Businesses should consider packaging their products as a set.",
+      "Businesses should lower prices by selling a set.",
+      "Customers should learn to buy more.",
+      "Customers should ask companies to design different products."
     ],
     "answer": "1"
   },
@@ -153,7 +173,7 @@
       "Using the right technology to improve online shopping experiences.",
       "Encouraging customers to create new accounts."
     ],
-    "answer": "3"
+    "answer": "2"
   },
   {
     "number": "17",
@@ -195,11 +215,7 @@
       "Making the shopping site visible is the most important.",
       "Creating as sophisticated shopping experiences as possible is essential.",
       "Online businesses need to create humanized shopping experiences.",
-      "Online companies should develop more technology-driven products.\n人\n何種給付須滿一定年齡始發\n給付\n分】\nto finish things; there’s something deeply and inexplicably satisfying about\nt or acquiring the final piece of a collectible set. But just how far are people\n”? A recent research investigated whether it’s possible to harness this\nways. In a series of studies, researchers used visual cues and verbal\nndividual items, from donations to tasks to gambles, as cohesive but otherwise\nsuch was measured on people’s effort levels and completion rates, and found\nnd meaningful ways, in particular how they generally feel the need to finish\nhers showed one group of study subjects images of one, two, or three loose\nhen asked how many additional bottles they’d want to buy. Most said\nthe number needed to add up to six, representing a traditional six-pack.\nere uncomfortable leaving the case incomplete and felt it would be the\nhe conclusion is that organizations can fairly easily shift consumers’ go-to\nweak in product packaging.\ns with no obvious stopping point, prompting the question: “How much is\nHow many friends should we refer? How many times should we\nfinding a sweet spot for engagement and setting that as a point of\ny likely that many people won’t be able to resist their desire to finish.\nis desire allows companies to generate more sales.\nn idea of the passage above?\ntheir research.\nbe used to promote sales.\nto customers by promotion.\nstomers’ attention.\nonline experiment is TRUE?\nn by a sense of completion when making purchases.\n-pack beer product can have a slow turnover.\nands to test customers’ preference for product packaging.\nwhat is really needed is a waste of resources.\nin meaning to the underlined word “harness”?",
-      "manage",
-      "barge\ngenerally feel the need to _________________.",
-      "purchase as much as possible",
-      "get the best discount\nsage?\ntheir products as a set.\nlling a set.\nsign different products.\n【請接續背面】\n第三部分：\n【非選擇題 5 題，含申論題 3 題，每題 15 分；翻譯題 2 大題，每題 10 分，\ns with\npping is                合計 65 分】\nselect         第一題：\n請依郵政法規定，回答下列問題：\nsappointed\nxtra\n（一）中華郵政公司或其服務人員，在何種情形時，得開拆查驗他人之郵件？【7 分】\nrticular,        （二）倘寄件人或收件人堅持不同意開拆時，中華郵政公司對於該郵件依法得如何處\n理？【3 分】\nit’s not         （三）因依法開拆查驗他人郵件而知悉他人秘密，中華郵政公司或其服務人員有無應履\n行之義務？如有，其服務人員應履行義務之期間為何？請分別說明之。【5 分】\nry.\nion,\ner’s           第二題：\nst step          請依郵政儲金匯兌法規定，回答下列問題：\nexperience\n（一）郵政匯兌除電匯外，應以哪些為憑？【4 分】\nfast and\n（二）中華郵政公司投資受益憑證及上市（櫃）股票之限制及運用管理辦法，由哪些單\nor shopping         位定之？【4 分】\nplete a          （三）中華郵政公司投資受益憑證及上市（櫃）股票，未依郵政儲金匯兌法授權訂定之\nsite or app.        限制及運用管理辦法辦理，由何單位處罰？【3 分】\niation as\n（四）中華郵政公司未經中央銀行之許可而辦理外匯業務，受罰鍰之規定為何？由何單\nur online\ne ‘human’           位處罰之？【4 分】\n第三題：\n簡易人壽保險法對郵政簡易人壽保險之保險金額有何特別規定？請說明之。【15 分】\n第四題：中翻英\n（一）雖然中國幾十年來主導製造業，但市場壓力正在增加當中。工資上漲壓縮利潤，\n促使一些製造商將生產基地轉移到印度或越南等勞動成本更低的國家。部分企業\n急於降低運輸成本，甚至將生產帶回國內以便能更快速因應需求變化。【5 分】\n（二）中國製造業一直跟隨著亞洲四小龍（如南韓和台灣）的腳步。過去許多人認為，\n在適當的時機，製造業的接力棒就將轉交給其他國家，使他們也能因製造業而繁\n榮。然而，中國的掌控不但沒有因為工資上漲而有所鬆動，反而正在強化緊縮。\n【5 分】\n第五題：英翻中\n（一）With the growing influence of millennials and the increasingly important transparency\nmade by the digitalization age, employees are expecting a more engaging and\nenjoyable work experience. Business leaders start to focus on developing the employee\nexperience to integrate deeper level of engagement, culture and performance\nmanagement.【5 分】\n（二）If managers are able to effectively analyze and predict staff needs accurately, making\nthe office environment more productive, improving career development, and\nimplementing human resources management should become much easier. This new\nfocus will drive leaders to examine their employees’ needs and optimize it much as\ncustomer experience teams do for customers.【5 分】"
+      "Online companies should develop more technology-driven products. \n \n第三部分：【非選擇題5 題，含申論題3 題，每題15 分；翻譯題2 大題，每題10 分， \n合計65 分】 \n第一題： \n請依郵政法規定，回答下列問題： \n（一）中華郵政公司或其服務人員，在何種情形時，得開拆查驗他人之郵件？【7 分】 \n（二）倘寄件人或收件人堅持不同意開拆時，中華郵政公司對於該郵件依法得如何處\n理？【3 分】 \n（三）因依法開拆查驗他人郵件而知悉他人秘密，中華郵政公司或其服務人員有無應履\n行之義務？如有，其服務人員應履行義務之期間為何？請分別說明之。【5 分】 \n第二題： \n請依郵政儲金匯兌法規定，回答下列問題： \n（一）郵政匯兌除電匯外，應以哪些為憑？【4 分】 \n（二）中華郵政公司投資受益憑證及上市（櫃）股票之限制及運用管理辦法，由哪些單\n位定之？【4 分】 \n（三）中華郵政公司投資受益憑證及上市（櫃）股票，未依郵政儲金匯兌法授權訂定之\n限制及運用管理辦法辦理，由何單位處罰？【3 分】 \n（四）中華郵政公司未經中央銀行之許可而辦理外匯業務，受罰鍰之規定為何？由何單 \n位處罰之？【4 分】 \n第三題： \n簡易人壽保險法對郵政簡易人壽保險之保險金額有何特別規定？請說明之。【15 分】 \n第四題：中翻英 \n（一）雖然中國幾十年來主導製造業，但市場壓力正在增加當中。工資上漲壓縮利潤，\n促使一些製造商將生產基地轉移到印度或越南等勞動成本更低的國家。部分企業\n急於降低運輸成本，甚至將生產帶回國內以便能更快速因應需求變化。【5 分】 \n（二）中國製造業一直跟隨著亞洲四小龍（如南韓和台灣）的腳步。過去許多人認為，\n在適當的時機，製造業的接力棒就將轉交給其他國家，使他們也能因製造業而繁\n榮。然而，中國的掌控不但沒有因為工資上漲而有所鬆動，反而正在強化緊縮。\n【5 分】 \n第五題：英翻中 \n（一）With the growing influence of millennials and the increasingly important transparency \nmade by the digitalization age, employees are expecting a more engaging and \nenjoyable work experience. Business leaders start to focus on developing the employee \nexperience to integrate deeper level of engagement, culture and performance \nmanagement.【5 分】 \n（二）If managers are able to effectively analyze and predict staff needs accurately, making \nthe office environment more productive, improving career development, and \nimplementing human resources management should become much easier. This new \nfocus will drive leaders to examine their employees’ needs and optimize it much as \ncustomer experience teams do for customers.【5 分】"
     ],
     "answer": "3"
   }
