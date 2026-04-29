@@ -1,0 +1,65 @@
+[
+  {
+    "number": "1",
+    "type": "fill_in",
+    "text": "依建築技術規則，高層建築物指高度在 50 公尺或樓層在 ____ 層以上之建築物。",
+    "answer": "16",
+    "score": 2
+  },
+  {
+    "number": "3",
+    "type": "fill_in",
+    "text": "已知 A 點高程 35.456m，後視讀數總和 10.321m，前視讀數總和 14.635m，求 B 點高程？",
+    "answer": "31.142",
+    "score": 2
+  },
+  {
+    "number": "5",
+    "type": "fill_in",
+    "text": "經緯儀觀測天頂距分別為 92˚31’42” 及 267˚28’08”，求垂直角為何？",
+    "answer": "俯角 2˚31’47”",
+    "score": 2
+  },
+  {
+    "number": "12",
+    "type": "fill_in",
+    "text": "W/C = 0.4，水泥 5 包 (每包 40kg)，拌合用水量為多少公斤？",
+    "answer": "80",
+    "score": 2
+  },
+  {
+    "number": "14",
+    "type": "fill_in",
+    "text": "控制性低強度高流動性回填材料，英文簡稱為？",
+    "answer": "CLSM",
+    "score": 2
+  },
+  {
+    "number": "17",
+    "type": "fill_in",
+    "text": "混凝土抗壓強度 2000 psi，經換算相當於多少 kgf/cm^2？",
+    "answer": "140",
+    "score": 2
+  },
+  {
+    "number": "19",
+    "type": "fill_in",
+    "text": "比例尺 1:20000，圖上長度 4.5cm，實際長度為多少 km？",
+    "answer": "0.9",
+    "score": 2
+  },
+  {
+    "number": "Q2-1",
+    "type": "calculation",
+    "text": "已知 A、B、C 三點高程相同，AB=10m, AC=16m, ∠A=60°，求 BC 距離？",
+    "answer": "14",
+    "score": 10
+  },
+  {
+    "number": "Q4-2",
+    "type": "calculation",
+    "text": "垂直向總應力 30 tf/m^2，水壓力 10 tf/m^2，K0=0.5，求側向總應力？",
+    "answer": "20",
+    "score": 10
+  }
+]
