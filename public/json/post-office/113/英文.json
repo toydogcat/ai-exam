@@ -1,0 +1,141 @@
+{
+  "duration": 90,
+  "questions": [
+    {
+      "number": "翻譯1-中翻英",
+      "type": "essay",
+      "text": "萬物 AI 化時代即將來臨！其核心概念是「邊緣 AI(Edge AI)」，所謂「邊緣」，是相對「雲端」而言。目前的生成式 AI、電商平台的商品推薦，都是倚賴遠端資料中心的雲端運算；而邊緣 AI 則是由身邊的手機、筆電等裝置去蒐集、分析及處理資料，無須上傳雲端。一些科幻產品如智慧眼鏡或戒指，不久都將陸續問世。",
+      "options": [],
+      "answer": "【參考答案】The era of AI for everything is coming! Its core concept is 'Edge AI.' The term 'edge' is used in contrast to 'cloud.' Current generative AI and product recommendations on e-commerce platforms rely on cloud computing from remote data centers. Edge AI, on the other hand, involves collecting, analyzing, and processing data on local devices like smartphones and laptops, without the need to upload to the cloud. Some sci-fi products, such as smart glasses or rings, will soon be released one after another.",
+      "score": 40
+    },
+    {
+      "number": "翻譯2-英翻中",
+      "type": "essay",
+      "text": "The truth about the fashion industry is actually pretty ugly: globally, one garbage truck of textiles is wasted every second; fast fashion is responsible for 92 million tons of solid waste dumped in landfills each year. The fashion industry is also the second-biggest consumer of water, producing 20 percent of wastewater while also generating more greenhouse gas emissions than all international flights and maritime shipping combined annually. Our fast-fashion habit needs some reconsideration — we should not continue to make or purchase clothes that do not consider our environment.",
+      "options": [],
+      "answer": "【參考答案】時尚產業的真相其實相當醜陋：全球每秒鐘就有一個垃圾車載量的紡織品被浪費；快時尚每年造成 9,200 萬噸固體廢棄物堆填。時尚產業也是全球第二大用水者，產生 20% 的廢水，且每年產生的溫室氣體排放量比所有國際航班和海運的總和還要多。我們快時尚的習慣需要重新審視——我們不應繼續製造或購買不考慮環境的衣服。",
+      "score": 40
+    },
+    {
+      "number": "閱讀1",
+      "type": "multiple_choice",
+      "text": "What is the average number of times a person passes gas per day?",
+      "options": [
+        "a little over a dozen times",
+        "just shy of 20 times",
+        "no more than 5 times",
+        "right around 10 times"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": "閱讀2",
+      "type": "multiple_choice",
+      "text": "What is one cause of increased gas in nervous people?",
+      "options": [
+        "They drink more water.",
+        "They breathe in more air.",
+        "They eat more food.",
+        "They sleep less."
+      ],
+      "answer": "2"
+    },
+    {
+      "number": "閱讀3",
+      "type": "multiple_choice",
+      "text": "Which of the following foods are more likely to cause stinkier gas?",
+      "options": [
+        "Rice and potatoes.",
+        "Candy and chocolate.",
+        "Tofu and soy milk.",
+        "Omelets and steaks."
+      ],
+      "answer": "4"
+    },
+    {
+      "number": "閱讀4",
+      "type": "multiple_choice",
+      "text": "What happens to gas when you hold it in?",
+      "options": [
+        "It goes out from the mouth as burps.",
+        "It becomes toxic and cause sickness.",
+        "It returns to the intestines and is released.",
+        "It mixes with other materials into liquid."
+      ],
+      "answer": "3"
+    },
+    {
+      "number": "閱讀5",
+      "type": "multiple_choice",
+      "text": "What is the author’s attitude toward passing gas?",
+      "options": [
+        "It has to be done at the right place.",
+        "There’s no need to feel embarrassed.",
+        "It should be studied as a science.",
+        "We should do it as much as possible."
+      ],
+      "answer": "2"
+    },
+    {
+      "number": "閱讀6",
+      "type": "multiple_choice",
+      "text": "What is the main reason celebrity gossip is so popular?",
+      "options": [
+        "It offers secrets about becoming a star.",
+        "People feel close to celebrities and interested.",
+        "Such stories are often banned.",
+        "Everyone has a chance to write news."
+      ],
+      "answer": "2"
+    },
+    {
+      "number": "閱讀7",
+      "type": "multiple_choice",
+      "text": "Which of the following might NOT be the primary subjects of the gossip media?",
+      "options": [
+        "A president of a country.",
+        "A world’s top player in tennis.",
+        "A music teacher in a high school.",
+        "A screen couple in Hollywood."
+      ],
+      "answer": "3"
+    },
+    {
+      "number": "閱讀8",
+      "type": "multiple_choice",
+      "text": "What role do the paparazzi play in celebrity gossip?",
+      "options": [
+        "They make up fake stories.",
+        "They protect celebrities from the public.",
+        "They take pictures, showing them to the public.",
+        "They manage the schedules of celebrities."
+      ],
+      "answer": "3"
+    },
+    {
+      "number": "閱讀9",
+      "type": "multiple_choice",
+      "text": "How do some celebrities in Hollywood and London respond to false gossip stories?",
+      "options": [
+        "They offer correct details to the editor.",
+        "They make apologies to the public.",
+        "They ignore the stories completely.",
+        "They may hire legal experts to sue."
+      ],
+      "answer": "4"
+    },
+    {
+      "number": "閱讀10",
+      "type": "multiple_choice",
+      "text": "What is the author’s conclusion on celebrity gossip in today’s world?",
+      "options": [
+        "Media is everywhere, and people just love it.",
+        "Gossip stories are expected to become fewer.",
+        "Celebrities should stand up together.",
+        "People will eventually lose interest."
+      ],
+      "answer": "1"
+    }
+  ]
+}

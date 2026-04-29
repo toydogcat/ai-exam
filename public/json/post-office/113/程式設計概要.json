@@ -1,0 +1,93 @@
+{
+  "duration": 60,
+  "questions": [
+    {
+      "number": "1-(1)",
+      "type": "essay",
+      "text": "請用 Java 或 C# 程式語言完成：設計一個含 for 迴圈程式，可以找出 1-100 中的數字含有 9 的數字，例如：9, 19, 29, ..., 90, 91, ..., 99。",
+      "options": [],
+      "answer": "【參考範例 - Java】\nfor(int i=1; i<=100; i++) {\n    if(String.valueOf(i).contains(\"9\")) {\n        System.out.print(i + \" \");\n    }\n}",
+      "score": 12
+    },
+    {
+      "number": "1-(2)",
+      "type": "essay",
+      "text": "設計一個副程式(方法)，可以判斷所輸入的整數參數是否為質數。",
+      "options": [],
+      "answer": "【參考範例 - C#】\npublic bool IsPrime(int n) {\n    if (n <= 1) return false;\n    for (int i = 2; i <= Math.Sqrt(n); i++) {\n        if (n % i == 0) return false;\n    }\n    return true;\n}",
+      "score": 13
+    },
+    {
+      "number": "2-(1)",
+      "type": "essay",
+      "text": "在一個程式撰寫完畢後，我們都需要執行測試，請寫出測試工作一般可以分成哪四種？",
+      "options": [],
+      "answer": "【參考答案】1. 單元測試(Unit Test) 2. 整合測試(Integration Test) 3. 系統測試(System Test) 4. 驗收測試(Acceptance Test)。",
+      "score": 4
+    },
+    {
+      "number": "2-(2)",
+      "type": "essay",
+      "text": "請簡單繪出多重選擇結構 (Switch ... Cases) 流程圖，包含 case 1, 2, 3。",
+      "options": [],
+      "answer": "【參考答案】應包含一個決策菱形或控制點，引出三條分支線，每條分支代表一個 case 值及其對應處理區塊，最後匯合至結束點。",
+      "score": 5
+    },
+    {
+      "number": "2-(3)",
+      "type": "essay",
+      "text": "UML 的「物件圖」及「時序圖」的作用是什麼？",
+      "options": [],
+      "answer": "【參考答案】\n1. 物件圖(Object Diagram)：顯示系統在某一時刻的靜態結構快照，展示實例及其關係。\n2. 時序圖(Sequence Diagram)：描述物件之間如何隨時間順序進行交互溝通，強調訊息傳遞的時間軸。",
+      "score": 8
+    },
+    {
+      "number": "2-(4)",
+      "type": "essay",
+      "text": "簡單描述系統設計中，何謂 DFD (Data Flow Diagram)？",
+      "options": [],
+      "answer": "【參考答案】資料流程圖，用以描述系統內資料的流動、處理、儲存及外部實體之間的關係。主要元素包含：處理(Process)、資料流(Data Flow)、資料儲存(Data Store)及外部實體(External Entity)。",
+      "score": 8
+    },
+    {
+      "number": "3-(1)",
+      "type": "essay",
+      "text": "假設 SQL 資料庫連接物件為 myConn，請用 Java 或 C# 撰寫程式片段，執行 str 字串內的 SQL 指令以建立資料庫(CREATE DATABASE)。",
+      "options": [],
+      "answer": "【參考範例 - C#】\nSqlCommand cmd = new SqlCommand(str, myConn);\ncmd.ExecuteNonQuery();",
+      "score": 12
+    },
+    {
+      "number": "3-(2)-1",
+      "type": "essay",
+      "text": "針對 Student 表格，請用 SQL 語法列出成績小於 90 的科目。",
+      "options": [],
+      "answer": "【參考答案】SELECT Course FROM Student WHERE Score < 90;",
+      "score": 4
+    },
+    {
+      "number": "3-(2)-2",
+      "type": "essay",
+      "text": "針對 Student 表格，請用 SQL 語法求出所有科目的平均成績。",
+      "options": [],
+      "answer": "【參考答案】SELECT AVG(Score) FROM Student;",
+      "score": 4
+    },
+    {
+      "number": "3-(2)-3",
+      "type": "essay",
+      "text": "請新增一筆資料，Course 為 'Physics', Score 為 92, Date 為 '26-Aug-2024' 進到 Student 表格中。",
+      "options": [],
+      "answer": "【參考答案】INSERT INTO Student (Course, Score, Date) VALUES ('Physics', 92, '2024-08-26');",
+      "score": 5
+    },
+    {
+      "number": "4",
+      "type": "essay",
+      "text": "請分析並設計「員工管理系統」：\n1. 需求分析(功能/非功能)\n2. 類別設計(Employee, Department)\n3. 程式設計(CRUD 操作片段)\n4. 資料庫設計與 SQL(新增、更新薪資、查詢部門員工)。",
+      "options": [],
+      "answer": "【參考答案】需包含：\n1. 功能：CRUD 員工、管理部門。非功能：安全性(登入控制)、效能。\n2. Class Employee { int ID; string Name; decimal Salary; ... }\n3. SQL: UPDATE Employee SET Salary = @new WHERE ID = @id;",
+      "score": 25
+    }
+  ]
+}

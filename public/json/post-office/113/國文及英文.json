@@ -1,0 +1,288 @@
+{
+  "duration": 60,
+  "questions": [
+    {
+      "number": "國文-寫作",
+      "type": "essay",
+      "text": "請以「運動場上的體悟」為題，撰寫一篇短文，文長為 350-600 字。",
+      "options": [],
+      "answer": "【評分重點】需符合題意、層次分明、感悟深刻。文長需達 350 字以上。",
+      "score": 30
+    },
+    {
+      "number": "國文1",
+      "type": "multiple_choice",
+      "text": "根據《閱讀與寫作》本文，下列何者並非作者認為閱讀能對寫作有所助益的原因？",
+      "options": [
+        "閱讀需要時間沉澱後才能呈現效果",
+        "閱讀的好作品應是經過時空的淬鍊",
+        "文章最好符合讀者的想法與大眾趣味",
+        "讀者對經典作品有自己的理解與看法"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": "國文2",
+      "type": "multiple_choice",
+      "text": "根據本文文意，作者何以說：「天天看雜誌、刷朋友圈，閱讀量再大，對寫作也沒什麼幫助」？",
+      "options": [
+        "此類文章見識短淺，文理又不通",
+        "作者認為朋友不見得具有大智慧",
+        "雜誌與朋友圈的文章往往只具娛樂性",
+        "此類文章缺乏布局結構與時間考驗"
+      ],
+      "answer": "4"
+    },
+    {
+      "number": "國文3",
+      "type": "multiple_choice",
+      "text": "文中提到「如同一杯茶...乾嚼茶葉是不行的。」根據本文文意，其中「茶葉與水」分別比喻的應是：",
+      "options": [
+        "文采與情思",
+        "天賦與努力",
+        "結構與邏輯",
+        "伯樂與千里馬"
+      ],
+      "answer": "1"
+    },
+    {
+      "number": "國文4",
+      "type": "multiple_choice",
+      "text": "作者認為經典文章無法立即直接幫助寫作最主要的原因是：",
+      "options": [
+        "警句和高潮篇章太少，難以畫龍點睛",
+        "讀者不能完全理解過於高深的境界",
+        "每篇文章的語境不盡然相同，無法生搬硬套",
+        "經典作品詰屈聱牙不易閱讀，道理過於深奧"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": "國文5",
+      "type": "multiple_choice",
+      "text": "根據本文文意，作者認為閱讀對於寫作者起作用所需的是：",
+      "options": ["宏觀的布局", "時間的沉澱", "豐富的想像", "縝密的邏輯"],
+      "answer": "2"
+    },
+    {
+      "number": "國文6",
+      "type": "multiple_choice",
+      "text": "作者何以說：「公寓房子上層的居民讀到『我欲乘風歸去...』多半要感到毛骨悚然」？",
+      "options": [
+        "誇張房子年久失修自然陰風陣陣",
+        "描繪房高如同山高，風吹帶來寒意",
+        "自嘲樓高熱水難以輸送，感受到的是真正的寒冷",
+        "聯想蘇軾人生不得意時正如同自己目前的人生困境"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": "國文7",
+      "type": "multiple_choice",
+      "text": "文中的「熱水汀」一詞所指的應是：",
+      "options": ["瓦斯爐", "暖氣設備", "抽水馬達", "烤箱"],
+      "answer": "2"
+    },
+    {
+      "number": "國文8",
+      "type": "multiple_choice",
+      "text": "「...失業的人向來是肝火旺的」整句話採用的寫作手法是：",
+      "options": ["擬人", "誇飾", "雙關", "譬喻"],
+      "answer": "1"
+    },
+    {
+      "number": "國文9",
+      "type": "multiple_choice",
+      "text": "「那是公寓裡特別複雜，特別多心的熱水管系統在那裡發脾氣了。」描述的是：",
+      "options": [
+        "屋主多愁善感",
+        "公寓人事管理複雜",
+        "送水系統設備時好時壞",
+        "供應熱水設備的人心機深沉"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": "國文10",
+      "type": "multiple_choice",
+      "text": "根據張愛玲〈公寓生活記趣〉後半段文意，文中 A 之處最適合填入：",
+      "options": ["萬籟俱寂", "雞犬相聞", "平地一聲雷", "我喜歡聽市聲"],
+      "answer": "4"
+    },
+    {
+      "number": "英文11",
+      "type": "multiple_choice",
+      "text": "Mr. Smith is about to retire from the company, so his colleagues plan a _____ party for him.",
+      "options": ["wedding", "farewell", "move-in", "bachelor"],
+      "answer": "2"
+    },
+    {
+      "number": "英文12",
+      "type": "multiple_choice",
+      "text": "It is very difficult to _____ between love and money when you can just have one of them.",
+      "options": ["return", "separate", "decide", "complain"],
+      "answer": "3"
+    },
+    {
+      "number": "英文13",
+      "type": "multiple_choice",
+      "text": "In Halloween, people would put on _____ makeups and costumes to look like ghosts or monsters.",
+      "options": ["scary", "dizzy", "tiny", "guilty"],
+      "answer": "1"
+    },
+    {
+      "number": "英文14",
+      "type": "multiple_choice",
+      "text": "When the CEO was arrested for his crime, the stock price of the company _____ the next day.",
+      "options": ["plunged", "soared", "ascended", "surged"],
+      "answer": "1"
+    },
+    {
+      "number": "英文15",
+      "type": "multiple_choice",
+      "text": "The puppies in the pet shops are so _____ that Mary really wants to have one as a soothing pet.",
+      "options": ["demanding", "hostile", "grumpy", "adorable"],
+      "answer": "4"
+    },
+    {
+      "number": "英文16",
+      "type": "multiple_choice",
+      "text": "The witness only had a short _____ at the thief’s face, so she didn’t remember how he looked like.",
+      "options": ["term", "glance", "stroll", "circuit"],
+      "answer": "2"
+    },
+    {
+      "number": "英文17",
+      "type": "multiple_choice",
+      "text": "Millions of Americans are under _____ watches in the Northeast where Debby is picking up speed.",
+      "options": ["tornado", "earthquake", "fire", "forest"],
+      "answer": "1"
+    },
+    {
+      "number": "英文18",
+      "type": "multiple_choice",
+      "text": "Apple Pay and Google Pay have been around for quite some time to make online payments a breeze in _____ stores, too.",
+      "options": ["curtail", "detail", "retail", "distraction"],
+      "answer": "3"
+    },
+    {
+      "number": "英文19",
+      "type": "multiple_choice",
+      "text": "We canceled the outdoor party _____ it rained cats and dogs.",
+      "options": ["so", "although", "unless", "because"],
+      "answer": "4"
+    },
+    {
+      "number": "英文20",
+      "type": "multiple_choice",
+      "text": "Susan avoids _____ alone on a long trip because she tends to fall asleep without talking to someone.",
+      "options": ["drive", "to drive", "driving", "driven"],
+      "answer": "3"
+    },
+    {
+      "number": "英文21",
+      "type": "multiple_choice",
+      "text": "Twenty years ago, Mr. Wang bought this house, _____ his two daughters were born.",
+      "options": ["where", "that", "however", "which"],
+      "answer": "1"
+    },
+    {
+      "number": "英文22",
+      "type": "multiple_choice",
+      "text": "_____ this game to a no-ranking young player was a heavy blow to his confidence.",
+      "options": ["Lose", "Lost", "Losing", "When losing"],
+      "answer": "3"
+    },
+    {
+      "number": "英文23",
+      "type": "multiple_choice",
+      "text": "Holding an implicit bias towards a particular social group can determine _____ an individual from that group.",
+      "options": ["what you treat", "you treat how", "how you treat", "which you treat"],
+      "answer": "3"
+    },
+    {
+      "number": "英文24",
+      "type": "multiple_choice",
+      "text": "_____ the alternator, the battery is the most important component in any car’s electrical system.",
+      "options": ["As far as", "Aside from", "As soon as", "Apart in"],
+      "answer": "2"
+    },
+    {
+      "number": "英文25",
+      "type": "multiple_choice",
+      "text": "People often have trouble _____ attention to one thing because their brain wants to drift off.",
+      "options": ["to pay", "pay", "paying", "paid"],
+      "answer": "3"
+    },
+    {
+      "number": "英文26 (Cloze)",
+      "type": "multiple_choice",
+      "text": "I am writing to congratulate you on your recent _____ .",
+      "options": ["combination", "installation", "promotion", "registration"],
+      "answer": "3"
+    },
+    {
+      "number": "英文27 (Cloze)",
+      "type": "multiple_choice",
+      "text": "It’s really good news and I’m truly _____ for you.",
+      "options": ["sorry", "happy", "easy", "empty"],
+      "answer": "2"
+    },
+    {
+      "number": "英文28 (Cloze)",
+      "type": "multiple_choice",
+      "text": "I think no one has _____ than you over the past few years.",
+      "options": ["talked louder", "typed faster", "slept better", "worked harder"],
+      "answer": "4"
+    },
+    {
+      "number": "英文29 (Cloze)",
+      "type": "multiple_choice",
+      "text": "It was only a matter of _____ before your abilities were recognized.",
+      "options": ["opinion", "luck", "time", "taste"],
+      "answer": "3"
+    },
+    {
+      "number": "英文30 (Cloze)",
+      "type": "multiple_choice",
+      "text": "You definitely _____ this position.",
+      "options": ["deserve", "change", "offer", "ruin"],
+      "answer": "1"
+    },
+    {
+      "number": "英文31 (Reading)",
+      "type": "multiple_choice",
+      "text": "Which healing method is NOT mentioned in this article?",
+      "options": ["Pet therapy", "Aromatherapy", "Humor therapy", "Diet therapy"],
+      "answer": "4"
+    },
+    {
+      "number": "英文32 (Reading)",
+      "type": "multiple_choice",
+      "text": "In paragraph one, what kind of scent would customers waiting in long lines at some banks probably smell?",
+      "options": ["Oaks or pines.", "Chocolate or candy.", "Roses or lilies.", "Pizzas or fried chicken."],
+      "answer": "3"
+    },
+    {
+      "number": "英文33 (Reading)",
+      "type": "multiple_choice",
+      "text": "According to the passage, which of the following is the least commonly used animal in healing people?",
+      "options": ["horses", "llamas", "birds", "deer"],
+      "answer": "2"
+    },
+    {
+      "number": "英文34 (Reading)",
+      "type": "multiple_choice",
+      "text": "According to the passage, how would red and orange colors affect people?",
+      "options": ["Boost their energy", "Enhance their joy", "Spark their anger", "Reduce their fear"],
+      "answer": "1"
+    },
+    {
+      "number": "英文35 (Reading)",
+      "type": "multiple_choice",
+      "text": "What does 'hilarious' in the last paragraph most likely mean?",
+      "options": ["Horrible", "Humorous", "Holy", "Honest"],
+      "answer": "2"
+    }
+  ]
+}
