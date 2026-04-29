@@ -2,64 +2,155 @@
   {
     "number": "1",
     "type": "fill_in",
-    "text": "依建築技術規則，高層建築物指高度在 50 公尺或樓層在 ____ 層以上之建築物。",
+    "text": "高層建築物指高度在 50 公尺或樓層在 ____ 層以上之建築物。",
     "answer": "16",
+    "score": 2
+  },
+  {
+    "number": "2",
+    "type": "fill_in",
+    "text": "具有 2 小時防火時效之牆壁，混凝土保護層厚度在 ____ 公分以上。",
+    "answer": "3",
     "score": 2
   },
   {
     "number": "3",
     "type": "fill_in",
-    "text": "已知 A 點高程 35.456m，後視讀數總和 10.321m，前視讀數總和 14.635m，求 B 點高程？",
+    "text": "已知 A 點高程 35.456m，ΣBS=10.321m，ΣFS=14.635m，則 B 點高程為 ____ m。",
     "answer": "31.142",
+    "score": 2
+  },
+  {
+    "number": "4",
+    "type": "fill_in",
+    "text": "基地 10m x 10m，前視讀數 0.75, 0.75, 0.85, 0.65，整地高程 10.00m，需填土 ____ m3。",
+    "answer": "50",
     "score": 2
   },
   {
     "number": "5",
     "type": "fill_in",
-    "text": "經緯儀觀測天頂距分別為 92˚31’42” 及 267˚28’08”，求垂直角為何？",
+    "text": "經緯儀觀測天頂距 92˚31’42” 及 267˚28’08”，垂直角為 ____。",
     "answer": "俯角 2˚31’47”",
+    "score": 2
+  },
+  {
+    "number": "6",
+    "type": "fill_in",
+    "text": "特殊抗彎矩構架混凝土抗壓強度 fc’ 不得小於 ____ kgf/cm2。",
+    "answer": "280",
+    "score": 2
+  },
+  {
+    "number": "7",
+    "type": "fill_in",
+    "text": "平行之非預力鋼筋層間淨間距至少為 ____ cm。",
+    "answer": "2.5",
+    "score": 2
+  },
+  {
+    "number": "8",
+    "type": "fill_in",
+    "text": "孔隙比 e_max=0.9, e_min=0.5，相對密度 80% 對應之孔隙比為 ____。",
+    "answer": "0.58",
+    "score": 2
+  },
+  {
+    "number": "9",
+    "type": "fill_in",
+    "text": "累積通過百分率為 ____ % 時對應的粒徑稱為有效粒徑。",
+    "answer": "10",
+    "score": 2
+  },
+  {
+    "number": "10",
+    "type": "fill_in",
+    "text": "針入度試驗讀值 130，貫入深度為 ____ 公分。",
+    "answer": "1.3",
+    "score": 2
+  },
+  {
+    "number": "11",
+    "type": "fill_in",
+    "text": "自子午線北端起順時針至所求點之角度稱為 ____。",
+    "answer": "方位角",
     "score": 2
   },
   {
     "number": "12",
     "type": "fill_in",
-    "text": "W/C = 0.4，水泥 5 包 (每包 40kg)，拌合用水量為多少公斤？",
+    "text": "W/C=0.4，水泥 5 包 (40kg/包)，用水量為 ____ 公斤。",
     "answer": "80",
+    "score": 2
+  },
+  {
+    "number": "13",
+    "type": "fill_in",
+    "text": "檢測鋼結構銲道內部缺陷，最廣泛使用的檢測法為 ____。",
+    "answer": "超音波檢測 / UT",
     "score": 2
   },
   {
     "number": "14",
     "type": "fill_in",
-    "text": "控制性低強度高流動性回填材料，英文簡稱為？",
+    "text": "控制性低強度高流動性回填材料，簡稱為 ____。",
     "answer": "CLSM",
+    "score": 2
+  },
+  {
+    "number": "15",
+    "type": "fill_in",
+    "text": "級配良好之砂土，分類符號為 ____。",
+    "answer": "SW",
+    "score": 2
+  },
+  {
+    "number": "16",
+    "type": "fill_in",
+    "text": "由千斤頂推向前端到達井之施工方式，稱為 ____ 工法。",
+    "answer": "推進 / 推管",
     "score": 2
   },
   {
     "number": "17",
     "type": "fill_in",
-    "text": "混凝土抗壓強度 2000 psi，經換算相當於多少 kgf/cm^2？",
+    "text": "2000 psi 相當於 ____ kgf/cm2。",
     "answer": "140",
+    "score": 2
+  },
+  {
+    "number": "18",
+    "type": "fill_in",
+    "text": "將所有荷重傳佈於基礎底面之地層，具減少差異沉陷優點之基礎為 ____ 基礎。",
+    "answer": "筏式",
     "score": 2
   },
   {
     "number": "19",
     "type": "fill_in",
-    "text": "比例尺 1:20000，圖上長度 4.5cm，實際長度為多少 km？",
+    "text": "比例尺 1:20000，圖上 4.5cm 實際長度為 ____ km。",
     "answer": "0.9",
     "score": 2
   },
   {
-    "number": "Q2-1",
-    "type": "calculation",
-    "text": "已知 A、B、C 三點高程相同，AB=10m, AC=16m, ∠A=60°，求 BC 距離？",
-    "answer": "14",
-    "score": 10
+    "number": "20",
+    "type": "fill_in",
+    "text": "護欄上中欄杆開口距離應不大於 ____ 公分。",
+    "answer": "55",
+    "score": 2
   },
   {
-    "number": "Q4-2",
-    "type": "calculation",
-    "text": "垂直向總應力 30 tf/m^2，水壓力 10 tf/m^2，K0=0.5，求側向總應力？",
-    "answer": "20",
-    "score": 10
+    "number": "問答1",
+    "type": "essay",
+    "text": "解釋名詞：(1)砂湧 (2)N值 (3)鋼筋伸展長度 (4)容積率 (5)特別安全梯",
+    "answer": "【參考答案】(1)砂湧：地下水壓過大導致砂土液化冒出。(2)N值：標準貫入試驗錘擊次數。(4)容積率：總樓地板面積與基地面積之比。",
+    "score": 15
+  },
+  {
+    "number": "問答2",
+    "type": "essay",
+    "text": "經緯儀測量：(1)AB=10, AC=16, ∠A=60度，求 BC。(2)AB方位角 150，B角 110，C角 240，求 CD 方位角。",
+    "answer": "【參考答案】(1)BC=14m (餘弦定理)。(2)CD方位角=320度 (需繪圖解析)。",
+    "score": 15
   }
 ]

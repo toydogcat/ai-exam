@@ -2,7 +2,7 @@
   {
     "number": "1",
     "type": "multiple_choice",
-    "text": "小綺每日沿同一條路線跑步上下班，其上班速率為 6 km/hr，下班速率為 12 km/hr，若全程的平均速度量值為 A km/hr；全程的平均速率為 B km/hr，則 (A, B) 為何？",
+    "text": "小綺上班速率 6 km/hr，下班速率 12 km/hr，全程平均速度 A 與平均速率 B 分別為？",
     "options": [
       "(0, 3)",
       "(0, 7)",
@@ -13,9 +13,22 @@
     "score": 2
   },
   {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "毛巾與塑膠尺摩擦後毛巾帶正電，下列何者正確？",
+    "options": [
+      "毛巾得到質子",
+      "塑膠尺得到電子",
+      "塑膠尺電子移到毛巾",
+      "毛巾質子移到塑膠尺"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
     "number": "3",
     "type": "multiple_choice",
-    "text": "將某一溫度計放入 0 ℃ 的冰水中，測得讀值為 -10 ℃，改放於 100 ℃ 的沸水中，測得讀值為 105 ℃，若測得 A 液體為 36 ℃，則實際溫度為何？",
+    "text": "溫度計冰點 -10 ℃，沸點 105 ℃，測得 36 ℃ 時實際溫度為？",
     "options": [
       "40",
       "42",
@@ -28,7 +41,7 @@
   {
     "number": "4",
     "type": "multiple_choice",
-    "text": "如圖所示，施加 150 N 拉動 15 kg 與 35 kg 物體，則繩子對 35 kg 物體的拉力為多少 N？",
+    "text": "施加 150 N 拉動 15 kg 與 35 kg 物體，繩子對 35 kg 物體拉力為？",
     "options": [
       "15",
       "35",
@@ -39,9 +52,35 @@
     "score": 2
   },
   {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "平面鏡入射線與反射線夾角 60 度，則反射角為？",
+    "options": [
+      "15",
+      "30",
+      "45",
+      "D 60"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "電阻 R、2R、4R 並聯，電流比為？",
+    "options": [
+      "1:2:4",
+      "2:3:6",
+      "3:2:1",
+      "4:2:1"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
     "number": "7",
     "type": "multiple_choice",
-    "text": "繩索支撐力 1,200 N，體重 30 kgw 的人向上攀爬，最大加速度為多少 m/s^2？(g=10)",
+    "text": "繩子支撐 1200 N，體重 30 kgw 人向上爬之最大加速度？",
     "options": [
       "10",
       "15",
@@ -52,9 +91,74 @@
     "score": 2
   },
   {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "兩者往北與往東以 2 m/s^2 加速，2 秒後距離為何？",
+    "options": [
+      "4√2",
+      "5√2",
+      "6√2",
+      "8√2"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "物體受 F1=3 N 及 F2=4 N，合力絕非何者？",
+    "options": [
+      "1 N",
+      "5 N",
+      "7 N",
+      "8 N"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "110V、3000W 冷氣使用 12 小時，消耗電能幾度？",
+    "options": [
+      "11",
+      "13",
+      "33",
+      "36"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "水銀溫度計液面升高，是因為何種物理量變大？",
+    "options": [
+      "體積",
+      "比熱",
+      "密度",
+      "質量"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "110V/100W 比 110V/30W 燈泡亮的主因為？",
+    "options": [
+      "電阻較低",
+      "電壓較高",
+      "電流較低",
+      "電壓較低"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "13",
     "type": "multiple_choice",
-    "text": "超聲波頻率 30 kHz，海中聲速 1,200 m/s，波長為多少 m？",
+    "text": "超聲波 30 kHz，海中聲速 1200 m/s，波長為何？",
     "options": [
       "0.004",
       "0.04",
@@ -65,9 +169,22 @@
     "score": 2
   },
   {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "氣體壓力 0.3 atm，水銀柱高 38 cm，大氣壓力為何？",
+    "options": [
+      "0.8",
+      "0.9",
+      "1.3",
+      "1.5"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "15",
     "type": "multiple_choice",
-    "text": "單擺長 10 m，擺角 60 度由靜止釋放，最低點速率為何？",
+    "text": "擺長 10m，擺角 60 度由靜止釋放，最低點速率？",
     "options": [
       "5",
       "10",
@@ -78,9 +195,126 @@
     "score": 2
   },
   {
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "3 個 K 彈簧並聯再串聯 1 個 K，總彈簧常數？",
+    "options": [
+      "3/4 K",
+      "1 K",
+      "4/3 K",
+      "2 K"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "5 秒內由 10 m/s 向東變為 5 m/s 向西，平均加速度？",
+    "options": [
+      "1, 向西",
+      "1, 向東",
+      "3, 向西",
+      "3, 向東"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "向心加速度 20 m/s^2，時速 108 km/hr 轉彎之最小半徑？",
+    "options": [
+      "20",
+      "35",
+      "40",
+      "45"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "下列何者不具有向量特性？",
+    "options": [
+      "電位",
+      "力",
+      "速度",
+      "電場"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "彈簧 20 N 壓 1 cm，若壓 2 cm，位能為多少 J？",
+    "options": [
+      "0.04",
+      "0.4",
+      "4",
+      "40"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "3 A 電流通過 4 mm 導線，3 分鐘總電量？",
+    "options": [
+      "540",
+      "600",
+      "720",
+      "900"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "有關交流發電機敘述正確者？",
+    "options": [
+      "原理與電動機同",
+      "電能換動能",
+      "電流方向固定",
+      "利用線圈磁場變化產感應電流"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "90 gw 鋁塊 (密度 3) 放入密度 0.6 液體中，浮力為何？",
+    "options": [
+      "9",
+      "15",
+      "18",
+      "30"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "1 m/s^2 加速 30 秒，等速 10 分鐘，-0.5 m/s^2 減速至停，共騎幾秒？",
+    "options": [
+      "650",
+      "670",
+      "690",
+      "710"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "25",
     "type": "multiple_choice",
-    "text": "圖中滑輪組，欲吊起 300 N 物塊，力 F 需多少 N？",
+    "text": "圖中滑輪組吊起 300 N 物塊，F 需多少 N？",
     "options": [
       "30",
       "40",
@@ -91,9 +325,191 @@
     "score": 2
   },
   {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "下列何者為導出單位？",
+    "options": [
+      "燭光",
+      "安培",
+      "公斤",
+      "焦耳"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "變電所升壓送電之目的？",
+    "options": [
+      "增電阻",
+      "減熱消耗",
+      "增速率",
+      "減功率"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "螺線管敘述正確者？",
+    "options": [
+      "外側磁場大",
+      "中心磁場零",
+      "兩端相當於磁鐵棒",
+      "與電流無關"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "5 N 向左與 10 N 向右同時作用，向右移 10 m，何者正確？",
+    "options": [
+      "均正功",
+      "均負功",
+      "F1 正功 F2 負功",
+      "F1 負功 F2 正功"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "海嘯接近岸邊時，下列何者正確？",
+    "options": [
+      "波速變慢",
+      "波速不變",
+      "波速變快",
+      "波高不變"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "3m 速度 v 撞 m 靜止物，碰撞後相對速度 0.6v，正確者？",
+    "options": [
+      "甲速 1.2v",
+      "乙速 0.6v",
+      "總動量守恆",
+      "碰撞過程總動量守恆"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "物質三態分子距離大小關係？",
+    "options": [
+      "固>液>氣",
+      "液>氣>固",
+      "氣>液>固",
+      "氣>固>液"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "凹面鏡遮住下半部，成像會如何？",
+    "options": [
+      "上一半成像",
+      "下一半成像",
+      "無法成像",
+      "亮度較暗"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "1800 kg 車由 20 m/s 加速至 30 m/s，動能增加多少？",
+    "options": [
+      "5x10^3",
+      "9x10^4",
+      "3x10^5",
+      "4.5x10^5"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "2 kg 箱提至 0.5 m 高後水平走 10 m，總共作功？",
+    "options": [
+      "1 J",
+      "10 J",
+      "100 J",
+      "200 J"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "720 kg 球具 3600 kJ 動能，速度為何？",
+    "options": [
+      "10^2",
+      "10^3",
+      "10^4",
+      "10^5"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "初速 v 拋射 t 秒落地，若初速 2v 則落地時間？",
+    "options": [
+      "0.5 t",
+      "t",
+      "2 t",
+      "4 t"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "水力發電能量轉換觀點正確者？",
+    "options": [
+      "熱轉電",
+      "化學轉電",
+      "重力位能轉電",
+      "彈性位能轉電"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "核燃料發電過程能量轉換形式？",
+    "options": [
+      "質能轉換",
+      "聲轉電",
+      "核融合",
+      "動能轉熱能"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "40",
     "type": "multiple_choice",
-    "text": "電荷 Q1, Q2 距 2 cm 時受力 3 N。移開至 4 cm 時，受力變為多少 N？",
+    "text": "2 cm 電荷受力 3 N，移至 4 cm 時受力變為？",
     "options": [
       "0.48",
       "0.75",
@@ -104,9 +520,35 @@
     "score": 2
   },
   {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "合力為零時，物體狀態敘述正確者？",
+    "options": [
+      "拋物線",
+      "自由落體",
+      "等加速",
+      "靜止"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "弦基音 252 Hz，按住中點彈奏，頻率變為多少倍？",
+    "options": [
+      "0.25",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
     "number": "43",
     "type": "multiple_choice",
-    "text": "體重 270 N，距地表高度為地球半徑 2 倍處，重量變為多少 N？",
+    "text": "體重 270 N，距地表 2 倍半徑處重量變為？",
     "options": [
       "30",
       "60",
@@ -117,9 +559,22 @@
     "score": 2
   },
   {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "測速雷達原理？",
+    "options": [
+      "干涉",
+      "繞射",
+      "都卜勒效應",
+      "透射"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "45",
     "type": "multiple_choice",
-    "text": "火車距山 630 m 鳴笛，3 秒後聽到回聲，火車速度為何？(聲速 340 m/s)",
+    "text": "火車距山 630 m 鳴笛，3 秒後聽見回聲，火車速度？",
     "options": [
       "80",
       "160",
@@ -127,6 +582,71 @@
       "320"
     ],
     "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "平面鏡成像敘述正確者？",
+    "options": [
+      "倒立實像",
+      "倒立虛像",
+      "正立實像",
+      "正立虛像"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "x = 8 cos(pi/5 t)，振幅為何？",
+    "options": [
+      "8",
+      "週期 8",
+      "16",
+      "週期 16"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "如圖電路等效電阻 RT 為多少？",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "30 歐姆處消耗功率為多少瓦？",
+    "options": [
+      "100",
+      "120",
+      "140",
+      "160"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "3600 公尺處地震，波速 4000 m/s，需幾秒？",
+    "options": [
+      "0.3",
+      "0.6",
+      "0.9",
+      "1.2"
+    ],
+    "answer": "C",
     "score": 2
   }
 ]

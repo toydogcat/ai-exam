@@ -2,12 +2,12 @@
   {
     "number": "1",
     "type": "multiple_choice",
-    "text": "有關導線弛度 (Sag) 的敘述，下列何者有誤？",
+    "text": "有關導線弛度的敘述，下列何者有誤？",
     "options": [
-      "溫度愈高，弛度愈大",
-      "負載愈高，弛度愈大",
-      "弛度愈大者，支架要愈高",
-      "弛度與拉力成正比"
+      "溫度愈高弛度愈大",
+      "負載愈高弛度愈大",
+      "弛度大支架要高",
+      "弛度與拉力成正比"
     ],
     "answer": "D",
     "score": 2
@@ -15,33 +15,163 @@
   {
     "number": "2",
     "type": "multiple_choice",
-    "text": "交流電壓 v(t)=Vm sin(314t+60°)，交流電流 i(t)=Im cos(314t-30°)，則 v(t) 與 i(t) 之相位關係為何？",
+    "text": "v(t)=Vm sin(314t+60°)，i(t)=Im cos(314t-30°)，相位關係為何？",
     "options": [
-      "v(t) 超前 i(t) 30°",
-      "v(t) 超前 i(t) 60°",
-      "v(t) 與 i(t) 同相",
-      "v(t) 超前 i(t) 90°"
+      "v 超前 i 30°",
+      "v 超前 i 60°",
+      "同相",
+      "v 超前 i 90°"
     ],
     "answer": "C",
     "score": 2
   },
   {
+    "number": "3",
+    "type": "multiple_choice",
+    "text": "架空接地線防護高壓線路屏蔽效果，桿塔接地電阻應低於多少？",
+    "options": [
+      "10 Ω",
+      "20 Ω",
+      "30 Ω",
+      "40 Ω"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "4",
+    "type": "multiple_choice",
+    "text": "如圖斷路器 1510，A 讀值 0.5∠10°，求匯流排保護電驛 IR 電流值？",
+    "options": [
+      "0.2∠10°",
+      "0.2∠190°",
+      "0.3∠10°",
+      "0.3∠190°"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "何種中性點接地方式可與對地靜電容量產生並聯共振，使故障電流為零？",
+    "options": [
+      "電抗接地",
+      "電阻接地",
+      "直接接地",
+      "不接地"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "6",
     "type": "multiple_choice",
-    "text": "風力每小時達 40~48 km 時產生舉沖作用，引起導線低頻率大振幅之擺動，稱為？",
+    "text": "風力 40~48 km/hr 引起導線低頻大振幅擺動稱為？",
     "options": [
       "風成振動",
       "旋風振動",
       "諧振動",
-      "舞振 (Galloping)"
+      "舞振"
     ],
     "answer": "D",
     "score": 2
   },
   {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "計算電力系統短路電流時，下列何者提供的電流不列入計算？",
+    "options": [
+      "同步發電機",
+      "同步電動機",
+      "感應電動機",
+      "電容器"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "超高壓三相系統每相導體使用何者最「無法」改善電暈損失？",
+    "options": [
+      "單導體",
+      "複導體",
+      "三導體",
+      "四導體"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "有關變壓器開路試驗敘述何者有誤？",
+    "options": [
+      "高壓側開路",
+      "可測激磁導納",
+      "可測鐵損",
+      "低壓側施加額定電流"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "下列何者「不是」使用瓷質礙子的優點？",
+    "options": [
+      "價格便宜",
+      "高抗張力",
+      "絕緣佳",
+      "不易破裂"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "地下電纜構造順序由內至外？",
+    "options": [
+      "導體、絕緣體、布、被覆",
+      "導體、布、絕緣體、被覆",
+      "導體、布、被覆、絕緣體",
+      "布、導體、絕緣體、被覆"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "防止干擾對策敘述何者有誤？",
+    "options": [
+      "換位減輕靜電感應",
+      "架空地線減輕靜電感應",
+      "中性點不接地減低故障電流",
+      "Y-Δ連接抑制三諧波"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "有關斷路器敘述何者有誤？",
+    "options": [
+      "可啟斷故障電流",
+      "可自行偵測系統是否故障",
+      "消弧在電流零值達成",
+      "可啟斷負載電流"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
     "number": "14",
     "type": "multiple_choice",
-    "text": "三相系統發生事故產生 150 A 故障電流，等效電感 2.5 mH，等效電容 100 pF，求再襲電壓為多少 kV？",
+    "text": "150 A 故障電流，L=2.5 mH，C=100 pF，求再襲電壓為多少 kV？",
     "options": [
       "150",
       "300",
@@ -52,9 +182,61 @@
     "score": 2
   },
   {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "單相與三相輸電系統電壓電流功因重皆同，三相電力損失為單相之幾倍？",
+    "options": [
+      "0.5",
+      "0.75",
+      "1",
+      "2"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "下列何者「不是」提高輸電電壓的優點？",
+    "options": [
+      "減少設備投資費用",
+      "減少輸電損失",
+      "減少線路壓降",
+      "減少用銅量"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "Zpu=0.03+j0.04，1000 kVA 基準，求對稱短路容量 S.C 為多少 MVA？",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "40"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "下列何者「不是」直流輸電優點？",
+    "options": [
+      "無集敷效應",
+      "適合長程",
+      "電壓升降容易",
+      "控制迅速"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "19",
     "type": "multiple_choice",
-    "text": "配電線路負載分布，求負載中心點 Px 至 A 點之距離 (X) 為多少 m？",
+    "text": "配電負載分佈如圖，求負載中心點 Px 距離 A 為多少？",
     "options": [
       "24.5",
       "25.5",
@@ -67,12 +249,181 @@
   {
     "number": "20",
     "type": "multiple_choice",
-    "text": "三相輸電線路，負載 1200 kW，PF=0.6，在視在功率不變下，使負載提高為 1600 kW，求功因及調相機容量？",
+    "text": "1200 kW 功因 0.6，視在功率不變下提高為 1600 kW，求功因及調相機容量？",
     "options": [
-      "0.6, 400 kVAR",
-      "0.6, 933.3 kVAR",
-      "0.8, 400 kVAR",
-      "0.8, 933.3 kVAR"
+      "0.6, 400",
+      "0.6, 933.3",
+      "0.8, 400",
+      "0.8, 933.3"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "下列何者屬中程輸電線長度？",
+    "options": [
+      "70 km",
+      "200 km",
+      "260 km",
+      "300 km"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "絕緣礙子漏洩距離敘述何者正確？",
+    "options": [
+      "頂端至底端表面距離",
+      "頂端至底端直線距離",
+      "與電壓成反比",
+      "與漏洩電阻成反比"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "300 kW 需量 80% 參差 1.25，平均功因 0.8，求供電設備額定容量 kVA？",
+    "options": [
+      "120",
+      "240",
+      "300",
+      "375"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "500 MVA, 40 kV 下 X=0.25，改為 100 MVA, 20 kV 後 X 為多少 pu？",
+    "options": [
+      "0.05",
+      "0.1",
+      "0.2",
+      "1"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "25",
+    "type": "multiple_choice",
+    "text": "保護電驛代號何者有誤？",
+    "options": [
+      "21：測距",
+      "50：欠壓",
+      "59：過電壓",
+      "87：差動"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "提高功率因數優點敘述何者有誤？",
+    "options": [
+      "提高輸電效率",
+      "減少供電能力",
+      "減少設備容量",
+      "改善電壓調整率"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "變壓器開路與短路試驗目的何者正確？",
+    "options": [
+      "測匝比、測鐵損",
+      "測銅損、測鐵損",
+      "測銅損、測匝比",
+      "測鐵損、測銅損"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "平衡三相 Y 接，相序 a-b-c，Vab=220∠120°，下列何者正確？",
+    "options": [
+      "Vbc=220∠0°",
+      "Vca=220∠0°",
+      "Vca=220∠20°",
+      "Vbc=220∠-120°"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "受電端 30 kV 功因 0.8，送電端 34 kV 功因 0.85，輸電效率多少 %？",
+    "options": [
+      "83.0",
+      "85.2",
+      "87.8",
+      "91.2"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "電力系統標么值敘述何者有誤？",
+    "options": [
+      "易於比較參數",
+      "系統基值只有一個",
+      "簡化計算",
+      "分析容易"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "下列導線何者「不適合」應用於電力輸送？",
+    "options": [
+      "銅線",
+      "鋼心鋁線",
+      "鋼線",
+      "空心銅線"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "變壓器中性點直接接地之特點？",
+    "options": [
+      "降低短路電流",
+      "提高接地阻抗",
+      "提供故障路徑利保護",
+      "減少瞬間電壓抖動"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "下列何者非目前三相交流電源之商用頻率？",
+    "options": [
+      "25 Hz",
+      "50 Hz",
+      "60 Hz",
+      "70 Hz"
     ],
     "answer": "D",
     "score": 2
@@ -80,46 +431,163 @@
   {
     "number": "34",
     "type": "multiple_choice",
-    "text": "傅倫第效應 (Ferranti Effect) 主要由下列何者特性造成？",
+    "text": "傅倫第效應 (Ferranti) 由何種特性造成？",
     "options": [
-      "線路電感",
-      "線路電阻",
-      "線路電容",
+      "線路電感",
+      "線路電阻",
+      "線路電容",
       "電阻電感耦合"
     ],
     "answer": "C",
     "score": 2
   },
   {
-    "number": "38",
+    "number": "35",
     "type": "multiple_choice",
-    "text": "輸電線長 100 km，電阻 0.1 Ω/km，電流 200 A。求功率損失為多少 kW？",
+    "text": "下列何者「非」屬屋外變電所之優點？",
     "options": [
-      "200",
-      "400",
-      "800",
-      "1,600"
+      "用地面積與屋內同",
+      "散熱佳",
+      "防止火災",
+      "節省建築費"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "100 kW 與 150 kW 用戶系統負載 200 kW，下列何者正確？",
+    "options": [
+      "參差 0.8",
+      "耦合 0.5",
+      "耦合 2.0",
+      "參差 1.25"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "變壓器得到最大效率時，銅損與鐵損關係？",
+    "options": [
+      "銅>鐵",
+      "銅=鐵",
+      "銅<鐵",
+      "無關係"
     ],
     "answer": "B",
     "score": 2
   },
   {
-    "number": "43",
+    "number": "38",
     "type": "multiple_choice",
-    "text": "將全線路的串聯阻抗集中於線路中間，將電容分成兩半，一半在送端，一半在受端，稱為？",
+    "text": "100 km 電阻 0.1 Ω/km，電流 200 A，功率損失多少 kW？",
     "options": [
-      "T 型",
-      "Z 型",
-      "Π 型",
-      "X 型"
+      "200",
+      "400",
+      "800",
+      "1600"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "一次側 161 kV 二次側 23.9 kV，匝數比為何？",
+    "options": [
+      "6.7",
+      "11.2",
+      "13.4",
+      "26.8"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "三相 22.8 kV，100 A 功因 0.8，改善至 0.95 後電流多少 A？",
+    "options": [
+      "22.8",
+      "84.2",
+      "118.7",
+      "168.4"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "輸電系統選擇「經濟傳輸電壓」主要考量？",
+    "options": [
+      "負載容量與線路長度評估",
+      "用戶數量與用電量",
+      "線材導電率",
+      "線路顏色"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "三相四線制中「中性線」主要功能？",
+    "options": [
+      "偵測地線電壓",
+      "保險絲",
+      "提供單相電流通道穩壓",
+      "傳遞電能至地面"
     ],
     "answer": "C",
     "score": 2
   },
   {
+    "number": "43",
+    "type": "multiple_choice",
+    "text": "全線路阻抗集中於中，電容分兩半於送受端稱為？",
+    "options": [
+      "T型",
+      "Z型",
+      "Π型",
+      "X型"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "20 kVA 變壓器銅損 600W 鐵損 200W，12 小時全載 12 小時無載，全日效率？",
+    "options": [
+      "57.1",
+      "75.8",
+      "87.9",
+      "95.2"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "電容器補償 60 kVAR 單相 220 V，所需電流？",
+    "options": [
+      "100",
+      "150",
+      "227",
+      "272"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
     "number": "46",
     "type": "multiple_choice",
-    "text": "受電端滿載 12 kV，無載 15 kV，求電壓調整率為多少 %？",
+    "text": "滿載 12 kV 無載 15 kV，電壓調整率 %？",
     "options": [
       "12.5",
       "25",
@@ -127,6 +595,58 @@
       "75"
     ],
     "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "10 kVA 功因 0.8 損 50 kW，改善至功因 1 時損失多少 kW？",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "電阻 2 Ω 電流 50 A，長度增加 1 倍，線路損失變化？",
+    "options": [
+      "不變",
+      "減半",
+      "增加為 2 倍",
+      "增加為 4 倍"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "1200 W 電鍋每日 3 小時用 30 天，電費 5 元/度需多少元？",
+    "options": [
+      "120",
+      "135",
+      "270",
+      "540"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "100 kVA 損 3% 全年 8640 小時，全年損失能量 MWh？",
+    "options": [
+      "6.48",
+      "12.96",
+      "25.92",
+      "51.84"
+    ],
+    "answer": "C",
     "score": 2
   }
 ]

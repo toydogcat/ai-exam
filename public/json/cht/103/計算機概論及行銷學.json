@@ -2,12 +2,25 @@
   {
     "number": "1",
     "type": "multiple_choice",
-    "text": "下列何者不是物件導向程式的主要特色？",
+    "text": "【計概】下列何者不是物件導向程式的主要特色？",
     "options": [
-      "遞迴 (Recursion)",
-      "封裝 (Encapsulation)",
-      "繼承 (Inheritance)",
-      "多形 (Polymorphism)"
+      "遞迴(Recursion)",
+      "封裝(Encapsulation)",
+      "繼承(Inheritance)",
+      "多形(Polymorphism)"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "【計概】主記憶體容量若有 2^m 個位置，每個位置 n 位元，則記憶位址暫存器大小為？",
+    "options": [
+      "m 位元",
+      "n 位元",
+      "m+n 位元",
+      "m*n 位元"
     ],
     "answer": "1",
     "score": 1
@@ -15,7 +28,7 @@
   {
     "number": "3",
     "type": "multiple_choice",
-    "text": "假設網路 140.12.0.0 的 Netmask 為 255.255.24.192，下列何者屬於「不同」的子網路？",
+    "text": "【計概】Netmask 255.255.24.192，下列 IP 何者屬於不同的子網路？",
     "options": [
       "140.12.23.71",
       "140.12.26.72",
@@ -26,9 +39,48 @@
     "score": 1
   },
   {
+    "number": "4",
+    "type": "multiple_choice",
+    "text": "【計概】負責監督或協調電腦各單元間動作及資料傳輸者為？",
+    "options": [
+      "控制單元",
+      "主記憶體",
+      "算術邏輯運算單元",
+      "輸入輸出單元"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "【計概】CPU 執行指令的正確順序？",
+    "options": [
+      "取資料、取指令、分析、執行",
+      "取指令、取資料、分析、執行",
+      "取指令、分析指令、取資料、執行",
+      "取指令、分析、執行、取資料"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "【計概】下列何者不是電腦作業系統？",
+    "options": [
+      "Windows XP",
+      "Linux",
+      "Unix",
+      "Oracle"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
     "number": "7",
     "type": "multiple_choice",
-    "text": "程式執行需 140 秒，乘法指令占 112 秒。若要將總時間縮短為 1/4，乘法指令需提升為多少倍？",
+    "text": "【計概】程式執行 140 秒，乘法占 112 秒。若要將總時間縮為 1/4，乘法速提升幾倍？",
     "options": [
       "4 倍",
       "8 倍",
@@ -39,12 +91,129 @@
     "score": 1
   },
   {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "【計概】傳輸過程中進行數位信號與類比信號轉換者為？",
+    "options": [
+      "多工器",
+      "編譯器",
+      "直譯器",
+      "數據機"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "【計概】將高階語言轉換成低階語言的程式？",
+    "options": [
+      "編輯程式",
+      "載入程式",
+      "編譯程式",
+      "連結程式"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "【計概】嵌入式作業系統通常設計於下列何種設備？",
+    "options": [
+      "硬碟",
+      "唯讀記憶體 (ROM)",
+      "隨機存取記憶體",
+      "光碟"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "【計概】下列儲存元件存取速度最快者？",
+    "options": [
+      "暫存器",
+      "SRAM",
+      "ROM",
+      "硬碟"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "【計概】下列哪種排程演算法，理論上能得到最短平均等待時間？",
+    "options": [
+      "Priority",
+      "FCFS",
+      "RR",
+      "SJF"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "【計概】下列何者不會直接影響電腦計算速度？",
+    "options": [
+      "CPU 時脈",
+      "CPU 指令集",
+      "主記憶體容量",
+      "硬碟儲存空間"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "【計概】兩個位元組所能表示的最大正整數？",
+    "options": [
+      "65535",
+      "65536",
+      "32767",
+      "32768"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "【計概】以址傳遞 (Call by Address) 實際上是傳遞？",
+    "options": [
+      "值",
+      "位址",
+      "名稱",
+      "計算結果"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "【計概】使得 Java 能夠跨平台運作的機制？",
+    "options": [
+      "物件導向",
+      "例外處理",
+      "虛擬機器 (JVM)",
+      "多執行緒"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
     "number": "17",
     "type": "multiple_choice",
-    "text": "遞迴函數 (Recursive Function) 以下列何種資料結構實現最為有效？",
+    "text": "【計概】遞迴函數以下列何種資料結構實現最有效？",
     "options": [
       "佇列",
-      "堆疊 (Stack)",
+      "堆疊",
       "鍵結串列",
       "樹"
     ],
@@ -54,7 +223,7 @@
   {
     "number": "18",
     "type": "multiple_choice",
-    "text": "氣泡排序法對 (3,5,9,4,7) 進行第一次循環排序後結果為何？",
+    "text": "【計概】氣泡排序對 (3,5,9,4,7) 第一次循環後結果？",
     "options": [
       "(3,5,4,9,7)",
       "(3,5,4,7,9)",
@@ -65,9 +234,165 @@
     "score": 1
   },
   {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "【計概】256 個節點的二元樹之最小樹高？",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "【計概】有關 TCP 與 UDP 敘述何者正確？",
+    "options": [
+      "TCP 屬傳輸層，UDP 則否",
+      "TCP 速度較 UDP 快",
+      "UDP 是連線導向",
+      "UDP 無法保證訊息一定送到"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "【計概】MS Office 提供簡報使用者？",
+    "options": [
+      "Word",
+      "PowerPoint",
+      "Excel",
+      "Access"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "【計概】IPv4 位址是用幾個位元表示？",
+    "options": [
+      "8",
+      "16",
+      "32",
+      "64"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "【計概】有關光纖傳輸敘述何者正確？",
+    "options": [
+      "電磁干擾低",
+      "傳輸速率低",
+      "安全性低",
+      "容易衰減"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "【計概】當 IP 不足，自動取得 IP 的伺服器？",
+    "options": [
+      "DNS",
+      "IMAP",
+      "Proxy",
+      "DHCP"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "25",
+    "type": "multiple_choice",
+    "text": "【計概】全球資訊網 (WWW) 通訊協定？",
+    "options": [
+      "HTTP",
+      "IMAP",
+      "POP3",
+      "SMTP"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "【計概】下列何者為全雙工 (Full-Duplex) 模式？",
+    "options": [
+      "電話交談",
+      "有線電視",
+      "收音機",
+      "無線對講機"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "【計概】WAP 另須採用何種語言才能提供服務？",
+    "options": [
+      "HTTP",
+      "HTML",
+      "WML",
+      "XHTML"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "【計概】零時差攻擊 (Zero-day Attack) 敘述正確者？",
+    "options": [
+      "同時區攻擊",
+      "弱點發現但尚未有修補法前之攻擊",
+      "午夜攻擊",
+      "馬上有補丁"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "【計概】縱深防禦 (Defense in Depth) 主要目的？",
+    "options": [
+      "節省成本",
+      "分散權責",
+      "加快速度",
+      "不因單一機制突破而全面崩潰"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "【計概】防範機密資訊外洩主要方法？",
+    "options": [
+      "壓縮",
+      "加密",
+      "防毒",
+      "防火牆"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
     "number": "31",
     "type": "multiple_choice",
-    "text": "金融機構提供服務給非營利慈善團體、教會、大學，這些顧客屬於？",
+    "text": "【行銷】服務非營利慈善、教會、大學之顧客屬於？",
     "options": [
       "中間商市場",
       "政府市場",
@@ -78,42 +403,380 @@
     "score": 1
   },
   {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "【行銷】最適合當組織市場的區隔變數？",
+    "options": [
+      "員工意見",
+      "總經理態度",
+      "主管生活型態",
+      "公司所屬產業別"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
     "number": "33",
     "type": "multiple_choice",
-    "text": "要刺激重複購買並讓顧客知道不久後會用到該服務，最好利用？",
+    "text": "【行銷】刺激重複購買，告知不久後會用到，最好利用？",
     "options": [
-      "強化式廣告",
-      "提醒式廣告",
-      "告知式廣告",
-      "說服式廣告"
+      "強化廣告",
+      "提醒廣告",
+      "告知廣告",
+      "說服廣告"
     ],
     "answer": "2",
     "score": 1
   },
   {
-    "number": "50",
+    "number": "34",
     "type": "multiple_choice",
-    "text": "登山外套宣稱採用 GORE-TEX 防水纖維，這種作法稱為？",
+    "text": "【行銷】下列何者為無店面零售？",
     "options": [
-      "旗艦品牌",
-      "私人品牌",
-      "經銷商品牌",
-      "成分品牌 (Ingredient Branding)"
+      "自動販賣機",
+      "便利商店",
+      "照相器材行",
+      "型錄展示店"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "【行銷】廣告五個重要決策 (5Ms)？",
+    "options": [
+      "任務、動機、訊息、媒體、人",
+      "任務、動機、媒體、人、衡量",
+      "任務、金錢、訊息、媒體、衡量",
+      "任務、金錢、人、媒體、衡量"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "【行銷】商品在電影情節出現稱為？",
+    "options": [
+      "搭售廣告",
+      "戶外廣告",
+      "產品置入",
+      "共同廣告"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "【行銷】信用卡刷卡累積點數屬於？",
+    "options": [
+      "樣品派送",
+      "來店禮",
+      "常客方案",
+      "聯合促銷"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "【行銷】非設計促銷活動方案的重要考量？",
+    "options": [
+      "參與者條件",
+      "時機與期間",
+      "誘因與規模",
+      "心得與報告"
     ],
     "answer": "4",
     "score": 1
   },
   {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "【行銷】製造商引導中間商支持並協助推廣，此策略為？",
+    "options": [
+      "推式策略",
+      "拖式策略",
+      "拉式策略",
+      "拔式策略"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "【行銷】非服務差異化工具？",
+    "options": [
+      "訂購容易度",
+      "運送安裝",
+      "產品耐用性",
+      "顧客諮詢訓練"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "【行銷】產品處於成長階段，購買者通常是？",
+    "options": [
+      "落後者",
+      "批准者",
+      "早期採用者",
+      "晚期採用者"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "【行銷】薪酬包括底薪、獎金、紅利，此制度為？",
+    "options": [
+      "底薪制",
+      "佣金制",
+      "混合制",
+      "責任制"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "43",
+    "type": "multiple_choice",
+    "text": "【行銷】根據顧客分類決定拜訪頻率以決定銷售人員數的方法？",
+    "options": [
+      "目標任務法",
+      "工作負荷法",
+      "銷售百分比法",
+      "競爭對等法"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "【行銷】創新的採用程序？",
+    "options": [
+      "需求->資訊->評估->決策",
+      "問題->方案->資料->報告",
+      "知曉->興趣->評估->試用->行動",
+      "開發->規劃->展示->完成"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "【行銷】產品運往國外子公司訂價稱為？",
+    "options": [
+      "參考定價",
+      "促銷定價",
+      "移轉定價",
+      "差別定價"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "【行銷】對來自不同國家品牌有獨特態度，此為？",
+    "options": [
+      "原產國知覺",
+      "選擇性知覺",
+      "認知失調",
+      "不確定知覺"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "【行銷】致力友善環境與長期堅持之行為？",
+    "options": [
+      "漂白",
+      "染黑",
+      "漂綠",
+      "染色"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "【行銷】最終用途、生產條件、通路等相關程度？",
+    "options": [
+      "組合深度",
+      "組合長度",
+      "組合一致性",
+      "組合寬度"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "【行銷】推陳出新以吸引汰舊換新，稱為？",
+    "options": [
+      "產品線現代化",
+      "產品線特色化",
+      "產品線刪減",
+      "產品線一致化"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "【行銷】宣稱採用 GORE-TEX 纖維，這種作法為？",
+    "options": [
+      "旗艦品牌",
+      "私人品牌",
+      "經銷品牌",
+      "成分品牌"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "51",
+    "type": "multiple_choice",
+    "text": "【行銷】金融與法律服務屬於？",
+    "options": [
+      "高搜尋品質",
+      "高經驗品質",
+      "高信任品質",
+      "高抵制品質"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
     "number": "52",
     "type": "multiple_choice",
-    "text": "高鐵公司促銷離峰時段車票，是因為服務業具備何種特性？",
+    "text": "【行銷】促銷離峰車票是因服務具備？",
     "options": [
       "無形性",
       "變動性",
       "不可分割性",
-      "易逝性 (Perishability)"
+      "易逝性"
     ],
     "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "53",
+    "type": "multiple_choice",
+    "text": "【行銷】提升效率要顧客共同生產，最好利用？",
+    "options": [
+      "多雇服務員",
+      "提升品質",
+      "自助服務科技",
+      "服務補救"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "54",
+    "type": "multiple_choice",
+    "text": "【行銷】讓員工服務時具有人人行銷觀念，此為？",
+    "options": [
+      "內部行銷",
+      "外部行銷",
+      "互動行銷",
+      "整合行銷"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "55",
+    "type": "multiple_choice",
+    "text": "【行銷】根據不同顧客訂不同價格？",
+    "options": [
+      "心理定價",
+      "差別定價",
+      "特殊事件",
+      "犧牲打"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "56",
+    "type": "multiple_choice",
+    "text": "【行銷】認為消費者喜歡功能特殊效能高的產品？",
+    "options": [
+      "生產觀念",
+      "產品觀念",
+      "銷售觀念",
+      "行銷觀念"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "57",
+    "type": "multiple_choice",
+    "text": "【行銷】全面行銷 (Holistic) 不包含？",
+    "options": [
+      "內部行銷",
+      "關係行銷",
+      "渦輪行銷",
+      "績效行銷"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "58",
+    "type": "multiple_choice",
+    "text": "【行銷】聘用意見領袖或代言人最好來自？",
+    "options": [
+      "初級群體",
+      "次級群體",
+      "仰慕群體",
+      "疏離群體"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "59",
+    "type": "multiple_choice",
+    "text": "【行銷】招募 6-10 人聚集討論主題，此法為？",
+    "options": [
+      "街道攔阻",
+      "焦點團體",
+      "實地調查",
+      "固定樣本"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "60",
+    "type": "multiple_choice",
+    "text": "【行銷】相同目標市場尋求相同策略的公司集合？",
+    "options": [
+      "策略聯盟",
+      "策略網絡",
+      "策略群組",
+      "策略伙伴"
+    ],
+    "answer": "3",
     "score": 1
   },
   {
@@ -128,6 +791,27 @@
     "type": "short_answer",
     "text": "將十進位 (62) 轉為二進位、八進位、十六進位。",
     "answer": "二進位: 111110, 八進位: 76, 十六進位: 3E",
+    "score": 10
+  },
+  {
+    "number": "Q2-2",
+    "type": "short_answer",
+    "text": "二進位串 1001，若為 1 的補數，十進位為何？若為 2 的補數，十進位為何？",
+    "answer": "1的補數: -6 (正值為0110=6); 2的補數: -7 (反轉+1得0111=7)",
+    "score": 10
+  },
+  {
+    "number": "Q3",
+    "type": "short_answer",
+    "text": "說明廠商在評估通路方案時可用的評估準則。",
+    "answer": "1. 經濟準則 (銷售額與成本). 2. 控制準則 (對通路的掌握度). 3. 適應準則 (靈活性).",
+    "score": 10
+  },
+  {
+    "number": "Q4",
+    "type": "short_answer",
+    "text": "說明組織市場 (Business Market) 的特性。",
+    "answer": "1. 買家少但量大. 2. 需求受消費者市場引申. 3. 採購流程專業且複雜. 4. 地理集中度高.",
     "score": 10
   }
 ]

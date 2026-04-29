@@ -2,12 +2,12 @@
   {
     "number": "1",
     "type": "multiple_choice",
-    "text": "梁中任一斷面之剪力對沿著軸向方向一階微分，所求之數值代表下列何種物理意義？",
+    "text": "梁中剪力對軸向一階微分代表？",
     "options": [
       "外加荷載",
       "應變",
       "彎矩",
-      "扭力"
+      "扭力"
     ],
     "answer": "A",
     "score": 2
@@ -15,12 +15,12 @@
   {
     "number": "2",
     "type": "multiple_choice",
-    "text": "有一梁之剪力圖係呈現水平直線，則其相對應之彎矩圖為下列何者？",
+    "text": "梁剪力圖為水平直線，彎矩圖為？",
     "options": [
-      "具斜率之傾斜直線",
-      "水平直線",
-      "二次方拋物線",
-      "三次方拋物線"
+      "斜直線",
+      "水平線",
+      "二次拋物線",
+      "三次拋物線"
     ],
     "answer": "A",
     "score": 2
@@ -28,12 +28,12 @@
   {
     "number": "3",
     "type": "multiple_choice",
-    "text": "有關梁之剪力圖及彎矩圖，下列敘述何者有誤？",
+    "text": "有關剪力彎矩圖敘述何者有誤？",
     "options": [
-      "剪力圖上任意兩斷面內之面積等於該兩斷面間彎矩差",
-      "彎矩圖之斜率即為荷重強度",
-      "剪力最大處彎矩不一定為最大",
-      "剪力曲線與橫軸交點處即為最大彎矩處"
+      "剪力面積=彎矩差",
+      "彎矩斜率=荷重強度",
+      "剪力最大彎矩不一定大",
+      "剪力零點為極值"
     ],
     "answer": "B",
     "score": 2
@@ -41,7 +41,7 @@
   {
     "number": "4",
     "type": "multiple_choice",
-    "text": "下列均為相同材料、相等面積之梁，何者斷面對 x 軸之慣性矩最大？",
+    "text": "同材相等面積梁，何者對 x 軸慣性矩最大？",
     "options": [
       "矩形",
       "圓形",
@@ -52,22 +52,87 @@
     "score": 2
   },
   {
-    "number": "9",
+    "number": "5",
     "type": "multiple_choice",
-    "text": "有關莫耳圓半徑的物理或幾何意義，下列敘述何者正確？",
+    "text": "有關臨界斷面 (Critical Section) 敘述正確者？",
     "options": [
-      "半徑等於材料的降伏強度",
-      "半徑等於最大剪應力的大小",
-      "半徑等於兩主應力的總和",
-      "半徑與正應力方向的角度變化成正比"
+      "剪力最大處",
+      "剪力為零",
+      "彎矩正負變換",
+      "彎矩最大"
     ],
     "answer": "B",
     "score": 2
   },
   {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "何者非影響鋼柱整體挫屈之重要參數？",
+    "options": [
+      "長細比",
+      "有效長度",
+      "彈性模數",
+      "蒲松比"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "梁承受均佈載重時何者正確？",
+    "options": [
+      "只受正交應力",
+      "只受剪應力",
+      "同時受正交與剪應力",
+      "表面剪應力最大"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "有關力與力偶敘述何者有誤？",
+    "options": [
+      "力偶大小等方向反",
+      "力偶轉動不改效應",
+      "單力可分等效力加力偶",
+      "力偶三要素含作用點"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "莫耳圓半徑之意義？",
+    "options": [
+      "降伏強度",
+      "最大剪應力",
+      "主應力總和",
+      "與角度成正比"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "擾動後無法回原位而在新位保持平衡稱？",
+    "options": [
+      "穩定",
+      "不穩定",
+      "中性平衡",
+      "靜力平衡"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "11",
     "type": "multiple_choice",
-    "text": "如圖所示的桁架結構，有一外力 P 作用於節點 F，其內力為零的桿件共有多少支？",
+    "text": "圖中桁架 P 作用於 F，內力為零之桿件有幾支？",
     "options": [
       "1",
       "2",
@@ -78,9 +143,22 @@
     "score": 2
   },
   {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "圖中桁架之穩定性屬於？",
+    "options": [
+      "不穩定",
+      "靜定",
+      "1度靜不定",
+      "2度靜不定"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
     "number": "13",
     "type": "multiple_choice",
-    "text": "一木盒質量為 m，沿著斜坡面由靜止狀態開始下滑，在下滑 h 之垂直高度後，試求木盒之質心速﨡為何？",
+    "text": "質點 m 下滑垂直高 h，質心速率為何？",
     "options": [
       "√(2gh)",
       "√(gh)",
@@ -93,7 +171,7 @@
   {
     "number": "14",
     "type": "multiple_choice",
-    "text": "一銅棒長 30 cm，直徑為 4 cm，若受張力作用後軸向伸長 0.025 cm，橫向同時收縮 0.0005 cm，試求其蒲松比為何？",
+    "text": "銅棒長 30cm 軸伸 0.025cm 橫縮 0.0005cm，蒲松比？",
     "options": [
       "0.1",
       "0.15",
@@ -104,9 +182,139 @@
     "score": 2
   },
   {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "銅棒長 7m 面 10cm2 E=4.9x10^6 受 7 噸拉力，伸長量？",
+    "options": [
+      "0.1 cm",
+      "0.7 cm",
+      "1 cm",
+      "10 cm"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "16",
+    "type": "multiple_choice",
+    "text": "簡支梁受逆時針彎矩 M，彎矩圖形為何？",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "σx=35, σy=26, τxy=14，求主應力比值 σ1/σ2？",
+    "options": [
+      "0.8",
+      "1.5",
+      "2.1",
+      "2.9"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "兩球碰撞前 6, -4 碰撞後 3, 7，恢復係數 e？",
+    "options": [
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "τ=500kPa, γ=0.001, ν=0.6，求彈性模數 E？",
+    "options": [
+      "1.4 GPa",
+      "1.5 GPa",
+      "1.6 GPa",
+      "1.8 GPa"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "下列何者屬於 SI 制單位？",
+    "options": [
+      "ft",
+      "Hz",
+      "psi",
+      "atm"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "如圖簡支梁，求 A 點支承反應力？",
+    "options": [
+      "6.5 t(↓)",
+      "6.5 t(↑)",
+      "11.5 t(↓)",
+      "11.5 t(↑)"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "SI 輔助字首敘述何者正確？",
+    "options": [
+      "μ=10^-9",
+      "n=10^-9",
+      "m=10^-1",
+      "G=10^6"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "V = 7t + 19 m/sec，此質點狀態為？",
+    "options": [
+      "等速",
+      "等加速",
+      "變加速",
+      "靜止"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "有關剪力中心敘述何者有誤？",
+    "options": [
+      "力作用於此不扭轉",
+      "剪應力合力通此",
+      "位置與載重大有關",
+      "未重合引發扭矩"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "25",
     "type": "multiple_choice",
-    "text": "一根木樁被打入地中，完全靠樁側面與土壤之間的摩擦力來支撐外加載重 P，則軸向變形為何？",
+    "text": "木樁側面均勻摩擦 f = P/L 下之軸向變形？",
     "options": [
       "PL/EA",
       "PL/2EA",
@@ -117,14 +325,326 @@
     "score": 2
   },
   {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "下列何者為純量？",
+    "options": [
+      "摩擦力",
+      "合力",
+      "力矩",
+      "質量"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "桁架分析假設何者有誤？",
+    "options": [
+      "節點不計摩擦",
+      "各桿在同平面",
+      "桿自重可不計",
+      "載重可加於桿件任意點"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "三力平衡條件何者正確？",
+    "options": [
+      "必同平面",
+      "必交於一點",
+      "必成直角三角",
+      "必共線"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "平面力系平衡方程式 ΣFy=0, ΣMA=0, ΣMB=0，何者正確？",
+    "options": [
+      "AB任意",
+      "AB不共點x軸",
+      "AB可共點",
+      "AB不共點y軸"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "二力夾角為何值時合力最小？",
+    "options": [
+      "0",
+      "30",
+      "60",
+      "90"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "自由體圖敘述何者有誤？",
+    "options": [
+      "外力因截取不同方向不同",
+      "應處力平衡",
+      "截斷處有內力",
+      "截法無限種"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "有關零桿件敘述何者有誤？",
+    "options": [
+      "內力為零",
+      "兩桿相交無外力",
+      "三桿共線不計作用力",
+      "三桿兩力共線第三為零"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "力的絕對單位何者有誤？",
+    "options": [
+      "kg.m/s2",
+      "g.cm/s2",
+      "lb.ft/s2",
+      "kg.cm/sec"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "一個力學系統最多可繪多少自由體圖？",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "任意"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "靜摩擦敘述何者有誤？",
+    "options": [
+      "維持靜止產摩擦",
+      "最大靜摩擦與面積有關",
+      "靜止合力零",
+      "越粗糙力越大"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "動摩擦敘述何者有誤？",
+    "options": [
+      "必大於最大靜摩擦",
+      "與性質有關",
+      "與正向力成正比",
+      "運動產生的摩擦"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "木塊沿斜面下滑，夾角固定時何者正確？",
+    "options": [
+      "啟動前力小於摩擦",
+      "下滑前摩擦變小",
+      "下滑後速度增加",
+      "正向力等於重力"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "慣性矩敘述何者有誤？",
+    "options": [
+      "使物體變形外加力矩",
+      "越大越不變形",
+      "純量",
+      "離軸越遠值越大"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "應力單位何者有誤？",
+    "options": [
+      "kgf/cm2",
+      "Pa",
+      "psi",
+      "lb"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
     "number": "40",
     "type": "multiple_choice",
-    "text": "下列有關蒲松比之敘述，何者有誤？",
+    "text": "蒲松比敘述何者有誤？",
     "options": [
-      "為收縮應變與伸長應變之絕對比值",
-      "金屬材料之蒲松比為 0.25～0.35",
-      "為橫向應變與軸向應變之絕對比值",
-      "一般材料之蒲松比超過 0.5"
+      "收縮/伸長比",
+      "金屬 0.25~0.35",
+      "橫向/軸向比",
+      "一般超過 0.5"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "矩形 bxh 極慣性矩 J0 為何？",
+    "options": [
+      "bh3/12",
+      "hb3/12",
+      "hb(h2+b2)/12",
+      "0"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "承受拉力 P 下之伸長量 delta 公式？",
+    "options": [
+      "PE/AL",
+      "PA/EL",
+      "PL/AE",
+      "EL/AP"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "43",
+    "type": "multiple_choice",
+    "text": "材料彈性模數 (E) 敘述正確者？",
+    "options": [
+      "越大越易變形",
+      "越大越不易變形",
+      "與變形無關",
+      "越大越重"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "重 10N 置於水平板需 10N 水平力移動，開始下滑之角？",
+    "options": [
+      "30",
+      "37",
+      "45",
+      "53"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "圖中對稱斷面慣性矩 Ix 為多少 cm4？",
+    "options": [
+      "250",
+      "317",
+      "484",
+      "512"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "梁斷面 bxh，寬不變高減半，斷面模數為何？",
+    "options": [
+      "不定",
+      "不變",
+      "增大",
+      "減少"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "圖中 W 往下沿斜面(摩擦0.1)下滑，W 至少為何？",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "F=100N 與 xyz 軸夾 alpha, 60, 45 度，求 Fx 分量？",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "重 15N 受 P=20N，靜摩擦 0.5，摩擦力 f 方向？",
+    "options": [
+      "->",
+      "<-",
+      "^",
+      "0"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "AB 間無摩擦 A 重 60B 重 100 摩擦 0.3，拉動 B 需 P 至少？",
+    "options": [
+      "12",
+      "18",
+      "30",
+      "48"
     ],
     "answer": "D",
     "score": 2

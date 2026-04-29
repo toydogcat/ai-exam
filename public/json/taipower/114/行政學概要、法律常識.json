@@ -2,64 +2,194 @@
   {
     "number": "1",
     "type": "multiple_choice",
-    "text": "下列何者屬於「情境領導理論」的主張？",
+    "text": "下列何者屬於「情境領導理論」的主張？",
     "options": [
-      "調整部屬態度因應環境變化",
-      "領導風格隨部屬成熟度與情境調整",
-      "領導者風格一致方便部屬配合",
-      "領導者以身作則建立部屬榜樣"
+      "調整部屬態度",
+      "領導風格隨成熟度調整",
+      "風格一致方便配合",
+      "以身作則建立榜樣"
     ],
     "answer": "B",
     "score": 2
   },
   {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "公營事業非其成立之目的？",
+    "options": [
+      "經營公用事業",
+      "增加國庫收入",
+      "便利人民生活",
+      "以獲利為前提力求超額利潤"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "3",
+    "type": "multiple_choice",
+    "text": "有關行政管理與企業管理敘述何者有誤？",
+    "options": [
+      "行政重公共利益",
+      "行政具公權力",
+      "企業重生產行銷",
+      "行政容易評估績效"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "4",
+    "type": "multiple_choice",
+    "text": "組織中各部門有自治權與獨立產品，由分部經理人負績效責任？",
+    "options": [
+      "矩陣型",
+      "扁平化",
+      "事業部",
+      "虛擬"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "5",
     "type": "multiple_choice",
-    "text": "「主張恢復公共行政在憲政制度中的地位，以取得參與治理過程的正當性，而行政人員正是身為憲政秩序的捍衛者」，何者最符合？",
+    "text": "「主張恢復公共行政在憲政地位...行政人員是憲政秩序捍衛者」？",
     "options": [
-      "黑堡宣言 (Blacksburg Manifesto)",
-      "第五項修練",
-      "權變理論",
+      "黑堡宣言",
+      "第五項修練",
+      "權變理論",
       "華格納法則"
     ],
     "answer": "A",
     "score": 2
   },
   {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "以「組織內成員為服務對象，如政黨」屬於？",
+    "options": [
+      "服務組織",
+      "互利組織",
+      "企業組織",
+      "公益組織"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
     "number": "7",
     "type": "multiple_choice",
-    "text": "有關「民間機構自行備具私有土地投資興建，擁有所有權，並自為營運」，係屬於何種模式？",
+    "text": "「民間備具私有土地興建擁有所有權自為營運」？",
     "options": [
-      "BOO (Build-Own-Operate)",
-      "BOT (Build-Operate-Transfer)",
-      "BTO (Build-Transfer-Operate)",
-      "ROT (Rehabilitate-Operate-Transfer)"
+      "BOO",
+      "BOT",
+      "BTO",
+      "ROT"
     ],
     "answer": "A",
     "score": 2
   },
   {
-    "number": "13",
+    "number": "8",
     "type": "multiple_choice",
-    "text": "我國機關中有幾個係屬「獨立機關」：(1)國發會 (2)陸委會 (3)金管會 (4)公平會 (5)海委會 (6)NCC？",
+    "text": "MBO 步驟：①設目標②權責劃分③檢測評估④執行目標。正確順序？",
     "options": [
-      "0 個",
-      "1 個",
-      "2 個",
-      "3 個"
+      "①②③④",
+      "①②④③",
+      "①④②③",
+      "③④①②"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "「徵稅與使用者付費」屬於何種政策工具？",
+    "options": [
+      "自願性",
+      "強制性",
+      "混合性",
+      "資訊性"
     ],
     "answer": "C",
     "score": 2
   },
   {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "民營化非推動之目的？",
+    "options": [
+      "調整政府角色",
+      "增進事業自主",
+      "減少產業競爭",
+      "加速公共投資"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "財務行政順序：①執行②編製③審議④審計⑤決算？",
+    "options": [
+      "①②③④⑤",
+      "②①③④⑤",
+      "②③①④⑤",
+      "②③①⑤④"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "有關行政法人敘述何者正確？",
+    "options": [
+      "不受政府監督",
+      "進用人員不具公務員身分",
+      "不適用國賠法",
+      "政府不得核撥經費"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "我國獨立機關有幾個：國發會、陸委會、金管會、公平會、海委會、NCC？",
+    "options": [
+      "0個",
+      "1個",
+      "2個",
+      "3個"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "政府受民意或團體影響難獲理想效果稱為？",
+    "options": [
+      "市場失靈",
+      "管理失靈",
+      "政策失靈",
+      "政府失靈"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
     "number": "15",
     "type": "multiple_choice",
-    "text": "民眾對於發電廠、變電所等公共設施，存在「不要建設在我家後院」的自利心態，稱為？",
+    "text": "民眾「不要建設在我家後院」之自利心態？",
     "options": [
       "公有地悲劇",
       "螃蟹效應",
-      "破窗理論",
-      "鄰避情結 (NIMBY)"
+      "破窗理論",
+      "鄰避情結"
     ],
     "answer": "D",
     "score": 2
@@ -67,12 +197,116 @@
   {
     "number": "16",
     "type": "multiple_choice",
-    "text": "有關賽蒙 (Herbert A. Simon) 的行政決策理論，下列何者為其主張？",
+    "text": "賽蒙 (Herbert A. Simon) 決策理論主張？",
     "options": [
-      "主張決策是絕對理性",
-      "主張行政人觀點",
-      "只能依經濟效率選出一個令人滿意的方案",
-      "執行重要程度高於決定"
+      "絕對理性",
+      "經濟人觀點",
+      "滿意決策",
+      "執行優於決定"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "根據努梅克，危機解決後應進行之活動？",
+    "options": [
+      "計畫訓練",
+      "情境監測",
+      "調查評估",
+      "資源管理"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "縮寫有誤者？",
+    "options": [
+      "ERG：生存關係成長",
+      "SWOT：優劣機會趨勢",
+      "SMART：明確衡量實現關聯時限",
+      "POSDCORB：計畫組織用人指揮協調報告預算"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "因應美國關稅出口供應鏈支持方案屬於？",
+    "options": [
+      "總額預算",
+      "追加預算",
+      "解凍預算",
+      "特別預算"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "Open Data 主要目標？",
+    "options": [
+      "促進資助透明與應用創新",
+      "特定機構獲利",
+      "強調個人資料保護",
+      "節省支出"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "「禁止剩餘利潤分配給員工...運用在未來服務...稱第三部門」？",
+    "options": [
+      "政府",
+      "企業",
+      "非營利組織",
+      "公眾媒體"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "有關台電敘述何者有誤？",
+    "options": [
+      "國營事業",
+      "不適用公司法",
+      "適用採購法",
+      "主管機關經濟部"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "府際關係 (IGR) 主要研究內容？",
+    "options": [
+      "政府與民間合作",
+      "中央與地方互動協調",
+      "政院與立院監督",
+      "執政黨與行政門連結"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "下列敘述何者有誤？",
+    "options": [
+      "標竿學習與優異者比較",
+      "公私協力共同提供服務",
+      "E化政府主要為減少紙本",
+      "扁平化提高效率"
     ],
     "answer": "C",
     "score": 2
@@ -80,12 +314,103 @@
   {
     "number": "25",
     "type": "multiple_choice",
-    "text": "有關「零基預算」的敘述，下列何者正確？",
+    "text": "下列敘述何者正確？",
     "options": [
-      "核心概念係指每年預算從假定的「零點」開始重新評估",
-      "薪資福利屬於「激勵因子」",
-      "常用平衡計分卡作為分配依據",
-      "質詢屬於內部問責"
+      "零基預算每年從零開始評估",
+      "薪資是激勵因子",
+      "公部門常利平衡計分卡分配預算",
+      "質詢屬內部問責"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "依《行政程序法》，行政機關為達成未來目的所為之設計規劃稱為？",
+    "options": [
+      "行政契約",
+      "行政指導",
+      "行政處分",
+      "行政計畫"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "有關行政指導敘述何者有誤？",
+    "options": [
+      "不具強制力",
+      "應明示目的內容",
+      "是對不特定人為之",
+      "相對人拒絕應停止"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "要保人對同一利益與數保險人分別訂約？",
+    "options": [
+      "再保險",
+      "保險代位",
+      "複保險",
+      "強制保險"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "有限公司最少幾名股東？",
+    "options": [
+      "1名",
+      "2名",
+      "5名",
+      "10名"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "非屬《專利法》所稱專利？",
+    "options": [
+      "設計",
+      "發現",
+      "發明",
+      "新型"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "受僱者妊娠未滿二個月流產，給假幾日？",
+    "options": [
+      "不給假",
+      "2日",
+      "3日",
+      "5日"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "企業對消費者申訴應於幾日內妥適處理？",
+    "options": [
+      "15日",
+      "20日",
+      "25日",
+      "30日"
     ],
     "answer": "A",
     "score": 2
@@ -93,20 +418,98 @@
   {
     "number": "33",
     "type": "multiple_choice",
-    "text": "依《票據法》規定，票據上記載金額之文字與號碼不符時，以何者為準？",
+    "text": "票據金額文字與號碼不符以何者為準？",
     "options": [
-      "以號碼為準",
-      "以文字為準",
-      "以較低者為準",
-      "以較高者為準"
+      "號碼",
+      "文字",
+      "較低者",
+      "較高者"
     ],
     "answer": "B",
     "score": 2
   },
   {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "債權人對債務人移轉占有動產供擔保？",
+    "options": [
+      "抵押權",
+      "典權",
+      "動產質權",
+      "留置權"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "工資清冊應保存幾年？",
+    "options": [
+      "2年",
+      "3年",
+      "4年",
+      "5年"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "何機關具議決法律案之權？",
+    "options": [
+      "立法院",
+      "考試院",
+      "司法院",
+      "監察院"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "侵害商標權之虞可向何單位申請查扣？",
+    "options": [
+      "智財局",
+      "法院",
+      "海關",
+      "經濟部"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "押票應由何者簽名？",
+    "options": [
+      "法官",
+      "檢察官",
+      "警察",
+      "檢察長"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "民事訴訟上訴期限？",
+    "options": [
+      "20日",
+      "25日",
+      "30日",
+      "60日"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "40",
     "type": "multiple_choice",
-    "text": "依《民法》第 179 條規定，無法律上原因而受利益，致他人受損害者，應返還其利益，稱為？",
+    "text": "無法律原因受利益致他人受損害？",
     "options": [
       "侵權行為",
       "不當得利",
@@ -119,7 +522,7 @@
   {
     "number": "41",
     "type": "multiple_choice",
-    "text": "依《中央法規標準法》第 11 條規定，法律不得牴觸下列何者？",
+    "text": "法律不得牴觸何者？",
     "options": [
       "條約",
       "判決",
@@ -127,6 +530,123 @@
       "憲法"
     ],
     "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "翻譯、編曲、改寫原著作另為創作？",
+    "options": [
+      "發行",
+      "重製",
+      "改作",
+      "散布"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "43",
+    "type": "multiple_choice",
+    "text": "科刑時非屬法官審酌之情狀？",
+    "options": [
+      "動機目的",
+      "後態度",
+      "受刺激",
+      "性別"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "判決誤寫誤算如何處理？",
+    "options": [
+      "重新判決",
+      "裁定更正",
+      "重新審理",
+      "再開辯論"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "金錢請求以外之請求保全程序？",
+    "options": [
+      "假處分",
+      "假扣押",
+      "假執行",
+      "支付命令"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "公用事業及獨佔企業以何營為原則？",
+    "options": [
+      "民營",
+      "公營",
+      "獎勵僑胞",
+      "促進外國投資"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "下列何種行為不罰？",
+    "options": [
+      "業務上正當行為",
+      "瘖啞人",
+      "滿80歲",
+      "14歲至18歲"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "48",
+    "type": "multiple_choice",
+    "text": "公務員執行職務知有犯罪嫌疑？",
+    "options": [
+      "告發",
+      "申訴",
+      "自首",
+      "自訴"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "律師律師報酬請求權消滅時效？",
+    "options": [
+      "1年",
+      "2年",
+      "5年",
+      "15年"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "發票人簽發一定金額由自己支付之票據？",
+    "options": [
+      "匯票",
+      "本票",
+      "支票",
+      "股票"
+    ],
+    "answer": "B",
     "score": 2
   }
 ]

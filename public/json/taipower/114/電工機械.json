@@ -2,7 +2,7 @@
   {
     "number": "1",
     "type": "multiple_choice",
-    "text": "理想鐵心變壓器，一次側 V1=2000V，二次側 V2=200V，最大磁通 Φm=30x10^-3 Wb，f=60Hz，求一次側匝數 N1？",
+    "text": "理想變壓器 V1=2000V, V2=200V, Φm=30m Wb, f=60Hz，求 N1？",
     "options": [
       "10",
       "25",
@@ -13,9 +13,35 @@
     "score": 2
   },
   {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "50kVA, 1200/120V 變壓器，高壓側加 1000V，求負載電流？",
+    "options": [
+      "1",
+      "10",
+      "50",
+      "100"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "3",
+    "type": "multiple_choice",
+    "text": "無載一次側 0.5A 功耗 600W，求鐵損電流與磁化電流？",
+    "options": [
+      "0.3, 0.4",
+      "0.3, 0.5",
+      "0.4, 0.3",
+      "0.5, 0.4"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "4",
     "type": "multiple_choice",
-    "text": "直流電動機，Ia=50A 時轉矩 T=60 kg-m。若磁場減少 25%，Ia 增大為 80A，求新轉矩？",
+    "text": "Ia=50A 時 T=60kg-m，磁場減 25% 且 Ia 增至 80A，新轉矩？",
     "options": [
       "60",
       "72",
@@ -26,9 +52,74 @@
     "score": 2
   },
   {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "轉子旋轉磁場對定子之轉速為何？",
+    "options": [
+      "0",
+      "N1",
+      "N2",
+      "SN1"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "s=3% 60Hz 三相感應機，轉差速率 36 rpm，求極數？",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "220V/60Hz 機接於 220V/50Hz 電源，何者正確？",
+    "options": [
+      "速快矩小",
+      "速慢矩大",
+      "速快矩大",
+      "速慢矩小"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "三相感應機 200V, 15A 功耗 3kW，求功率因數？",
+    "options": [
+      "0.58",
+      "0.75",
+      "0.86",
+      "0.95"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "端電壓與負載電流關係曲線屬何種？",
+    "options": [
+      "無載",
+      "內部",
+      "電樞",
+      "外部"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
     "number": "10",
     "type": "multiple_choice",
-    "text": "250V 直流分激發電機，電壓調整率 10%，求無載電壓？",
+    "text": "250V 分激發電機，調整率 10%，求無載電壓？",
     "options": [
       "225",
       "250",
@@ -39,9 +130,22 @@
     "score": 2
   },
   {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "無載與負載曲線相似之直流機屬何類？",
+    "options": [
+      "串激",
+      "分激",
+      "外激",
+      "複激"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "12",
     "type": "multiple_choice",
-    "text": "20kW, 100V 分激發電機，電壓調整率 10%，求電樞電阻 Ra？",
+    "text": "20kW, 100V 分激機，調整率 10%，不計激磁電流求 Ra？",
     "options": [
       "0.01",
       "0.05",
@@ -52,9 +156,48 @@
     "score": 2
   },
   {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "電磁轉矩 20 Nt-m, Ia=10A, 1200 rpm，求反電勢？",
+    "options": [
+      "200",
+      "237",
+      "251",
+      "275"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "10 HP, 220V 電機 Ia=40A, 1200 rpm，求總損失？",
+    "options": [
+      "1340",
+      "1430",
+      "7460",
+      "8800"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "4 極機磁通由最大變 0，最少須轉幾圈？",
+    "options": [
+      "1/8",
+      "1/4",
+      "1/2",
+      "1"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "16",
     "type": "multiple_choice",
-    "text": "直流發電機感應電勢 100V，若磁通減少 25% 且轉速增加 25%，求新感應電勢？",
+    "text": "感應電勢 100V，磁通減 25% 速增 25%，新電勢？",
     "options": [
       "75",
       "80",
@@ -65,9 +208,100 @@
     "score": 2
   },
   {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "12 極 60Hz 同步機，同步角速度 omega 為何？",
+    "options": [
+      "31.4",
+      "62.8",
+      "314",
+      "600"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "消除三次諧波，繞組應採多少節距？",
+    "options": [
+      "1/2",
+      "2/3",
+      "3/4",
+      "4/5"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "三相機每相 50 匝, Y 接, 頻率 50Hz, 300 rpm，380V 下需磁通？",
+    "options": [
+      "0.003",
+      "0.015",
+      "0.021",
+      "0.431"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "高壓大容量同步發電機大多採用？",
+    "options": [
+      "轉子電樞",
+      "轉子磁場",
+      "轉子轉子",
+      "定子定子"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "同步機發生最大轉矩時之轉矩角為何？",
+    "options": [
+      "0",
+      "45",
+      "90",
+      "180"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "10000 kVA, 6600V 三相機，阻抗 3.6 Ω，求短路比？",
+    "options": [
+      "0.81",
+      "1.05",
+      "1.20",
+      "1.30"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "變壓器基本原理？",
+    "options": [
+      "歐姆",
+      "右手",
+      "左手",
+      "法拉第"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
     "number": "24",
     "type": "multiple_choice",
-    "text": "10 kVA 變壓器，鐵損 160W，滿載銅損 250W，PF=0.8，求最大效率？",
+    "text": "10kVA 損鐵 160W 銅 250W 功因 0.8，最大效率為何？",
     "options": [
       "92.6%",
       "94.2%",
@@ -80,7 +314,7 @@
   {
     "number": "25",
     "type": "multiple_choice",
-    "text": "變壓器半載時銅損為 30W，求滿載銅損？",
+    "text": "半載銅損 30W，求滿載銅損？",
     "options": [
       "30",
       "60",
@@ -91,9 +325,165 @@
     "score": 2
   },
   {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "直流發電機繞組接線何者正確？",
+    "options": [
+      "串場並聯",
+      "分場並聯",
+      "中間極並聯",
+      "補償並聯"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "三相感應機無載試驗主要項目？",
+    "options": [
+      "銅損電流",
+      "阻抗",
+      "鐵損導納",
+      "鐵損銅損"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "何種裝置可抑制同步機追逐 (hunting)？",
+    "options": [
+      "激磁",
+      "運轉",
+      "補償",
+      "阻尼"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "6 極 75kW, 250V 單分疊繞，每根導體電流？",
+    "options": [
+      "25",
+      "50",
+      "100",
+      "125"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "絕緣等級 E 之最高容許溫度？",
+    "options": [
+      "90",
+      "120",
+      "130",
+      "155"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "4m 導體通 1A 於 2 Wb/m2 磁場，受力多少 nt？",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "同步機 V 形曲線指哪兩者關係？",
+    "options": [
+      "電樞流與激磁流",
+      "激磁流與端壓",
+      "端壓與負載流",
+      "負載流與電樞流"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "避免非同步併聯，維持最小差值者？",
+    "options": [
+      "壓流相",
+      "頻壓相",
+      "頻功壓",
+      "頻相流"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "感應機正逆轉互鎖主要目的？",
+    "options": [
+      "開路",
+      "過載",
+      "逆相",
+      "短路"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "35",
+    "type": "multiple_choice",
+    "text": "100kW 直流機滿載損 5k 半載損 2k，運行時段求全日效率？",
+    "options": [
+      "70%",
+      "80%",
+      "85%",
+      "90%"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "直流機構造中屬於轉子部分者有幾項？",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "T 型連接變壓器主支皆 20kVA，兩相總輸出為何？",
+    "options": [
+      "20.32",
+      "32.32",
+      "34.63",
+      "40.63"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "38",
     "type": "multiple_choice",
-    "text": "6 極直流發電機，Z=500，Φ=0.005 Wb，a=4，n=1200 rpm，求感應電勢 E？",
+    "text": "6 極直流機 500 根, 0.005 Wb, a=4, 1200 rpm，求電勢？",
     "options": [
       "50",
       "75",
@@ -104,9 +494,61 @@
     "score": 2
   },
   {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "直流串激發電機 150V, Ra=0.2, Rs=0.02, 200A，求輸出功率？",
+    "options": [
+      "18.8k",
+      "20k",
+      "21k",
+      "21.2k"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "他激機 1600 rpm 為 200V，電勢增為 220V 時轉速？",
+    "options": [
+      "1680",
+      "1720",
+      "1760",
+      "1800"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "3000/3300V 自耦變 160kW 功因 0.8，求變壓器容量 kVA？",
+    "options": [
+      "10.15",
+      "15.15",
+      "17.17",
+      "18.18"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "發電機並聯優點何者有誤？",
+    "options": [
+      "預備機大",
+      "可靠性高",
+      "效率高",
+      "容量大"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "43",
     "type": "multiple_choice",
-    "text": "變壓器電壓比 2200/220V，低壓側電阻 100Ω，等效至高壓側之電阻為何？",
+    "text": "2200/220V 變壓器低壓側 100 Ω，等效至高壓側？",
     "options": [
       "10",
       "100",
@@ -117,9 +559,61 @@
     "score": 2
   },
   {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "兩台 150kVA 併聯供 200kVA，阻抗 6% 與 4%，求分擔？",
+    "options": [
+      "50, 150",
+      "60, 140",
+      "80, 120",
+      "120, 80"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "速率特性曲線正確者？",
+    "options": [
+      "甲串乙分",
+      "丙積丁串",
+      "甲積乙差",
+      "丙差丁串"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "大型三相變壓器分接頭 (Tap) 主要用途？",
+    "options": [
+      "調壓",
+      "調流",
+      "調功因",
+      "調功率"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "單相 220V, 40A, 阻抗 0.55 Ω，求百分比阻抗 %Z？",
+    "options": [
+      "0.1%",
+      "0.2%",
+      "0.3%",
+      "0.4%"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
     "number": "48",
     "type": "multiple_choice",
-    "text": "6 極 60Hz 感應電動機，s=5%，起動瞬間轉子感應電流頻率為多少 Hz？",
+    "text": "6 極 60Hz 滿載 s=5%，起動瞬間轉子頻率？",
     "options": [
       "0",
       "12",
@@ -127,6 +621,32 @@
       "60"
     ],
     "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "三相感應機 600kW 功因 0.6，欲提高至 1 需調相機？",
+    "options": [
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "節距與極距比 4/5，求節距因數 Kp？",
+    "options": [
+      "sin 72",
+      "cos 72",
+      "sin 144",
+      "cos 144"
+    ],
+    "answer": "A",
     "score": 2
   }
 ]

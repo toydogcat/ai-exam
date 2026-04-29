@@ -2,13 +2,13 @@
   {
     "type": "essay",
     "number": "一",
-    "text": "國文寫作：耕耘與收穫",
+    "text": "國文寫作：耕耘與收穫 (70分)",
     "score": 70
   },
   {
     "number": "1",
-    "type": "multiple_choice_chinese",
-    "text": "下列各組「」內的文字，何者前後相同？",
+    "type": "multiple_choice",
+    "text": "【國文】下列各組「」內的文字，何者前後相同？",
     "options": [
       "膏「ㄩˊ」之地／阿「ㄩˊ」諂媚",
       "「ㄧㄢˇ」旗息鼓／屋舍「ㄧㄢˇ」然",
@@ -19,9 +19,22 @@
     "score": 2
   },
   {
+    "number": "2",
+    "type": "multiple_choice",
+    "text": "【國文】下列成語用字，何者正確？",
+    "options": [
+      "蓬壁生輝",
+      "錐心泣血",
+      "趨之若鶩",
+      "莫衷一事"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "3",
-    "type": "multiple_choice_chinese",
-    "text": "下列文句「」中的成語，何者使用正確？",
+    "type": "multiple_choice",
+    "text": "【國文】下列文句「」中的成語，何者使用正確？",
     "options": [
       "對課業總是「牛角掛書」、敷衍了事",
       "小朋友猶如「新鶯出谷」般衝出教室",
@@ -32,9 +45,48 @@
     "score": 2
   },
   {
+    "number": "4",
+    "type": "multiple_choice",
+    "text": "【國文】下列各組成語，何者意義最為相近？",
+    "options": [
+      "螳臂當車／蚍蜉撼樹",
+      "白雲蒼狗／白駒過隙",
+      "斬草除根／竭澤而漁",
+      "鳳毛麟角／九牛一毛"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "5",
+    "type": "multiple_choice",
+    "text": "【國文】下列詩詞所描繪的季節，何者有誤？",
+    "options": [
+      "千里鶯啼綠映紅—春天",
+      "木槿花開畏日長—夏天",
+      "菡萏香銷翠葉殘—秋天",
+      "梅英疏淡，冰澌溶泄—冬天"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "6",
+    "type": "multiple_choice",
+    "text": "【國文】下列有關方位語詞的解釋，何者有誤？",
+    "options": [
+      "「馬耳東風」形容充耳不聞",
+      "「剪燭西窗」形容喪妻之痛",
+      "「北窗高臥」形容悠閒自適",
+      "「虛左以待」形容禮賢下士"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
     "number": "7",
-    "type": "multiple_choice_chinese",
-    "text": "「千年前為秋風所破的茅屋...遙想當年你如何扶杖嘆息」，所述人物為何？",
+    "type": "multiple_choice",
+    "text": "【國文】「千年前為秋風所破的茅屋...遙想當年你如何扶杖嘆息」，所述人物為何？",
     "options": [
       "蘇軾",
       "屈原",
@@ -45,9 +97,113 @@
     "score": 2
   },
   {
+    "number": "8",
+    "type": "multiple_choice",
+    "text": "【國文】王安石《登飛來峰》：「不畏浮雲遮望眼，自緣身在最高層。」其中的浮雲比喻？",
+    "options": [
+      "不義而富貴",
+      "浮雲遊子意",
+      "總為浮雲能蔽日",
+      "浮雲一別後"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
+    "number": "9",
+    "type": "multiple_choice",
+    "text": "【國文】下列各組詞語所指涉的物品，何者相同？",
+    "options": [
+      "玉盤／金烏",
+      "魚雁／尺牘",
+      "金甌／絲竹",
+      "汗青／杜康"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "10",
+    "type": "multiple_choice",
+    "text": "【國文】「東風夜放花千樹...一夜魚龍舞。」係描述何種節令？",
+    "options": [
+      "元宵節",
+      "清明節",
+      "中秋節",
+      "重陽節"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "11",
+    "type": "multiple_choice",
+    "text": "【國文】下列何者與夫妻相處之道「無關」？",
+    "options": [
+      "相敬如賓",
+      "倒屣相迎",
+      "舉案齊眉",
+      "鴻案相莊"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "12",
+    "type": "multiple_choice",
+    "text": "【國文】「凡操千曲而後曉聲，觀千劍而後識器。」之意旨與何者最相近？",
+    "options": [
+      "戒慎恐懼",
+      "逆水行舟",
+      "讀萬卷書，行萬里路",
+      "博覽群觀，多方學習"
+    ],
+    "answer": "D",
+    "score": 2
+  },
+  {
+    "number": "13",
+    "type": "multiple_choice",
+    "text": "【國文】有關各類競賽所使用的題辭，何者有誤？",
+    "options": [
+      "音樂：玉潤珠圓",
+      "演講：餘音繞樑",
+      "作文：洛陽紙貴",
+      "書法：力透紙背"
+    ],
+    "answer": "B",
+    "score": 2
+  },
+  {
+    "number": "14",
+    "type": "multiple_choice",
+    "text": "【國文】李斯《諫逐客書》中君王強盛的主因為？",
+    "options": [
+      "廣納賢才，有容乃大",
+      "開疆拓土，統一天下",
+      "變法革新",
+      "虛心納諫"
+    ],
+    "answer": "A",
+    "score": 2
+  },
+  {
+    "number": "15",
+    "type": "multiple_choice",
+    "text": "【國文】下列對聯所適用的場合，何者配對有誤？",
+    "options": [
+      "醫院",
+      "旅館",
+      "茶館",
+      "相館"
+    ],
+    "answer": "C",
+    "score": 2
+  },
+  {
     "number": "16",
-    "type": "multiple_choice_english",
-    "text": "The manager’s idea, although promising, still needs ________ out.",
+    "type": "multiple_choice",
+    "text": "【英文】The manager’s idea, although promising, still needs ________ out.",
     "options": [
       "try",
       "to try",
@@ -59,8 +215,8 @@
   },
   {
     "number": "17",
-    "type": "multiple_choice_english",
-    "text": "I didn’t use to like ice cream, but now I can’t ________ having it.",
+    "type": "multiple_choice",
+    "text": "【英文】I didn’t use to like ice cream, but now I can’t ________ having it.",
     "options": [
       "reduce",
       "refuse",
@@ -71,9 +227,230 @@
     "score": 2.5
   },
   {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "【英文】Which is a good response to “Ready to order”?",
+    "options": [
+      "In a couple of minutes.",
+      "No, thanks.",
+      "Do I have to?",
+      "I’m not hungry yet."
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "19",
+    "type": "multiple_choice",
+    "text": "【英文】it tasted ________, which ruined the delicate balance.",
+    "options": [
+      "sweetly",
+      "to be hot",
+      "of garlic",
+      "with fish"
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "20",
+    "type": "multiple_choice",
+    "text": "【英文】We got stuck in traffic for such a long time ________ we missed our appointment.",
+    "options": [
+      "that",
+      "and",
+      "because",
+      "before"
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "21",
+    "type": "multiple_choice",
+    "text": "【英文】Willy got a 3,000-dollar ________ for his full attendance.",
+    "options": [
+      "bonus",
+      "price",
+      "fund",
+      "merit"
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "22",
+    "type": "multiple_choice",
+    "text": "【英文】Peter is, ________, a walking dictionary.",
+    "options": [
+      "to say so",
+      "so to speak",
+      "so to tell",
+      "so to put"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
+    "number": "23",
+    "type": "multiple_choice",
+    "text": "【英文】What do you suppose ________?",
+    "options": [
+      "happened",
+      "did happen",
+      "has happened",
+      "would happen"
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "24",
+    "type": "multiple_choice",
+    "text": "【英文】You need to ________ a proposal to apply for approval.",
+    "options": [
+      "present",
+      "issue",
+      "describe",
+      "offer"
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "25",
+    "type": "multiple_choice",
+    "text": "【英文】“I was overwhelmed by the heavy workload, weren’t you?”",
+    "options": [
+      "Yes, it’s overstaffed.",
+      "No, you should take a break.",
+      "Yes, they need to hire more people.",
+      "No, I don’t know where to download it."
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "26",
+    "type": "multiple_choice",
+    "text": "【英文】Going to a gym has become a ________ in Taiwan.",
+    "options": [
+      "exercise",
+      "trend",
+      "style",
+      "popular"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
+    "number": "27",
+    "type": "multiple_choice",
+    "text": "【英文】Tom turns 65 next year so he will ________.",
+    "options": [
+      "resign",
+      "be fired",
+      "retire",
+      "return home"
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "28",
+    "type": "multiple_choice",
+    "text": "【英文】Anna and Cathy haven’t seen each other ________ high school graduation.",
+    "options": [
+      "in",
+      "since",
+      "before",
+      "at"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
+    "number": "29",
+    "type": "multiple_choice",
+    "text": "【英文】Many citizens looked upon the worsening economic situation ________.",
+    "options": [
+      "as critical",
+      "to be critical",
+      "being critical",
+      "critical"
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "30",
+    "type": "multiple_choice",
+    "text": "【英文】The sky is getting dark. I think it’s ________ rain.",
+    "options": [
+      "about to",
+      "will to",
+      "like to",
+      "meaning to"
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "【英文】the one ________ Americans spend the most time.",
+    "options": [
+      "that",
+      "which",
+      "on that",
+      "on which"
+    ],
+    "answer": "D",
+    "score": 2.5
+  },
+  {
+    "number": "32",
+    "type": "multiple_choice",
+    "text": "【英文】Evan has a bad temper and no one wants to be ________ him.",
+    "options": [
+      "nearly",
+      "away from",
+      "about",
+      "around"
+    ],
+    "answer": "D",
+    "score": 2.5
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "【英文】You were opposed to ________ to join us for dinner last night?",
+    "options": [
+      "our inviting her",
+      "us invite her",
+      "that we invite her",
+      "we inviting her"
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "34",
+    "type": "multiple_choice",
+    "text": "【英文】The show must win the approval..., ________ it is being performed at the Palace Theater.",
+    "options": [
+      "that",
+      "which",
+      "when",
+      "where"
+    ],
+    "answer": "D",
+    "score": 2.5
+  },
+  {
     "number": "35",
-    "type": "multiple_choice_english",
-    "text": "TSMC pays well, but many people quit ________ the long work hours.",
+    "type": "multiple_choice",
+    "text": "【英文】TSMC pays well, but many people quit ________ the long work hours.",
     "options": [
       "because",
       "avoid",
@@ -84,9 +461,165 @@
     "score": 2.5
   },
   {
+    "number": "36",
+    "type": "multiple_choice",
+    "text": "【英文】You ________ right now. The train is leaving in an hour.",
+    "options": [
+      "would rather go",
+      "had better go",
+      "had rather gone",
+      "would better go"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
+    "number": "37",
+    "type": "multiple_choice",
+    "text": "【英文】UberEats is a food delivery ________ used by lots of people.",
+    "options": [
+      "network",
+      "platform",
+      "website",
+      "station"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
+    "number": "38",
+    "type": "multiple_choice",
+    "text": "【英文】wiser to think ahead now than to later regret ________ any preparations.",
+    "options": [
+      "making",
+      "having made",
+      "not having made",
+      "have not made"
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "39",
+    "type": "multiple_choice",
+    "text": "【英文】I didn’t know he ________ until yesterday.",
+    "options": [
+      "comes",
+      "will come",
+      "was coming",
+      "had been coming"
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "40",
+    "type": "multiple_choice",
+    "text": "【英文】there is a(n) ________ scheme in place to recognize employees.",
+    "options": [
+      "encouragement",
+      "incentive",
+      "initiative",
+      "compensation"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
+    "number": "41",
+    "type": "multiple_choice",
+    "text": "【英文】When science was still ________, the Greeks believed...",
+    "options": [
+      "in its beginning",
+      "in its origin",
+      "in its infancy",
+      "in its phase"
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "42",
+    "type": "multiple_choice",
+    "text": "【英文】I should have studied architecture. I ________ really good at it.",
+    "options": [
+      "must have been",
+      "should have been",
+      "couldn’t have been",
+      "would have been"
+    ],
+    "answer": "D",
+    "score": 2.5
+  },
+  {
+    "number": "43",
+    "type": "multiple_choice",
+    "text": "【英文】Don’t make reservations ________ you’re prepared to spend money.",
+    "options": [
+      "until",
+      "unless",
+      "since",
+      "although"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
+    "number": "44",
+    "type": "multiple_choice",
+    "text": "【英文】Every new employee ________ take special training courses.",
+    "options": [
+      "is needed to",
+      "must to",
+      "is required to",
+      "is order to"
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "45",
+    "type": "multiple_choice",
+    "text": "【英文】________ the movie was so boring, I doubt I would have gone.",
+    "options": [
+      "I had known if",
+      "If I knew",
+      "If had I known",
+      "Had I known"
+    ],
+    "answer": "D",
+    "score": 2.5
+  },
+  {
+    "number": "46",
+    "type": "multiple_choice",
+    "text": "【英文】To apply for a job, ________ the application form first.",
+    "options": [
+      "read out",
+      "write in",
+      "print in",
+      "fill out"
+    ],
+    "answer": "D",
+    "score": 2.5
+  },
+  {
+    "number": "47",
+    "type": "multiple_choice",
+    "text": "【英文】The new administration ________ the quality of preschool education.",
+    "options": [
+      "is committed to improve",
+      "is committed to improving",
+      "has committed to improve",
+      "has committed to be improved"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
     "number": "48",
-    "type": "multiple_choice_english",
-    "text": "Debbie and I ________. We’ve been friends since high school.",
+    "type": "multiple_choice",
+    "text": "【英文】Debbie and I ________. We’ve been friends since high school.",
     "options": [
       "are back on our way",
       "know our way",
@@ -97,9 +630,74 @@
     "score": 2.5
   },
   {
+    "number": "49",
+    "type": "multiple_choice",
+    "text": "【英文】She reached a level of musicianship that the rest of us can only ________.",
+    "options": [
+      "aspire to",
+      "admire to",
+      "allude to",
+      "attain to"
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "【英文】The high cost of living is steadily ________ people’s savings.",
+    "options": [
+      "eating into",
+      "cutting up",
+      "draining away",
+      "weighing on"
+    ],
+    "answer": "A",
+    "score": 2.5
+  },
+  {
+    "number": "51",
+    "type": "multiple_choice",
+    "text": "【英文】Sarah and Jack always seem to ________ on important issues.",
+    "options": [
+      "catch their eyes",
+      "keep an eye out",
+      "see eye to eye",
+      "feast their eyes"
+    ],
+    "answer": "C",
+    "score": 2.5
+  },
+  {
+    "number": "52",
+    "type": "multiple_choice",
+    "text": "【英文】I got my fridge ______ last week and now it’s running smoothly.",
+    "options": [
+      "repair",
+      "repaired",
+      "fix up",
+      "better"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
+    "number": "53",
+    "type": "multiple_choice",
+    "text": "【英文】We should be ________ and recycle.",
+    "options": [
+      "environmental protection",
+      "eco-friendly",
+      "conscious",
+      "love Earth"
+    ],
+    "answer": "B",
+    "score": 2.5
+  },
+  {
     "number": "54",
-    "type": "multiple_choice_english",
-    "text": "I really put my ________ in it... I accidentally said 'Who are you?' instead of 'How are you?'",
+    "type": "multiple_choice",
+    "text": "【英文】I really put my ________ in it... accidentally said 'Who are you?'",
     "options": [
       "tongue",
       "finger",
@@ -107,6 +705,19 @@
       "foot"
     ],
     "answer": "D",
+    "score": 2.5
+  },
+  {
+    "number": "55",
+    "type": "multiple_choice",
+    "text": "【英文】The marketing team proposed... ________ the sales department favored...",
+    "options": [
+      "however",
+      "despite",
+      "whereas",
+      "unless"
+    ],
+    "answer": "C",
     "score": 2.5
   }
 ]
