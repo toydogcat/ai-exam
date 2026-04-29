@@ -1,0 +1,133 @@
+[
+  {
+    "number": "1",
+    "type": "multiple_choice",
+    "text": "下列何者不是物件導向程式的主要特色？",
+    "options": [
+      "遞迴 (Recursion)",
+      "封裝 (Encapsulation)",
+      "繼承 (Inheritance)",
+      "多形 (Polymorphism)"
+    ],
+    "answer": "1",
+    "score": 1
+  },
+  {
+    "number": "3",
+    "type": "multiple_choice",
+    "text": "假設網路 140.12.0.0 的 Netmask 為 255.255.24.192，下列何者屬於「不同」的子網路？",
+    "options": [
+      "140.12.23.71",
+      "140.12.26.72",
+      "140.12.48.96",
+      "140.12.80.80"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "7",
+    "type": "multiple_choice",
+    "text": "程式執行需 140 秒，乘法指令占 112 秒。若要將總時間縮短為 1/4，乘法指令需提升為多少倍？",
+    "options": [
+      "4 倍",
+      "8 倍",
+      "16 倍",
+      "32 倍"
+    ],
+    "answer": "3",
+    "score": 1
+  },
+  {
+    "number": "17",
+    "type": "multiple_choice",
+    "text": "遞迴函數 (Recursive Function) 以下列何種資料結構實現最為有效？",
+    "options": [
+      "佇列",
+      "堆疊 (Stack)",
+      "鍵結串列",
+      "樹"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "18",
+    "type": "multiple_choice",
+    "text": "氣泡排序法對 (3,5,9,4,7) 進行第一次循環排序後結果為何？",
+    "options": [
+      "(3,5,4,9,7)",
+      "(3,5,4,7,9)",
+      "(5,3,4,9,7)",
+      "(5,3,9,4,7)"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "31",
+    "type": "multiple_choice",
+    "text": "金融機構提供服務給非營利慈善團體、教會、大學，這些顧客屬於？",
+    "options": [
+      "中間商市場",
+      "政府市場",
+      "消費者市場",
+      "機構市場"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "33",
+    "type": "multiple_choice",
+    "text": "要刺激重複購買並讓顧客知道不久後會用到該服務，最好利用？",
+    "options": [
+      "強化式廣告",
+      "提醒式廣告",
+      "告知式廣告",
+      "說服式廣告"
+    ],
+    "answer": "2",
+    "score": 1
+  },
+  {
+    "number": "50",
+    "type": "multiple_choice",
+    "text": "登山外套宣稱採用 GORE-TEX 防水纖維，這種作法稱為？",
+    "options": [
+      "旗艦品牌",
+      "私人品牌",
+      "經銷商品牌",
+      "成分品牌 (Ingredient Branding)"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "52",
+    "type": "multiple_choice",
+    "text": "高鐵公司促銷離峰時段車票，是因為服務業具備何種特性？",
+    "options": [
+      "無形性",
+      "變動性",
+      "不可分割性",
+      "易逝性 (Perishability)"
+    ],
+    "answer": "4",
+    "score": 1
+  },
+  {
+    "number": "Q1",
+    "type": "short_answer",
+    "text": "關聯式資料庫中，候選鍵 (Candidate Key) 必須滿足哪兩個條件？",
+    "answer": "1. 唯一性 (Uniqueness): 屬性值可唯一識別記錄。 2. 最小性 (Minimality): 不可再縮減屬性組合。",
+    "score": 10
+  },
+  {
+    "number": "Q2-1",
+    "type": "short_answer",
+    "text": "將十進位 (62) 轉為二進位、八進位、十六進位。",
+    "answer": "二進位: 111110, 八進位: 76, 十六進位: 3E",
+    "score": 10
+  }
+]
