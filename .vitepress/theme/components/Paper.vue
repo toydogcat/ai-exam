@@ -13,26 +13,87 @@ const userAnswers = ref({})
 const isSubmitted = ref(false)
 const examineeName = ref('')
 const ticketNumber = ref('')
+const timeLeft = ref(90 * 60) // Default 90 minutes in seconds
+const totalDuration = ref(90 * 60)
+let timer = null
+
+const formatTime = computed(() => {
+  const mins = Math.floor(timeLeft.value / 60)
+  const secs = timeLeft.value % 60
+  return `${mins}:${secs.toString().padStart(2, '0')}`
+})
 
 const fetchQuestions = async () => {
   try {
     const res = await fetch(withBase(`/json/${props.agency}/${props.year}/${props.subject}.json`))
-    questions.value = await res.json()
+    const data = await res.json()
+    
+    // Handle both array and object formats
+    if (Array.isArray(data)) {
+      questions.value = data
+    } else {
+      questions.value = data.questions || []
+      if (data.duration) {
+        totalDuration.value = data.duration * 60
+        timeLeft.value = totalDuration.value
+      }
+    }
+    startTimer()
   } catch (err) {
     console.error('Failed to fetch questions:', err)
   }
 }
 
+const startTimer = () => {
+  if (timer) clearInterval(timer)
+  timer = setInterval(() => {
+    if (timeLeft.value > 0 && !isSubmitted.value) {
+      timeLeft.value--
+    } else if (timeLeft.value === 0 && !isSubmitted.value) {
+      submitExam()
+      clearInterval(timer)
+    }
+  }, 1000)
+}
+
+const getAnswerValue = (ans) => {
+  if (typeof ans === 'number') return ans
+  if (typeof ans === 'string') {
+    const map = { 'A': 1, 'B': 2, 'C': 3, 'D': 4 }
+    return map[ans.toUpperCase()] || ans
+  }
+  return ans
+}
+
 const score = computed(() => {
   if (!isSubmitted.value) return 0
-  let correct = 0
+  let totalScore = 0
+  let earnedScore = 0
+  
   questions.value.forEach((q, idx) => {
-    if (userAnswers.value[idx] === q.answer) {
-      correct++
+    const questionScore = q.score || 2
+    totalScore += questionScore
+    
+    const correctAns = getAnswerValue(q.answer)
+    const userAns = userAnswers.value[idx]
+
+    if (q.options && q.options.length) {
+      // Multiple Choice
+      if (userAns == correctAns) {
+        earnedScore += questionScore
+      }
+    } else if (q.type === 'fill_in') {
+      // Fill in the blank (exact match)
+      const u = (userAns || '').toString().trim()
+      const c = (q.answer || '').toString().trim()
+      if (u === c) {
+        earnedScore += questionScore
+      }
     }
   })
-  return Math.round((correct / questions.value.length) * 100)
-})
+  
+  return Math.round((earnedScore / totalScore) * 100)
+} )
 
 const generateTicket = () => {
   ticketNumber.value = 'EXAM-' + Math.random().toString(36).substr(2, 9).toUpperCase()
@@ -67,9 +128,16 @@ const submitExam = () => {
         </div>
       </div>
       
-      <div class="score-box" :class="{ 'visible': isSubmitted }">
-        <div class="score-label">得分</div>
-        <div class="score-value">{{ score }}</div>
+      <div class="header-right">
+        <div class="timer-box" :class="{ 'warning': timeLeft < 300, 'expired': timeLeft === 0 }">
+          <div class="timer-label">剩餘時間</div>
+          <div class="timer-value">{{ formatTime }}</div>
+        </div>
+
+        <div class="score-box" :class="{ 'visible': isSubmitted }">
+          <div class="score-label">得分</div>
+          <div class="score-value">{{ score }}</div>
+        </div>
       </div>
     </div>
 
@@ -87,8 +155,8 @@ const submitExam = () => {
           </div>
           <div class="options" v-if="q.options && q.options.length">
             <label v-for="(optText, i) in q.options" :key="i" class="option-label" :class="{ 
-              'correct': isSubmitted && q.answer == (i + 1),
-              'wrong': isSubmitted && userAnswers[questions.indexOf(q)] == (i + 1) && q.answer != (i + 1),
+              'correct': isSubmitted && getAnswerValue(q.answer) == (i + 1),
+              'wrong': isSubmitted && userAnswers[questions.indexOf(q)] == (i + 1) && getAnswerValue(q.answer) != (i + 1),
               'selected': userAnswers[questions.indexOf(q)] == (i + 1)
             }">
               <input type="radio" :name="'q' + questions.indexOf(q)" :value="i + 1" v-model="userAnswers[questions.indexOf(q)]" :disabled="isSubmitted">
@@ -96,6 +164,27 @@ const submitExam = () => {
               <span class="option-marker">({{ i + 1 }})</span>
               <span class="option-text">{{ optText }}</span>
             </label>
+          </div>
+
+          <!-- Fill-in-the-blank / Essay Input -->
+          <div class="short-answer-box" v-else :class="{ 'essay-box': q.type === 'essay' }">
+            <div class="input-wrapper" :class="{
+              'correct': isSubmitted && q.type === 'fill_in' && (userAnswers[questions.indexOf(q)] || '').toString().trim() === (q.answer || '').toString().trim(),
+              'wrong': isSubmitted && q.type === 'fill_in' && (userAnswers[questions.indexOf(q)] || '').toString().trim() !== (q.answer || '').toString().trim(),
+              'essay-input': q.type === 'essay'
+            }">
+              <input 
+                type="text" 
+                v-model="userAnswers[questions.indexOf(q)]" 
+                :placeholder="q.type === 'essay' ? '在此輸入最終答案或簡要過程...' : '在此輸入答案...'" 
+                class="short-input" 
+                :disabled="isSubmitted"
+              >
+            </div>
+            <div class="answer-reveal" v-if="isSubmitted">
+              <span class="reveal-label">{{ q.type === 'essay' ? '參考解析：' : '正確答案：' }}</span>
+              <span class="reveal-text">{{ q.answer }}</span>
+            </div>
           </div>
         </div>
       </div>
@@ -151,6 +240,45 @@ const submitExam = () => {
   width: 150px;
 }
 
+.header-right {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-end;
+}
+
+.timer-box {
+  width: 100px;
+  height: 80px;
+  border: 3px solid #333;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #f8f9fa;
+  transition: all 0.3s;
+}
+
+.timer-box.warning {
+  border-color: #f57c00;
+  color: #ef6c00;
+  animation: pulse 1s infinite;
+}
+
+.timer-box.expired {
+  border-color: #d32f2f;
+  background: #ffebee;
+  color: #c62828;
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.7; }
+  100% { opacity: 1; }
+}
+
+.timer-label { font-size: 0.7rem; font-weight: bold; text-transform: uppercase; }
+.timer-value { font-size: 1.5rem; font-weight: bold; font-family: monospace; }
+
 .score-box {
   width: 80px;
   height: 80px;
@@ -160,6 +288,7 @@ const submitExam = () => {
   justify-content: center;
   align-items: center;
   color: #d32f2f;
+  background: #fff;
   opacity: 0;
   transition: opacity 0.5s ease-in-out;
 }
@@ -281,6 +410,55 @@ input[type="radio"] {
   margin-top: 5px;
 }
 
+.short-answer-box {
+  margin-top: 0.8rem;
+  width: 100%;
+}
+
+.input-wrapper {
+  border-bottom: 2px solid #ccc;
+  transition: all 0.3s;
+  margin-bottom: 0.5rem;
+}
+
+.input-wrapper.correct {
+  border-bottom-color: #2e7d32;
+  background-color: #e8f5e9;
+}
+
+.input-wrapper.wrong {
+  border-bottom-color: #d32f2f;
+  background-color: #ffebee;
+}
+
+.short-input {
+  width: 100%;
+  border: none;
+  padding: 8px 5px;
+  outline: none;
+  background: transparent;
+  font-size: 0.9rem;
+  font-family: inherit;
+}
+
+.answer-reveal {
+  font-size: 0.85rem;
+  margin-top: 0.4rem;
+  padding: 5px;
+  background: #f1f3f4;
+  border-radius: 4px;
+  border-left: 3px solid #1a73e8;
+}
+
+.reveal-label {
+  font-weight: bold;
+  color: #1a73e8;
+}
+
+.reveal-text {
+  color: #333;
+}
+
 .exam-footer {
   margin-top: 3rem;
   text-align: center;
@@ -292,16 +470,19 @@ input[type="radio"] {
   background: #1a73e8;
   color: #fff;
   border: none;
-  padding: 0.8rem 2rem;
+  padding: 0.8rem 2.5rem;
   font-size: 1.1rem;
-  border-radius: 4px;
+  font-weight: bold;
+  border-radius: 30px;
   cursor: pointer;
-  transition: transform 0.2s;
+  transition: all 0.3s;
+  box-shadow: 0 4px 6px rgba(26,115,232,0.2);
 }
 
 .submit-btn:hover {
-  transform: scale(1.05);
+  transform: translateY(-2px);
   background: #1557b0;
+  box-shadow: 0 6px 12px rgba(26,115,232,0.3);
 }
 
 .finish-msg {

@@ -1,806 +1,809 @@
-[
-  {
-    "number": "1",
-    "type": "multiple_choice",
-    "text": "發射功率 10W，何處功率最低？",
-    "options": [
-      "100m",
-      "1km",
-      "2km",
-      "10km"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "2",
-    "type": "multiple_choice",
-    "text": "功率最大者？",
-    "options": [
-      "30dBm",
-      "3dBW",
-      "100mW",
-      "1W"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "3",
-    "type": "multiple_choice",
-    "text": "電磁波波長最短？",
-    "options": [
-      "1GHz",
-      "10MHz",
-      "100KHz",
-      "1000Hz"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "4",
-    "type": "multiple_choice",
-    "text": "4KHz 頻寬在 100~500KHz 頻帶用 FDM 可傳幾組？",
-    "options": [
-      "50",
-      "100",
-      "200",
-      "500"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "5",
-    "type": "multiple_choice",
-    "text": "屬於數位調變技術者？",
-    "options": [
-      "AM",
-      "FM",
-      "QAM",
-      "VSB"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "6",
-    "type": "multiple_choice",
-    "text": "0.005秒傳送 2 byte，速率為何？",
-    "options": [
-      "16bps",
-      "80bps",
-      "3.2Kbps",
-      "16Kbps"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "7",
-    "type": "multiple_choice",
-    "text": "有線系統提供最大頻寬者？",
-    "options": [
-      "單芯",
-      "雙絞",
-      "光纖",
-      "同軸"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "8",
-    "type": "multiple_choice",
-    "text": "200Hz 訊號最小取樣速率？",
-    "options": [
-      "200",
-      "400",
-      "600",
-      "800"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "9",
-    "type": "multiple_choice",
-    "text": "工作溫度相同，何頻寬熱雜訊最大？",
-    "options": [
-      "100KHz",
-      "1MHz",
-      "10MHz",
-      "100MHz"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "10",
-    "type": "multiple_choice",
-    "text": "7位元 odd parity 傳送，正確形式判斷？",
-    "options": [
-      "11111111",
-      "11001101",
-      "10101010",
-      "00000000"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "11",
-    "type": "multiple_choice",
-    "text": "symbol 帶資訊量最多者？",
-    "options": [
-      "64QAM",
-      "16PSK",
-      "16QAM",
-      "QPSK"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "12",
-    "type": "multiple_choice",
-    "text": "對講機傳輸機制？",
-    "options": [
-      "單工",
-      "半雙工",
-      "全雙工",
-      "分時"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "13",
-    "type": "multiple_choice",
-    "text": "PCM 處理程序「不包含」？",
-    "options": [
-      "取樣",
-      "量化",
-      "壓縮",
-      "編碼"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "14",
-    "type": "multiple_choice",
-    "text": "何車速都普勒位移最大？",
-    "options": [
-      "10",
-      "30",
-      "100",
-      "250"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "15",
-    "type": "multiple_choice",
-    "text": "不屬於無線通訊應用？",
-    "options": [
-      "GPS",
-      "GSM",
-      "FTTH",
-      "RFID"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "16",
-    "type": "multiple_choice",
-    "text": "QPSK 傳送率 2400Hz，每秒傳送幾位元？",
-    "options": [
-      "1200",
-      "4800",
-      "9600",
-      "19200"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "17",
-    "type": "multiple_choice",
-    "text": "2百萬位元錯10個，BER 為何？",
-    "options": [
-      "2e-5",
-      "5e-5",
-      "2e-6",
-      "5e-6"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "18",
-    "type": "multiple_choice",
-    "text": "不具備線性調變特性之調幅？",
-    "options": [
-      "傳統AM",
-      "DSB-SC",
-      "SSB",
-      "VSB"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "19",
-    "type": "multiple_choice",
-    "text": "AWGN 同SNR下符元錯誤率最低？",
-    "options": [
-      "BPSK",
-      "QPSK",
-      "16QAM",
-      "64QAM"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "20",
-    "type": "multiple_choice",
-    "text": "調變與碼率組合實質資料量最大？",
-    "options": [
-      "BPSK 3/4",
-      "QPSK 1/2",
-      "16QAM 2/3",
-      "64QAM 1/3"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "21",
-    "type": "multiple_choice",
-    "text": "重複編碼 5 次，最多可改幾個錯誤？",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "22",
-    "type": "multiple_choice",
-    "text": "10km 損耗 2dB/km, 1W 輸入，接收功率為何？",
-    "options": [
-      "-20dB",
-      "-21dBm",
-      "-20dBW",
-      "-50dBW"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "23",
-    "type": "multiple_choice",
-    "text": "編碼技術敘述錯誤者？",
-    "options": [
-      "類比系統不選用",
-      "源與道編碼均增位元",
-      "率高冗餘多",
-      "搭配重傳提效"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "24",
-    "type": "multiple_choice",
-    "text": "防止一連串錯誤出現之技術？",
-    "options": [
-      "通道編碼",
-      "功率控制",
-      "交錯 (Interleaving)",
-      "調變"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "25",
-    "type": "multiple_choice",
-    "text": "涵蓋率考量，何頻段需基地站數最多？",
-    "options": [
-      "700M",
-      "900M",
-      "1.8G",
-      "2.6G"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "26",
-    "type": "multiple_choice",
-    "text": "未使用 OFDM 技術者？",
-    "options": [
-      "DVB",
-      "Bluetooth",
-      "802.11a",
-      "WiMAX"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "27",
-    "type": "multiple_choice",
-    "text": "SNR=15, BW=10KHz，通道容量為何？",
-    "options": [
-      "20k",
-      "40k",
-      "80k",
-      "150k"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "28",
-    "type": "multiple_choice",
-    "text": "非 OFDM 優點？",
-    "options": [
-      "抗多徑",
-      "等化器易",
-      "頻效好",
-      "收發不須同步"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "29",
-    "type": "multiple_choice",
-    "text": "U(t) 頻率組合，求載波頻率？",
-    "options": [
-      "900",
-      "1000",
-      "1100",
-      "2000"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "30",
-    "type": "multiple_choice",
-    "text": "20W 功率，Gain 12dB, Loss 5dB, 求 EIRP？",
-    "options": [
-      "20dBm",
-      "32dBm",
-      "43dBm",
-      "50dBm"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "31",
-    "type": "multiple_choice",
-    "text": "電子學專業題 31",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "32",
-    "type": "multiple_choice",
-    "text": "電子學專業題 32",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "33",
-    "type": "multiple_choice",
-    "text": "電子學專業題 33",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "34",
-    "type": "multiple_choice",
-    "text": "電子學專業題 34",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "35",
-    "type": "multiple_choice",
-    "text": "電子學專業題 35",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "36",
-    "type": "multiple_choice",
-    "text": "電子學專業題 36",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "37",
-    "type": "multiple_choice",
-    "text": "電子學專業題 37",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "38",
-    "type": "multiple_choice",
-    "text": "電子學專業題 38",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "39",
-    "type": "multiple_choice",
-    "text": "電子學專業題 39",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "40",
-    "type": "multiple_choice",
-    "text": "電子學專業題 40",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "41",
-    "type": "multiple_choice",
-    "text": "電子學專業題 41",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "42",
-    "type": "multiple_choice",
-    "text": "電子學專業題 42",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "43",
-    "type": "multiple_choice",
-    "text": "電子學專業題 43",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "44",
-    "type": "multiple_choice",
-    "text": "電子學專業題 44",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "45",
-    "type": "multiple_choice",
-    "text": "電子學專業題 45",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "46",
-    "type": "multiple_choice",
-    "text": "電子學專業題 46",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "47",
-    "type": "multiple_choice",
-    "text": "電子學專業題 47",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "48",
-    "type": "multiple_choice",
-    "text": "電子學專業題 48",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "49",
-    "type": "multiple_choice",
-    "text": "電子學專業題 49",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "50",
-    "type": "multiple_choice",
-    "text": "電子學專業題 50",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "51",
-    "type": "multiple_choice",
-    "text": "電子學專業題 51",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "52",
-    "type": "multiple_choice",
-    "text": "電子學專業題 52",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "53",
-    "type": "multiple_choice",
-    "text": "電子學專業題 53",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "54",
-    "type": "multiple_choice",
-    "text": "電子學專業題 54",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "55",
-    "type": "multiple_choice",
-    "text": "電子學專業題 55",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "56",
-    "type": "multiple_choice",
-    "text": "電子學專業題 56",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "57",
-    "type": "multiple_choice",
-    "text": "電子學專業題 57",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "58",
-    "type": "multiple_choice",
-    "text": "電子學專業題 58",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "59",
-    "type": "multiple_choice",
-    "text": "電子學專業題 59",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "60",
-    "type": "multiple_choice",
-    "text": "電子學專業題 60",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "問答 1",
-    "type": "essay",
-    "text": "計算 OFDM 資料傳輸率：(一)64子載波, 48載資, 間距312.5KHz, 16QAM, 1/2碼率, 1/4GI。(二)改 64QAM, 3/4碼率, 52載資, 1/8GI, 2x2 MIMO。",
-    "answer": "【解答】(一)Symbol rate = 1/T_total. T_data = 1/delta_f = 3.2us. T_total = T_data*(1+1/4) = 4us. Rate = (48 * log2(16) * 1/2) / 4us = 24 Mbps。(二)Rate = (52 * log2(64) * 3/4 * 2) / (3.2 * 9/8) = 130 Mbps。"
-  },
-  {
-    "number": "問答 2",
-    "type": "essay",
-    "text": "PCM 傳輸計算：(一)最小取樣率？(二)128位階時位元速率？(三)不生 ISI 之最小頻寬？",
-    "answer": "【解答】(一)fs = 2B = 40 KHz。(二)Rb = fs * n = 40K * log2(128) = 280 Kbps。(三)W = Rb / 2 = 140 KHz (Nyquist BW)。"
-  },
-  {
-    "number": "問答 3",
-    "type": "essay",
-    "text": "NMOSFET 偏壓與 VD 交流振幅計算。",
-    "answer": "見計概電子卷解析。"
-  },
-  {
-    "number": "問答 4",
-    "type": "essay",
-    "text": "證明 BJT 電流鏡 Io/Iref 公式。",
-    "answer": "見計概電子卷解析。"
-  }
-]
+{
+  "duration": 90,
+  "questions": [
+    {
+      "number": "1",
+      "type": "multiple_choice",
+      "text": "發射功率 10W，何處功率最低？",
+      "options": [
+        "100m",
+        "1km",
+        "2km",
+        "10km"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "2",
+      "type": "multiple_choice",
+      "text": "功率最大者？",
+      "options": [
+        "30dBm",
+        "3dBW",
+        "100mW",
+        "1W"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "3",
+      "type": "multiple_choice",
+      "text": "電磁波波長最短？",
+      "options": [
+        "1GHz",
+        "10MHz",
+        "100KHz",
+        "1000Hz"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "4",
+      "type": "multiple_choice",
+      "text": "4KHz 頻寬在 100~500KHz 頻帶用 FDM 可傳幾組？",
+      "options": [
+        "50",
+        "100",
+        "200",
+        "500"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "5",
+      "type": "multiple_choice",
+      "text": "屬於數位調變技術者？",
+      "options": [
+        "AM",
+        "FM",
+        "QAM",
+        "VSB"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "6",
+      "type": "multiple_choice",
+      "text": "0.005秒傳送 2 byte，速率為何？",
+      "options": [
+        "16bps",
+        "80bps",
+        "3.2Kbps",
+        "16Kbps"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "7",
+      "type": "multiple_choice",
+      "text": "有線系統提供最大頻寬者？",
+      "options": [
+        "單芯",
+        "雙絞",
+        "光纖",
+        "同軸"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "8",
+      "type": "multiple_choice",
+      "text": "200Hz 訊號最小取樣速率？",
+      "options": [
+        "200",
+        "400",
+        "600",
+        "800"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "9",
+      "type": "multiple_choice",
+      "text": "工作溫度相同，何頻寬熱雜訊最大？",
+      "options": [
+        "100KHz",
+        "1MHz",
+        "10MHz",
+        "100MHz"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "10",
+      "type": "multiple_choice",
+      "text": "7位元 odd parity 傳送，正確形式判斷？",
+      "options": [
+        "11111111",
+        "11001101",
+        "10101010",
+        "00000000"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "11",
+      "type": "multiple_choice",
+      "text": "symbol 帶資訊量最多者？",
+      "options": [
+        "64QAM",
+        "16PSK",
+        "16QAM",
+        "QPSK"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "12",
+      "type": "multiple_choice",
+      "text": "對講機傳輸機制？",
+      "options": [
+        "單工",
+        "半雙工",
+        "全雙工",
+        "分時"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "13",
+      "type": "multiple_choice",
+      "text": "PCM 處理程序「不包含」？",
+      "options": [
+        "取樣",
+        "量化",
+        "壓縮",
+        "編碼"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "14",
+      "type": "multiple_choice",
+      "text": "何車速都普勒位移最大？",
+      "options": [
+        "10",
+        "30",
+        "100",
+        "250"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "15",
+      "type": "multiple_choice",
+      "text": "不屬於無線通訊應用？",
+      "options": [
+        "GPS",
+        "GSM",
+        "FTTH",
+        "RFID"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "16",
+      "type": "multiple_choice",
+      "text": "QPSK 傳送率 2400Hz，每秒傳送幾位元？",
+      "options": [
+        "1200",
+        "4800",
+        "9600",
+        "19200"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "17",
+      "type": "multiple_choice",
+      "text": "2百萬位元錯10個，BER 為何？",
+      "options": [
+        "2e-5",
+        "5e-5",
+        "2e-6",
+        "5e-6"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "18",
+      "type": "multiple_choice",
+      "text": "不具備線性調變特性之調幅？",
+      "options": [
+        "傳統AM",
+        "DSB-SC",
+        "SSB",
+        "VSB"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "19",
+      "type": "multiple_choice",
+      "text": "AWGN 同SNR下符元錯誤率最低？",
+      "options": [
+        "BPSK",
+        "QPSK",
+        "16QAM",
+        "64QAM"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "20",
+      "type": "multiple_choice",
+      "text": "調變與碼率組合實質資料量最大？",
+      "options": [
+        "BPSK 3/4",
+        "QPSK 1/2",
+        "16QAM 2/3",
+        "64QAM 1/3"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "21",
+      "type": "multiple_choice",
+      "text": "重複編碼 5 次，最多可改幾個錯誤？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "22",
+      "type": "multiple_choice",
+      "text": "10km 損耗 2dB/km, 1W 輸入，接收功率為何？",
+      "options": [
+        "-20dB",
+        "-21dBm",
+        "-20dBW",
+        "-50dBW"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "23",
+      "type": "multiple_choice",
+      "text": "編碼技術敘述錯誤者？",
+      "options": [
+        "類比系統不選用",
+        "源與道編碼均增位元",
+        "率高冗餘多",
+        "搭配重傳提效"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "24",
+      "type": "multiple_choice",
+      "text": "防止一連串錯誤出現之技術？",
+      "options": [
+        "通道編碼",
+        "功率控制",
+        "交錯 (Interleaving)",
+        "調變"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "25",
+      "type": "multiple_choice",
+      "text": "涵蓋率考量，何頻段需基地站數最多？",
+      "options": [
+        "700M",
+        "900M",
+        "1.8G",
+        "2.6G"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "26",
+      "type": "multiple_choice",
+      "text": "未使用 OFDM 技術者？",
+      "options": [
+        "DVB",
+        "Bluetooth",
+        "802.11a",
+        "WiMAX"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "27",
+      "type": "multiple_choice",
+      "text": "SNR=15, BW=10KHz，通道容量為何？",
+      "options": [
+        "20k",
+        "40k",
+        "80k",
+        "150k"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "28",
+      "type": "multiple_choice",
+      "text": "非 OFDM 優點？",
+      "options": [
+        "抗多徑",
+        "等化器易",
+        "頻效好",
+        "收發不須同步"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "29",
+      "type": "multiple_choice",
+      "text": "U(t) 頻率組合，求載波頻率？",
+      "options": [
+        "900",
+        "1000",
+        "1100",
+        "2000"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "30",
+      "type": "multiple_choice",
+      "text": "20W 功率，Gain 12dB, Loss 5dB, 求 EIRP？",
+      "options": [
+        "20dBm",
+        "32dBm",
+        "43dBm",
+        "50dBm"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "31",
+      "type": "multiple_choice",
+      "text": "電子學專業題 31",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "32",
+      "type": "multiple_choice",
+      "text": "電子學專業題 32",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "33",
+      "type": "multiple_choice",
+      "text": "電子學專業題 33",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "34",
+      "type": "multiple_choice",
+      "text": "電子學專業題 34",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "35",
+      "type": "multiple_choice",
+      "text": "電子學專業題 35",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "36",
+      "type": "multiple_choice",
+      "text": "電子學專業題 36",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "37",
+      "type": "multiple_choice",
+      "text": "電子學專業題 37",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "38",
+      "type": "multiple_choice",
+      "text": "電子學專業題 38",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "39",
+      "type": "multiple_choice",
+      "text": "電子學專業題 39",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "40",
+      "type": "multiple_choice",
+      "text": "電子學專業題 40",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "41",
+      "type": "multiple_choice",
+      "text": "電子學專業題 41",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "42",
+      "type": "multiple_choice",
+      "text": "電子學專業題 42",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "43",
+      "type": "multiple_choice",
+      "text": "電子學專業題 43",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "44",
+      "type": "multiple_choice",
+      "text": "電子學專業題 44",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "45",
+      "type": "multiple_choice",
+      "text": "電子學專業題 45",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "46",
+      "type": "multiple_choice",
+      "text": "電子學專業題 46",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "47",
+      "type": "multiple_choice",
+      "text": "電子學專業題 47",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "48",
+      "type": "multiple_choice",
+      "text": "電子學專業題 48",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "49",
+      "type": "multiple_choice",
+      "text": "電子學專業題 49",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "50",
+      "type": "multiple_choice",
+      "text": "電子學專業題 50",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "51",
+      "type": "multiple_choice",
+      "text": "電子學專業題 51",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "52",
+      "type": "multiple_choice",
+      "text": "電子學專業題 52",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "53",
+      "type": "multiple_choice",
+      "text": "電子學專業題 53",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "54",
+      "type": "multiple_choice",
+      "text": "電子學專業題 54",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "55",
+      "type": "multiple_choice",
+      "text": "電子學專業題 55",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "56",
+      "type": "multiple_choice",
+      "text": "電子學專業題 56",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "57",
+      "type": "multiple_choice",
+      "text": "電子學專業題 57",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "58",
+      "type": "multiple_choice",
+      "text": "電子學專業題 58",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "59",
+      "type": "multiple_choice",
+      "text": "電子學專業題 59",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "60",
+      "type": "multiple_choice",
+      "text": "電子學專業題 60",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "問答 1",
+      "type": "essay",
+      "text": "計算 OFDM 資料傳輸率：(一)64子載波, 48載資, 間距312.5KHz, 16QAM, 1/2碼率, 1/4GI。(二)改 64QAM, 3/4碼率, 52載資, 1/8GI, 2x2 MIMO。",
+      "answer": "【解答】(一)Symbol rate = 1/T_total. T_data = 1/delta_f = 3.2us. T_total = T_data*(1+1/4) = 4us. Rate = (48 * log2(16) * 1/2) / 4us = 24 Mbps。(二)Rate = (52 * log2(64) * 3/4 * 2) / (3.2 * 9/8) = 130 Mbps。"
+    },
+    {
+      "number": "問答 2",
+      "type": "essay",
+      "text": "PCM 傳輸計算：(一)最小取樣率？(二)128位階時位元速率？(三)不生 ISI 之最小頻寬？",
+      "answer": "【解答】(一)fs = 2B = 40 KHz。(二)Rb = fs * n = 40K * log2(128) = 280 Kbps。(三)W = Rb / 2 = 140 KHz (Nyquist BW)。"
+    },
+    {
+      "number": "問答 3",
+      "type": "essay",
+      "text": "NMOSFET 偏壓與 VD 交流振幅計算。",
+      "answer": "見計概電子卷解析。"
+    },
+    {
+      "number": "問答 4",
+      "type": "essay",
+      "text": "證明 BJT 電流鏡 Io/Iref 公式。",
+      "answer": "見計概電子卷解析。"
+    }
+  ]
+}

@@ -1,806 +1,809 @@
-[
-  {
-    "number": "1",
-    "type": "multiple_choice",
-    "text": "下列何者不是物件導向程式的主要特色？",
-    "options": [
-      "遞迴",
-      "封裝",
-      "繼承",
-      "多形"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "2",
-    "type": "multiple_choice",
-    "text": "容量 2^m 記憶位置，暫存器大小？",
-    "options": [
-      "m 位元",
-      "n 位元",
-      "m+n 位元",
-      "m*n 位元"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "3",
-    "type": "multiple_choice",
-    "text": "子網域遮罩 255.255.24.192，不同子網？",
-    "options": [
-      "140.12.23.71",
-      "140.12.26.72",
-      "140.12.48.96",
-      "140.12.80.80"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "4",
-    "type": "multiple_choice",
-    "text": "負責監督協調電腦各單元動作？",
-    "options": [
-      "控制單元",
-      "主記憶體",
-      "ALU",
-      "I/O"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "5",
-    "type": "multiple_choice",
-    "text": "CPU 執行指令順序？",
-    "options": [
-      "取資、取指、分析、執行",
-      "取指、取資、分析、執行",
-      "取指、分析、取資、執行",
-      "取指、分析、執行、取資"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "6",
-    "type": "multiple_choice",
-    "text": "不是作業系統？",
-    "options": [
-      "Windows XP",
-      "Linux",
-      "Unix",
-      "Oracle"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "7",
-    "type": "multiple_choice",
-    "text": "140s 乘法占 112s，提速幾倍可減為 1/4？",
-    "options": [
-      "4倍",
-      "8倍",
-      "16倍",
-      "32倍"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "8",
-    "type": "multiple_choice",
-    "text": "數位類比信號轉換者？",
-    "options": [
-      "多工器",
-      "編譯器",
-      "直譯器",
-      "數據機"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "9",
-    "type": "multiple_choice",
-    "text": "高階轉低階語言程式？",
-    "options": [
-      "編輯",
-      "載入",
-      "編譯",
-      "連結"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "10",
-    "type": "multiple_choice",
-    "text": "嵌入式 OS 常設計於？",
-    "options": [
-      "硬碟",
-      "ROM",
-      "RAM",
-      "光碟"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "11",
-    "type": "multiple_choice",
-    "text": "存取最快者？",
-    "options": [
-      "暫存器",
-      "SRAM",
-      "ROM",
-      "硬碟"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "12",
-    "type": "multiple_choice",
-    "text": "等待時間最短排程？",
-    "options": [
-      "Priority",
-      "FCFS",
-      "RR",
-      "SJF"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "13",
-    "type": "multiple_choice",
-    "text": "不影響計算速度者？",
-    "options": [
-      "CPU時脈",
-      "指令集",
-      "主存容量",
-      "硬碟空間"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "14",
-    "type": "multiple_choice",
-    "text": "2 bytes 最大正整數？",
-    "options": [
-      "65535",
-      "65536",
-      "32767",
-      "32768"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "15",
-    "type": "multiple_choice",
-    "text": "Call by Address 傳遞？",
-    "options": [
-      "值",
-      "位址",
-      "名稱",
-      "計算結果"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "16",
-    "type": "multiple_choice",
-    "text": "Java 跨平台機制？",
-    "options": [
-      "物件導向",
-      "例外處理",
-      "JVM",
-      "多執行緒"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "17",
-    "type": "multiple_choice",
-    "text": "遞迴結構實現有效者？",
-    "options": [
-      "佇列",
-      "堆疊",
-      "串列",
-      "樹"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "18",
-    "type": "multiple_choice",
-    "text": "氣泡排序第一次循環結束？",
-    "options": [
-      "(3,5,4,9,7)",
-      "(3,5,4,7,9)",
-      "(5,3,4,9,7)",
-      "(5,3,9,4,7)"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "19",
-    "type": "multiple_choice",
-    "text": "256節點二元樹最小樹高？",
-    "options": [
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "20",
-    "type": "multiple_choice",
-    "text": "TCP/UDP 敘述正確？",
-    "options": [
-      "UDP不屬傳輸層",
-      "TCP比UDP快",
-      "UDP連線導向",
-      "UDP無法保證送達"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "21",
-    "type": "multiple_choice",
-    "text": "MS Office 簡報？",
-    "options": [
-      "Word",
-      "PowerPoint",
-      "Excel",
-      "Access"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "22",
-    "type": "multiple_choice",
-    "text": "IPv4 位址位元數？",
-    "options": [
-      "8",
-      "16",
-      "32",
-      "64"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "23",
-    "type": "multiple_choice",
-    "text": "光纖敘述正確？",
-    "options": [
-      "電磁干擾低",
-      "傳輸率低",
-      "安全低",
-      "容易衰減"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "24",
-    "type": "multiple_choice",
-    "text": "自動取得 IP 伺服器？",
-    "options": [
-      "DNS",
-      "IMAP",
-      "Proxy",
-      "DHCP"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "25",
-    "type": "multiple_choice",
-    "text": "WWW 通訊協定？",
-    "options": [
-      "HTTP",
-      "IMAP",
-      "POP3",
-      "SMTP"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "26",
-    "type": "multiple_choice",
-    "text": "全雙工模式？",
-    "options": [
-      "電話",
-      "電視",
-      "收音機",
-      "對講機"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "27",
-    "type": "multiple_choice",
-    "text": "WAP 另須語言？",
-    "options": [
-      "HTTP",
-      "HTML",
-      "WML",
-      "XHTML"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "28",
-    "type": "multiple_choice",
-    "text": "零時差攻擊正確敘述？",
-    "options": [
-      "同時區",
-      "弱點發現無修補前",
-      "午夜",
-      "馬上有修補"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "29",
-    "type": "multiple_choice",
-    "text": "縱深防禦目的？",
-    "options": [
-      "省成本",
-      "分散權責",
-      "快回應",
-      "避免單點突破"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "30",
-    "type": "multiple_choice",
-    "text": "傳送防洩方法？",
-    "options": [
-      "壓縮",
-      "加密",
-      "防毒",
-      "防火牆"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "31",
-    "type": "multiple_choice",
-    "text": "矽 ni=1.5e10, na=1e16，少數載子濃度為何？",
-    "options": [
-      "2.25e4",
-      "6.67e5",
-      "1.5e10",
-      "1e16"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "32",
-    "type": "multiple_choice",
-    "text": "pn 接面 300K 逆向 1V 時 10^-13A，則 0.5V 時為何？",
-    "options": [
-      "2.5e-14",
-      "5e-14",
-      "1e-13",
-      "2e-13"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "33",
-    "type": "multiple_choice",
-    "text": "齊納 5mA 時 3.65V, 10mA 時 3.70V，等效串聯電阻？",
-    "options": [
-      "0",
-      "10",
-      "370",
-      "730"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "34",
-    "type": "multiple_choice",
-    "text": "110*sqrt(2)sin(wt) 半波整流後平均電壓？",
-    "options": [
-      "110*sqrt(2)",
-      "110",
-      "110*sqrt(2)/pi",
-      "110/pi"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "35",
-    "type": "multiple_choice",
-    "text": "圖35 二極體截波器，vi=10sin(wt), VB=8V，vo 最大值？",
-    "options": [
-      "0",
-      "2",
-      "10",
-      "18"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "36",
-    "type": "multiple_choice",
-    "text": "穩壓率定義，VO,nor=5V, VO,max=5.5V，VO,min 符合 5% 者？",
-    "options": [
-      "5.0",
-      "5.1",
-      "5.2",
-      "5.3"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "37",
-    "type": "multiple_choice",
-    "text": "BJT 三個區域中，何者寬度最窄？",
-    "options": [
-      "射極",
-      "基極",
-      "集極",
-      "不一定"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "38",
-    "type": "multiple_choice",
-    "text": "BE 逆向, BC 順向，操作模式為？",
-    "options": [
-      "順向作用",
-      "截止",
-      "逆向作用",
-      "飽和"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "39",
-    "type": "multiple_choice",
-    "text": "beta=99, alpha 為何？",
-    "options": [
-      "0.99",
-      "1",
-      "1.01",
-      "100"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "40",
-    "type": "multiple_choice",
-    "text": "TRIAC 四種觸發模式中，何者所需閘極電流最小？",
-    "options": [
-      "I+",
-      "I-",
-      "III+",
-      "III-"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "41",
-    "type": "multiple_choice",
-    "text": "圖41 BJT 電路使 VC 約 2V 之 RC？",
-    "options": [
-      "1.2k",
-      "1.4k",
-      "1.6k",
-      "1.8k"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "42",
-    "type": "multiple_choice",
-    "text": "圖42 CE 放大器，錯誤敘述？",
-    "options": [
-      "C1C2直流開路",
-      "VBC=1.4V",
-      "增益約-2",
-      "IB=4uA"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "43",
-    "type": "multiple_choice",
-    "text": "有關 CC 放大器，錯誤敘述？",
-    "options": [
-      "阻抗小輸阻大",
-      "射極隨耦",
-      "緩衝匹配",
-      "功率增益約電流增益"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "44",
-    "type": "multiple_choice",
-    "text": "圖44 達林頓對，等效 beta？",
-    "options": [
-      "50",
-      "150",
-      "5000",
-      "2"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "45",
-    "type": "multiple_choice",
-    "text": "JFET 結構敘述錯誤？",
-    "options": [
-      "單極性",
-      "偏壓控電阻",
-      "通道為主電流",
-      "閘極與通道材質同"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "46",
-    "type": "multiple_choice",
-    "text": "N型 JFET VP=-5V, VGS=-1V，何種 VDS 產生最大 ID？",
-    "options": [
-      "4V",
-      "3V",
-      "2V",
-      "1V"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "47",
-    "type": "multiple_choice",
-    "text": "圖47 IDSS=12mA, VP=-3V, 使其操作於夾止區之 RD？",
-    "options": [
-      "0.9k",
-      "1.1k",
-      "1.3k",
-      "1.5k"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "48",
-    "type": "multiple_choice",
-    "text": "MOSFET 敘述錯誤者？",
-    "options": [
-      "閘極絕緣",
-      "輸阻低",
-      "高摻雜",
-      "空乏型類JFET"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "49",
-    "type": "multiple_choice",
-    "text": "空乏型 NMOS IDSS=9, VP=-3, VGS=1, VDS=4, ID 為何？",
-    "options": [
-      "1",
-      "4",
-      "9",
-      "16"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "50",
-    "type": "multiple_choice",
-    "text": "承上題，VGS=1 與 -1 之 ID 比？",
-    "options": [
-      "1:1",
-      "16:9",
-      "16:4",
-      "16:1"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "51",
-    "type": "multiple_choice",
-    "text": "增強型 NMOS VT=1, VGS=4 時 9mA，則 VGS=3 時？",
-    "options": [
-      "0",
-      "4",
-      "9",
-      "16"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "52",
-    "type": "multiple_choice",
-    "text": "圖52 NMOS 永遠操作於？",
-    "options": [
-      "三極區",
-      "截止",
-      "飽和",
-      "線性"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "53",
-    "type": "multiple_choice",
-    "text": "差動放大 Acm=-2e-4, CMRR=100dB, Ad 為何？",
-    "options": [
-      "100",
-      "50",
-      "20",
-      "10"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "54",
-    "type": "multiple_choice",
-    "text": "B 類輸出級最大功耗轉換效率？",
-    "options": [
-      "25%",
-      "50%",
-      "75%",
-      "78.5%"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "55",
-    "type": "multiple_choice",
-    "text": "AB 類輸出級錯誤敘述？",
-    "options": [
-      "與A類同",
-      "小壓均導通",
-      "消交越失真",
-      "靜態有功耗"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "56",
-    "type": "multiple_choice",
-    "text": "各類組態頻率響應錯誤者？",
-    "options": [
-      "CS受米勒限",
-      "CS頻寬隨RL增而增",
-      "CB不受米勒",
-      "差動隨RB增而增"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "57",
-    "type": "multiple_choice",
-    "text": "負回授好處「非」：",
-    "options": [
-      "提高增益",
-      "調抗",
-      "降失真",
-      "提SNR"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "58",
-    "type": "multiple_choice",
-    "text": "LSI 邏輯閘數目？",
-    "options": [
-      "10~100",
-      "100~1000",
-      "1000~10000",
-      "10000以上"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "59",
-    "type": "multiple_choice",
-    "text": "邏輯位階大小？",
-    "options": [
-      "VOH>VIH>VIL>VOL",
-      "VOH>VIH>VOL>VIL",
-      "VIH>VOH>VIL>VOL",
-      "VIH>VOH>VOL>VIL"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "60",
-    "type": "multiple_choice",
-    "text": "741 Op-Amp 錯誤敘述？",
-    "options": [
-      "輸入級差動",
-      "增益靠二級",
-      "AB輸出短路保護",
-      "米勒極點在極高頻"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "問答 1",
-    "type": "essay",
-    "text": "成為 Candidate Key 滿足之二條件？",
-    "answer": "唯一性與最小性。"
-  },
-  {
-    "number": "問答 2",
-    "type": "essay",
-    "text": "(62)10 轉二、八、十六進位與補數運算。",
-    "answer": "同計概卷解析。"
-  },
-  {
-    "number": "問答 3",
-    "type": "essay",
-    "text": "圖三 NMOSFET 偏壓電路，求 ID 與 VD 最大容許交流振幅。",
-    "answer": "【解答】1.求 VGS 得 ID。2.求 VD。3.最大振幅為 VDS - (VGS - VT) 或 VDS 本身取小者。"
-  },
-  {
-    "number": "問答 4",
-    "type": "essay",
-    "text": "證明電流鏡公式 Io/Iref = alpha / (2 - alpha)。",
-    "answer": "【證明】利用 Iref = IC1 + 2IB, Io = IC2。因匹配 IC1=IC2, IB1=IB2=IC/beta。代入 alpha = beta/(1+beta) 整理得證。"
-  }
-]
+{
+  "duration": 90,
+  "questions": [
+    {
+      "number": "1",
+      "type": "multiple_choice",
+      "text": "下列何者不是物件導向程式的主要特色？",
+      "options": [
+        "遞迴",
+        "封裝",
+        "繼承",
+        "多形"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "2",
+      "type": "multiple_choice",
+      "text": "容量 2^m 記憶位置，暫存器大小？",
+      "options": [
+        "m 位元",
+        "n 位元",
+        "m+n 位元",
+        "m*n 位元"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "3",
+      "type": "multiple_choice",
+      "text": "子網域遮罩 255.255.24.192，不同子網？",
+      "options": [
+        "140.12.23.71",
+        "140.12.26.72",
+        "140.12.48.96",
+        "140.12.80.80"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "4",
+      "type": "multiple_choice",
+      "text": "負責監督協調電腦各單元動作？",
+      "options": [
+        "控制單元",
+        "主記憶體",
+        "ALU",
+        "I/O"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "5",
+      "type": "multiple_choice",
+      "text": "CPU 執行指令順序？",
+      "options": [
+        "取資、取指、分析、執行",
+        "取指、取資、分析、執行",
+        "取指、分析、取資、執行",
+        "取指、分析、執行、取資"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "6",
+      "type": "multiple_choice",
+      "text": "不是作業系統？",
+      "options": [
+        "Windows XP",
+        "Linux",
+        "Unix",
+        "Oracle"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "7",
+      "type": "multiple_choice",
+      "text": "140s 乘法占 112s，提速幾倍可減為 1/4？",
+      "options": [
+        "4倍",
+        "8倍",
+        "16倍",
+        "32倍"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "8",
+      "type": "multiple_choice",
+      "text": "數位類比信號轉換者？",
+      "options": [
+        "多工器",
+        "編譯器",
+        "直譯器",
+        "數據機"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "9",
+      "type": "multiple_choice",
+      "text": "高階轉低階語言程式？",
+      "options": [
+        "編輯",
+        "載入",
+        "編譯",
+        "連結"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "10",
+      "type": "multiple_choice",
+      "text": "嵌入式 OS 常設計於？",
+      "options": [
+        "硬碟",
+        "ROM",
+        "RAM",
+        "光碟"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "11",
+      "type": "multiple_choice",
+      "text": "存取最快者？",
+      "options": [
+        "暫存器",
+        "SRAM",
+        "ROM",
+        "硬碟"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "12",
+      "type": "multiple_choice",
+      "text": "等待時間最短排程？",
+      "options": [
+        "Priority",
+        "FCFS",
+        "RR",
+        "SJF"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "13",
+      "type": "multiple_choice",
+      "text": "不影響計算速度者？",
+      "options": [
+        "CPU時脈",
+        "指令集",
+        "主存容量",
+        "硬碟空間"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "14",
+      "type": "multiple_choice",
+      "text": "2 bytes 最大正整數？",
+      "options": [
+        "65535",
+        "65536",
+        "32767",
+        "32768"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "15",
+      "type": "multiple_choice",
+      "text": "Call by Address 傳遞？",
+      "options": [
+        "值",
+        "位址",
+        "名稱",
+        "計算結果"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "16",
+      "type": "multiple_choice",
+      "text": "Java 跨平台機制？",
+      "options": [
+        "物件導向",
+        "例外處理",
+        "JVM",
+        "多執行緒"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "17",
+      "type": "multiple_choice",
+      "text": "遞迴結構實現有效者？",
+      "options": [
+        "佇列",
+        "堆疊",
+        "串列",
+        "樹"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "18",
+      "type": "multiple_choice",
+      "text": "氣泡排序第一次循環結束？",
+      "options": [
+        "(3,5,4,9,7)",
+        "(3,5,4,7,9)",
+        "(5,3,4,9,7)",
+        "(5,3,9,4,7)"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "19",
+      "type": "multiple_choice",
+      "text": "256節點二元樹最小樹高？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "20",
+      "type": "multiple_choice",
+      "text": "TCP/UDP 敘述正確？",
+      "options": [
+        "UDP不屬傳輸層",
+        "TCP比UDP快",
+        "UDP連線導向",
+        "UDP無法保證送達"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "21",
+      "type": "multiple_choice",
+      "text": "MS Office 簡報？",
+      "options": [
+        "Word",
+        "PowerPoint",
+        "Excel",
+        "Access"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "22",
+      "type": "multiple_choice",
+      "text": "IPv4 位址位元數？",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "64"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "23",
+      "type": "multiple_choice",
+      "text": "光纖敘述正確？",
+      "options": [
+        "電磁干擾低",
+        "傳輸率低",
+        "安全低",
+        "容易衰減"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "24",
+      "type": "multiple_choice",
+      "text": "自動取得 IP 伺服器？",
+      "options": [
+        "DNS",
+        "IMAP",
+        "Proxy",
+        "DHCP"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "25",
+      "type": "multiple_choice",
+      "text": "WWW 通訊協定？",
+      "options": [
+        "HTTP",
+        "IMAP",
+        "POP3",
+        "SMTP"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "26",
+      "type": "multiple_choice",
+      "text": "全雙工模式？",
+      "options": [
+        "電話",
+        "電視",
+        "收音機",
+        "對講機"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "27",
+      "type": "multiple_choice",
+      "text": "WAP 另須語言？",
+      "options": [
+        "HTTP",
+        "HTML",
+        "WML",
+        "XHTML"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "28",
+      "type": "multiple_choice",
+      "text": "零時差攻擊正確敘述？",
+      "options": [
+        "同時區",
+        "弱點發現無修補前",
+        "午夜",
+        "馬上有修補"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "29",
+      "type": "multiple_choice",
+      "text": "縱深防禦目的？",
+      "options": [
+        "省成本",
+        "分散權責",
+        "快回應",
+        "避免單點突破"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "30",
+      "type": "multiple_choice",
+      "text": "傳送防洩方法？",
+      "options": [
+        "壓縮",
+        "加密",
+        "防毒",
+        "防火牆"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "31",
+      "type": "multiple_choice",
+      "text": "矽 ni=1.5e10, na=1e16，少數載子濃度為何？",
+      "options": [
+        "2.25e4",
+        "6.67e5",
+        "1.5e10",
+        "1e16"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "32",
+      "type": "multiple_choice",
+      "text": "pn 接面 300K 逆向 1V 時 10^-13A，則 0.5V 時為何？",
+      "options": [
+        "2.5e-14",
+        "5e-14",
+        "1e-13",
+        "2e-13"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "33",
+      "type": "multiple_choice",
+      "text": "齊納 5mA 時 3.65V, 10mA 時 3.70V，等效串聯電阻？",
+      "options": [
+        "0",
+        "10",
+        "370",
+        "730"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "34",
+      "type": "multiple_choice",
+      "text": "110*sqrt(2)sin(wt) 半波整流後平均電壓？",
+      "options": [
+        "110*sqrt(2)",
+        "110",
+        "110*sqrt(2)/pi",
+        "110/pi"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "35",
+      "type": "multiple_choice",
+      "text": "圖35 二極體截波器，vi=10sin(wt), VB=8V，vo 最大值？",
+      "options": [
+        "0",
+        "2",
+        "10",
+        "18"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "36",
+      "type": "multiple_choice",
+      "text": "穩壓率定義，VO,nor=5V, VO,max=5.5V，VO,min 符合 5% 者？",
+      "options": [
+        "5.0",
+        "5.1",
+        "5.2",
+        "5.3"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "37",
+      "type": "multiple_choice",
+      "text": "BJT 三個區域中，何者寬度最窄？",
+      "options": [
+        "射極",
+        "基極",
+        "集極",
+        "不一定"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "38",
+      "type": "multiple_choice",
+      "text": "BE 逆向, BC 順向，操作模式為？",
+      "options": [
+        "順向作用",
+        "截止",
+        "逆向作用",
+        "飽和"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "39",
+      "type": "multiple_choice",
+      "text": "beta=99, alpha 為何？",
+      "options": [
+        "0.99",
+        "1",
+        "1.01",
+        "100"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "40",
+      "type": "multiple_choice",
+      "text": "TRIAC 四種觸發模式中，何者所需閘極電流最小？",
+      "options": [
+        "I+",
+        "I-",
+        "III+",
+        "III-"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "41",
+      "type": "multiple_choice",
+      "text": "圖41 BJT 電路使 VC 約 2V 之 RC？",
+      "options": [
+        "1.2k",
+        "1.4k",
+        "1.6k",
+        "1.8k"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "42",
+      "type": "multiple_choice",
+      "text": "圖42 CE 放大器，錯誤敘述？",
+      "options": [
+        "C1C2直流開路",
+        "VBC=1.4V",
+        "增益約-2",
+        "IB=4uA"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "43",
+      "type": "multiple_choice",
+      "text": "有關 CC 放大器，錯誤敘述？",
+      "options": [
+        "阻抗小輸阻大",
+        "射極隨耦",
+        "緩衝匹配",
+        "功率增益約電流增益"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "44",
+      "type": "multiple_choice",
+      "text": "圖44 達林頓對，等效 beta？",
+      "options": [
+        "50",
+        "150",
+        "5000",
+        "2"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "45",
+      "type": "multiple_choice",
+      "text": "JFET 結構敘述錯誤？",
+      "options": [
+        "單極性",
+        "偏壓控電阻",
+        "通道為主電流",
+        "閘極與通道材質同"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "46",
+      "type": "multiple_choice",
+      "text": "N型 JFET VP=-5V, VGS=-1V，何種 VDS 產生最大 ID？",
+      "options": [
+        "4V",
+        "3V",
+        "2V",
+        "1V"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "47",
+      "type": "multiple_choice",
+      "text": "圖47 IDSS=12mA, VP=-3V, 使其操作於夾止區之 RD？",
+      "options": [
+        "0.9k",
+        "1.1k",
+        "1.3k",
+        "1.5k"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "48",
+      "type": "multiple_choice",
+      "text": "MOSFET 敘述錯誤者？",
+      "options": [
+        "閘極絕緣",
+        "輸阻低",
+        "高摻雜",
+        "空乏型類JFET"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "49",
+      "type": "multiple_choice",
+      "text": "空乏型 NMOS IDSS=9, VP=-3, VGS=1, VDS=4, ID 為何？",
+      "options": [
+        "1",
+        "4",
+        "9",
+        "16"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "50",
+      "type": "multiple_choice",
+      "text": "承上題，VGS=1 與 -1 之 ID 比？",
+      "options": [
+        "1:1",
+        "16:9",
+        "16:4",
+        "16:1"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "51",
+      "type": "multiple_choice",
+      "text": "增強型 NMOS VT=1, VGS=4 時 9mA，則 VGS=3 時？",
+      "options": [
+        "0",
+        "4",
+        "9",
+        "16"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "52",
+      "type": "multiple_choice",
+      "text": "圖52 NMOS 永遠操作於？",
+      "options": [
+        "三極區",
+        "截止",
+        "飽和",
+        "線性"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "53",
+      "type": "multiple_choice",
+      "text": "差動放大 Acm=-2e-4, CMRR=100dB, Ad 為何？",
+      "options": [
+        "100",
+        "50",
+        "20",
+        "10"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "54",
+      "type": "multiple_choice",
+      "text": "B 類輸出級最大功耗轉換效率？",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "78.5%"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "55",
+      "type": "multiple_choice",
+      "text": "AB 類輸出級錯誤敘述？",
+      "options": [
+        "與A類同",
+        "小壓均導通",
+        "消交越失真",
+        "靜態有功耗"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "56",
+      "type": "multiple_choice",
+      "text": "各類組態頻率響應錯誤者？",
+      "options": [
+        "CS受米勒限",
+        "CS頻寬隨RL增而增",
+        "CB不受米勒",
+        "差動隨RB增而增"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "57",
+      "type": "multiple_choice",
+      "text": "負回授好處「非」：",
+      "options": [
+        "提高增益",
+        "調抗",
+        "降失真",
+        "提SNR"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "58",
+      "type": "multiple_choice",
+      "text": "LSI 邏輯閘數目？",
+      "options": [
+        "10~100",
+        "100~1000",
+        "1000~10000",
+        "10000以上"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "59",
+      "type": "multiple_choice",
+      "text": "邏輯位階大小？",
+      "options": [
+        "VOH>VIH>VIL>VOL",
+        "VOH>VIH>VOL>VIL",
+        "VIH>VOH>VIL>VOL",
+        "VIH>VOH>VOL>VIL"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "60",
+      "type": "multiple_choice",
+      "text": "741 Op-Amp 錯誤敘述？",
+      "options": [
+        "輸入級差動",
+        "增益靠二級",
+        "AB輸出短路保護",
+        "米勒極點在極高頻"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "問答 1",
+      "type": "essay",
+      "text": "成為 Candidate Key 滿足之二條件？",
+      "answer": "唯一性與最小性。"
+    },
+    {
+      "number": "問答 2",
+      "type": "essay",
+      "text": "(62)10 轉二、八、十六進位與補數運算。",
+      "answer": "同計概卷解析。"
+    },
+    {
+      "number": "問答 3",
+      "type": "essay",
+      "text": "圖三 NMOSFET 偏壓電路，求 ID 與 VD 最大容許交流振幅。",
+      "answer": "【解答】1.求 VGS 得 ID。2.求 VD。3.最大振幅為 VDS - (VGS - VT) 或 VDS 本身取小者。"
+    },
+    {
+      "number": "問答 4",
+      "type": "essay",
+      "text": "證明電流鏡公式 Io/Iref = alpha / (2 - alpha)。",
+      "answer": "【證明】利用 Iref = IC1 + 2IB, Io = IC2。因匹配 IC1=IC2, IB1=IB2=IC/beta。代入 alpha = beta/(1+beta) 整理得證。"
+    }
+  ]
+}

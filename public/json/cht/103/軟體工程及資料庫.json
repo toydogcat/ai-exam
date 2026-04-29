@@ -1,806 +1,809 @@
-[
-  {
-    "number": "1",
-    "type": "multiple_choice",
-    "text": "階段嚴謹定義，完工後才進入下一階段的方法論？",
-    "options": [
-      "瀑布模型",
-      "噴水池模型",
-      "CoCoMo",
-      "快速開發"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "2",
-    "type": "multiple_choice",
-    "text": "下列何者不屬於「需求文件」項目？",
-    "options": [
-      "系統目標",
-      "物件類別架構",
-      "系統整體架構",
-      "非功能需求"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "3",
-    "type": "multiple_choice",
-    "text": "類別架構中，父類別是其相關子類別的何種關係？",
-    "options": [
-      "一般化",
-      "特殊化",
-      "組合體",
-      "不相干"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "4",
-    "type": "multiple_choice",
-    "text": "MVC 樣式中包含下列何者？",
-    "options": [
-      "Model",
-      "Money",
-      "Content",
-      "Community"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "5",
-    "type": "multiple_choice",
-    "text": "物件導向中，操作可有二種以上實作方式，此性質稱？",
-    "options": [
-      "封裝",
-      "繼承",
-      "多型",
-      "連結"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "6",
-    "type": "multiple_choice",
-    "text": "有關軟體測試，下列何者錯誤？",
-    "options": [
-      "單元測試測個別元件",
-      "單元測試需考慮與其它元件關係",
-      "系統測試組合成完整系統",
-      "系統測試重點在子系統間"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "7",
-    "type": "multiple_choice",
-    "text": "有關「資料流程模型」(DFD) 描述何者錯誤？",
-    "options": [
-      "表達處理資料方式",
-      "描述系統對事件反應",
-      "記錄現有系統過程",
-      "應由粗而細"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "8",
-    "type": "multiple_choice",
-    "text": "Java 程式片段中，何者是「類別等級」(static) 變數？",
-    "options": [
-      "var1",
-      "var2",
-      "var3",
-      "var4"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "9",
-    "type": "multiple_choice",
-    "text": "多層式 Internet 異動處理系統連接關係何者正確？",
-    "options": [
-      "Browser-App-Web-DB",
-      "Browser-Web-App-DB",
-      "Web-App-Browser-DB",
-      "Browser-DB-Web-App"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "10",
-    "type": "multiple_choice",
-    "text": "SEI 的 CMM/CMMI 將成熟度分為幾個等級？",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "11",
-    "type": "multiple_choice",
-    "text": "活動已定義且文件化，整合為標準作業程序，屬 CMMI 哪一等級？",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "12",
-    "type": "multiple_choice",
-    "text": "軟體專案管理「金三角」不包括下列何者？",
-    "options": [
-      "時程",
-      "成本",
-      "規模",
-      "技術領先性"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "13",
-    "type": "multiple_choice",
-    "text": "有關需求分析敘述何者錯誤？",
-    "options": [
-      "成果為需求規格書",
-      "訪談須盡量採用技術術語",
-      "考量技術可行性",
-      "考量社會可行性"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "14",
-    "type": "multiple_choice",
-    "text": "有關程式設計何者錯誤？",
-    "options": [
-      "命名規則",
-      "註解應精簡",
-      "不寫在同一行",
-      "重視排版"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "15",
-    "type": "multiple_choice",
-    "text": "控制軟體複雜度手法「不包括」：",
-    "options": [
-      "模組化",
-      "資訊隱藏",
-      "強化技術支援人力",
-      "抽象化"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "16",
-    "type": "multiple_choice",
-    "text": "有關 UML 敘述何者錯誤？",
-    "options": [
-      "由 Grady Booch 制訂",
-      "通過 OMG 採納",
-      "適用系統及商業描述",
-      "獨立於開發語言"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "17",
-    "type": "multiple_choice",
-    "text": "下列何者不屬於 UML 的靜態模塑機制？",
-    "options": [
-      "使用案例圖",
-      "類別圖",
-      "元件圖",
-      "狀態圖"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "18",
-    "type": "multiple_choice",
-    "text": "程式設計應該盡量做到：",
-    "options": [
-      "多維陣列",
-      "多樣類型",
-      "簡化式子",
-      "遞迴縮短代碼"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "19",
-    "type": "multiple_choice",
-    "text": "有關程式測試敘述何者正確？",
-    "options": [
-      "後期發現成本低",
-      "完工後才一起測",
-      "人員自測最熟",
-      "事先建立輸入輸出測項"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "20",
-    "type": "multiple_choice",
-    "text": "系統開發專案進行中，正確態度為何？",
-    "options": [
-      "只接非功能變更",
-      "只接功能變更",
-      "制定變更流程酌接",
-      "完成分析後不准變"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "21",
-    "type": "multiple_choice",
-    "text": "模組化時，下列何者正確？",
-    "options": [
-      "凝聚力越高可模組化越高",
-      "耦合力越高可模組化越高",
-      "越多成本越高",
-      "越多越好"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "22",
-    "type": "multiple_choice",
-    "text": "汽車與「輪子」、「引擎」的關係是？",
-    "options": [
-      "聚合",
-      "繼承",
-      "一般化",
-      "特殊化"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "23",
-    "type": "multiple_choice",
-    "text": "甘特圖一般不直接拿來做何用途？",
-    "options": [
-      "規劃時程",
-      "監控進度",
-      "估算成本",
-      "掌握進展"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "24",
-    "type": "multiple_choice",
-    "text": "V&V 中 Verification 意義為何？",
-    "options": [
-      "確認正確建構產品",
-      "確認建構正確產品",
-      "確認有價值",
-      "確認受到肯定"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "25",
-    "type": "multiple_choice",
-    "text": "有關「白箱測試」敘述何者正確？",
-    "options": [
-      "找遺漏功能",
-      "每條獨立路徑走一遍",
-      "所有可能輸入測一遍",
-      "找介面設計錯誤"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "26",
-    "type": "multiple_choice",
-    "text": "測試電腦在不當狀態下是否仍有效用的測試稱？",
-    "options": [
-      "負載",
-      "穩定",
-      "壓力",
-      "煙霧"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "27",
-    "type": "multiple_choice",
-    "text": "因軟硬體環境變化而進行的軟體修改屬於？",
-    "options": [
-      "校正性",
-      "完善性",
-      "預防性",
-      "適應性"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "28",
-    "type": "multiple_choice",
-    "text": "軟體品質考量面向不屬於操作面者？",
-    "options": [
-      "正確性",
-      "可移植性",
-      "可靠性",
-      "整合性"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "29",
-    "type": "multiple_choice",
-    "text": "SOA 服務架構角色不包含下列何者？",
-    "options": [
-      "Provider",
-      "Requester",
-      "ISP",
-      "Registry"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "30",
-    "type": "multiple_choice",
-    "text": "資料庫表格形式存取，屬於何種系統？",
-    "options": [
-      "網路式",
-      "關聯式",
-      "結構式",
-      "檔案式"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "31",
-    "type": "multiple_choice",
-    "text": "哪種程式語言寫伺服端動態網頁？",
-    "options": [
-      "JS",
-      "HTML",
-      "ASP",
-      "Flash"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "32",
-    "type": "multiple_choice",
-    "text": "Java 平台需安裝？",
-    "options": [
-      "JS",
-      "JVM",
-      "Eclipse",
-      "Active X"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "33",
-    "type": "multiple_choice",
-    "text": "for(int k=10; k<=2; k-=2) 填入？",
-    "options": [
-      "k -= 2",
-      "k-2",
-      "k = k-1",
-      "k = -2"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "34",
-    "type": "multiple_choice",
-    "text": "while(i<=5) sum累加結果？",
-    "options": [
-      "10",
-      "0",
-      "5",
-      "15"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "35",
-    "type": "multiple_choice",
-    "text": "average = (float) total / counter; 填入？",
-    "options": [
-      "int",
-      "float",
-      "new",
-      "char"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "36",
-    "type": "multiple_choice",
-    "text": "a=12, b=14 while(a>14) 輸出 a+b？",
-    "options": [
-      "26",
-      "27",
-      "28",
-      "29"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "37",
-    "type": "multiple_choice",
-    "text": "switch case 標籤錯誤？",
-    "options": [
-      "case 2:",
-      "case 20:",
-      "case 'A':",
-      "case \"A\":"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "38",
-    "type": "multiple_choice",
-    "text": "Java switch case 1 無 break 輸出？",
-    "options": [
-      "長袖",
-      "長袖+短袖",
-      "短袖",
-      "輕薄"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "39",
-    "type": "multiple_choice",
-    "text": "不屬迴圈者？",
-    "options": [
-      "if-else",
-      "while",
-      "do-while",
-      "for"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "40",
-    "type": "multiple_choice",
-    "text": "m = n++; n=20 後 m, n 分別？",
-    "options": [
-      "20, 20",
-      "20, 21",
-      "21, 20",
-      "21, 21"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "41",
-    "type": "multiple_choice",
-    "text": "二擇一且必作一？",
-    "options": [
-      "if-else",
-      "if",
-      "for",
-      "break"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "42",
-    "type": "multiple_choice",
-    "text": "迴圈內跳過後半部直接下輪？",
-    "options": [
-      "continue",
-      "break",
-      "switch",
-      "default"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "43",
-    "type": "multiple_choice",
-    "text": "處理 A[100] 最佳敘述？",
-    "options": [
-      "do-while",
-      "while",
-      "for",
-      "switch"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "44",
-    "type": "multiple_choice",
-    "text": "撰寫觀念正確者？",
-    "options": [
-      "變數越簡越好",
-      "左對齊",
-      "獨立邏輯寫函數",
-      "短就好"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "45",
-    "type": "multiple_choice",
-    "text": "函數敘述錯誤者？",
-    "options": [
-      "可重呼",
-      "return須指回",
-      "參數多個",
-      "可有傳回"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "46",
-    "type": "multiple_choice",
-    "text": "學生選多課，課有多學生？",
-    "options": [
-      "1:1",
-      "1:N",
-      "M:N",
-      "繼承"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "47",
-    "type": "multiple_choice",
-    "text": "不屬 ACID 者？",
-    "options": [
-      "單元性",
-      "一致性",
-      "持續性",
-      "獨立性"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "48",
-    "type": "multiple_choice",
-    "text": "虛擬關聯表？",
-    "options": [
-      "基底",
-      "具名",
-      "結果",
-      "視界"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "49",
-    "type": "multiple_choice",
-    "text": "選出指定條件值組？",
-    "options": [
-      "Join",
-      "Selection",
-      "Projection",
-      "Difference"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "50",
-    "type": "multiple_choice",
-    "text": "刪除整個資料表？",
-    "options": [
-      "DROP",
-      "DELETE",
-      "TRUNCATE",
-      "ALTER"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "51",
-    "type": "multiple_choice",
-    "text": "拒絕操作之參考完整性？",
-    "options": [
-      "Restrict",
-      "Set Null",
-      "Set Default",
-      "Cascade"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "52",
-    "type": "multiple_choice",
-    "text": "ORDER 錯誤敘述？",
-    "options": [
-      "Students關聯",
-      "GPA欄位",
-      "ORDER關聯",
-      "sid欄位"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "53",
-    "type": "multiple_choice",
-    "text": "網購賣兩人票，沒做好？",
-    "options": [
-      "回復",
-      "備份",
-      "並行控制",
-      "鏡射"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "54",
-    "type": "multiple_choice",
-    "text": "主鍵錯誤者？",
-    "options": [
-      "唯一性",
-      "多個主鍵",
-      "多欄組成",
-      "不為null"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "55",
-    "type": "multiple_choice",
-    "text": "外來鍵錯誤者？",
-    "options": [
-      "參照主鍵",
-      "多個外鍵",
-      "多欄組成",
-      "具有唯一性"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "56",
-    "type": "multiple_choice",
-    "text": "ER 實體型態轉化為？",
-    "options": [
-      "資料表",
-      "屬性",
-      "主鍵",
-      "值組"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "57",
-    "type": "multiple_choice",
-    "text": "非 SQL 命令？",
-    "options": [
-      "UPDATE",
-      "INSERT",
-      "ALTER",
-      "PROJECT"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "58",
-    "type": "multiple_choice",
-    "text": "SQL 查人數不會用到？",
-    "options": [
-      "SELECT",
-      "GROUP BY",
-      "COUNT",
-      "HAVING"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "59",
-    "type": "multiple_choice",
-    "text": "SQL 查書名含字樣？",
-    "options": [
-      "HAVING",
-      "LIKE",
-      "GROUP BY",
-      "ORDER BY"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "60",
-    "type": "multiple_choice",
-    "text": "SQL 排序錯誤敘述？",
-    "options": [
-      "可小到大",
-      "可大到小",
-      "可多欄",
-      "排序必同向"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "問答 1",
-    "type": "essay",
-    "text": "工作分解表分析：(一)總工期？(二)工作3縮短5天後總工期？(三)資源改投工作5縮短5天後總工期？",
-    "answer": "【解答】(一)路徑 1-3-5-6=2+10+10+30=52天。(二)工作3變5天，路徑1-3-5-6變47天，但1-2-4-5-6=2+5+3+10+30=50天，故為50天。(三)工作5縮短5天，52-5=47天。"
-  },
-  {
-    "number": "問答 2",
-    "type": "essay",
-    "text": "請說明結構化程式設計的程式邏輯（或流程）基本結構。",
-    "answer": "【解答】1.循序結構 (Sequence) 2.選擇結構 (Selection/Branch) 3.重複結構 (Iteration/Loop)。"
-  },
-  {
-    "number": "問答 3",
-    "type": "essay",
-    "text": "分析程式片段 (a) 死迴圈與 (b) 輸出結果。",
-    "answer": "【解答】(a) 死迴圈，i 永遠為 1。(b) 輸出 3, 5, 7, 9。"
-  },
-  {
-    "number": "問答 4",
-    "type": "essay",
-    "text": "SQL Join (Natural, Left, Right) 結果。",
-    "answer": "【解答】見計概考卷解析。"
-  }
-]
+{
+  "duration": 90,
+  "questions": [
+    {
+      "number": "1",
+      "type": "multiple_choice",
+      "text": "階段嚴謹定義，完工後才進入下一階段的方法論？",
+      "options": [
+        "瀑布模型",
+        "噴水池模型",
+        "CoCoMo",
+        "快速開發"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "2",
+      "type": "multiple_choice",
+      "text": "下列何者不屬於「需求文件」項目？",
+      "options": [
+        "系統目標",
+        "物件類別架構",
+        "系統整體架構",
+        "非功能需求"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "3",
+      "type": "multiple_choice",
+      "text": "類別架構中，父類別是其相關子類別的何種關係？",
+      "options": [
+        "一般化",
+        "特殊化",
+        "組合體",
+        "不相干"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "4",
+      "type": "multiple_choice",
+      "text": "MVC 樣式中包含下列何者？",
+      "options": [
+        "Model",
+        "Money",
+        "Content",
+        "Community"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "5",
+      "type": "multiple_choice",
+      "text": "物件導向中，操作可有二種以上實作方式，此性質稱？",
+      "options": [
+        "封裝",
+        "繼承",
+        "多型",
+        "連結"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "6",
+      "type": "multiple_choice",
+      "text": "有關軟體測試，下列何者錯誤？",
+      "options": [
+        "單元測試測個別元件",
+        "單元測試需考慮與其它元件關係",
+        "系統測試組合成完整系統",
+        "系統測試重點在子系統間"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "7",
+      "type": "multiple_choice",
+      "text": "有關「資料流程模型」(DFD) 描述何者錯誤？",
+      "options": [
+        "表達處理資料方式",
+        "描述系統對事件反應",
+        "記錄現有系統過程",
+        "應由粗而細"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "8",
+      "type": "multiple_choice",
+      "text": "Java 程式片段中，何者是「類別等級」(static) 變數？",
+      "options": [
+        "var1",
+        "var2",
+        "var3",
+        "var4"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "9",
+      "type": "multiple_choice",
+      "text": "多層式 Internet 異動處理系統連接關係何者正確？",
+      "options": [
+        "Browser-App-Web-DB",
+        "Browser-Web-App-DB",
+        "Web-App-Browser-DB",
+        "Browser-DB-Web-App"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "10",
+      "type": "multiple_choice",
+      "text": "SEI 的 CMM/CMMI 將成熟度分為幾個等級？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "11",
+      "type": "multiple_choice",
+      "text": "活動已定義且文件化，整合為標準作業程序，屬 CMMI 哪一等級？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "12",
+      "type": "multiple_choice",
+      "text": "軟體專案管理「金三角」不包括下列何者？",
+      "options": [
+        "時程",
+        "成本",
+        "規模",
+        "技術領先性"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "13",
+      "type": "multiple_choice",
+      "text": "有關需求分析敘述何者錯誤？",
+      "options": [
+        "成果為需求規格書",
+        "訪談須盡量採用技術術語",
+        "考量技術可行性",
+        "考量社會可行性"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "14",
+      "type": "multiple_choice",
+      "text": "有關程式設計何者錯誤？",
+      "options": [
+        "命名規則",
+        "註解應精簡",
+        "不寫在同一行",
+        "重視排版"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "15",
+      "type": "multiple_choice",
+      "text": "控制軟體複雜度手法「不包括」：",
+      "options": [
+        "模組化",
+        "資訊隱藏",
+        "強化技術支援人力",
+        "抽象化"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "16",
+      "type": "multiple_choice",
+      "text": "有關 UML 敘述何者錯誤？",
+      "options": [
+        "由 Grady Booch 制訂",
+        "通過 OMG 採納",
+        "適用系統及商業描述",
+        "獨立於開發語言"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "17",
+      "type": "multiple_choice",
+      "text": "下列何者不屬於 UML 的靜態模塑機制？",
+      "options": [
+        "使用案例圖",
+        "類別圖",
+        "元件圖",
+        "狀態圖"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "18",
+      "type": "multiple_choice",
+      "text": "程式設計應該盡量做到：",
+      "options": [
+        "多維陣列",
+        "多樣類型",
+        "簡化式子",
+        "遞迴縮短代碼"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "19",
+      "type": "multiple_choice",
+      "text": "有關程式測試敘述何者正確？",
+      "options": [
+        "後期發現成本低",
+        "完工後才一起測",
+        "人員自測最熟",
+        "事先建立輸入輸出測項"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "20",
+      "type": "multiple_choice",
+      "text": "系統開發專案進行中，正確態度為何？",
+      "options": [
+        "只接非功能變更",
+        "只接功能變更",
+        "制定變更流程酌接",
+        "完成分析後不准變"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "21",
+      "type": "multiple_choice",
+      "text": "模組化時，下列何者正確？",
+      "options": [
+        "凝聚力越高可模組化越高",
+        "耦合力越高可模組化越高",
+        "越多成本越高",
+        "越多越好"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "22",
+      "type": "multiple_choice",
+      "text": "汽車與「輪子」、「引擎」的關係是？",
+      "options": [
+        "聚合",
+        "繼承",
+        "一般化",
+        "特殊化"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "23",
+      "type": "multiple_choice",
+      "text": "甘特圖一般不直接拿來做何用途？",
+      "options": [
+        "規劃時程",
+        "監控進度",
+        "估算成本",
+        "掌握進展"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "24",
+      "type": "multiple_choice",
+      "text": "V&V 中 Verification 意義為何？",
+      "options": [
+        "確認正確建構產品",
+        "確認建構正確產品",
+        "確認有價值",
+        "確認受到肯定"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "25",
+      "type": "multiple_choice",
+      "text": "有關「白箱測試」敘述何者正確？",
+      "options": [
+        "找遺漏功能",
+        "每條獨立路徑走一遍",
+        "所有可能輸入測一遍",
+        "找介面設計錯誤"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "26",
+      "type": "multiple_choice",
+      "text": "測試電腦在不當狀態下是否仍有效用的測試稱？",
+      "options": [
+        "負載",
+        "穩定",
+        "壓力",
+        "煙霧"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "27",
+      "type": "multiple_choice",
+      "text": "因軟硬體環境變化而進行的軟體修改屬於？",
+      "options": [
+        "校正性",
+        "完善性",
+        "預防性",
+        "適應性"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "28",
+      "type": "multiple_choice",
+      "text": "軟體品質考量面向不屬於操作面者？",
+      "options": [
+        "正確性",
+        "可移植性",
+        "可靠性",
+        "整合性"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "29",
+      "type": "multiple_choice",
+      "text": "SOA 服務架構角色不包含下列何者？",
+      "options": [
+        "Provider",
+        "Requester",
+        "ISP",
+        "Registry"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "30",
+      "type": "multiple_choice",
+      "text": "資料庫表格形式存取，屬於何種系統？",
+      "options": [
+        "網路式",
+        "關聯式",
+        "結構式",
+        "檔案式"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "31",
+      "type": "multiple_choice",
+      "text": "哪種程式語言寫伺服端動態網頁？",
+      "options": [
+        "JS",
+        "HTML",
+        "ASP",
+        "Flash"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "32",
+      "type": "multiple_choice",
+      "text": "Java 平台需安裝？",
+      "options": [
+        "JS",
+        "JVM",
+        "Eclipse",
+        "Active X"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "33",
+      "type": "multiple_choice",
+      "text": "for(int k=10; k<=2; k-=2) 填入？",
+      "options": [
+        "k -= 2",
+        "k-2",
+        "k = k-1",
+        "k = -2"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "34",
+      "type": "multiple_choice",
+      "text": "while(i<=5) sum累加結果？",
+      "options": [
+        "10",
+        "0",
+        "5",
+        "15"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "35",
+      "type": "multiple_choice",
+      "text": "average = (float) total / counter; 填入？",
+      "options": [
+        "int",
+        "float",
+        "new",
+        "char"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "36",
+      "type": "multiple_choice",
+      "text": "a=12, b=14 while(a>14) 輸出 a+b？",
+      "options": [
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "37",
+      "type": "multiple_choice",
+      "text": "switch case 標籤錯誤？",
+      "options": [
+        "case 2:",
+        "case 20:",
+        "case 'A':",
+        "case \"A\":"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "38",
+      "type": "multiple_choice",
+      "text": "Java switch case 1 無 break 輸出？",
+      "options": [
+        "長袖",
+        "長袖+短袖",
+        "短袖",
+        "輕薄"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "39",
+      "type": "multiple_choice",
+      "text": "不屬迴圈者？",
+      "options": [
+        "if-else",
+        "while",
+        "do-while",
+        "for"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "40",
+      "type": "multiple_choice",
+      "text": "m = n++; n=20 後 m, n 分別？",
+      "options": [
+        "20, 20",
+        "20, 21",
+        "21, 20",
+        "21, 21"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "41",
+      "type": "multiple_choice",
+      "text": "二擇一且必作一？",
+      "options": [
+        "if-else",
+        "if",
+        "for",
+        "break"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "42",
+      "type": "multiple_choice",
+      "text": "迴圈內跳過後半部直接下輪？",
+      "options": [
+        "continue",
+        "break",
+        "switch",
+        "default"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "43",
+      "type": "multiple_choice",
+      "text": "處理 A[100] 最佳敘述？",
+      "options": [
+        "do-while",
+        "while",
+        "for",
+        "switch"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "44",
+      "type": "multiple_choice",
+      "text": "撰寫觀念正確者？",
+      "options": [
+        "變數越簡越好",
+        "左對齊",
+        "獨立邏輯寫函數",
+        "短就好"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "45",
+      "type": "multiple_choice",
+      "text": "函數敘述錯誤者？",
+      "options": [
+        "可重呼",
+        "return須指回",
+        "參數多個",
+        "可有傳回"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "46",
+      "type": "multiple_choice",
+      "text": "學生選多課，課有多學生？",
+      "options": [
+        "1:1",
+        "1:N",
+        "M:N",
+        "繼承"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "47",
+      "type": "multiple_choice",
+      "text": "不屬 ACID 者？",
+      "options": [
+        "單元性",
+        "一致性",
+        "持續性",
+        "獨立性"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "48",
+      "type": "multiple_choice",
+      "text": "虛擬關聯表？",
+      "options": [
+        "基底",
+        "具名",
+        "結果",
+        "視界"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "49",
+      "type": "multiple_choice",
+      "text": "選出指定條件值組？",
+      "options": [
+        "Join",
+        "Selection",
+        "Projection",
+        "Difference"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "50",
+      "type": "multiple_choice",
+      "text": "刪除整個資料表？",
+      "options": [
+        "DROP",
+        "DELETE",
+        "TRUNCATE",
+        "ALTER"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "51",
+      "type": "multiple_choice",
+      "text": "拒絕操作之參考完整性？",
+      "options": [
+        "Restrict",
+        "Set Null",
+        "Set Default",
+        "Cascade"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "52",
+      "type": "multiple_choice",
+      "text": "ORDER 錯誤敘述？",
+      "options": [
+        "Students關聯",
+        "GPA欄位",
+        "ORDER關聯",
+        "sid欄位"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "53",
+      "type": "multiple_choice",
+      "text": "網購賣兩人票，沒做好？",
+      "options": [
+        "回復",
+        "備份",
+        "並行控制",
+        "鏡射"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "54",
+      "type": "multiple_choice",
+      "text": "主鍵錯誤者？",
+      "options": [
+        "唯一性",
+        "多個主鍵",
+        "多欄組成",
+        "不為null"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "55",
+      "type": "multiple_choice",
+      "text": "外來鍵錯誤者？",
+      "options": [
+        "參照主鍵",
+        "多個外鍵",
+        "多欄組成",
+        "具有唯一性"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "56",
+      "type": "multiple_choice",
+      "text": "ER 實體型態轉化為？",
+      "options": [
+        "資料表",
+        "屬性",
+        "主鍵",
+        "值組"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "57",
+      "type": "multiple_choice",
+      "text": "非 SQL 命令？",
+      "options": [
+        "UPDATE",
+        "INSERT",
+        "ALTER",
+        "PROJECT"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "58",
+      "type": "multiple_choice",
+      "text": "SQL 查人數不會用到？",
+      "options": [
+        "SELECT",
+        "GROUP BY",
+        "COUNT",
+        "HAVING"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "59",
+      "type": "multiple_choice",
+      "text": "SQL 查書名含字樣？",
+      "options": [
+        "HAVING",
+        "LIKE",
+        "GROUP BY",
+        "ORDER BY"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "60",
+      "type": "multiple_choice",
+      "text": "SQL 排序錯誤敘述？",
+      "options": [
+        "可小到大",
+        "可大到小",
+        "可多欄",
+        "排序必同向"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "問答 1",
+      "type": "essay",
+      "text": "工作分解表分析：(一)總工期？(二)工作3縮短5天後總工期？(三)資源改投工作5縮短5天後總工期？",
+      "answer": "【解答】(一)路徑 1-3-5-6=2+10+10+30=52天。(二)工作3變5天，路徑1-3-5-6變47天，但1-2-4-5-6=2+5+3+10+30=50天，故為50天。(三)工作5縮短5天，52-5=47天。"
+    },
+    {
+      "number": "問答 2",
+      "type": "essay",
+      "text": "請說明結構化程式設計的程式邏輯（或流程）基本結構。",
+      "answer": "【解答】1.循序結構 (Sequence) 2.選擇結構 (Selection/Branch) 3.重複結構 (Iteration/Loop)。"
+    },
+    {
+      "number": "問答 3",
+      "type": "essay",
+      "text": "分析程式片段 (a) 死迴圈與 (b) 輸出結果。",
+      "answer": "【解答】(a) 死迴圈，i 永遠為 1。(b) 輸出 3, 5, 7, 9。"
+    },
+    {
+      "number": "問答 4",
+      "type": "essay",
+      "text": "SQL Join (Natural, Left, Right) 結果。",
+      "answer": "【解答】見計概考卷解析。"
+    }
+  ]
+}

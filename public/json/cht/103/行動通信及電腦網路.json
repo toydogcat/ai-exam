@@ -1,806 +1,809 @@
-[
-  {
-    "number": "1",
-    "type": "multiple_choice",
-    "text": "LTE 採取下列哪一種技術？",
-    "options": [
-      "WCDMA",
-      "CDMA",
-      "TDMA",
-      "OFDMA"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "2",
-    "type": "multiple_choice",
-    "text": "下列何者非我國的 LTE 頻段？",
-    "options": [
-      "700 MHz",
-      "900 MHz",
-      "1800 MHz",
-      "2600 MHz"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "3",
-    "type": "multiple_choice",
-    "text": "有關 LTE 的敘述何者錯誤？",
-    "options": [
-      "LTE-TDD 為一種",
-      "LTE-FDD 為一種",
-      "具備 MIMO 架構",
-      "用戶單位成本大幅增加"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "4",
-    "type": "multiple_choice",
-    "text": "有關 RFID 敘述何者錯誤？",
-    "options": [
-      "防磁耐高溫",
-      "媒介為無線電波",
-      "即為平常看見的條碼",
-      "悠遊卡屬一種應用"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "5",
-    "type": "multiple_choice",
-    "text": "下列何者傳輸速率最快？",
-    "options": [
-      "LTE",
-      "HSPA+",
-      "WiFi",
-      "WCDMA"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "6",
-    "type": "multiple_choice",
-    "text": "有關 Wi-Fi, WiMAX 與 3G 敘述何者錯誤？",
-    "options": [
-      "WiMAX 標準 802.16",
-      "802.11g 為 Wi-Fi",
-      "傳輸距離 Wi-Fi 最遠",
-      "傳輸速率 3G 最慢"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "7",
-    "type": "multiple_choice",
-    "text": "有關藍牙與 NFC 敘述何者錯誤？",
-    "options": [
-      "藍牙耗電比 NFC 低",
-      "藍牙速率比 NFC 快",
-      "藍牙安全性不如 NFC",
-      "藍牙距離比 NFC 遠"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "8",
-    "type": "multiple_choice",
-    "text": "下列何者不屬於近距離無線通訊標準？",
-    "options": [
-      "ZigBee",
-      "WiMAX",
-      "NFC",
-      "Bluetooth"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "9",
-    "type": "multiple_choice",
-    "text": "下列何者非屬 RFID 應用？",
-    "options": [
-      "VISA WAVE",
-      "悠遊卡",
-      "國道 ETC",
-      "GPS"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "10",
-    "type": "multiple_choice",
-    "text": "有關 Mobile IP 敘述何者錯誤？",
-    "options": [
-      "支援漫遊收送封包",
-      "不改組態 IP 層通訊",
-      "移動不改 IP 可通訊",
-      "IP 位址格式與傳統不同"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "11",
-    "type": "multiple_choice",
-    "text": "Bluetooth 的理想傳輸距離為？",
-    "options": [
-      "10~100 公尺",
-      "200~250 公尺",
-      "300~350 公尺",
-      "500~550 公尺"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "12",
-    "type": "multiple_choice",
-    "text": "NFC 的理想最遠傳輸距離為？",
-    "options": [
-      "20 公分以內",
-      "1~5 公尺",
-      "10~20 公尺",
-      "50~60 公尺"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "13",
-    "type": "multiple_choice",
-    "text": "有關 NFC 敘述何者錯誤？",
-    "options": [
-      "功耗低",
-      "適合一對多模式",
-      "適合電子支付",
-      "安全性佳"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "14",
-    "type": "multiple_choice",
-    "text": "WiMAX 的理想最遠傳輸距離可達？",
-    "options": [
-      "3 KM",
-      "10 KM",
-      "30 KM",
-      "50 KM"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "15",
-    "type": "multiple_choice",
-    "text": "WCDMA 的理想最遠傳輸距離可達？",
-    "options": [
-      "3 KM",
-      "10 KM",
-      "30 KM",
-      "50 KM"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "16",
-    "type": "multiple_choice",
-    "text": "HSDPA 的理想最快傳輸速率最接近？",
-    "options": [
-      "1 Mbps",
-      "2 Mbps",
-      "14 Mbps",
-      "70 Mbps"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "17",
-    "type": "multiple_choice",
-    "text": "WCDMA 的理想最快傳輸速率最接近？",
-    "options": [
-      "1 Mbps",
-      "2 Mbps",
-      "14 Mbps",
-      "70 Mbps"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "18",
-    "type": "multiple_choice",
-    "text": "Bluetooth 的理想最快傳輸速率最接近？",
-    "options": [
-      "1 Mbps",
-      "2 Mbps",
-      "14 Mbps",
-      "70 Mbps"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "19",
-    "type": "multiple_choice",
-    "text": "下列何者不在 GSM 的系統架構中？",
-    "options": [
-      "DNS",
-      "HLR",
-      "MSC",
-      "VLR"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "20",
-    "type": "multiple_choice",
-    "text": "下列何者非基地台主要元件？",
-    "options": [
-      "放大器",
-      "接收器",
-      "發送器",
-      "路由器"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "21",
-    "type": "multiple_choice",
-    "text": "蜂巢網路採取何種技術以有效利用頻道？",
-    "options": [
-      "自立式電波塔",
-      "區域重疊",
-      "區域再用",
-      "頻率再用"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "22",
-    "type": "multiple_choice",
-    "text": "僅讓特定頻率電磁波通過，擋掉其他頻率者？",
-    "options": [
-      "傳送器",
-      "放大器",
-      "路由器",
-      "濾波器"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "23",
-    "type": "multiple_choice",
-    "text": "下列何者非無線通訊網路通訊協定？",
-    "options": [
-      "HSDZA",
-      "WPA",
-      "WCDMA",
-      "CSMACA"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "24",
-    "type": "multiple_choice",
-    "text": "訊號往特定方向發射且能克服地形障礙之天線？",
-    "options": [
-      "sectorized",
-      "dipole",
-      "directional",
-      "omnidirectional"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "25",
-    "type": "multiple_choice",
-    "text": "下列何者非行動無線優於有線之特質？",
-    "options": [
-      "機動性",
-      "即時性",
-      "彈性",
-      "安全性"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "26",
-    "type": "multiple_choice",
-    "text": "依基地台位置決定發話器所在區域之定位技術？",
-    "options": [
-      "AOA",
-      "TDOA",
-      "COO",
-      "TOA"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "27",
-    "type": "multiple_choice",
-    "text": "利用接收角資訊並採三角定位法之技術？",
-    "options": [
-      "AOA",
-      "TDOA",
-      "COO",
-      "TOA"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "28",
-    "type": "multiple_choice",
-    "text": "下列何者非 CDMA2000 中 PDSN 主要功能？",
-    "options": [
-      "建立維護 PPP",
-      "指定 IP",
-      "管理無線資源紀錄狀態",
-      "提供 FA 功能"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "29",
-    "type": "multiple_choice",
-    "text": "為企業量身設計之虛擬專用網路，將員工號碼聯結成群組？",
-    "options": [
-      "WLL",
-      "WLAN",
-      "MVPN",
-      "VPN"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "30",
-    "type": "multiple_choice",
-    "text": "行動網路中提供基礎線路設施者為？",
-    "options": [
-      "第一類電信",
-      "第二類電信",
-      "無線通訊業者",
-      "固網業者"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "31",
-    "type": "multiple_choice",
-    "text": "下列何者不屬於無線個人網路 (WPAN)？",
-    "options": [
-      "802.11",
-      "UWB",
-      "ZigBee",
-      "藍牙"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "32",
-    "type": "multiple_choice",
-    "text": "VPN 所使用的通道標準為何？",
-    "options": [
-      "ISDN",
-      "HTTP",
-      "PPTP",
-      "POP"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "33",
-    "type": "multiple_choice",
-    "text": "IEEE 802 標準中，資料連結層切割為哪兩層？",
-    "options": [
-      "HDLC/MAC",
-      "MAC/DSL",
-      "PDU/MAC",
-      "MAC/LLC"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "34",
-    "type": "multiple_choice",
-    "text": "路由器之間用來交換路由資訊之協定？",
-    "options": [
-      "ARP",
-      "ICMP",
-      "IP",
-      "RIP"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "35",
-    "type": "multiple_choice",
-    "text": "IPv6 自動設定中起初設定給自己的位址？",
-    "options": [
-      "Anycast",
-      "Multicast",
-      "Link-Local Unicast",
-      "Global Unicast"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "36",
-    "type": "multiple_choice",
-    "text": "下列何者不使用 2.4 GHz ISM 波段？",
-    "options": [
-      "802.11a",
-      "802.11b",
-      "802.11g",
-      "藍牙"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "37",
-    "type": "multiple_choice",
-    "text": "乙太網路 MAC 位址長度有幾個位元組 (bytes)？",
-    "options": [
-      "4",
-      "6",
-      "8",
-      "10"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "38",
-    "type": "multiple_choice",
-    "text": "下列何者可以找出傳送封包的最佳路徑？",
-    "options": [
-      "中繼器",
-      "橋接器",
-      "交換器",
-      "路由器"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "39",
-    "type": "multiple_choice",
-    "text": "下列何種傳輸介質可不受電磁干擾？",
-    "options": [
-      "絞線",
-      "同軸電纜",
-      "微波",
-      "光纖"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "40",
-    "type": "multiple_choice",
-    "text": "哪一種調變技術以單一訊息頻寬傳送兩種訊號？",
-    "options": [
-      "BPSK",
-      "FM",
-      "GMSK",
-      "QAM"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "41",
-    "type": "multiple_choice",
-    "text": "IPv6 封包格式較 IPv4 增加了？",
-    "options": [
-      "固定表頭",
-      "擴充表頭",
-      "特定資料欄位",
-      "封包檢查碼"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "42",
-    "type": "multiple_choice",
-    "text": "導線通電流時，旁邊磁針向何方向偏轉？",
-    "options": [
-      "360度",
-      "平行",
-      "垂直",
-      "不偏轉"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "43",
-    "type": "multiple_choice",
-    "text": "封包交換除了資料封包 (Datagram) 外還有何種控制方式？",
-    "options": [
-      "電路交換",
-      "細胞繼送",
-      "訊框繼送",
-      "虛擬電路"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "44",
-    "type": "multiple_choice",
-    "text": "提供動態 IP 配置及網路參數者？",
-    "options": [
-      "FTP",
-      "IMAP",
-      "DHCP",
-      "DNS"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "45",
-    "type": "multiple_choice",
-    "text": "100BaseT RJ-45 接頭使用哪些接腳？",
-    "options": [
-      "1,2,4,6",
-      "1,2,3,6",
-      "2,3,4,6",
-      "1,2,3,8"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "46",
-    "type": "multiple_choice",
-    "text": "下列何種設備能分割廣播領域 (broadcast domain)？",
-    "options": [
-      "路由器",
-      "集線器",
-      "橋接器",
-      "中繼器"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "47",
-    "type": "multiple_choice",
-    "text": "IEEE 802.11 系列的媒介存取控制機制？",
-    "options": [
-      "CSMA/CA",
-      "CSMA/CD",
-      "Token Ring",
-      "Token Bus"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "48",
-    "type": "multiple_choice",
-    "text": "TCP 是以什麼方式建立連線？",
-    "options": [
-      "單向",
-      "雙向交握",
-      "三向交握",
-      "直接連線"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "49",
-    "type": "multiple_choice",
-    "text": "下列何者屬於第三代行動通訊系統？",
-    "options": [
-      "AMPS",
-      "W-CDMA",
-      "GPRS",
-      "GSM"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "50",
-    "type": "multiple_choice",
-    "text": "將 IP 映射為實體位址 (MAC) 的協定？",
-    "options": [
-      "ARP",
-      "RARP",
-      "ICMP",
-      "RIP"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "51",
-    "type": "multiple_choice",
-    "text": "傳輸層 (Transport Layer) 以什麼方式定址？",
-    "options": [
-      "硬體位址",
-      "IP 位址",
-      "網域名稱",
-      "連接埠"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "52",
-    "type": "multiple_choice",
-    "text": "4G 行動上網希望相容現有 3G 基地台會引進？",
-    "options": [
-      "EDGE",
-      "LTE",
-      "WiMAX",
-      "802.11n"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "53",
-    "type": "multiple_choice",
-    "text": "目前最普遍且與 802.11b 相容的標準是？",
-    "options": [
-      "802.3",
-      "802.11a",
-      "802.11g",
-      "802.16"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "54",
-    "type": "multiple_choice",
-    "text": "用戶家到電信機房間的線路稱為？",
-    "options": [
-      "主幹線路",
-      "區域迴路 (Local Loops)",
-      "交換線路",
-      "VLAN"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "55",
-    "type": "multiple_choice",
-    "text": "下列何者決定 IP 封包的切割？",
-    "options": [
-      "ARP",
-      "ICMP",
-      "MTU",
-      "RIP"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "56",
-    "type": "multiple_choice",
-    "text": "GSM 所採用的多重存取技術？",
-    "options": [
-      "FDMA/FDD",
-      "FDMA/TDD",
-      "TDMA/FDD",
-      "CDMA/FDD"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "57",
-    "type": "multiple_choice",
-    "text": "下列何者造成碰撞機率比較高？",
-    "options": [
-      "ALOHA",
-      "slotted ALOHA",
-      "CSMA/CD",
-      "CSMA/CA"
-    ],
-    "answer": "A",
-    "score": 1
-  },
-  {
-    "number": "58",
-    "type": "multiple_choice",
-    "text": "下列何者的傳輸速率最快？",
-    "options": [
-      "ZigBee",
-      "藍牙",
-      "802.11b",
-      "802.11n"
-    ],
-    "answer": "D",
-    "score": 1
-  },
-  {
-    "number": "59",
-    "type": "multiple_choice",
-    "text": "頻寬 4 KHz 訊號要能完整還原，最小取樣速率？",
-    "options": [
-      "2 Ksps",
-      "4 Ksps",
-      "8 Ksps",
-      "16 Ksps"
-    ],
-    "answer": "C",
-    "score": 1
-  },
-  {
-    "number": "60",
-    "type": "multiple_choice",
-    "text": "最高 1 MHz 最低 100 KHz，其頻寬為何？",
-    "options": [
-      "99 KHz",
-      "900 KHz",
-      "990 KHz",
-      "0.09 MHz"
-    ],
-    "answer": "B",
-    "score": 1
-  },
-  {
-    "number": "問答 1",
-    "type": "essay",
-    "text": "請列舉四項 LTE-Advanced 規範中擴展頻寬、覆蓋範圍、改善干擾及提高效率的關鍵技術並簡述效益。",
-    "answer": "【參考答案】1.載波聚合(Carrier Aggregation): 增加頻寬 2.增強型多天線(Enhanced MIMO): 提高頻譜效率 3.中繼站(Relay Node): 擴展覆蓋 4.異質網路協同工作(CoMP): 減少細胞間干擾。"
-  },
-  {
-    "number": "問答 2",
-    "type": "essay",
-    "text": "請列舉五項 LTE 行動通訊優於 3G 行動通訊的特質。",
-    "answer": "【參考答案】1.高速率(高下載/上傳頻寬) 2.低延遲(低時延) 3.純 IP 化架構 4.頻譜利用率大幅提升 5.支援更大的頻寬(最高 20MHz)。"
-  },
-  {
-    "number": "問答 3",
-    "type": "essay",
-    "text": "子網路切割問題：(一)255.255.252.0 對於 140.128.0.0 可分幾個子網？每個子網幾台主機？(二)IP 192.160.8.134 遮罩 255.255.255.248 之網路位址為何？",
-    "answer": "【解答】(一)遮罩 252 為 /22。140.128.0.0 是 B 類(/16)，子網位元 22-16=6 位，故可分 2^6=64 個子網；主機位元 32-22=10 位，2^10-2=1022 台主機。(二)遮罩 248 為 /29。134 轉二進位為 10000110，前 5 位(對應網路)為 10000，末 3 位主機位歸零得 10000000 (128)。故網路位址為 192.160.8.128。"
-  },
-  {
-    "number": "問答 4",
-    "type": "essay",
-    "text": "(一)何謂平行與序列傳輸？(二)何謂基頻與寬頻傳輸？",
-    "answer": "【解答】(一)平行：多位元同時透過多條線路傳送；序列：位元依序透過單一線路傳送。(二)基頻(Baseband)：直接將數位訊號不經調變傳送，單一頻道；寬頻(Broadband)：將數位訊號調變至高頻類比載波傳送，可劃分多個邏輯頻道。"
-  }
-]
+{
+  "duration": 90,
+  "questions": [
+    {
+      "number": "1",
+      "type": "multiple_choice",
+      "text": "LTE 採取下列哪一種技術？",
+      "options": [
+        "WCDMA",
+        "CDMA",
+        "TDMA",
+        "OFDMA"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "2",
+      "type": "multiple_choice",
+      "text": "下列何者非我國的 LTE 頻段？",
+      "options": [
+        "700 MHz",
+        "900 MHz",
+        "1800 MHz",
+        "2600 MHz"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "3",
+      "type": "multiple_choice",
+      "text": "有關 LTE 的敘述何者錯誤？",
+      "options": [
+        "LTE-TDD 為一種",
+        "LTE-FDD 為一種",
+        "具備 MIMO 架構",
+        "用戶單位成本大幅增加"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "4",
+      "type": "multiple_choice",
+      "text": "有關 RFID 敘述何者錯誤？",
+      "options": [
+        "防磁耐高溫",
+        "媒介為無線電波",
+        "即為平常看見的條碼",
+        "悠遊卡屬一種應用"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "5",
+      "type": "multiple_choice",
+      "text": "下列何者傳輸速率最快？",
+      "options": [
+        "LTE",
+        "HSPA+",
+        "WiFi",
+        "WCDMA"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "6",
+      "type": "multiple_choice",
+      "text": "有關 Wi-Fi, WiMAX 與 3G 敘述何者錯誤？",
+      "options": [
+        "WiMAX 標準 802.16",
+        "802.11g 為 Wi-Fi",
+        "傳輸距離 Wi-Fi 最遠",
+        "傳輸速率 3G 最慢"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "7",
+      "type": "multiple_choice",
+      "text": "有關藍牙與 NFC 敘述何者錯誤？",
+      "options": [
+        "藍牙耗電比 NFC 低",
+        "藍牙速率比 NFC 快",
+        "藍牙安全性不如 NFC",
+        "藍牙距離比 NFC 遠"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "8",
+      "type": "multiple_choice",
+      "text": "下列何者不屬於近距離無線通訊標準？",
+      "options": [
+        "ZigBee",
+        "WiMAX",
+        "NFC",
+        "Bluetooth"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "9",
+      "type": "multiple_choice",
+      "text": "下列何者非屬 RFID 應用？",
+      "options": [
+        "VISA WAVE",
+        "悠遊卡",
+        "國道 ETC",
+        "GPS"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "10",
+      "type": "multiple_choice",
+      "text": "有關 Mobile IP 敘述何者錯誤？",
+      "options": [
+        "支援漫遊收送封包",
+        "不改組態 IP 層通訊",
+        "移動不改 IP 可通訊",
+        "IP 位址格式與傳統不同"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "11",
+      "type": "multiple_choice",
+      "text": "Bluetooth 的理想傳輸距離為？",
+      "options": [
+        "10~100 公尺",
+        "200~250 公尺",
+        "300~350 公尺",
+        "500~550 公尺"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "12",
+      "type": "multiple_choice",
+      "text": "NFC 的理想最遠傳輸距離為？",
+      "options": [
+        "20 公分以內",
+        "1~5 公尺",
+        "10~20 公尺",
+        "50~60 公尺"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "13",
+      "type": "multiple_choice",
+      "text": "有關 NFC 敘述何者錯誤？",
+      "options": [
+        "功耗低",
+        "適合一對多模式",
+        "適合電子支付",
+        "安全性佳"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "14",
+      "type": "multiple_choice",
+      "text": "WiMAX 的理想最遠傳輸距離可達？",
+      "options": [
+        "3 KM",
+        "10 KM",
+        "30 KM",
+        "50 KM"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "15",
+      "type": "multiple_choice",
+      "text": "WCDMA 的理想最遠傳輸距離可達？",
+      "options": [
+        "3 KM",
+        "10 KM",
+        "30 KM",
+        "50 KM"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "16",
+      "type": "multiple_choice",
+      "text": "HSDPA 的理想最快傳輸速率最接近？",
+      "options": [
+        "1 Mbps",
+        "2 Mbps",
+        "14 Mbps",
+        "70 Mbps"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "17",
+      "type": "multiple_choice",
+      "text": "WCDMA 的理想最快傳輸速率最接近？",
+      "options": [
+        "1 Mbps",
+        "2 Mbps",
+        "14 Mbps",
+        "70 Mbps"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "18",
+      "type": "multiple_choice",
+      "text": "Bluetooth 的理想最快傳輸速率最接近？",
+      "options": [
+        "1 Mbps",
+        "2 Mbps",
+        "14 Mbps",
+        "70 Mbps"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "19",
+      "type": "multiple_choice",
+      "text": "下列何者不在 GSM 的系統架構中？",
+      "options": [
+        "DNS",
+        "HLR",
+        "MSC",
+        "VLR"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "20",
+      "type": "multiple_choice",
+      "text": "下列何者非基地台主要元件？",
+      "options": [
+        "放大器",
+        "接收器",
+        "發送器",
+        "路由器"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "21",
+      "type": "multiple_choice",
+      "text": "蜂巢網路採取何種技術以有效利用頻道？",
+      "options": [
+        "自立式電波塔",
+        "區域重疊",
+        "區域再用",
+        "頻率再用"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "22",
+      "type": "multiple_choice",
+      "text": "僅讓特定頻率電磁波通過，擋掉其他頻率者？",
+      "options": [
+        "傳送器",
+        "放大器",
+        "路由器",
+        "濾波器"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "23",
+      "type": "multiple_choice",
+      "text": "下列何者非無線通訊網路通訊協定？",
+      "options": [
+        "HSDZA",
+        "WPA",
+        "WCDMA",
+        "CSMACA"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "24",
+      "type": "multiple_choice",
+      "text": "訊號往特定方向發射且能克服地形障礙之天線？",
+      "options": [
+        "sectorized",
+        "dipole",
+        "directional",
+        "omnidirectional"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "25",
+      "type": "multiple_choice",
+      "text": "下列何者非行動無線優於有線之特質？",
+      "options": [
+        "機動性",
+        "即時性",
+        "彈性",
+        "安全性"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "26",
+      "type": "multiple_choice",
+      "text": "依基地台位置決定發話器所在區域之定位技術？",
+      "options": [
+        "AOA",
+        "TDOA",
+        "COO",
+        "TOA"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "27",
+      "type": "multiple_choice",
+      "text": "利用接收角資訊並採三角定位法之技術？",
+      "options": [
+        "AOA",
+        "TDOA",
+        "COO",
+        "TOA"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "28",
+      "type": "multiple_choice",
+      "text": "下列何者非 CDMA2000 中 PDSN 主要功能？",
+      "options": [
+        "建立維護 PPP",
+        "指定 IP",
+        "管理無線資源紀錄狀態",
+        "提供 FA 功能"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "29",
+      "type": "multiple_choice",
+      "text": "為企業量身設計之虛擬專用網路，將員工號碼聯結成群組？",
+      "options": [
+        "WLL",
+        "WLAN",
+        "MVPN",
+        "VPN"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "30",
+      "type": "multiple_choice",
+      "text": "行動網路中提供基礎線路設施者為？",
+      "options": [
+        "第一類電信",
+        "第二類電信",
+        "無線通訊業者",
+        "固網業者"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "31",
+      "type": "multiple_choice",
+      "text": "下列何者不屬於無線個人網路 (WPAN)？",
+      "options": [
+        "802.11",
+        "UWB",
+        "ZigBee",
+        "藍牙"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "32",
+      "type": "multiple_choice",
+      "text": "VPN 所使用的通道標準為何？",
+      "options": [
+        "ISDN",
+        "HTTP",
+        "PPTP",
+        "POP"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "33",
+      "type": "multiple_choice",
+      "text": "IEEE 802 標準中，資料連結層切割為哪兩層？",
+      "options": [
+        "HDLC/MAC",
+        "MAC/DSL",
+        "PDU/MAC",
+        "MAC/LLC"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "34",
+      "type": "multiple_choice",
+      "text": "路由器之間用來交換路由資訊之協定？",
+      "options": [
+        "ARP",
+        "ICMP",
+        "IP",
+        "RIP"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "35",
+      "type": "multiple_choice",
+      "text": "IPv6 自動設定中起初設定給自己的位址？",
+      "options": [
+        "Anycast",
+        "Multicast",
+        "Link-Local Unicast",
+        "Global Unicast"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "36",
+      "type": "multiple_choice",
+      "text": "下列何者不使用 2.4 GHz ISM 波段？",
+      "options": [
+        "802.11a",
+        "802.11b",
+        "802.11g",
+        "藍牙"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "37",
+      "type": "multiple_choice",
+      "text": "乙太網路 MAC 位址長度有幾個位元組 (bytes)？",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "38",
+      "type": "multiple_choice",
+      "text": "下列何者可以找出傳送封包的最佳路徑？",
+      "options": [
+        "中繼器",
+        "橋接器",
+        "交換器",
+        "路由器"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "39",
+      "type": "multiple_choice",
+      "text": "下列何種傳輸介質可不受電磁干擾？",
+      "options": [
+        "絞線",
+        "同軸電纜",
+        "微波",
+        "光纖"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "40",
+      "type": "multiple_choice",
+      "text": "哪一種調變技術以單一訊息頻寬傳送兩種訊號？",
+      "options": [
+        "BPSK",
+        "FM",
+        "GMSK",
+        "QAM"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "41",
+      "type": "multiple_choice",
+      "text": "IPv6 封包格式較 IPv4 增加了？",
+      "options": [
+        "固定表頭",
+        "擴充表頭",
+        "特定資料欄位",
+        "封包檢查碼"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "42",
+      "type": "multiple_choice",
+      "text": "導線通電流時，旁邊磁針向何方向偏轉？",
+      "options": [
+        "360度",
+        "平行",
+        "垂直",
+        "不偏轉"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "43",
+      "type": "multiple_choice",
+      "text": "封包交換除了資料封包 (Datagram) 外還有何種控制方式？",
+      "options": [
+        "電路交換",
+        "細胞繼送",
+        "訊框繼送",
+        "虛擬電路"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "44",
+      "type": "multiple_choice",
+      "text": "提供動態 IP 配置及網路參數者？",
+      "options": [
+        "FTP",
+        "IMAP",
+        "DHCP",
+        "DNS"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "45",
+      "type": "multiple_choice",
+      "text": "100BaseT RJ-45 接頭使用哪些接腳？",
+      "options": [
+        "1,2,4,6",
+        "1,2,3,6",
+        "2,3,4,6",
+        "1,2,3,8"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "46",
+      "type": "multiple_choice",
+      "text": "下列何種設備能分割廣播領域 (broadcast domain)？",
+      "options": [
+        "路由器",
+        "集線器",
+        "橋接器",
+        "中繼器"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "47",
+      "type": "multiple_choice",
+      "text": "IEEE 802.11 系列的媒介存取控制機制？",
+      "options": [
+        "CSMA/CA",
+        "CSMA/CD",
+        "Token Ring",
+        "Token Bus"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "48",
+      "type": "multiple_choice",
+      "text": "TCP 是以什麼方式建立連線？",
+      "options": [
+        "單向",
+        "雙向交握",
+        "三向交握",
+        "直接連線"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "49",
+      "type": "multiple_choice",
+      "text": "下列何者屬於第三代行動通訊系統？",
+      "options": [
+        "AMPS",
+        "W-CDMA",
+        "GPRS",
+        "GSM"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "50",
+      "type": "multiple_choice",
+      "text": "將 IP 映射為實體位址 (MAC) 的協定？",
+      "options": [
+        "ARP",
+        "RARP",
+        "ICMP",
+        "RIP"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "51",
+      "type": "multiple_choice",
+      "text": "傳輸層 (Transport Layer) 以什麼方式定址？",
+      "options": [
+        "硬體位址",
+        "IP 位址",
+        "網域名稱",
+        "連接埠"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "52",
+      "type": "multiple_choice",
+      "text": "4G 行動上網希望相容現有 3G 基地台會引進？",
+      "options": [
+        "EDGE",
+        "LTE",
+        "WiMAX",
+        "802.11n"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "53",
+      "type": "multiple_choice",
+      "text": "目前最普遍且與 802.11b 相容的標準是？",
+      "options": [
+        "802.3",
+        "802.11a",
+        "802.11g",
+        "802.16"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "54",
+      "type": "multiple_choice",
+      "text": "用戶家到電信機房間的線路稱為？",
+      "options": [
+        "主幹線路",
+        "區域迴路 (Local Loops)",
+        "交換線路",
+        "VLAN"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "55",
+      "type": "multiple_choice",
+      "text": "下列何者決定 IP 封包的切割？",
+      "options": [
+        "ARP",
+        "ICMP",
+        "MTU",
+        "RIP"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "56",
+      "type": "multiple_choice",
+      "text": "GSM 所採用的多重存取技術？",
+      "options": [
+        "FDMA/FDD",
+        "FDMA/TDD",
+        "TDMA/FDD",
+        "CDMA/FDD"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "57",
+      "type": "multiple_choice",
+      "text": "下列何者造成碰撞機率比較高？",
+      "options": [
+        "ALOHA",
+        "slotted ALOHA",
+        "CSMA/CD",
+        "CSMA/CA"
+      ],
+      "answer": "A",
+      "score": 1
+    },
+    {
+      "number": "58",
+      "type": "multiple_choice",
+      "text": "下列何者的傳輸速率最快？",
+      "options": [
+        "ZigBee",
+        "藍牙",
+        "802.11b",
+        "802.11n"
+      ],
+      "answer": "D",
+      "score": 1
+    },
+    {
+      "number": "59",
+      "type": "multiple_choice",
+      "text": "頻寬 4 KHz 訊號要能完整還原，最小取樣速率？",
+      "options": [
+        "2 Ksps",
+        "4 Ksps",
+        "8 Ksps",
+        "16 Ksps"
+      ],
+      "answer": "C",
+      "score": 1
+    },
+    {
+      "number": "60",
+      "type": "multiple_choice",
+      "text": "最高 1 MHz 最低 100 KHz，其頻寬為何？",
+      "options": [
+        "99 KHz",
+        "900 KHz",
+        "990 KHz",
+        "0.09 MHz"
+      ],
+      "answer": "B",
+      "score": 1
+    },
+    {
+      "number": "問答 1",
+      "type": "essay",
+      "text": "請列舉四項 LTE-Advanced 規範中擴展頻寬、覆蓋範圍、改善干擾及提高效率的關鍵技術並簡述效益。",
+      "answer": "【參考答案】1.載波聚合(Carrier Aggregation): 增加頻寬 2.增強型多天線(Enhanced MIMO): 提高頻譜效率 3.中繼站(Relay Node): 擴展覆蓋 4.異質網路協同工作(CoMP): 減少細胞間干擾。"
+    },
+    {
+      "number": "問答 2",
+      "type": "essay",
+      "text": "請列舉五項 LTE 行動通訊優於 3G 行動通訊的特質。",
+      "answer": "【參考答案】1.高速率(高下載/上傳頻寬) 2.低延遲(低時延) 3.純 IP 化架構 4.頻譜利用率大幅提升 5.支援更大的頻寬(最高 20MHz)。"
+    },
+    {
+      "number": "問答 3",
+      "type": "essay",
+      "text": "子網路切割問題：(一)255.255.252.0 對於 140.128.0.0 可分幾個子網？每個子網幾台主機？(二)IP 192.160.8.134 遮罩 255.255.255.248 之網路位址為何？",
+      "answer": "【解答】(一)遮罩 252 為 /22。140.128.0.0 是 B 類(/16)，子網位元 22-16=6 位，故可分 2^6=64 個子網；主機位元 32-22=10 位，2^10-2=1022 台主機。(二)遮罩 248 為 /29。134 轉二進位為 10000110，前 5 位(對應網路)為 10000，末 3 位主機位歸零得 10000000 (128)。故網路位址為 192.160.8.128。"
+    },
+    {
+      "number": "問答 4",
+      "type": "essay",
+      "text": "(一)何謂平行與序列傳輸？(二)何謂基頻與寬頻傳輸？",
+      "answer": "【解答】(一)平行：多位元同時透過多條線路傳送；序列：位元依序透過單一線路傳送。(二)基頻(Baseband)：直接將數位訊號不經調變傳送，單一頻道；寬頻(Broadband)：將數位訊號調變至高頻類比載波傳送，可劃分多個邏輯頻道。"
+    }
+  ]
+}
