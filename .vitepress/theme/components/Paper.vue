@@ -99,7 +99,17 @@ const generateTicket = () => {
   ticketNumber.value = 'EXAM-' + Math.random().toString(36).substr(2, 9).toUpperCase()
 }
 
+const columnCount = computed(() => {
+  if (!questions.value.length) return 1
+  const hasEssay = questions.value.some(q => q.type === 'essay' || q.type === 'calc')
+  if (hasEssay || questions.value.length <= 4) {
+    return 1
+  }
+  return 4
+})
+
 onMounted(() => {
+
   fetchQuestions()
   generateTicket()
 })
@@ -145,10 +155,10 @@ const submitExam = () => {
         注意：請就各題選項中選出最適當者為答案。各題答對得該題所配分數，答錯不倒扣。
     </div>
 
-    <!-- Four Column Content -->
-    <div class="exam-body four-columns">
-      <div v-for="colIdx in 4" :key="colIdx" class="column">
-        <div v-for="(q, index) in questions.slice(Math.ceil((questions.length / 4) * (colIdx - 1)), Math.ceil((questions.length / 4) * colIdx))" :key="q.number" class="question-item">
+    <!-- Column Content -->
+    <div class="exam-body" :class="{ 'four-columns': columnCount === 4, 'single-column': columnCount === 1 }">
+      <div v-for="colIdx in columnCount" :key="colIdx" class="column">
+        <div v-for="(q, index) in questions.slice(Math.ceil((questions.length / columnCount) * (colIdx - 1)), Math.ceil((questions.length / columnCount) * colIdx))" :key="q.number" class="question-item">
           <div class="question-text">
             <span class="q-num">{{ q.number }}.</span>
             {{ q.text }}
@@ -167,28 +177,38 @@ const submitExam = () => {
           </div>
 
           <!-- Fill-in-the-blank / Essay Input -->
-          <div class="short-answer-box" v-else :class="{ 'essay-box': q.type === 'essay' }">
+          <div class="short-answer-box" v-else :class="{ 'essay-box': q.type === 'essay' || q.type === 'calc' }">
             <div class="input-wrapper" :class="{
               'correct': isSubmitted && q.type === 'fill_in' && (userAnswers[questions.indexOf(q)] || '').toString().trim() === (q.answer || '').toString().trim(),
               'wrong': isSubmitted && q.type === 'fill_in' && (userAnswers[questions.indexOf(q)] || '').toString().trim() !== (q.answer || '').toString().trim(),
-              'essay-input': q.type === 'essay'
+              'essay-input': q.type === 'essay' || q.type === 'calc'
             }">
+              <textarea 
+                v-if="q.type === 'essay' || q.type === 'calc'"
+                v-model="userAnswers[questions.indexOf(q)]" 
+                :placeholder="q.type === 'essay' ? '在此輸入作答內容...' : '在此輸入計算與答案內容...'" 
+                class="short-input essay-textarea" 
+                :disabled="isSubmitted"
+                rows="4"
+              ></textarea>
               <input 
+                v-else
                 type="text" 
                 v-model="userAnswers[questions.indexOf(q)]" 
-                :placeholder="q.type === 'essay' ? '在此輸入最終答案或簡要過程...' : '在此輸入答案...'" 
+                placeholder="在此輸入答案..." 
                 class="short-input" 
                 :disabled="isSubmitted"
               >
             </div>
-            <div class="answer-reveal" v-if="isSubmitted">
-              <span class="reveal-label">{{ q.type === 'essay' ? '參考解析：' : '正確答案：' }}</span>
+            <div class="answer-reveal" v-if="isSubmitted && q.answer">
+              <span class="reveal-label">{{ q.type === 'essay' || q.type === 'calc' ? '參考答案/解析：' : '正確答案：' }}</span>
               <span class="reveal-text">{{ q.answer }}</span>
             </div>
           </div>
         </div>
       </div>
     </div>
+
 
     <div class="exam-footer">
       <button v-if="!isSubmitted" @click="submitExam" class="submit-btn">繳卷對答案</button>
@@ -312,6 +332,27 @@ const submitExam = () => {
   gap: 1.5rem;
   position: relative;
 }
+
+.exam-body.single-column {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.single-column .column {
+  border-right: none;
+  padding-right: 0;
+}
+
+.essay-textarea {
+  resize: vertical;
+  min-height: 100px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
+  padding: 8px;
+}
+
 
 .column {
   min-width: 0; /* Prevents overflow in grid */
