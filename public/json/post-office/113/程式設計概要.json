@@ -1,93 +1,27 @@
-{
-  "duration": 60,
-  "questions": [
-    {
-      "number": "1-(1)",
-      "type": "essay",
-      "text": "請用 Java 或 C# 程式語言完成：設計一個含 for 迴圈程式，可以找出 1-100 中的數字含有 9 的數字，例如：9, 19, 29, ..., 90, 91, ..., 99。",
-      "options": [],
-      "answer": "【參考範例 - Java】\nfor(int i=1; i<=100; i++) {\n    if(String.valueOf(i).contains(\"9\")) {\n        System.out.print(i + \" \");\n    }\n}",
-      "score": 12
-    },
-    {
-      "number": "1-(2)",
-      "type": "essay",
-      "text": "設計一個副程式(方法)，可以判斷所輸入的整數參數是否為質數。",
-      "options": [],
-      "answer": "【參考範例 - C#】\npublic bool IsPrime(int n) {\n    if (n <= 1) return false;\n    for (int i = 2; i <= Math.Sqrt(n); i++) {\n        if (n % i == 0) return false;\n    }\n    return true;\n}",
-      "score": 13
-    },
-    {
-      "number": "2-(1)",
-      "type": "essay",
-      "text": "在一個程式撰寫完畢後，我們都需要執行測試，請寫出測試工作一般可以分成哪四種？",
-      "options": [],
-      "answer": "【參考答案】1. 單元測試(Unit Test) 2. 整合測試(Integration Test) 3. 系統測試(System Test) 4. 驗收測試(Acceptance Test)。",
-      "score": 4
-    },
-    {
-      "number": "2-(2)",
-      "type": "essay",
-      "text": "請簡單繪出多重選擇結構 (Switch ... Cases) 流程圖，包含 case 1, 2, 3。",
-      "options": [],
-      "answer": "【參考答案】應包含一個決策菱形或控制點，引出三條分支線，每條分支代表一個 case 值及其對應處理區塊，最後匯合至結束點。",
-      "score": 5
-    },
-    {
-      "number": "2-(3)",
-      "type": "essay",
-      "text": "UML 的「物件圖」及「時序圖」的作用是什麼？",
-      "options": [],
-      "answer": "【參考答案】\n1. 物件圖(Object Diagram)：顯示系統在某一時刻的靜態結構快照，展示實例及其關係。\n2. 時序圖(Sequence Diagram)：描述物件之間如何隨時間順序進行交互溝通，強調訊息傳遞的時間軸。",
-      "score": 8
-    },
-    {
-      "number": "2-(4)",
-      "type": "essay",
-      "text": "簡單描述系統設計中，何謂 DFD (Data Flow Diagram)？",
-      "options": [],
-      "answer": "【參考答案】資料流程圖，用以描述系統內資料的流動、處理、儲存及外部實體之間的關係。主要元素包含：處理(Process)、資料流(Data Flow)、資料儲存(Data Store)及外部實體(External Entity)。",
-      "score": 8
-    },
-    {
-      "number": "3-(1)",
-      "type": "essay",
-      "text": "假設 SQL 資料庫連接物件為 myConn，請用 Java 或 C# 撰寫程式片段，執行 str 字串內的 SQL 指令以建立資料庫(CREATE DATABASE)。",
-      "options": [],
-      "answer": "【參考範例 - C#】\nSqlCommand cmd = new SqlCommand(str, myConn);\ncmd.ExecuteNonQuery();",
-      "score": 12
-    },
-    {
-      "number": "3-(2)-1",
-      "type": "essay",
-      "text": "針對 Student 表格，請用 SQL 語法列出成績小於 90 的科目。",
-      "options": [],
-      "answer": "【參考答案】SELECT Course FROM Student WHERE Score < 90;",
-      "score": 4
-    },
-    {
-      "number": "3-(2)-2",
-      "type": "essay",
-      "text": "針對 Student 表格，請用 SQL 語法求出所有科目的平均成績。",
-      "options": [],
-      "answer": "【參考答案】SELECT AVG(Score) FROM Student;",
-      "score": 4
-    },
-    {
-      "number": "3-(2)-3",
-      "type": "essay",
-      "text": "請新增一筆資料，Course 為 'Physics', Score 為 92, Date 為 '26-Aug-2024' 進到 Student 表格中。",
-      "options": [],
-      "answer": "【參考答案】INSERT INTO Student (Course, Score, Date) VALUES ('Physics', 92, '2024-08-26');",
-      "score": 5
-    },
-    {
-      "number": "4",
-      "type": "essay",
-      "text": "請分析並設計「員工管理系統」：\n1. 需求分析(功能/非功能)\n2. 類別設計(Employee, Department)\n3. 程式設計(CRUD 操作片段)\n4. 資料庫設計與 SQL(新增、更新薪資、查詢部門員工)。",
-      "options": [],
-      "answer": "【參考答案】需包含：\n1. 功能：CRUD 員工、管理部門。非功能：安全性(登入控制)、效能。\n2. Class Employee { int ID; string Name; decimal Salary; ... }\n3. SQL: UPDATE Employee SET Salary = @new WHERE ID = @id;",
-      "score": 25
-    }
-  ]
-}
+[
+  {
+    "number": "1",
+    "text": "第一題:\n請用Java 或C#程式語言完成下列簡單的程式:\n(一)設計一個含for迴圈程式,可以找出1-100中的數字含有9的數字,例如:9,19,29,, 90, 91,  ,99。【12分】\n(二)設計一個副程式,可以判斷所輸入的整數參數是否為質數。註:此副程式會輸入一個整數的參數。【13分】",
+    "type": "essay"
+  },
+  {
+    "number": "2",
+    "text": "第二題:\n請回答下列問題:\n(一)在一個程式撰寫完畢後,我們都需要執行測試,請寫出測試工作一般可以分成哪四種?【4分】\n(二)在系統設計時,程式設計階段前可能需要畫流程圖,請簡單的繪出多重選擇結構(Switch ... Cases)流程圖,其中內含有三種 cases,分別是case 1,2,3。【5分】\n(三) UML (Unified Modeling Language)是一種標準化的建模語言,UML的「物件圖」及「時序圖」的作用是什麼?【8分】\n(四)簡單的描述系統設計中,何謂DFD(Data Flow Diagram)?【8分】",
+    "type": "essay"
+  },
+  {
+    "number": "3",
+    "text": "第三題:\n請回答下列問題:\n(一)如果有一個SQL字串要開立一個資料表,SQL字串如下:\nstr = \"CREATE DATABASE MyDatabase ON PRIMARY (NAME = MyDatabase_Data, FILENAME = 'C:\\\\MyDatabaseData.mdf', SIZE=2MB, MAXSIZE = 10MB, FILEGROWTH =10%) LOG ON (NAME= MyDatabase_Log, FILENAME = 'C:\\\\MyDatabaseLog.ldf', SIZE=1MB, MAXSIZE = 5MB, FILEGROWTH =10%)\";\n假設 SQL 資料庫已經連接上了,而且連接的物件名稱為myConn,請用 Java 或C#程式語言撰寫程式片段來建立這個字串的表格。【12分】\n(二)如果有下列的資料表名稱為Student:\n\n| Course | Score | Date |\n|---|---|---|\n| English | 95 | 26-Aug-2024 |\n| Chinese | 88 | 26-Aug-2024 |\n| Mathematics | 90 | 26-Aug-2024 |\n| Histroy | 94 | 26-Aug-2024 |",
+    "type": "essay",
+    "options": [
+      "請用SQL語法列出成績小於90的科目。【4分】",
+      "請用SQL語法求出所有科目的平均成績。【4分】",
+      "請新增一筆資料,Course為“Physics”,Score為92, Date為26-Aug-2024進到 Student 資料表中。【5分】"
+    ]
+  },
+  {
+    "number": "4",
+    "text": "第四題:\n您被要求為一家中型企業開發一個員工管理系統。該系統應該能夠實現以下功能:\n員工資料管理:能夠添加、更新和刪除員工資料,包括員工ID、姓名、職位、薪資和部門。\n部門管理:每個部門可以有多名員工,能夠添加和管理部門的資料。\n查詢功能:能夠根據員工 ID 查詢員工的詳細資料,並且能夠查詢某個部門內所有員工的列表。\n系統分析與設計要求:【25分】\n1. 系統需求分析:請分析並描述該系統的主要功能需求和非功能需求(如性能、安全性等)。\n2. 類別設計:使用面向對象設計的概念,設計系統的主要類別,並描述每個類別的屬性和方法。包括員工類別和部門類別。\n3. 程式設計:選擇一種程式語言(JAVA、Net或C#),撰寫一個類別來實現員工資料的CRUD操作。\n4. 資料庫設計與SQL查詢:設計兩個SQL 資料表來儲存員工和部門資訊,並撰寫下列SQL 查詢語句:\n* 新增一個員工\n* 更新某個員工的薪資\n* 查詢某個部門內的所有員工",
+    "type": "essay"
+  }
+]

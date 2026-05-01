@@ -1,101 +1,22 @@
-{
-  "duration": 60,
-  "questions": [
-    {
-      "number": "1-(1)",
-      "type": "essay",
-      "text": "請簡要說明什麼是特洛伊木馬(Trojan Horse)及其惡意行為？",
-      "options": [],
-      "answer": "【參考答案】木馬是一種偽裝成正常、有用程式的惡意軟體。惡意行為包括：竊取用戶敏感資料(密碼、個資)、建立後門供遠端控制、監控鍵盤輸入、破壞檔案或發動 DDoS 攻擊。",
-      "score": 10
-    },
-    {
-      "number": "1-(2)",
-      "type": "essay",
-      "text": "請簡要說明木馬的運作流程。",
-      "options": [],
-      "answer": "【參考答案】1. 傳播(偽裝附件/下載)。2. 感染(誘導用戶執行)。3. 潛伏與啟動(開機自動執行)。4. 執行惡意任務(回傳資料/受控)。",
-      "score": 5
-    },
-    {
-      "number": "1-(3)",
-      "type": "essay",
-      "text": "請簡要說明特洛伊木馬的清除步驟。",
-      "options": [],
-      "answer": "【參考答案】1. 斷開網路連接。2. 進入安全模式。3. 使用防毒軟體掃描清除。4. 檢查啟動項與登錄檔。5. 更改所有密碼並更新補丁。",
-      "score": 10
-    },
-    {
-      "number": "2-(1)",
-      "type": "essay",
-      "text": "請簡要說明什麼是 VPN？以及 VPN 的安全性為何？",
-      "options": [],
-      "answer": "【參考答案】VPN 是在公用網路上建立的專用加密隧道。安全性來自於：1. 加密技術。2. 隧道協定(如 IPsec)。3. 身份驗證機制。可確保資料在傳輸中不被竊聽或竄改。",
-      "score": 10
-    },
-    {
-      "number": "2-(2)",
-      "type": "essay",
-      "text": "請簡要說明「VPN 遮罩用戶端 IP 位置」的做法。",
-      "options": [],
-      "answer": "【參考答案】用戶連至 VPN 伺服器後，所有網外請求皆透過該伺服器代送。對於目的地網站而言，來源 IP 是 VPN 伺服器的 IP，而非用戶真實 IP，從而達到匿名效果。",
-      "score": 5
-    },
-    {
-      "number": "2-(3)-1",
-      "type": "essay",
-      "text": "請簡要說明什麼是「IKEv2／IPsec」？及其運作概念為何？",
-      "options": [],
-      "answer": "【參考答案】IKEv2 是處理身份驗證與密鑰交換的協定；IPsec 提供資料加密與封裝。運作概念是先建立安全關聯(SA)，再對封包進行封裝加密傳輸，具備高穩定度與重連能力。",
-      "score": 5
-    },
-    {
-      "number": "2-(3)-2",
-      "type": "essay",
-      "text": "請簡要說明什麼是「SSL／TLS」？及其運作概念為何？",
-      "options": [],
-      "answer": "【參考答案】SSL/TLS 是應用層的安全協定(如 HTTPS)。運作概念是利用非對稱加密交換密鑰，再以對稱加密進行高速傳輸，常見於瀏覽器型 VPN。",
-      "score": 5
-    },
-    {
-      "number": "3-(1)",
-      "type": "essay",
-      "text": "請說明機密性(Confidentiality)、完整性(Integrity)、可用性(Availability)三者的差異。",
-      "options": [],
-      "answer": "【參考答案】\n1. 機密性：確保資料僅授權者可讀(抗竊聽)。\n2. 完整性：確保資料不被無故篡改(抗修改)。\n3. 可用性：確保授權者能及時獲取服務(抗斷網/DDoS)。",
-      "score": 12
-    },
-    {
-      "number": "3-(2)",
-      "type": "essay",
-      "text": "請說明編碼(Encoding)、雜湊(Hashing)、加密(Encryption)三種技術的差異。",
-      "options": [],
-      "answer": "【參考答案】\n1. 編碼：格式轉換，無密鑰，可輕易還原(如 Base64)。\n2. 雜湊：不可逆，單向摘要，用於完整性檢查(如 MD5)。\n3. 加密：需密鑰，可逆還原，用於保護內容機密性(如 AES)。",
-      "score": 13
-    },
-    {
-      "number": "4-(1)",
-      "type": "essay",
-      "text": "請說明何謂邊界閘道協定(BGP)？並說明 BGP 的重要性。",
-      "options": [],
-      "answer": "【參考答案】BGP 是網際網路自治系統(AS)之間的路徑向量路由協定。重要性在於它是全球互聯網的骨幹，負責決定數據在各大型 ISP 之間的最佳路徑，若失效會導致全球斷網。",
-      "score": 7
-    },
-    {
-      "number": "4-(2)",
-      "type": "essay",
-      "text": "請說明 MAC Address 和 IP Address 的差異。",
-      "options": [],
-      "answer": "【參考答案】\n1. MAC：實體位址(第2層)，硬體出廠即定，不可改，用於區域網尋址。\n2. IP：邏輯位址(第3層)，網路位置分配，可更改，用於跨網際網路路由。",
-      "score": 8
-    },
-    {
-      "number": "4-(3)",
-      "type": "essay",
-      "text": "請說明 WAF (Web Application Firewall)和其他防火牆的差異。",
-      "options": [],
-      "answer": "【參考答案】傳統防火牆(L3/L4)檢查 IP 與連接埠；WAF (L7)專注於 HTTP/HTTPS 內容檢查，能阻擋 SQL Injection、XSS 等針對網頁應用程式的攻擊。",
-      "score": 10
-    }
-  ]
-}
+[
+  {
+    "number": "1",
+    "text": "第一題:\n特洛伊木馬(Trojan Horse)簡稱木馬,是電腦網路領域常見的惡意軟體,常見於網頁、電子郵件和網路下載內容。請回答下列問題:\n(一)請簡要說明什麼是木馬及其惡意行為?【10分】\n(二)請簡要說明木馬的運作流程。【5分】\n(三)請簡要說明特洛伊木馬的清除步驟。【10分】",
+    "type": "essay"
+  },
+  {
+    "number": "2",
+    "text": "第二題:\n有關虛擬私有網路(Virtual Private Network, VPN),請回答下列問題:\n(一)請簡要說明什麼是VPN?以及VPN的安全性為何?【10分】\n(二)請簡要說明「VPN遮罩用戶端IP位置」的做法。【5分】\n(三)有關VPN採用的安全通訊協定,請回答下列問題:\n1.請簡要說明什麼是「IKEv2/IPsec」?及其運作概念為何?【5分】\n2.請簡要說明什麼是「SSL/TLS」?及其運作概念為何?【5分】\nIKEv2: Internet Key Exchange v2\nIPsec: IP Security Protocol\nSSL: Secure Socket Layer\nTLS: Transport Layer Security",
+    "type": "essay"
+  },
+  {
+    "number": "3",
+    "text": "第三題:\n有關資訊安全,請回答下列問題:\n(一)請說明機密性(Confidentiality)、完整性(Integrity)、可用性(Availability)三者的差異。【12分】\n(二)請說明編碼(Encoding)、雜湊(Hashing)、加密(Encryption)三種技術的差異。【13分】",
+    "type": "essay"
+  },
+  {
+    "number": "4",
+    "text": "第四題:\n有關網路技術與設備,請回答下列問題:\n(一)請說明何謂邊界閘道協定(BGP, Border Gateway Protocol)?並說明BGP的重要性。【7分】\n(二)請說明 MAC (Media Access Control) Address 和IP(Internet Protocol) Address 的差異。【8分】\n(三)請說明 WAF (Web Application Firewall)和其他防火牆的差異。【10分】",
+    "type": "essay"
+  }
+]

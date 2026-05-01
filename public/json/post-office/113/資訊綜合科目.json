@@ -1,101 +1,22 @@
-{
-  "duration": 90,
-  "questions": [
-    {
-      "number": "1-(1)",
-      "type": "essay",
-      "text": "資料庫系統於執行交易(transaction)後，資料庫管理員(DBA)若欲提交已變更的資料錄內容以明確地寫入資料庫系統，應下達何種 SQL 指令？",
-      "options": [],
-      "answer": "【參考答案】COMMIT;",
-      "score": 6
-    },
-    {
-      "number": "1-(2)",
-      "type": "essay",
-      "text": "資料庫系統於執行交易後，若欲撤消已變更的資料錄內容以復原資料為原值，此時 DBA 應下達何種 SQL 指令？",
-      "options": [],
-      "answer": "【參考答案】ROLLBACK;",
-      "score": 6
-    },
-    {
-      "number": "1-(3)-SQL1",
-      "type": "essay",
-      "text": "針對表格 Manager，執行查詢：\nSELECT COUNT(*), AVG(Mgr_Year) FROM Manager WHERE Mgr_Year > 10;\n請繪製表格呈現執行結果。",
-      "options": [],
-      "answer": "【參考答案】\n符合條件的有：Alan(17), Bible(13), David(26), Jenny(22), Tyler(12)。\nCOUNT(*) = 5\nAVG(Mgr_Year) = (17+13+26+22+12)/5 = 90/5 = 18",
-      "score": 6
-    },
-    {
-      "number": "1-(3)-SQL2",
-      "type": "essay",
-      "text": "針對表格 Bank，執行查詢：\nSELECT * FROM Bank WHERE Mgr_Id <> 'null' ORDER BY Mgr_Id ASC;\n請繪製表格呈現執行結果。",
-      "options": [],
-      "answer": "【參考答案】\n依 Mgr_Id 排序：\nMgr-101 (Bnk-101, Chicago)\nMgr-107 (Bnk-202, London)\nMgr-128 (Bnk-201, Dubai)\nMgr-130 (Bnk-505, New York)\nMgr-131 (Bnk-808, Toronto)\nMgr-618 (Bnk-606, Taipei)\nMgr-666 (Bnk-525, Seattle)",
-      "score": 7
-    },
-    {
-      "number": "2-(1)",
-      "type": "essay",
-      "text": "甲公司網站因瞬間湧入過多消費者導致系統忙碌無法服務。請問：前述狀況是否屬於網路攻擊？請說明理由。",
-      "options": [],
-      "answer": "【參考答案】不一定屬於網路攻擊。若為正常促銷活動導致的瞬間高流量，稱為「閃購(Flash Crowd)」或正常負載激增；若為惡意利用大量魁儡主機發送偽造請求，則屬於 DDoS 攻擊。判斷關鍵在於連線意圖與封包特徵。",
-      "score": 7
-    },
-    {
-      "number": "2-(2)",
-      "type": "essay",
-      "text": "對於上述高流量狀況，甲公司應該要如何處理，才能讓網站系統正常服務，滿足消費者需求？",
-      "options": [],
-      "answer": "【參考答案】處理方式包括：1. 導入 CDN 快取減輕主機壓力。2. 設置負載平衡器(Load Balancer)。3. 實施流量清洗或限流(Rate Limiting)。4. 自動化水平擴展(Auto-scaling)。5. 建立排隊等候機制。",
-      "score": 8
-    },
-    {
-      "number": "2-(3)",
-      "type": "essay",
-      "text": "請說明什麼是 FIDO (Fast Identity Online)技術，以及 FIDO 的優點和缺點各為何？",
-      "options": [],
-      "answer": "【參考答案】FIDO 是一套身分驗證標準，旨在減少對密碼的依賴。利用公私鑰架構，私鑰留存於用戶本地設備(如指紋、臉部辨識)，僅公鑰傳至伺服器。\n優點：安全性高(抗誘騙)、隱私保護(不傳送生物特徵)、便利性。 \n缺點：設備相容性限制、若驗證設備遺失需要備援機制。",
-      "score": 10
-    },
-    {
-      "number": "3",
-      "type": "essay",
-      "text": "請分別說明何謂網路防護？何謂端點防護？並說明兩者的差異為何？",
-      "options": [],
-      "answer": "【參考答案】\n1. 網路防護：著重於保護資料傳輸過程與邊界，如防火牆(FW)、入侵偵測系統(IDS/IPS)。\n2. 端點防護：著重於保護最終使用設備，如筆電、伺服器，如防毒軟體、EDR。\n差異：網路防護像圍牆守住入口，端點防護像警衛守在房間門口。網路防護難以檢測內部流量，端點防護可深入主機程序細節。",
-      "score": 25
-    },
-    {
-      "number": "4-(1)",
-      "type": "essay",
-      "text": "腳本語言選擇：請說明您會選擇哪種腳本語言來完成系統管理任務(Bash, Python, PowerShell)，並解釋理由。",
-      "options": [],
-      "answer": "【參考答案】建議選擇 Python。理由：跨平台支援強、豐富的標準函式庫(os, shutil)與第三方庫(psutil)處理監控、易於處理電子郵件發送、語法清晰易讀。",
-      "score": 5
-    },
-    {
-      "number": "4-(2)",
-      "type": "essay",
-      "text": "備份資料夾的自動化腳本：使用您選擇的語言，撰寫一個腳本來實現自動備份指定目錄的功能，並在備份完成後發送通知。",
-      "options": [],
-      "answer": "【參考範例 - Python】\nimport shutil, datetime\ndef backup(src, dst):\n    try:\n        shutil.make_archive(dst + datetime.datetime.now().strftime('%Y%m%d'), 'zip', src)\n        print('Backup Success')\n    except Exception as e:\n        print(f'Error: {e}')\n# 加上發送郵件或 API 通知邏輯",
-      "score": 7
-    },
-    {
-      "number": "4-(3)",
-      "type": "essay",
-      "text": "系統資源監控的腳本：撰寫一個腳本來監控伺服器的 CPU 和內存使用率，當使用率超過 80%時，將警報發送到指定的電子郵件地址。",
-      "options": [],
-      "answer": "【參考範例 - Python】\nimport psutil, smtplib\ncpu = psutil.cpu_percent(1)\nmem = psutil.virtual_memory().percent\nif cpu > 80 or mem > 80:\n    # SMTP logic here to send mail",
-      "score": 7
-    },
-    {
-      "number": "4-(4)",
-      "type": "essay",
-      "text": "批量管理用戶帳戶的腳本：撰寫一個腳本來批量創建用戶帳戶，並將每個操作的結果（成功或失敗）記錄到日誌文件中。",
-      "options": [],
-      "answer": "【參考範例 - Bash】\nwhile read user; do\n  useradd $user >> backup.log 2>&1\n  if [ $? -eq 0 ]; then echo \"$user OK\" >> result.log\n  else echo \"$user FAIL\" >> result.log; fi\ndone < userlist.txt",
-      "score": 6
-    }
-  ]
-}
+[
+  {
+    "number": "1",
+    "text": "第一題:\n請回答下列問題:\n(一)資料庫系統於執行交易(transaction)後,資料庫管理員(DBA)若欲提交已變更的資料錄內容以明確地寫入資料庫系統,應下達何種SQL指令?【6分】\n(二)資料庫系統於執行交易後,若欲撤消已變更的資料錄內容以復原資料為原值,此時DBA應下達何種SQL指令?【6分】\n(三)某國際金融公司設立兩項關聯資料表 Bank 及Manager,其主鍵欄位各別名為Bnk_No、Mgr_Id,其餘欄位與資料錄內容,詳如下列表格所示。\n\nBank:\n| Bnk_No | Bnk_City | Mgr_Id |\n|---|---|---|\n| Bnk-101 | Chicago | Mgr-101 |\n| Bnk-201 | Dubai | Mgr-128 |\n| Bnk-202 | London | Mgr-107 |\n| Bnk-303 | Milan | null |\n| Bnk-505 | New York | Mgr-130 |\n| Bnk-525 | Seattle | Mgr-666 |\n| Bnk-606 | Taipei | Mgr-618 |\n| Bnk-707 | Tokyo | null |\n| Bnk-808 | Toronto | Mgr-131 |\n| Bnk-909 | Paris | null |\n\nManager:\n| Mgr_Id | Mgr_Year | Mgr@Mail |\n|---|---|---|\n| Mgr-101 | 17 | Alan@1010 |\n| Mgr-107 | 13 | Bible@1072 |\n| Mgr-618 | 26 | David@6180 |\n| Mgr-106 | 4 | Ellen@1069 |\n| Mgr-128 | 22 | Jenny@1280 |\n| Mgr-130 | 10 | Jessie@1308 |\n| Mgr-131 | 12 | Tyler@1318 |\n| Mgr-666 | 8 | Wayne@6660 |\n\n下列查詢句SQL-1、SQL-2,請依其執行結果各別繪製表格以呈現資料內容:\n【SQL-1】【6分】\nSELECT COUNT(*), AVG(Mgr_Year) FROM Manager WHERE Mgr_Year > 10;\n【SQL-2】【7分】\nSELECT * FROM Bank WHERE Mgr_Id <> 'null' ORDER BY Mgr_Id ASC;",
+    "type": "essay"
+  },
+  {
+    "number": "2",
+    "text": "第二題:\n甲公司的產品受到很多消費者的喜愛,紛紛登入甲公司的網站訂購產品,可是太多的消費者在同一時間登入甲公司的網站,導致網站系統過於忙碌而無法正常服務消費者。請問:\n(一)前述狀況是否屬於網路攻擊?請說明理由,未提供說明者不予給分。【7分】\n(二)對於前述狀況,甲公司應該要如何處理,才能讓公司的網站系統正常服務,滿足消費者訂購產品的需求?【8分】\n(三)如果甲公司要使用FIDO (Fast Identity Online)技術驗證網站使用者的身分,請說明什麼是FIDO技術,以及FIDO的優點和缺點各為何?【10分】",
+    "type": "essay"
+  },
+  {
+    "number": "3",
+    "text": "第三題:\n請分別說明何謂網路防護?何謂端點防護?並說明兩者的差異為何?【25分】",
+    "type": "essay"
+  },
+  {
+    "number": "4",
+    "text": "第四題:\n假設您是一位系統管理員,負責管理公司內部的多台伺服器。您需要使用腳本語言來自動化一些日常的系統管理任務,例如:備份數據、檢查系統資源使用狀況、並在特定條件下發送警報通知。\n系統管理需求:\n備份資料夾:您需要定期備份特定目錄下的文件到一個遠端伺服器。這個過程需要自動化,並確保在備份完成後,會發送一個通知。\n檢查系統資源使用狀況:您需要監控伺服器的CPU和內存使用率,當使用率超過設定的值時,自動發送警報。\n批量管理用戶帳戶:您需要一個腳本來批量創建和管理用戶帳戶,並將結果記錄到日誌文件中。\n問題:【25分】\n1. 腳本語言選擇:請說明您會選擇哪種腳本語言來完成這些任務,並解釋您的選擇理由。您可以選擇 Bash、Python、PowerShell 等語言之一。\n2. 備份資料夾的自動化腳本:使用您選擇的語言,撰寫一個腳本來實現自動備份指定目錄的功能,並在備份完成後發送通知。\n3. 系統資源監控的腳本:撰寫一個腳本來監控伺服器的CPU和內存使用率,當使用率超過80%時,將警報發送到指定的電子郵件地址。\n4. 批量管理用戶帳戶的腳本:撰寫一個腳本來批量創建用戶帳戶,並將每個操作的結果(成功或失敗)記錄到日誌文件中。",
+    "type": "essay"
+  }
+]

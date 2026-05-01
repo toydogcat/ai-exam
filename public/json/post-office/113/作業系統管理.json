@@ -1,93 +1,27 @@
-{
-  "duration": 90,
-  "questions": [
-    {
-      "number": "1-(1)",
-      "type": "essay",
-      "text": "請說明下列 Windows PowerShell 指令之目的：\n1. Start-Process\n2. Stop-Process\n3. Wait-Process -Name PowerPoint -Timeout 60",
-      "options": [],
-      "answer": "【參考答案】\n1. Start-Process：在本地電腦啟動一個或多個處理程序。\n2. Stop-Process：停止一個或多個正在運行的處理程序。\n3. Wait-Process -Name PowerPoint -Timeout 60：等待 PowerPoint 程序結束，最長等待 60 秒，若逾時則回報錯誤或繼續執行後續指令。",
-      "score": 12
-    },
-    {
-      "number": "1-(2)",
-      "type": "essay",
-      "text": "在 PowerShell 命令殼層中，#Requires 指令的主要功能為何？",
-      "options": [],
-      "answer": "【參考答案】用於防止腳本在缺少必要的先決條件(如特定的 PowerShell 版本、模組或管理權限)下執行。若條件不符，腳本會立即終止並報錯。",
-      "score": 6
-    },
-    {
-      "number": "1-(3)",
-      "type": "essay",
-      "text": "Windows SCCM (System Center Configuration Manager) 之主要功能為何？",
-      "options": [],
-      "answer": "【參考答案】主要用於大型企業的設備管理，包含軟體分發、作業系統部署、安全性補丁更新管理、硬體資產盤點及遠端控制等。",
-      "score": 7
-    },
-    {
-      "number": "2-(1)",
-      "type": "essay",
-      "text": "Windows 程序優先順序類別中，最高為 REALTIME，最低為 IDLE。請依照優先順序列出其餘四項類別。",
-      "options": [],
-      "answer": "【參考答案】依序為：1. HIGH (高) 2. ABOVE_NORMAL (高於標準) 3. NORMAL (標準) 4. BELOW_NORMAL (低於標準)。",
-      "score": 12
-    },
-    {
-      "number": "2-(2)",
-      "type": "essay",
-      "text": "說明針對行程指定 Processor/Core 執行的兩種「親和性」(affinity)設定方式。",
-      "options": [],
-      "answer": "【參考答案】\n1. 軟親和性(Soft Affinity)：調度程式盡量讓行程在同一個處理器運行，但若負載不均可切換。\n2. 硬親和性(Hard Affinity)：強制指定行程僅能在特定的處理器子集上運行，不得切換。",
-      "score": 6
-    },
-    {
-      "number": "2-(3)",
-      "type": "essay",
-      "text": "在 Windows 中鍵入 regedit 指令之目的為何？",
-      "options": [],
-      "answer": "【參考答案】啟動「登錄編輯程式」(Registry Editor)，用以查看、搜尋、修改系統註冊表(Registry)中的配置資料。",
-      "score": 7
-    },
-    {
-      "number": "3-(1)",
-      "type": "essay",
-      "text": "請寫出 Linux 設定當天晚上 22:00 關機的指令。",
-      "options": [],
-      "answer": "【參考範例】shutdown 22:00",
-      "score": 5
-    },
-    {
-      "number": "3-(2)",
-      "type": "essay",
-      "text": "請說明 Linux grep 指令的用途為何？",
-      "options": [],
-      "answer": "【參考答案】文字搜尋工具。使用正規表達式(Regex)在檔案或標準輸入中搜尋匹配指定樣式的行，並將其輸出。",
-      "score": 5
-    },
-    {
-      "number": "3-(3)",
-      "type": "essay",
-      "text": "請說明 3 個從 ifconfig 指令可以得到的資訊。",
-      "options": [],
-      "answer": "【參考答案】1. IP 位址(inet addr)。 2. 子網路遮罩(Mask)。 3. 實體位址(HWaddr/MAC)。",
-      "score": 15
-    },
-    {
-      "number": "4-(1)",
-      "type": "essay",
-      "text": "請舉例並說明 Linux chown 和 chgrp 兩個指令之用途。",
-      "options": [],
-      "answer": "【參考答案】\nchown：更改檔案的所有者(Owner)。例：chown user1 file.txt。\nchgrp：更改檔案的所屬群組(Group)。例：chgrp group1 file.txt。",
-      "score": 10
-    },
-    {
-      "number": "4-(2)",
-      "type": "essay",
-      "text": "權限資料「-rwxr-xr--」代表的意義為何？請詳細說明。",
-      "options": [],
-      "answer": "【參考答案】\n1. 第一個字「-」：代表這是一個普通檔案。\n2. 「rwx」(2-4位)：擁有者權限，可讀、可寫、可執行。\n3. 「r-x」(5-7位)：群組權限，可讀、不可寫、可執行。\n4. 「r--」(8-10位)：其他人權限，僅可閱讀。",
-      "score": 15
-    }
-  ]
-}
+[
+  {
+    "number": "1",
+    "text": "第一題:\n請回答下列 Windows 作業系統相關問題:\n(一)於Windows PowerShell可各別下達下列三項指令,請問其各別目的為何?【12分】\n(二)使用者於PowerShell命令殼層中,可下達#Requires指令,請問其主要功能為何?【6分】\n(三) Windows 使用者可執行微軟 SCCM“系統中心組態管理器”(System Center Configuration Manager),請問SCCM之主要功能為何?【7分】",
+    "type": "essay",
+    "options": [
+      "Start-Process",
+      "Stop-Process",
+      "Wait-Process -Name PowerPoint -Timeout 60"
+    ]
+  },
+  {
+    "number": "2",
+    "text": "第二題:\n請回答下列Windows 作業系統相關問題:\n(一)待執行程序(process)於Windows 排程中皆有其所歸屬的“優先順序類別(class)\",其中,最高類別為 REALTIME_PRIORITY_CLASS、最低類別為 IDLE_PRIORITY_CLASS,請依照優先順序列出其餘四項類別。【12分】\n(二) Windows 管理者針對待運算行程(process)可指定其由哪一個 Processor/Core 來執行,此稱為“親和性”(affinity)設定,請說明有哪兩種親和性設定的方式?【6分】\n(三)於Windows 工作列上所標示之“搜尋”方塊對話內,系統管理員或高階使用者鍵入 regedit 指令之目的為何?【7分】",
+    "type": "essay"
+  },
+  {
+    "number": "3",
+    "text": "第三題:\n請回答下列 Linux作業系統相關問題:\n(一)關機的指令 shutdown 指令是Linux系統常用的關機方式,請寫出設定當天晚上 22:00 關機的指令。【5分】\n(二)請說明 grep指令的用途為何?【5分】\n(三)請說明3個 ifconfig 指令可以得到的資訊。【15分】",
+    "type": "essay"
+  },
+  {
+    "number": "4",
+    "text": "第四題:\n請回答下列Linux作業系統相關問題:\n(一)請舉例並說明 chown和chgrp兩個指令之用途為何?【10分】\n(二)有一檔案的類型與權限資料為「-rwxr-xr--」,請詳細說明所代表的意義為何?【15分】",
+    "type": "essay"
+  }
+]

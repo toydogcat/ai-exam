@@ -1,20 +1,25 @@
 [
   {
     "number": "1",
-    "text": "下列何者並非作者認為閱讀能對寫作有所助益的原因？",
+    "text": "壹、國文\n一、短文寫作【非選擇題1題,共30分】\n第一題:\n運動場上,常常有很多激勵人心的故事,可能是自己走上運動場,汗流浃背的奔馳跑跳、劍拔弩張的激烈競賽,又或者是作為一個觀眾,隨著運動員的表現而激情吶喊、惆悵無奈:最終,最吸引人的,不一定是金牌、第一名,而是在某些瞬間帶給人的領悟。請以「運動場上的體悟」為題,撰寫一篇短文,文長為350-600字。【30分】",
+    "type": "essay"
+  },
+  {
+    "number": "1",
+    "text": "**題組：1-5 題**\n二、閱讀測驗【2篇,四選一單選選擇題10題,每題2分,共20分】\n第一篇:\n關於閱讀和寫作到底有沒有關係,不同人的看法差別很大。公平地講,它們之間有關係,而且關係密切。那麼,為什麼很多人說自己讀了很多東西卻還是寫不好呢?首先,閱讀對寫作的幫助至少要延後一到兩年。其次,讀什麼很有講究。真正對寫作有幫助的是那些經典著作,那些經過了上百年,甚至上千年,被各種人篩選後留下來的經典作品。天天看雜誌、刷「朋友圈」,閱讀量再大,對寫作也沒什麼幫助。最後,怎麼讀、關注什麼很重要。很多人讀書很心急,希望能從書中找到一些警句或漂亮的文字,直接用到作文裡。這種想法過於天真了。即便是經典,警句和高潮篇章也不可能經常出現,而它們之所以出色,也是因為有周圍語境的烘托。這就如同一杯茶,雖然香味來自茶葉,但是只有用水沏完,才能品出茶的好壞,乾嚼茶葉是不行的。很多人在寫作時抄一堆名人名言,這不僅不會提高作品的境界,還會讓作品顯得過於牽強,文理不通。\n中時期的作文成績差了很多,原因很簡單,那時候我的語文老師不太在意文辭,反而非常在意文章的結構和行文的邏輯,而我當時沒有能力駕馭它們。雖然他一開始給了我不少比較差的成績,但是我今天依然非常感激這位老師,因為他為我指出了一個正確練習寫作的方向。我用了將近三年的時間把寫作的風格定型了————注重結構和邏輯,而不是文采。有了這個基礎,文采可以慢慢補上。當然,在這三年間,我的閱讀量是極大的,這種累積的收益二十年後才顯現出來。(吳軍 閱讀與寫作)\n\n1.下列何者並非作者認為閱讀能對寫作有所助益的原因?",
     "options": [
       "閱讀需要時間沉澱後才能呈現效果",
       "閱讀的好作品應是經過時空的淬鍊",
       "文章最好符合讀者的想法與大眾趣味",
       "讀者對經典作品有自己的理解與看法"
     ],
-    "answer": "1"
+    "answer": "3"
   },
   {
     "number": "2",
-    "text": "根據本文文意，作者何以說：「天天看雜誌、刷朋友圈，閱讀量再大，對寫作也沒什麼幫助」？",
+    "text": "根據本文文意,作者何以說:「天天看雜誌、刷朋友圈,閱讀量再大,對寫作也沒什麼幫助」?",
     "options": [
-      "此類文章見識短淺，文理又不通",
+      "此類文章見識短淺,文理又不通",
       "作者認為朋友不見得具有大智慧",
       "雜誌與朋友圈的文章往往只具娛樂性",
       "此類文章缺乏布局結構與時間考驗"
@@ -23,7 +28,7 @@
   },
   {
     "number": "3",
-    "text": "此文中提到「如同一杯茶，雖然香味來自茶葉，但是只有用水沏完，才能品出茶的好壞，乾嚼茶葉\n是不行的。」根據本文文意，其中「茶葉與水」分別比喻的應是：",
+    "text": "此文中提到「如同一杯茶,雖然香味來自茶葉,但是只有用水沏完,才能品出茶的好壞,乾嚼茶葉是不行的。」根據本文文意,其中「茶葉與水」分別比喻的應是:",
     "options": [
       "文采與情思",
       "天賦與努力",
@@ -34,40 +39,40 @@
   },
   {
     "number": "4",
-    "text": "此文中，作者認為經典文章無法立即直接幫助寫作最主要的原因是：",
+    "text": "此文中,作者認為經典文章無法立即直接幫助寫作最主要的原因是:",
     "options": [
-      "警句和高潮篇章太少，難以畫龍點睛",
+      "警句和高潮篇章太少,難以畫龍點睛",
       "讀者不能完全理解過於高深的境界",
-      "每篇文章的語境不盡然相同，無法生搬硬套，需要思考消化",
-      "經典作品詰屈聱牙不易閱讀，道理過於深奧"
+      "每篇文章的語境不盡然相同,無法生搬硬套,需要思考消化",
+      "經典作品詰屈聱牙不易閱讀,道理過於深奧"
     ],
     "answer": "3"
   },
   {
     "number": "5",
-    "text": "根據本文文意，作者認為閱讀對於寫作者起作用所需的是：",
+    "text": "根據本文文意,作者認為閱讀對於寫作者起作用所需的是:",
     "options": [
       "宏觀的布局",
       "時間的沉澱",
       "豐富的想像",
-      "縝密的邏輯 \n第二篇： \n讀到「我欲乘風歸去，又恐瓊樓玉宇，高處不勝寒」的兩句詞，公寓房子上層的居民多半要感到毛骨悚\n然。屋子越高越冷。 \n自從煤貴了之後，熱水汀早成了純粹的裝飾品。構成浴室的圖案美，熱水龍頭上的H 字樣自然是不可\n少的一部分；實際上呢，如果你放冷水而開錯了熱水龍頭，立刻便有一種空洞而悽愴的轟隆轟隆之聲從九泉\n之下發出來，那是公寓裡特別複雜，特別多心的熱水管系統在那裡發脾氣了。即使你不去太歲頭上動土，那\n雷神也隨時地要顯靈。無緣無故，只聽見不懷好意的「嗡……」拉長了半晌之後接著「訇訇」兩聲，活像飛\n機在頂上盤旋了一會，擲了兩枚炸彈。在戰時香港嚇細了膽子的我，初回上海的時候，每每為之魂飛魄散。\n若是當初它認真工作的時候，艱辛地將熱水運到六層樓上來，便是咕嚕兩聲，也還情有可原。現在可是雷聲\n大，雨點小，難得滴下兩滴生銹的黃漿……然而也說不得了，失業的人向來是肝火旺的。 \n風如果不朝這邊吹的話，高樓上的雨倒是可愛的。有一天，下了一黃昏的雨，出去的時候忘了關窗戶，\n回來一開門，一房的風聲雨味，放眼望出去，是碧藍的瀟瀟的夜，遠處略有淡燈搖曳，多數的人家還沒點燈。 \n常常覺得不可解，街道上的喧聲，六樓上聽得分外清楚，仿佛就在耳根底下，正如一個人年紀越高，距\n離童年漸漸遠了，小時的瑣屑的回憶反而漸漸親切明晰起來。 \n A 。比我較有詩意的人在枕上聽松濤，聽海嘯，我是非得聽見電車響才睡得著覺的。在香港山上，\n只有冬季裡，北風徹夜吹著常青樹，還有一點電車的韻昧。長年住在鬧市裡的人大約非得出了城之後才知道\n他離不了一些什麼。城裡人的思想，背景是條紋布的幔子，淡淡的白條子便是行馳著的電車——平行的，勻\n淨的，聲響的河流，汩汩流入下意識裡去。（張愛玲〈公寓生活記趣〉）"
+      "缜密的邏輯"
     ],
     "answer": "2"
   },
   {
     "number": "6",
-    "text": "根據本文文意，作者何以說：「公寓房子上層的居民讀到『我欲乘風歸去，又恐瓊樓玉宇，高處不\n勝寒』多半要感到毛骨悚然」？",
+    "text": "**題組：6-10 題**\n第二篇:\n讀到「我欲乘風歸去,又恐瓊樓玉宇,高處不勝寒」的兩句詞,公寓房子上層的居民多半要感到毛骨悚然。屋子越高越冷。\n自從煤貴了之後,熱水汀早成了純粹的裝飾品。構成浴室的圖案美,熱水龍頭上的字樣自然是不可少的一部分:實際上呢,如果你放冷水而開錯了熱水龍頭,立刻便有一種空洞而悽愴的轟隆轟隆之聲從九泉之下發出來,那是公寓裡特別複雜,特別多心的熱水管系統在那裡發脾氣了。即使你不去太歲頭上動土,那雷神也隨時地要顯靈,無緣無故,只聽見不懷好意的「嗡 ... 」拉長了半响之後接著「砰」兩聲,活像飛機在頂上盤旋了一會,擲了兩枚炸彈。在戰時香港嚇細了膽子的我,初回上海的時候,每每為之魂飛魄散。若是當初它認真工作的時候,艱辛地將熱水運到六層樓上來,便是咕嚕兩聲,也還情有可原。現在可是雷聲大,雨點小,難得滴下兩滴生銹的黃漿.......然而也說不得了,失業的人向來是肝火旺的。\n風如果不朝這邊吹的話,高樓上的雨倒是可愛的。有一天,下了一黃昏的雨,出去的時候忘了關窗戶,回來一開門,一房的風聲雨味,放眼望出去,是碧藍的瀟瀟的夜,遠處略有淡燈搖曳,多數的人家還沒點燈。\n常常覺得不可解,街道上的喧聲,六樓上聽得分外清楚,仿佛就在耳根底下,正如一個人年紀越高,距離童年漸漸遠了,小時的瑣屑的回憶反而漸漸親切明晰起來。\n______,比我較有詩意的人在枕上聽松濤,聽海嘯,我是非得聽見電車響才睡得著覺的。在香港山上,只有冬季裡,北風徹夜吹著常青樹,還有一點電車的韻味。長年住在鬧市裡的人大約非得出了城之後才知道他離不了一些什麼。城裡人的思想,背景是條紋布的幔子,淡淡的白條子便是行馳著的電車————平行的,勻淨的,聲響的河流,汩汩流入下意識裡去。(張愛玲《公寓生活記趣》)\n\n6.根據本文文意,作者何以說:「公寓房子上層的居民讀到『我欲乘風歸去,又恐瓊樓玉宇,高處不勝寒』多半要感到毛骨悚然」?",
     "options": [
-      "誇張房子年久失修自然陰風陣陣，鬼影幢幢",
-      "描繪房高如同山高，風吹帶來陣陣恐怖的寒意",
-      "自嘲樓高熱水難以輸送，感受到的是真正的寒冷",
+      "誇張房子年久失修自然陰風陣陣,鬼影幢幢",
+      "描繪房高如同山高,風吹帶來陣陣恐怖的寒意",
+      "自嘲樓高熱水難以輸送,感受到的是真正的寒冷",
       "聯想蘇軾人生不得意時正如同自己目前的人生困境"
     ],
     "answer": "3"
   },
   {
     "number": "7",
-    "text": "文中的「熱水汀」一詞所指的應是：",
+    "text": "文中的「熱水汀」一詞所指的應是:",
     "options": [
       "瓦斯爐",
       "暖氣設備",
@@ -78,7 +83,7 @@
   },
   {
     "number": "8",
-    "text": "「現在可是雷聲大，雨點小，難得滴下兩滴生銹的黃漿……然而也說不得了，『失業的人向來是肝\n火旺的』」整句話根據本文上下文來看，『』內使用的寫作手法是：",
+    "text": "「現在可是雷聲大,雨點小,難得滴下兩滴生銹的黃漿 然而也說不得了,『失業的人向來是肝火旺的』」整句話根據本文上下文來看,『』內使用的寫作手法是:",
     "options": [
       "擬人",
       "誇飾",
@@ -89,7 +94,7 @@
   },
   {
     "number": "9",
-    "text": "「那是公寓裡特別複雜，特別多心的熱水管系統在那裡發脾氣了。」描述的是：",
+    "text": "「那是公寓裡特別複雜,特別多心的熱水管系統在那裡發脾氣了。」描述的是:",
     "options": [
       "屋主多愁善感",
       "公寓人事管理複雜",
@@ -100,18 +105,18 @@
   },
   {
     "number": "10",
-    "text": "根據後半段的上下文意，文中 A 之處，下列何者最適合填入：",
+    "text": "根據後半段的上下文意,文中______之處,下列何者最適合填入:",
     "options": [
       "萬籟俱寂",
       "雞犬相聞",
       "平地一聲雷",
-      "我喜歡聽市聲 \n貳、英文"
+      "我喜歡聽市聲"
     ],
     "answer": "4"
   },
   {
     "number": "11",
-    "text": "Mr. Smith is about to retire from the company, so his colleagues plan a _____ party for him.",
+    "text": "貳、英文【四選一單選選擇題25題,每題2分】\n一、字彙測驗【請依照句子前後文意,選出最適當的答案】\n11. Mr. Smith is about to retire from the company, so his colleagues plan a _____ party for him.",
     "options": [
       "wedding",
       "farewell",
@@ -125,9 +130,9 @@
     "text": "It is very difficult to _____ between love and money when you can just have one of them.",
     "options": [
       "return",
-      "separate",
+      "complain",
       "decide",
-      "complain"
+      "separate"
     ],
     "answer": "3"
   },
@@ -136,8 +141,8 @@
     "text": "In Halloween, people would put on _____ makeups and costumes to look like ghosts or monsters.",
     "options": [
       "scary",
-      "dizzy",
       "tiny",
+      "dizzy",
       "guilty"
     ],
     "answer": "1"
@@ -147,9 +152,9 @@
     "text": "When the CEO was arrested for his crime, the stock price of the company _____ the next day.",
     "options": [
       "plunged",
+      "surged",
       "soared",
-      "ascended",
-      "surged"
+      "ascended"
     ],
     "answer": "1"
   },
@@ -158,52 +163,52 @@
     "text": "The puppies in the pet shops are so _____ that Mary really wants to have one as a soothing pet.",
     "options": [
       "demanding",
-      "hostile",
       "grumpy",
+      "hostile",
       "adorable"
     ],
     "answer": "4"
   },
   {
     "number": "16",
-    "text": "The witness only had a short _____ at the thief’s face, so she didn’t remember how he looked like except \nfor his beard.",
+    "text": "The witness only had a short _____ at the thief's face, so she didn't remember how he looked like except for his beard.",
     "options": [
-      "term",
+      "circuit",
       "glance",
       "stroll",
-      "circuit"
+      "term"
     ],
     "answer": "2"
   },
   {
     "number": "17",
-    "text": "Millions of Americans are under _____ watches in the Northeast where post-tropical cyclone Debby is \nrapidly picking up speed.",
+    "text": "Millions of Americans are under _____ watches in the Northeast where post-tropical cyclone Debby is rapidly picking up speed.",
     "options": [
       "tornado",
-      "earthquake",
       "fire",
+      "earthquake",
       "forest"
     ],
     "answer": "1"
   },
   {
     "number": "18",
-    "text": "Apple Pay and Google Pay have both been around for quite some time to make online payments a breeze \nand offer users the ability to pay digitally in _____ stores, too.",
+    "text": "Apple Pay and Google Pay have both been around for quite some time to make online payments a breeze and offer users the ability to pay digitally in _____ stores, too.",
     "options": [
       "curtail",
       "detail",
       "retail",
-      "distraction \n二、文法測驗"
+      "entail"
     ],
     "answer": "3"
   },
   {
     "number": "19",
-    "text": "We canceled the outdoor party _____ it rained cats and dogs.",
+    "text": "二、文法測驗【請在下列各題中選出最適當的答案】\n19. We canceled the outdoor party _____ it rained cats and dogs.",
     "options": [
       "so",
-      "although",
       "unless",
+      "although",
       "because"
     ],
     "answer": "4"
@@ -224,8 +229,8 @@
     "text": "Twenty years ago, Mr. Wang bought this house, _____ his two daughters were born.",
     "options": [
       "where",
-      "that",
       "however",
+      "that",
       "which"
     ],
     "answer": "1"
@@ -243,18 +248,18 @@
   },
   {
     "number": "23",
-    "text": "Holding an implicit bias towards a particular social group can determine _____ an individual from that \ngroup.",
+    "text": "Holding an implicit bias towards a particular social group can determine _____ an individual from that group.",
     "options": [
-      "what you treat",
       "you treat how",
+      "which you treat",
       "how you treat",
-      "which you treat"
+      "what you treat"
     ],
     "answer": "3"
   },
   {
     "number": "24",
-    "text": "_____ the alternator, the battery is the most important component in any car’s electrical system.",
+    "text": "_____ the alternator, the battery is the most important component in any car's electrical system.",
     "options": [
       "As far as",
       "Aside from",
@@ -265,25 +270,25 @@
   },
   {
     "number": "25",
-    "text": "People often have trouble _____ attention to one thing because their brain wants to drift off to think about \nsomething else.",
+    "text": "People often have trouble _____ attention to one thing because their brain wants to drift off to think about something else.",
     "options": [
+      "paid",
       "to pay",
-      "pay",
       "paying",
-      "paid \n \n三、克漏字測驗"
+      "pay"
     ],
     "answer": "3"
   },
   {
     "number": "26",
-    "text": "",
+    "text": "**題組：26-30 題**\n三、克漏字測驗【請依照段落上下文意,選出最適當的答案】\nDear Ms. Clark,\nI am writing to congratulate you on your recent ___26___. I've heard from one of my colleagues that you were appointed general manager of the Royal Hotel. It's really good news and I'm truly ___27___ for you. I think no one has ___28___ than you over the past few years. It was only a matter of ___29___ before your abilities and efforts were recognized. You definitely ___30___ this position. Please accept my sincerest congratulations and best wishes!\n\n26.",
     "options": [
       "combination",
       "installation",
       "promotion",
       "registration"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
     "number": "27",
@@ -325,20 +330,20 @@
       "deserve",
       "change",
       "offer",
-      "ruin \n四、閱讀測驗"
+      "ruin"
     ],
     "answer": "1"
   },
   {
     "number": "31",
-    "text": "Which healing method is NOT mentioned in this article?",
+    "text": "**題組：31-35 題**\n四、閱讀測驗【請依照段落上下文意,選出最適當的答案】\nScientists have proved that some alternative therapies have healing powers. One common type of them is using scents. Pleasant smells work in various ways: some help calm stress, some relax people, and others bring up people's energy. Popular scents include fruit, grasses, and flowers. Japanese engineers have designed aroma systems in public buildings. They put different scents into the air to create a better environment. For example, customers who are waiting in long lines at some banks might smell fresh flowers and feel more at ease.\nAnimals are also believed to have abilities to calm and comfort people, especially young patients in hospitals and older people in nursing homes. The animals are brought to these places for ill or injured people to see and touch. This has an amazingly soothing effect. Dogs and cats are the most usual healers, followed by rabbits and birds, and sometimes deer, horses, and even llamas are used!\nColors can change your mood and emotions, too. Medical experts skilled with colors believe that colors around you have varied effects to you. For example, the color blue can relieve pain, and the colors red and orange can make you energetic. Some therapists even believe different parts of the human body are influenced by different colors. They believe that having the right colors around you can help you get better when you are sick.\nIt is also reasonable that amusing things can give you a pleasant mood or a good laugh. Laughter reduces stress, fear and anger. Many hospitals encourage their nurses to smile to and laugh with their patients, or put funny pictures on the walls. In India, there are \"laughing clubs\" for people to get together in the morning to tell hilarious stories to start the day, as many believe laughter is often the best medicine.\n\n31. Which healing method is NOT mentioned in this article?",
     "options": [
       "Pet therapy",
-      "Aromatherapy",
       "Humor therapy",
+      "Aromatherapy",
       "Diet therapy"
     ],
-    "answer": "1"
+    "answer": "4"
   },
   {
     "number": "32",
@@ -368,8 +373,8 @@
     "options": [
       "Boost their energy",
       "Enhance their joy",
-      "Spark their anger",
-      "Reduce their fear"
+      "Reduce their fear",
+      "Spark their anger"
     ],
     "answer": "1"
   },

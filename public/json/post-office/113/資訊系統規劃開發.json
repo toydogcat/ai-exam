@@ -1,61 +1,26 @@
-{
-  "duration": 90,
-  "questions": [
-    {
-      "number": "1-(1)",
-      "type": "essay",
-      "text": "請以選課系統的功能為例，請先簡述選課系統流程並繪製 UML 活動圖 (Activity diagram)。",
-      "options": [],
-      "answer": "【參考解析】流程簡述：1.登入系統。2.查詢課程。3.檢查剩餘名額。4.檢查衝堂。5.儲存選課紀錄。活動圖應包含上述節點、分叉(Decision)及結束點。",
-      "score": 10
-    },
-    {
-      "number": "1-(2)",
-      "type": "essay",
-      "text": "請舉出 3 個建置 CI (Continuous Integration) / CD (Continuous Deployment) 系統開發流程的效益。",
-      "options": [],
-      "answer": "【參考答案】1. 自動化測試與部署，減少人為操作失誤。2. 頻繁整合代碼，早期發現 Bug。3. 縮短軟體交付週期，快速獲取用戶反饋。",
-      "score": 15
-    },
-    {
-      "number": "2-(1)",
-      "type": "essay",
-      "text": "有一資訊系統需要與外部系統進行資料交換，請規劃 3 種身分認證方式，並說明認證方式與其可應用場景。",
-      "options": [],
-      "answer": "【參考答案】1. API Key：適用於非高度機密的開放 API。2. OAuth 2.0：適用於第三方授權登入場景。3. 數位簽章(HMAC/RSA)：適用於高安全性金融交易對接。",
-      "score": 15
-    },
-    {
-      "number": "2-(2)",
-      "type": "essay",
-      "text": "設計一個資訊系統時，說明微服務架構 (Microservices Architecture) 的優點以及適合應用的業務場景。",
-      "options": [],
-      "answer": "【參考答案】優點：1. 獨立擴展性。2. 故障隔離。3. 技術多樣性(各服務可用不同語言)。適合場景：超大規模互聯網應用、業務邏輯極其複雜且更新頻繁的系統。",
-      "score": 10
-    },
-    {
-      "number": "3-(1)",
-      "type": "essay",
-      "text": "有一個 SQL：'SELECT lname, job_id FROM employee WHERE (lname = 'Brown')'。請利用 Java 或 C# 程式語言執行此 SQL，將查詢到的資料放入適當物件中並說明每行指令作用。",
-      "options": [],
-      "answer": "【參考範例 - Java】\nString sql = \"SELECT lname, job_id FROM employee WHERE lname = ?\";\nPreparedStatement pstmt = con.prepareStatement(sql);\npstmt.setString(1, \"Brown\");\nResultSet rs = pstmt.executeQuery();",
-      "score": 16
-    },
-    {
-      "number": "3-(2)",
-      "type": "essay",
-      "text": "有一 SQL：'UPDATE Registration SET age = 30 WHERE id in (100, 101)'。請寫 Java 或 C# 指令去執行這個 SQL 的 Update 指令。",
-      "options": [],
-      "answer": "【參考範例 - C#】\nSqlCommand cmd = new SqlCommand(\"UPDATE Registration SET age = 30 WHERE id in (100, 101)\", con);\nint rowsAffected = cmd.ExecuteNonQuery();",
-      "score": 9
-    },
-    {
-      "number": "4",
-      "type": "essay",
-      "text": "使用 Java 或 C# 撰寫：\n1. 宣告陣列存放：88, 92, 78, 84, 80。\n2. 追加資料：68, 86, 72。\n3. 列出後面 4 個資料的值。\n4. 找出陣列最大值、最小值及求算平均值。",
-      "options": [],
-      "answer": "【參考範例 - Java】\nList<Integer> list = new ArrayList<>(Arrays.asList(88, 92, 78, 84, 80));\nlist.addAll(Arrays.asList(68, 86, 72));\nfor(int i=list.size()-4; i<list.size(); i++) System.out.println(list.get(i));\ndouble avg = list.stream().mapToInt(Integer::intValue).average().orElse(0.0);\nint max = Collections.max(list);",
-      "score": 25
-    }
-  ]
-}
+[
+  {
+    "number": "1",
+    "text": "第一題:\n請回答下列問題:\n(一)請以選課系統的功能為例,請先簡述您心中的選課系統流程並繪製 UML(Unified Modeling Language)的活動圖(Activity diagram)【10分】\n(二)請舉出3個建置CI(Continuous Integration) / CD (Continuous Deployment) 系統開發流程的效益。【15分】",
+    "type": "essay"
+  },
+  {
+    "number": "2",
+    "text": "第二題:\n請回答下列問題:\n(一)有一資訊系統需要與外部系統進行資料交換,請規劃3種身分認證方式,並請說明認證方式與其可應用場景。【15分】\n(二)設計一個資訊系統時,選擇適當的系統架構以滿足業務需求是相當重要的,請說明微服務架構(Microservices Architecture)的優點以及適合應用的業務場景。【10分】",
+    "type": "essay"
+  },
+  {
+    "number": "3",
+    "text": "第三題:\n請用 Java 或C#程式來完成下列問題:\n(一)有一個SQL的SELECT 查詢指令如下「SELECT Iname, job_id FROM employee WHERE ( Iname='Brown' )」\n(二)有一個SQL指令如下「UPDATE Registration SET age=30 WHERE id in (100, 101),」請寫 Java指令或C#指令去執行這個SQL的Update 指令。【9分】",
+    "type": "essay",
+    "options": [
+      "請利用Java 或C#程式語言執行此SQL指令,並將所查詢到的資料放入適當的物件中(註:假設con是連線到SQL資料表的物件,而且您已經取得了 con物件。而查詢到的資料物件,Java可以用ResultSet 來宣告查詢出資料內容的物件,C#可以SqlDataReader來宣告)。【8分】",
+      "請說明小題(1)中,您所寫每一行指令的作用。【8分】"
+    ]
+  },
+  {
+    "number": "4",
+    "text": "第四題:\n一個程式有下列的功能,請協助完成,並使用Java或C#程式語言撰寫。\n(一)請宣告一個陣列來存放整數,並將如下5個整數資料:88,92,78,84,80。放在該陣列中。【4分】\n(二)請在第(一)小題的陣列中,再加下列3個整數資料:68,86,72。【4分】\n(三)延續第(二)小題,請用程式列出後面4個資料的值。【7分】\n(四)由於資料的個數會動態的改變,因此在這個時間點,您可能不知道資料的個數是多少,請寫一段程式可以安全的將目前的整數陣列求找出最大值、最小值及求算平均值。【10分】\n註:Java 可以使用 ArrayList 來宣告陣列物件,並用 Collections 將資料加入陣列中,而C#可以使用List來宣告陣列物件。",
+    "type": "essay"
+  }
+]

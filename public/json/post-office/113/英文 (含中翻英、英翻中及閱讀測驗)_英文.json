@@ -1,7 +1,17 @@
 [
   {
     "number": "1",
-    "text": "What is the average number of times a person passes gas per day?",
+    "text": "第一部分:【非選擇題2題,每題40分,合計80分】\n第一題:中翻英【40分】\n萬物 AI化時代即將來臨!其核心概念是「邊緣AI(Edge Al)」,所謂「邊緣」,是相對「雲端」而言。目前的生成式AI、電商平台的商品推薦,都是倚賴遠端資料中心的雲端運算;而邊緣AI則是由身邊的手機、筆電等裝置去蒐集、分析及處理資料,無須上傳雲端。一些科幻產品如智慧眼鏡或戒指,不久都將陸續問世。",
+    "type": "essay"
+  },
+  {
+    "number": "2",
+    "text": "第二題:英翻中【40分】\nThe truth about the fashion industry is actually pretty ugly: globally, one garbage truck of textiles is wasted every second; fast fashion is responsible for 92 million tons of solid waste dumped in landfills each year. The fashion industry is also the second-biggest consumer of water, producing 20 percent of wastewater while also generating more greenhouse gas emissions than all international flights and maritime shipping combined annually. Our fast-fashion habit needs some reconsideration we should not continue to make or purchase clothes that do not consider our environment.",
+    "type": "essay"
+  },
+  {
+    "number": "1",
+    "text": "**題組：1-5 題**\n第二部分:【閱讀測驗2篇,四選一單選選擇題10題,每題2分,合計20分】\n第一篇:【請依照句子前後文意,選出最適當的答案】\nTo toot, to fart, or to cut the cheese are all funny ways to talk about something smelly: passing gas! A normal person passes about half a liter of gas a day, which equals about 14 farts per day. Lots of people are embarrassed by passing gas, but there is no need to feel this way. The first step is to admit that everyone does it. After you face up to this, then you can really enjoy learning some interesting facts about your gas.\nThere are several sources of gas. Gas in our intestines has to do with both the air we inhale and the gas molecules in our blood. In addition, gas is also produced from chemical reactions and bacteria living in our intestines. Nervous people usually have more gas as they would take in more air, and food usually goes through their digestive systems faster. This means that the oxygen in the food cannot be absorbed quickly enough and would go into the intestines and become gas.\nAnother interesting fact is that a person's diet affects the stinkiness of his or her gas. Foods with a lot of sulfur in them, such as eggs, meat, and cauliflower, cause stinkier gas. On the other hand, beans cause a lot of gas, but this gas isn't usually stinky because beans aren't high in sulfur. However, they do contain a lot of sugars that bacteria in the intestines love. The bacteria would eat the sugars and produce gas.\nFinally, people wonder. \"Where does gas go when you hold it in? Is this held gas harmful?\" Well, this gas will not poison you, but you may get a bad stomachache from the pressure. The gas that you hold in is neither absorbed nor released right away. It moves back up into the intestines and sooner or later comes out. It is not lost, just delayed. Now that you know some facts about gas, be proud of yourself and say, \"Yes, I cut the cheese!\"\n\n1. What is the average number of times a person passes gas per day?",
     "options": [
       "a little over a dozen times",
       "just shy of 20 times",
@@ -45,32 +55,32 @@
   },
   {
     "number": "5",
-    "text": "What is the author’s attitude toward passing gas?",
+    "text": "What is the author's attitude toward passing gas?",
     "options": [
       "It has to be done at the right place and right time.",
-      "There’s no need to feel embarrassed about it.",
+      "There's no need to feel embarrassed about it.",
       "It should be studied as a scientific subject.",
-      "We should do it as much as possible for our health. \n第二篇："
+      "We should do it as much as possible for our health."
     ],
     "answer": "2"
   },
   {
     "number": "6",
-    "text": "What is the main reason celebrity gossip is so popular?",
+    "text": "**題組：6-10 題**\n第二篇:【請依照句子前後文意,選出最適當的答案】\nAre you curious about the private lives of actors and pop stars? If so, you're not alone. Every day, the world's newspapers, magazines, and websites deliver a constant stream of gossip about the rich and famous. Although it's sometimes called \"junk food news,\" celebrity gossip is more popular than ever.\nMovie stars, athletes, singers, and politicians are the favorite subjects of the gossip media. Because they're always in the public eye, people feel very close to these superstars. We want to know what they're doing, what clothes they're wearing, and who they're spending time with. In offices, chatrooms, and coffee shops, celebrity news is a common topic of conversation.\nThere's even a class of photographer, the \"paparazzi,\" that follows celebrities around. Wherever stars eat, shop, or travel, the paparazzi are always there, cameras in hand. Some people see this as an invasion of privacy. However, stars can benefit from the paparazzi, whose photos are sold to news sources. It keeps stars in the public eye, which helps their careers.\nStories in the gossip media may be based on public facts, information from stars' friends, or secret \"insider\" sources. Regardless of how crazy the stories are, stars usually ignore them. However, they sometimes fight back. In Hollywood and London, there are special lawyers who work for celebrities. They may sue a magazine for printing a false story or demand that photographs not be printed.\nIn today's world, the media is everywhere. It's impossible for stars to hide from the press. At the same time, it's hard for the rest of us to avoid celebrity news. Yet, at the end of the day, we have only ourselves to blame. As a famous magazine editor once said, celebrity gossip is everywhere because we have such a huge appetite for it.\n\n6. What is the main reason celebrity gossip is so popular?",
     "options": [
       "It offers important secrets about becoming a star.",
       "People feel close to celebrities and are interested in their lives.",
       "Such gossip stories are often banned and so attracted more readers.",
       "Everyone has a chance to write and report this type of news."
     ],
-    "answer": "1"
+    "answer": "2"
   },
   {
     "number": "7",
     "text": "Which of the following might NOT be the primary subjects of the gossip media?",
     "options": [
       "A president of a country.",
-      "A world’s top player in tennis.",
+      "A world's top player in tennis.",
       "A music teacher in a high school.",
       "A screen couple in Hollywood."
     ],
@@ -100,7 +110,7 @@
   },
   {
     "number": "10",
-    "text": "What is the author’s conclusion on celebrity gossip in today’s world?",
+    "text": "What is the author's conclusion on celebrity gossip in today's world?",
     "options": [
       "Media is everywhere to provide gossip news, and people just love it.",
       "Gossip stories are expected to become fewer due to legal issues.",
