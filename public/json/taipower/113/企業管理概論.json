@@ -1,0 +1,229 @@
+{
+  "duration": 60,
+  "questions": [
+    {
+      "number": "1",
+      "type": "fill_in",
+      "text": "組織文化的傳承,主要透過故事、____、物質表徵與符號、語言4種方式,以及社會化、價值觀及規範等其他方式來傳達給員工。",
+      "options": [],
+      "answer": "儀式/典禮",
+      "score": 2
+    },
+    {
+      "number": "2",
+      "type": "fill_in",
+      "text": "浩斯(Robert House)提出的路徑-目標理論(Path-Goal Theory)主要信念為:有效的領導者能移除障礙,讓跟隨者有更清楚的路徑,以協助他們達到工作目標的成就。該理論提出4種領導行為,其中在制定決策前,和群體成員磋商,並採納他們建議的領導行為,係屬於____型領導者。",
+      "options": [],
+      "answer": "參與",
+      "score": 2
+    },
+    {
+      "number": "3",
+      "type": "fill_in",
+      "text": "改善群體決策的方法中,參與會議的成員彼此不會碰面,透過匿名、問卷蒐集等方式,各自表達看法,最後得到明確且一致的結論,稱為____技術法。",
+      "options": [],
+      "answer": "德菲/德菲爾/德爾菲/專家意見/專家調查/專家預測/Delphi",
+      "score": 2
+    },
+    {
+      "number": "4",
+      "type": "fill_in",
+      "text": "影響控制的權變因素包括組織規模、組織層級、分權化的程度、組織文化及____。",
+      "options": [],
+      "answer": "活動的重要性/作業的重要性",
+      "score": 2
+    },
+    {
+      "number": "5",
+      "type": "fill_in",
+      "text": "某企業採用計畫評核術(PERT)管理專案,假設最樂觀之完成時間為5天,最悲觀之完成時間為13天,正常狀況下最可能完成時間為6天,請問依該方法估計活動完成的時間應為____天。",
+      "options": [],
+      "answer": "7",
+      "score": 2
+    },
+    {
+      "number": "6",
+      "type": "fill_in",
+      "text": "羅賓斯(Stephen P. Robbins)與考特(Mary Coulter)提出激發創新的環境包括3項變數,其中對模稜兩可的接受度、對不切實際的容忍度、低度的外部控制、注重結果、強調開放式系統等,係屬於____變數。",
+      "options": [],
+      "answer": "文化",
+      "score": 2
+    },
+    {
+      "number": "7",
+      "type": "fill_in",
+      "text": "組織溝通的垂直和水平流動方式,可以被組合成多種溝通網絡,其中溝通流動是隨著正式的指揮鏈進行上下流動的模式,稱為____狀網絡。",
+      "options": [],
+      "answer": "鏈/chain",
+      "score": 2
+    },
+    {
+      "number": "8",
+      "type": "fill_in",
+      "text": "控制是管理功能中的一環,假設在規劃過程中已建立績效的標準,則控制程序的3步驟分別為____、將實際績效與標準比較、採取管理行動。",
+      "options": [],
+      "answer": "衡量績效/衡量實際績效/衡量組織績效/衡量組織實際績效",
+      "score": 2
+    },
+    {
+      "number": "9",
+      "type": "fill_in",
+      "text": "影響管理道德的因素,主要為個人的道德發展階段、____、組織的結構設計、組織文化及事件強度。",
+      "options": [],
+      "answer": "個人特質",
+      "score": 2
+    },
+    {
+      "number": "10",
+      "type": "fill_in",
+      "text": "根據馬克思·韋伯(Max Weber)提出的科層體制管理理論,認為組織存在3種不同的職權關係類型,其中職權係基於「對特定與特殊神蹟、英雄主義,以及某人獨特人格特質的傾心」者稱為____型職權。",
+      "options": [],
+      "answer": "魅力/領袖魅力",
+      "score": 2
+    },
+    {
+      "number": "11",
+      "type": "fill_in",
+      "text": "凱茲(Robert Katz)認為成功的管理者應具備3項能力,其中____能力的重要性隨著管理者職位越高越形重要。",
+      "options": [],
+      "answer": "概念化/觀念化",
+      "score": 2
+    },
+    {
+      "number": "12",
+      "type": "fill_in",
+      "text": "利害關係人管理矩陣係評估「利害關係人的重要性」及「組織所處環境的不確定性」2項構面,以制定不同情境下的利害關係人管理策略。當組織面對普通重要的利害關係人與高度環境不確定性時,較適合的利害關係人管理策略為____策略。",
+      "options": [],
+      "answer": "邊界擴張/Boundary Spanning",
+      "score": 2
+    },
+    {
+      "number": "13",
+      "type": "fill_in",
+      "text": "學者提出良好的目標設定應符合SMART原則,即應符合「明確具體的(S)」、「可衡量的(M)」、「____(A)」、「符合現實的(R)」及「具時效性的(T)」。",
+      "options": [],
+      "answer": "可達成的",
+      "score": 2
+    },
+    {
+      "number": "14",
+      "type": "fill_in",
+      "text": "工作設計(Job Design)藉由給予部屬更多責任與權力,強化部屬對於工作的掌握度,並提升部屬自主性及參與管理之機會,稱為____。",
+      "options": [],
+      "answer": "工作豐富化/工作充實化/Job Enrichment",
+      "score": 2
+    },
+    {
+      "number": "15",
+      "type": "fill_in",
+      "text": "精實生產(Lean Production)的核心之一為____系統,該系統強調生產過程中所需的零件可在適當時間出現在需要的工作站,達到平衡與順暢的生產流程,並使系統有效控制庫存。",
+      "options": [],
+      "answer": "JIT/即時生產/Just In Time",
+      "score": 2
+    },
+    {
+      "number": "16",
+      "type": "fill_in",
+      "text": "麥可·波特(Michael E. Porter)提出的五力分析模型(Five Forces Analysis)係以5項因素分析特定產業是否值得進入並擬定相關策略方案。該模型的____因素可使用規模經濟、專利保全及品牌忠誠度等構面加以評估衡量之。",
+      "options": [],
+      "answer": "新進入者的威脅/潛在進入者的威脅",
+      "score": 2
+    },
+    {
+      "number": "17",
+      "type": "fill_in",
+      "text": "在波士頓顧問群(Boston Consulting Group)提出的BCG矩陣中,預期市場成長率高,相對市場占有率低,通常需要大量資源投注的事業稱為____事業。",
+      "options": [],
+      "answer": "問號/問題/問題兒童/Question Marks/Question/Problem Children",
+      "score": 2
+    },
+    {
+      "number": "18",
+      "type": "fill_in",
+      "text": "根據格雷納(Greiner)提出的組織成長模型(Growth Model),組織第4階段係透過加強各部門間之協調功能達到成長,然而也將因此面對____危機。",
+      "options": [],
+      "answer": "僵化/硬化",
+      "score": 2
+    },
+    {
+      "number": "19",
+      "type": "fill_in",
+      "text": "某公司流動資產為新臺幣(下同)500萬元,分別是現金200萬元、應收帳款100萬元、存貨150萬元及預付費用50萬元,另有流動負債150萬元,則該公司的速動比率為____。",
+      "options": [],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "20",
+      "type": "fill_in",
+      "text": "行銷學者科特勒(Phillip Kotler)認為,在產品的非正式溝通過程中,會對某項產品或產品類別提供忠告或有用資訊者,稱為____。\n**題組：21-25 題**\n名詞解釋:",
+      "options": [],
+      "answer": "意見領袖/Opinion Leader",
+      "score": 2
+    },
+    {
+      "number": "21",
+      "type": "essay",
+      "text": "(1)霍桑效應(Hawthorne Effect) (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "22",
+      "type": "essay",
+      "text": "(2)玻璃天花板(Glass Ceiling) (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "23",
+      "type": "essay",
+      "text": "(3)淨現值評估法(Net Present Value Method) (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "24",
+      "type": "essay",
+      "text": "(4)鯰魚效應(Catfish Effect) (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "25",
+      "type": "essay",
+      "text": "(5)穀倉效應(Silo Effect) (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "26",
+      "type": "essay",
+      "text": "何謂管理綠化(The Greening of Management) (3分)?管理綠化可依綠化程度或濃度分為哪4個階段?請逐一列舉並說明之(12分)。",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "27",
+      "type": "essay",
+      "text": "請說明佛洛姆(Victor Vroom)提出的期望理論(Expectancy Theory)中個人如何決定其行為傾向,並繪出期望模型之關聯圖。(15分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "28",
+      "type": "essay",
+      "text": "行銷管理中的S-T-P策略,又可稱為目標行銷,該策略第1步為進行市場區隔,以利後續目標市場選擇與市場定位溝通。有效的市場區隔應滿足哪5個條件?請逐一列舉並說明之。(15分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    }
+  ]
+}

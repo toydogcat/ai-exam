@@ -1,0 +1,245 @@
+{
+  "duration": 60,
+  "questions": [
+    {
+      "number": "1",
+      "type": "fill_in",
+      "text": "有一公制螺栓強度劃分等級標示為8.8,代表該螺栓的抗拉強度為800Mpa,降伏強度為____MPa。",
+      "options": [],
+      "answer": "640",
+      "score": 2
+    },
+    {
+      "number": "2",
+      "type": "fill_in",
+      "text": "有一英制螺栓規格標示為 $1\\frac{3}{8}-12$ UNF,代表該螺栓每英吋之螺紋數目為____。",
+      "options": [],
+      "answer": "12",
+      "score": 2
+    },
+    {
+      "number": "3",
+      "type": "fill_in",
+      "text": "兩內接正齒輪,齒數分別為36與72,模數為3mm,則兩齒輪之中心距離為____mm。",
+      "options": [],
+      "answer": "54",
+      "score": 2
+    },
+    {
+      "number": "4",
+      "type": "fill_in",
+      "text": "有一壓力角為20°的正齒輪,齒數為30,模數為4mm,則節圓直徑為____mm。",
+      "options": [],
+      "answer": "120",
+      "score": 2
+    },
+    {
+      "number": "5",
+      "type": "fill_in",
+      "text": "有一直徑為200mm的水管,管內平均流速為 10 m/s,則流量為每分鐘____ $m^{3}$。($\\pi=3.14$)",
+      "options": [],
+      "answer": "18.84",
+      "score": 2
+    },
+    {
+      "number": "6",
+      "type": "fill_in",
+      "text": "有一最大半徑為300mm、最小半徑為180mm的平板凸輪,其從動件之總升距為____mm。",
+      "options": [],
+      "answer": "120",
+      "score": 2
+    },
+    {
+      "number": "7",
+      "type": "fill_in",
+      "text": "由於工作之成品尺寸在製造上無法與基本尺寸絕對相符,其允許之變異量稱為____。",
+      "options": [],
+      "answer": "公差/許可差",
+      "score": 2
+    },
+    {
+      "number": "8",
+      "type": "fill_in",
+      "text": "有一質量為3kg的物體,以147m/s之初速度垂直上拋,若重力加速度為 $9.8~m/s^{2}$ 且不計空氣阻力,則該物體達到最大高度所需要的時間為____秒。",
+      "options": [],
+      "answer": "15",
+      "score": 2
+    },
+    {
+      "number": "9",
+      "type": "fill_in",
+      "text": "如【圖1】所示之外徑測微器精度為0.01mm,其讀值為____mm。",
+      "options": [],
+      "answer": "6.77",
+      "score": 2
+    },
+    {
+      "number": "10",
+      "type": "fill_in",
+      "text": "如【圖2】所示之滑輪組,若不計摩擦損失影響,欲拉起重量為180N之物體W時,則F至少為____N。",
+      "options": [],
+      "answer": "60",
+      "score": 2
+    },
+    {
+      "number": "11",
+      "type": "fill_in",
+      "text": "有一鋸條規格標示為 $300\\times12\\times0.64-24~T$,代表該鋸條每25.4mm的鋸齒數目為____。",
+      "options": [],
+      "answer": "24",
+      "score": 2
+    },
+    {
+      "number": "12",
+      "type": "fill_in",
+      "text": "有一斷面積為 $40~mm^{2}$ 的圓棒,其彈性係數為250GPa,若受4,000N的拉伸負荷作用,則軸向應變為____。",
+      "options": [],
+      "answer": "4\\times10^{-4}",
+      "score": 2
+    },
+    {
+      "number": "13",
+      "type": "fill_in",
+      "text": "有一直徑為200mm之軸,其上設有一 $25\\times25\\times40~mm$ 的方鍵,鍵上可允許之最大剪應力為 $4~N/mm^{2}$,則軸所能傳遞之最大扭矩為____N-m。",
+      "options": [],
+      "answer": "400",
+      "score": 2
+    },
+    {
+      "number": "14",
+      "type": "fill_in",
+      "text": "如【圖3】所示,其斜線部分形心位置Y方向之座標為____。(以分數表示)",
+      "options": [],
+      "answer": "\\frac{7}{9}a",
+      "score": 2
+    },
+    {
+      "number": "15",
+      "type": "fill_in",
+      "text": "有一液壓系統元件之圖面標示符號如【圖4】,其中文名稱為____。",
+      "options": [],
+      "answer": "可變節流閥",
+      "score": 2
+    },
+    {
+      "number": "16",
+      "type": "fill_in",
+      "text": "有一編號為6320之單列深溝滾珠軸承,其內徑為____mm。",
+      "options": [],
+      "answer": "100",
+      "score": 2
+    },
+    {
+      "number": "17",
+      "type": "fill_in",
+      "text": "有一液壓千斤頂,其頂升物件之活塞直徑為100mm,現以電動油壓泵通過油壓管路,對其施加9,000psi之液壓壓力,若不計其他機械損耗,該液壓千斤頂最大可頂升之重量為____kg。($\\pi=3.14,1~psi=0.07~kgf/cm^{2}$)",
+      "options": [],
+      "answer": "49455",
+      "score": 2
+    },
+    {
+      "number": "18",
+      "type": "fill_in",
+      "text": "有一來令片外徑為30cm、內徑為10cm且均勻磨耗的圓盤離合器,若軸向推力為400 kgf,磨擦係數為0.3,該離合器所能傳遞之扭力矩為____kgf-cm。",
+      "options": [],
+      "answer": "1200",
+      "score": 2
+    },
+    {
+      "number": "19",
+      "type": "fill_in",
+      "text": "鎢電極惰性氣體電弧銲接之英文簡稱為____。",
+      "options": [],
+      "answer": "TIG/GTAW",
+      "score": 2
+    },
+    {
+      "number": "20",
+      "type": "fill_in",
+      "text": "圓孔與軸有3種配合,分別為餘隙配合、過渡配合及干涉配合。有一直徑標示為Ø24H8的圓孔和一直徑標示為Ø24f8的軸相配合,試問此為____配合。\n**題組：21-23 題**\n如【圖5】所示之樑,試求:",
+      "options": [],
+      "answer": "餘隙",
+      "score": 2
+    },
+    {
+      "number": "21",
+      "type": "calc",
+      "text": "(1)支撐點A之反作用力RA及支撐點B之反作用力RB。(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "22",
+      "type": "calc",
+      "text": "(2)請繪出剪力圖,並在剪力圖圖線轉折處標示剪力值。(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "23",
+      "type": "calc",
+      "text": "(3)請繪出彎矩圖,並在彎矩圖圖線轉折處標示彎矩值。(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "24",
+      "type": "calc",
+      "text": "如【圖6】所示之I形斷面,試求其對x軸之慣性矩。(15分)\n**題組：25-27 題**\n如【圖7】所示之制動器,制動鼓輪半徑為40cm且順時針旋轉,若制動塊與鼓輪之間的摩擦係數為0.25時,以20kgf之作用力加於槓桿上可使制動鼓輪停止不動,試求:",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "25",
+      "type": "calc",
+      "text": "(1)制動塊作用於鼓輪之正向力為多少kgf?(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "26",
+      "type": "calc",
+      "text": "(2)鼓輪之制動力矩為多少kgf-cm?(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "27",
+      "type": "calc",
+      "text": "(3)若鼓輪為逆時針旋轉時,制動力矩為多少kgf-cm?(5分)\n**題組：28-30 題**\n有一皮帶驅動之皮帶輪,皮帶輪直徑 $D=30$ cm,轉速為1,000rpm,皮帶緊邊拉力為800N,皮帶鬆邊拉力為200N,試求:",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "28",
+      "type": "calc",
+      "text": "(1)皮帶之有效拉力為多少?(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "29",
+      "type": "calc",
+      "text": "(2)皮帶之線速度為多少 m/min?(請以 $\\pi$ 表示)(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "30",
+      "type": "calc",
+      "text": "(3)皮帶傳動之功率為多少W?(請以 $\\pi$ 表示)(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    }
+  ]
+}

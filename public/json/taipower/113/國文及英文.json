@@ -3,637 +3,726 @@
   "questions": [
     {
       "number": "1",
-      "text": "下列「」用字，何者有誤？",
-      "options": [
-        "耳「儒」目染",
-        "「孺」子可教",
-        "個性「懦」弱",
-        "囁「嚅」難言",
-        ""
-      ],
-      "answer": "1"
+      "type": "essay",
+      "text": "題目:我的朋友\n文言白話不拘,但段落要分明。",
+      "options": [],
+      "answer": "null",
+      "score": 5
     },
     {
       "number": "2",
-      "text": "下列「」內的字，何者讀音前後不同？",
+      "type": "single",
+      "text": "下列「」用字,何者有誤?",
       "options": [
-        "「惘」然所失／置若「罔」聞",
-        "青青子「衿」／「矜」持拘謹",
-        "桑「榆」晚景／「逾」期未歸",
-        "白髮「皤」皤／「藩」鎮割據",
-        ""
+        "耳「儒」目染",
+        "「孺子可教",
+        "個性「懦」弱",
+        "囁「嚅」難言"
       ],
-      "answer": "4"
+      "answer": "1",
+      "score": 2
     },
     {
       "number": "3",
-      "text": "下列「」內的字，何者讀音有誤？",
+      "type": "single",
+      "text": "下列「」內的字,何者讀音前後不同?",
       "options": [
-        "罪「愆」：ㄧㄢˇ",
-        "「畛」域：ㄓㄣˇ",
-        "挑「釁」：ㄒㄧㄣˋ",
-        "自「戕」：ㄑㄧㄤˊ",
-        ""
+        "「惘」然所失/置若「罔」聞",
+        "青青子「衿」/「矜」持拘謹",
+        "桑「榆」晚景/「逾」期未歸",
+        "白髮「皤」皤/「藩」鎮割據"
       ],
-      "answer": "1"
+      "answer": "4",
+      "score": 2
     },
     {
       "number": "4",
-      "text": "下列成語用字，何者有誤？",
+      "type": "single",
+      "text": "下列「」內的字,何者讀音有誤?",
       "options": [
-        "南轅北轍",
-        "相形見詘",
-        "瞠乎其後",
-        "匠心獨運",
-        ""
+        "罪「愆」:一ㄢˇ",
+        "「畛」域:ㄓㄣˇ",
+        "挑「釁」:ㄒㄧㄣˋ",
+        "自「戕」:ㄑㄧㄤˊ"
       ],
-      "answer": "2"
+      "answer": "1",
+      "score": 2
     },
     {
       "number": "5",
-      "text": "諸葛亮《出師表》：「陛下亦宜自課，以諮諏善道。」此段文句是作者期盼後主治理國政時\n       ，應秉持下列何種態度？",
+      "type": "single",
+      "text": "下列成語用字,何者有誤?",
       "options": [
-        "克制物質與權力的欲望",
-        "自我反省，並向賢臣請益",
-        "努力不懈，充實新知",
-        "勤讀兵書，強身健體",
-        ""
+        "南轅北轍",
+        "相形見詘",
+        "瞠乎其後",
+        "匠心獨運"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
       "number": "6",
-      "text": "屈原《漁父》中漁父曰：「聖人不凝滯於物，而能與世推移。世人皆濁，何不淈其泥而揚其\n       波？」，漁父對屈原之建議，下列何者正確？",
+      "type": "single",
+      "text": "諸葛亮《出師表》:「陛下亦宜自課,以諮諏善道。」此段文句是作者期盼後主治理國政時,應秉持下列何種態度?",
       "options": [
-        "在現實世界中隨俗進退",
-        "堅持崇高理想，不隨波逐流",
-        "鍥而不捨，不改其志",
-        "勿使高尚品格，蒙受世俗塵埃",
-        ""
+        "克制物質與權力的欲望",
+        "自我反省,並向賢臣請益",
+        "努力不懈,充實新知",
+        "勤讀兵書,強身健體"
       ],
-      "answer": "1"
+      "answer": "2",
+      "score": 2
     },
     {
       "number": "7",
-      "text": "有關《前赤壁賦》之敘述，下列何者有誤？",
+      "type": "single",
+      "text": "屈原《漁父》中漁父曰:「聖人不凝滯於物,而能與世推移。世人皆濁,何不涵其泥而揚其波?」,漁父對屈原之建議,下列何者正確?",
       "options": [
-        "係北宋文學家蘇軾所作",
-        "作者共寫下兩篇赤壁賦",
-        "為作者遭貶至黃州之作品",
-        "描述作者與友人把酒言歡之心情",
-        ""
+        "在現實世界中隨俗進退",
+        "堅持崇高理想,不隨波逐流",
+        "鍥而不捨,不改其志",
+        "勿使高尚品格,蒙受世俗塵埃"
       ],
-      "answer": "4"
+      "answer": "1",
+      "score": 2
     },
     {
       "number": "8",
-      "text": "《莊子．秋水》：「夏蟲不可以語於冰者，篤於時也。」的意思，下列何者正確？",
+      "type": "single",
+      "text": "有關《前赤壁賦》之敘述,下列何者有誤?",
       "options": [
-        "比喻樂善好施的人",
-        "比喻歷練豐富的人",
-        "比喻隨機應變的人",
-        "比喻見識短淺的人",
-        ""
+        "係北宋文學家蘇軾所作",
+        "作者共寫下兩篇赤壁賦",
+        "為作者遭貶至黃州之作品",
+        "描述作者與友人把酒言歡之心情"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
       "number": "9",
-      "text": "韓翃《寒食》：「春城無處不飛花，寒食東風御柳斜。」一詩所描述的是下列哪個節日？",
+      "type": "single",
+      "text": "《莊子·秋水》:「夏蟲不可以語於冰者,篤於時也。」的意思,下列何者正確?",
+      "options": [
+        "比喻樂善好施的人",
+        "比喻歷練豐富的人",
+        "比喻隨機應變的人",
+        "比喻見識短淺的人"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "10",
+      "type": "single",
+      "text": "韓翃《寒食》:「春城無處不飛花,寒食東風御柳斜。」一詩所描述的是下列哪個節日?",
       "options": [
         "元宵節",
         "清明節",
         "端午節",
-        "中秋節",
-        ""
+        "中秋節"
       ],
-      "answer": "2"
-    },
-    {
-      "number": "10",
-      "text": "王昌齡《閨怨》：「閨中少婦不知愁，春日凝妝上翠樓。忽見陌頭楊柳色，悔教夫婿覓封侯\n        。」其中「凝妝」一詞的意思，下列何者正確？",
-      "options": [
-        "妝髮凌亂",
-        "不施脂粉",
-        "盛妝打扮",
-        "臉色凝重",
-        ""
-      ],
-      "answer": "3"
+      "answer": "2",
+      "score": 2
     },
     {
       "number": "11",
-      "text": "王維《九月九日憶山東兄弟》：「獨在異鄉為異客，每逢佳節倍思親。遙知兄弟登高處，遍\n        插茱萸少一人。」，其中「少一人」指的是誰？",
+      "type": "single",
+      "text": "王昌齡《閨怨》:「閨中少婦不知愁,春日凝妝上翠樓。忽見陌頭楊柳色,悔教夫婿覓封侯。」其中「凝妝」一詞的意思,下列何者正確?",
+      "options": [
+        "妝髮凌亂",
+        "不施脂粉",
+        "盛妝打扮",
+        "臉色凝重"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "12",
+      "type": "single",
+      "text": "王維《九月九日憶山東兄弟》:「獨在異鄉為異客,每逢佳節倍思親。遙知兄弟登高處,遍插茱萸少一人。」,其中「少一人」指的是誰?",
       "options": [
         "作者父母",
         "作者本人",
         "作者親戚",
-        "作者兄弟",
-        ""
+        "作者兄弟"
       ],
-      "answer": "2"
-    },
-    {
-      "number": "12",
-      "text": "《禮記．大同與小康》：「昔者，仲尼與於蜡賓，事畢，出遊於觀之上，喟然而歎。」，其\n        中「蜡」的意義，下列何者正確？",
-      "options": [
-        "樂器",
-        "昆蟲",
-        "祭禮",
-        "地名",
-        ""
-      ],
-      "answer": "3"
+      "answer": "2",
+      "score": 2
     },
     {
       "number": "13",
-      "text": "「處大國不攻小國，處大家不篡小家，強者不劫弱，貴者不傲賤，多詐者不欺愚。」係下列\n        先秦諸家中，何者的思想？",
+      "type": "single",
+      "text": "《禮記·大同與小康》:「昔者,仲尼與於蜡賓,事畢,出遊於觀之上,喟然而歎。」,其中「蜡」的意義,下列何者正確?",
+      "options": [
+        "樂器",
+        "昆蟲",
+        "祭禮",
+        "地名"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "14",
+      "type": "single",
+      "text": "「處大國不攻小國,處大家不篡小家,強者不劫弱,貴者不傲賤,多詐者不欺愚。」係下列先秦諸家中,何者的思想?",
       "options": [
         "墨家",
         "儒家",
         "法家",
-        "道家",
-        ""
+        "道家"
       ],
-      "answer": "1"
-    },
-    {
-      "number": "14",
-      "text": "有關《台灣通史》之描述，下列何者有誤？",
-      "options": [
-        "作者為連橫",
-        "清末開始撰寫，民國初年成書",
-        "內容起自明代，終於割讓給日本",
-        "屬紀傳體之史書",
-        ""
-      ],
-      "answer": "3"
+      "answer": "1",
+      "score": 2
     },
     {
       "number": "15",
-      "text": "歸有光《項脊軒志》：「余扃牖而居，久之，能以足音辨人。」，其中「牖」的意義，下列\n        何者正確？",
+      "type": "single",
+      "text": "有關《台灣通史》之描述,下列何者有誤?",
+      "options": [
+        "作者為連橫",
+        "清末開始撰寫,民國初年成書",
+        "內容起自明代,終於割讓給日本",
+        "屬紀傳體之史書"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "16",
+      "type": "single",
+      "text": "歸有光《項脊軒志》:「余牖而居,久之,能以足音辨人。」,其中「牖」的意義,下列何者正確?",
       "options": [
         "竹床",
         "草房",
         "籬笆",
-        "窗戶\n\n\n    貳、英文：100 %\n     【單選題： 40 題，每題"
+        "窗戶"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "16",
-      "text": "After heavy rains, there is always a high _______ mudslides in this area.",
+      "number": "17",
+      "type": "single",
+      "text": "After heavy rains, there is always a high \\_\\_\\_\\_\\_\\_\\_ mudslides in this area.",
       "options": [
         "possibility with",
         "risk of",
         "danger for",
-        "chance from",
-        ""
+        "chance from"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
-      "number": "17",
-      "text": "The landlord told us that the rent had to be paid at the _______ of each month.",
+      "number": "18",
+      "type": "single",
+      "text": "The landlord told us that the rent had to be paid at the \\_\\_\\_\\_\\_\\_\\_ of each month.",
       "options": [
         "final",
         "middle",
         "tenth",
-        "beginning",
-        ""
+        "beginning"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "18",
-      "text": "This model of car _______ three different colors: silver, red, and dark blue.",
+      "number": "19",
+      "type": "single",
+      "text": "This model of car \\_\\_\\_\\_\\_\\_\\_ three different colors: silver, red, and dark blue.",
       "options": [
         "comes with",
         "comes in",
         "goes with",
-        "goes in",
-        ""
+        "goes in"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
-      "number": "19",
-      "text": "The crew must take a rest because they _______ from a long trip.",
+      "number": "20",
+      "type": "single",
+      "text": "The crew must take a rest because they \\_\\_\\_\\_\\_\\_\\_ from a long trip.",
       "options": [
         "have just been returning",
         "have just been returned",
         "just return",
-        "have just returned",
-        ""
+        "have just returned"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "20",
-      "text": "Ellie has a wide _______ of hobbies, including painting, hiking, and surfing.",
+      "number": "21",
+      "type": "single",
+      "text": "Ellie has a wide \\_\\_\\_\\_\\_\\_\\_ of hobbies, including painting, hiking, and surfing.",
       "options": [
         "range",
         "rank",
         "scope",
-        "extension",
-        ""
+        "extension"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
-      "number": "21",
-      "text": "Would you rather _______ a promotion or a new job?",
+      "number": "22",
+      "type": "single",
+      "text": "Would you rather \\_\\_\\_\\_\\_\\_\\_ a promotion or a new job?",
       "options": [
         "get",
         "to get",
         "getting",
-        "be gotten",
-        ""
+        "be gotten"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
-      "number": "22",
-      "text": "Jake was told not to _______ the boat until the negotiations were finished.",
+      "number": "23",
+      "type": "single",
+      "text": "Jake was told not to \\_\\_\\_\\_\\_\\_\\_ the boat until the negotiations were finished.",
       "options": [
         "rattle",
         "shake",
         "disturb",
-        "rock",
-        ""
+        "rock"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "23",
-      "text": "Physical therapists use their professional knowledge to assist you _______ supportive devices like a\n        crutch or cane.",
+      "number": "24",
+      "type": "single",
+      "text": "Physical therapists use their professional knowledge to assist you \\_\\_\\_\\_\\_\\_\\_ supportive devices like a crutch or cane.",
       "options": [
         "and use",
         "to use",
         "use",
-        "in using",
-        ""
+        "in using"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "24",
-      "text": "It’s better to get a rental car for the trip because the two cities are more than 20 km _______.",
+      "number": "25",
+      "type": "single",
+      "text": "It's better to get a rental car for the trip because the two cities are more than 20 km \\_\\_\\_\\_\\_\\_\\_.",
       "options": [
         "apart",
         "afar",
         "apart from",
-        "afar from",
-        ""
+        "afar from"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
       "number": "26",
-      "text": "If you would like to get a refund for a _______ product, you have to bring in the product and its receipt.",
+      "type": "single",
+      "text": "Figures \\_\\_\\_\\_\\_\\_\\_ last year show that the number of online retailers has increased by 15.4% during the post-pandemic period.",
+      "options": [
+        "were published",
+        "that published",
+        "published",
+        "publishing"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "27",
+      "type": "single",
+      "text": "If you would like to get a refund for a \\_\\_\\_\\_\\_\\_\\_ product, you have to bring in the product and its receipt.",
       "options": [
         "affected",
         "fault",
         "defected",
-        "flawed",
-        ""
+        "flawed"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "27",
-      "text": "The conclusion she made was _______ relevant to the discussion.",
+      "number": "28",
+      "type": "single",
+      "text": "The conclusion she made was \\_\\_\\_\\_\\_\\_\\_ relevant to the discussion.",
       "options": [
         "highly",
         "closely",
         "deeply",
-        "largely",
-        ""
+        "largely"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
-      "number": "28",
-      "text": "Bonus payments based on productivity act as a(n) _______ for employees to work harder.",
+      "number": "29",
+      "type": "single",
+      "text": "Bonus payments based on productivity act as a(n) \\_\\_\\_\\_\\_\\_\\_ for employees to work harder.",
       "options": [
         "stimulus",
         "incentive",
         "perk",
-        "commitment",
-        ""
+        "commitment"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
-      "number": "29",
-      "text": "If you _______ on fat and sugar in your diet, you’ll feel a lot healthier.",
+      "number": "30",
+      "type": "single",
+      "text": "If you \\_\\_\\_\\_\\_\\_\\_ on fat and sugar in your diet, you'll feel a lot healthier.",
       "options": [
         "cut back",
         "cut off",
         "cut out",
-        "cut short",
-        ""
+        "cut short"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
-      "number": "30",
-      "text": "I can’t remember her name, but it’ll _______ me in a minute.",
+      "number": "31",
+      "type": "single",
+      "text": "I can't remember her name, but it'll \\_\\_\\_\\_\\_\\_\\_ me in a minute.",
       "options": [
         "come in",
         "come to",
         "come upon",
-        "come after",
-        ""
+        "come after"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
-      "number": "31",
-      "text": "I haven’t the slightest idea _______ the moment I arrived this afternoon.",
+      "number": "32",
+      "type": "single",
+      "text": "I haven't the slightest idea \\_\\_\\_\\_\\_\\_\\_ the moment I arrived this afternoon.",
       "options": [
         "what have they discussed",
         "what were they discussing",
         "what they have discussed",
-        "what they were discussing",
-        ""
+        "what they were discussing"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "32",
-      "text": "Heavy fines have recently been _______ minor driving offences.",
+      "number": "33",
+      "type": "single",
+      "text": "Heavy fines have recently been \\_\\_\\_\\_\\_\\_\\_ minor driving offences.",
       "options": [
         "exposed to",
         "deposed from",
         "imposed on",
-        "composed for",
-        ""
+        "composed for"
       ],
-      "answer": "3"
+      "answer": "3",
+      "score": 2
     },
     {
-      "number": "33",
-      "text": "_______ increasing education about skin cancer, suntanned skin is no longer a desirable look in\n       Western cultures.",
+      "number": "34",
+      "type": "single",
+      "text": "\\_\\_\\_\\_\\_\\_\\_ increasing education about skin cancer, suntanned skin is no longer a desirable look in Western cultures.",
       "options": [
         "Despite",
         "Except for",
         "In that",
-        "Due to",
-        ""
+        "Due to"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "34",
-      "text": "Own-label products now ______ more than 20% of sales in some European supermarkets.",
+      "number": "35",
+      "type": "single",
+      "text": "Own-label products now \\_\\_\\_\\_\\_\\_\\_ more than 20% of sales in some European supermarkets.",
       "options": [
         "account for",
         "account as",
         "count in",
-        "count for",
-        ""
+        "count for"
       ],
-      "answer": "1"
-    },
-    {
-      "number": "35",
-      "text": "“Have you ever been to the Grand Canyon?” Choose the best response.",
-      "options": [
-        "I have. Never I had seen such a wonder.",
-        "I have. Never had I seen such a wonder.",
-        "I have. I haven’t ever seen such a wonder.",
-        "I have. Ever have I seen such a wonder.",
-        ""
-      ],
-      "answer": "2"
+      "answer": "1",
+      "score": 2
     },
     {
       "number": "36",
-      "text": "The babies of lions and bears are called cubs, but a person or a monkey _______ has just been born is\n        called a baby.",
+      "type": "single",
+      "text": "Choose the best response. \"Have you ever been to the Grand Canyon?\"",
+      "options": [
+        "I have. Never I had seen such a wonder.",
+        "I have. Never had I seen such a wonder.",
+        "I have. I haven't ever seen such a wonder.",
+        "I have. Ever have I seen such a wonder."
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "37",
+      "type": "single",
+      "text": "The babies of lions and bears are called cubs, but a person or a monkey \\_\\_\\_\\_\\_\\_\\_ has just been born is called a baby.",
       "options": [
         "that",
         "who",
         "which",
-        "either",
-        ""
+        "either"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
-      "number": "37",
-      "text": "The proposal for lifting the trade restrictions set off a(n) _______ over the issue. Until now, no\n        conclusion has been reached.",
+      "number": "38",
+      "type": "single",
+      "text": "The proposal for lifting the trade restrictions set off a(n) \\_\\_\\_\\_\\_\\_\\_ over the issue. Until now, no conclusion has been reached.",
       "options": [
         "debate",
         "alarm",
         "riot",
-        "panic",
-        ""
+        "panic"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
-      "number": "38",
-      "text": "I’ve been feeling a little _______ this week. I’m afraid I must go to see a doctor.",
+      "number": "39",
+      "type": "single",
+      "text": "I've been feeling a little \\_\\_\\_\\_\\_\\_\\_ this week. I'm afraid I must go to see a doctor.",
       "options": [
         "out of my element",
         "at a loss",
         "under the weather",
-        "behind the times",
-        ""
+        "behind the times"
       ],
-      "answer": "3"
+      "answer": "3",
+      "score": 2
     },
     {
-      "number": "39",
-      "text": "You should get to the sales early to avoid missing out _______ all the best bargains.",
+      "number": "40",
+      "type": "single",
+      "text": "You should get to the sales early to avoid missing out \\_\\_\\_\\_\\_\\_\\_ all the best bargains.",
       "options": [
         "in",
         "from",
         "for",
-        "on",
-        ""
+        "on"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "40",
-      "text": "A series of experiments to test the new drug _______ carried out, but so far it still can’t prove to be an\n        effective drug.",
+      "number": "41",
+      "type": "single",
+      "text": "A series of experiments to test the new drug \\_\\_\\_\\_\\_\\_\\_ carried out, but so far it still can't prove to be an effective drug.",
       "options": [
         "was",
         "were",
         "has been",
-        "have been",
-        ""
+        "have been"
       ],
-      "answer": "3"
+      "answer": "3",
+      "score": 2
     },
     {
-      "number": "41",
-      "text": "The candidate insisted on finishing his speech even though there was hardly _______ left in the room.",
+      "number": "42",
+      "type": "single",
+      "text": "The candidate insisted on finishing his speech even though there was hardly \\_\\_\\_\\_\\_\\_\\_ left in the room.",
       "options": [
         "one",
         "no one",
         "anyone",
-        "someone",
-        ""
+        "someone"
       ],
-      "answer": "3"
+      "answer": "3",
+      "score": 2
     },
     {
-      "number": "42",
-      "text": "A competitive market helps to _______ efficiency.",
+      "number": "43",
+      "type": "single",
+      "text": "A competitive market helps to \\_\\_\\_\\_\\_\\_\\_ efficiency.",
       "options": [
         "adopt",
         "develop",
         "generate",
-        "promote",
-        ""
+        "promote"
       ],
-      "answer": "4"
+      "answer": "4",
+      "score": 2
     },
     {
-      "number": "43",
-      "text": "My office is only a five-minute walk from the MRT station, so it’s _______ taking a taxi.",
+      "number": "44",
+      "type": "single",
+      "text": "My office is only a five-minute walk from the MRT station, so it's \\_\\_\\_\\_\\_\\_\\_ taking a taxi.",
       "options": [
         "not worth",
         "no sense in",
         "no point in",
-        "no reason to",
-        ""
+        "no reason to"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
       "number": "45",
-      "text": "A lot of manufacturing companies are trying to _______ by cutting the budget for equipment renewals.",
+      "type": "single",
+      "text": "The car industry's annual production \\_\\_\\_\\_\\_\\_\\_ between 5.2 million and 8.5 million vehicles.",
+      "options": [
+        "adjusts",
+        "fluctuates",
+        "expends",
+        "influences"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "46",
+      "type": "single",
+      "text": "A lot of manufacturing companies are trying to \\_\\_\\_\\_\\_\\_\\_ by cutting the budget for equipment renewals.",
       "options": [
         "balance",
         "economize",
         "limit",
-        "reduce",
-        ""
+        "reduce"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
-      "number": "46",
-      "text": "Because there wasn’t sufficient time, data precision and accuracy were barely _______ and reported in\n        carbon monitoring.",
+      "number": "47",
+      "type": "single",
+      "text": "Because there wasn't sufficient time, data precision and accuracy were barely \\_\\_\\_\\_\\_\\_\\_ and reported in carbon monitoring.",
       "options": [
         "acquired",
         "accessed",
         "assessed",
-        "assumed",
-        ""
+        "assumed"
       ],
-      "answer": "3"
+      "answer": "3",
+      "score": 2
     },
     {
-      "number": "47",
-      "text": "Chiufen is an old gold-mining town that _______ economically when the gold ran out in the middle of\n        the last century.",
+      "number": "48",
+      "type": "single",
+      "text": "Chiufen is an old gold-mining town that \\_\\_\\_\\_\\_\\_\\_ economically when the gold ran out in the middle of the last century.",
       "options": [
         "dropped",
         "declined",
         "fell",
-        "disappeared",
-        ""
+        "disappeared"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
-      "number": "48",
-      "text": "An example of a generation gap is when the old have a value judgement that _______ that of the young.",
+      "number": "49",
+      "type": "single",
+      "text": "An example of a generation gap is when the old have a value judgement that \\_\\_\\_\\_\\_\\_\\_ that of the young.",
       "options": [
         "compares to",
         "changes to",
         "differs from",
-        "reverses into",
-        ""
+        "reverses into"
       ],
-      "answer": "3"
+      "answer": "3",
+      "score": 2
     },
     {
-      "number": "49",
-      "text": "When you have trouble sleeping, a cup of warm milk can do the _______.",
+      "number": "50",
+      "type": "single",
+      "text": "When you have trouble sleeping, a cup of warm milk can do the \\_\\_\\_\\_\\_\\_\\_.",
       "options": [
         "tip",
         "trick",
         "effect",
-        "act",
-        ""
+        "act"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
-      "number": "200",
-      "text": "",
+      "number": "51",
+      "type": "single",
+      "text": "The new lecture hall has a seating \\_\\_\\_\\_\\_\\_\\_ of over 200.",
       "options": [
         "amount",
         "capability",
         "capacity",
-        "number",
-        ""
+        "number"
       ],
-      "answer": "1"
-    },
-    {
-      "number": "51",
-      "text": "“Susan hasn’t told you about her resignation, has she?” Choose the best response.",
-      "options": [
-        "Yes, she did.",
-        "Yes, she hasn’t.",
-        "No, she has.",
-        "No, she hasn’t.",
-        ""
-      ],
-      "answer": "4"
+      "answer": "3",
+      "score": 2
     },
     {
       "number": "52",
-      "text": "“Mr. Smith has worked here for a long time, hasn’t he?” Choose the best response.",
+      "type": "single",
+      "text": "Choose the best response. \"Susan hasn't told you about her resignation, has she?\"",
       "options": [
-        "Yes, at five o’clock.",
-        "No, he’s working overtime.",
-        "Yes, more than thirty years.",
-        "No. I don’t have a watch.",
-        ""
+        "Yes, she did.",
+        "Yes, she hasn't.",
+        "No, she has.",
+        "No, she hasn't."
       ],
-      "answer": "3"
+      "answer": "4",
+      "score": 2
     },
     {
       "number": "53",
-      "text": "It rained heavily this morning, but they finally _______ to the airport.",
+      "type": "single",
+      "text": "Choose the best response. \"Mr. Smith has worked here for a long time, hasn't he?\"",
+      "options": [
+        "Yes, at five o'clock.",
+        "No, he's working overtime.",
+        "Yes, more than thirty years.",
+        "No. I don't have a watch."
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "54",
+      "type": "single",
+      "text": "It rained heavily this morning, but they finally \\_\\_\\_\\_\\_\\_\\_ to the airport.",
       "options": [
         "left it",
         "made it",
         "got it",
-        "reached it",
-        ""
+        "reached it"
       ],
-      "answer": "2"
+      "answer": "2",
+      "score": 2
     },
     {
-      "number": "54",
-      "text": "It was when they started working together that they found they just weren’t _______.",
+      "number": "55",
+      "type": "single",
+      "text": "It was when they started working together that they found they just weren't \\_\\_\\_\\_\\_\\_\\_.",
       "options": [
         "compatible",
         "doable",
         "possible",
-        "workable",
-        ""
+        "workable"
       ],
-      "answer": "1"
+      "answer": "1",
+      "score": 2
     },
     {
-      "number": "55",
-      "text": "The departure dates listed in this brochure for the summer tours _______ change.",
+      "number": "56",
+      "type": "single",
+      "text": "The departure dates listed in this brochure for the summer tours \\_\\_\\_\\_\\_\\_\\_ change.",
       "options": [
         "look up to",
         "look forward to",
         "are subject to",
         "are based on"
       ],
-      "answer": "3"
+      "answer": "3",
+      "score": 2
     }
   ]
 }

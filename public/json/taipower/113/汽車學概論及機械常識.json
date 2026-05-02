@@ -1,0 +1,269 @@
+{
+  "duration": 60,
+  "questions": [
+    {
+      "number": "1",
+      "type": "fill_in",
+      "text": "單缸引擎的基本動力來源為:燃料在活塞上燃燒,產生壓力推動活塞,動力藉由____及曲軸傳出。",
+      "options": [],
+      "answer": "連桿",
+      "score": 2
+    },
+    {
+      "number": "2",
+      "type": "fill_in",
+      "text": "常見的汽車5油檢查中,須於引擎熄火後檢查,油面應在油尺上H與L之間的油類為____。",
+      "options": [],
+      "answer": "引擎機油",
+      "score": 2
+    },
+    {
+      "number": "3",
+      "type": "fill_in",
+      "text": "彈簧K₁與K₂串聯後,再與第3根彈簧K₃並聯之彈簧係數為____。",
+      "options": [],
+      "answer": "(K_{1}+K_{2})K_{3}/(K_{1}+K_{2}+K_{3})",
+      "score": 2
+    },
+    {
+      "number": "4",
+      "type": "fill_in",
+      "text": "小型汽車常見的傳動方式有:前置引擎前輪驅動、前置引擎後輪驅動、四輪驅動,請問較為省油及傳動效率高之傳動方式,其英文簡寫為____。",
+      "options": [],
+      "answer": "FF",
+      "score": 2
+    },
+    {
+      "number": "5",
+      "type": "fill_in",
+      "text": "有一液壓千斤頂,大小活塞斷面積分別為100cm²及25cm²,若小活塞受力下降4cm,則大活塞上升____cm。",
+      "options": [],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "6",
+      "type": "fill_in",
+      "text": "一般輪胎的胎紋深度不足____mm時,必須更換新胎。",
+      "options": [],
+      "answer": "1.6",
+      "score": 2
+    },
+    {
+      "number": "7",
+      "type": "fill_in",
+      "text": "有一四缸柴油引擎,若其轉速為1,200rpm時,各缸噴油量分別為 12.6 cc、10.4 cc、11.4 cc、9.6 cc,則噴油不均率為____%。",
+      "options": [],
+      "answer": "14.5",
+      "score": 2
+    },
+    {
+      "number": "8",
+      "type": "fill_in",
+      "text": "汽油引擎第一道壓縮環表面通常會鍍上一種金屬後磨光,以增加耐磨性,此種金屬為____。",
+      "options": [],
+      "answer": "鉻",
+      "score": 2
+    },
+    {
+      "number": "9",
+      "type": "fill_in",
+      "text": "將2歐姆(Ω)及3歐姆(Ω)電阻並聯後,並聯電阻兩端電壓經量測為1.2伏特(V),則通過該電阻之電流為____安培(A)。",
+      "options": [],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "10",
+      "type": "fill_in",
+      "text": "在某十字路口上,當紅燈轉綠燈時,有一汽車以 $2~m/s^{2}$ 等加速度前進,同時間另一卡車以10m/s 等速越過汽車,則汽車行駛____m後能追上卡車。",
+      "options": [],
+      "answer": "100",
+      "score": 2
+    },
+    {
+      "number": "11",
+      "type": "fill_in",
+      "text": "假設汽車之傳動軸轉速為1,000rpm,而最終傳動之減速比為5:3,當左側之轉速為500rpm時,汽車的轉向為____。",
+      "options": [],
+      "answer": "向左轉",
+      "score": 2
+    },
+    {
+      "number": "12",
+      "type": "fill_in",
+      "text": "汽車在高速行駛時,若底盤中段傳出震動聲,表示____已失效;若傳出噪音,表示____已乾涸無油,須立即維護。",
+      "options": [],
+      "answer": "橡皮減震;中間軸承",
+      "score": 2
+    },
+    {
+      "number": "13",
+      "type": "fill_in",
+      "text": "儀表板上出現一個圓圈內有 \"ABS\" 字樣，兩側各有一道括弧的警告燈符號。當此警告燈亮起時,表示____沒有作用,應立即維修,以維護行車安全。",
+      "options": [],
+      "answer": "ABS",
+      "score": 2
+    },
+    {
+      "number": "14",
+      "type": "fill_in",
+      "text": "四行程柴油引擎之凸輪軸轉速應為曲軸的____倍。",
+      "options": [],
+      "answer": "0.5",
+      "score": 2
+    },
+    {
+      "number": "15",
+      "type": "fill_in",
+      "text": "有一輪胎之規格為245/75VR18,則其輪胎外徑為____mm。",
+      "options": [],
+      "answer": "824.7",
+      "score": 2
+    },
+    {
+      "number": "16",
+      "type": "fill_in",
+      "text": "受氣候嚴寒影響,汽車水冷式冷卻系統之冷卻水有結冰膨脹的風險,在常用的防凍劑裡,永久式防凍劑的主要成分為____。",
+      "options": [],
+      "answer": "乙烯乙二醇/Ethylene Glycol",
+      "score": 2
+    },
+    {
+      "number": "17",
+      "type": "fill_in",
+      "text": "柴油引擎和汽油引擎相比,其故障率較低,主要是因為柴油引擎沒有____系統。",
+      "options": [],
+      "answer": "點火",
+      "score": 2
+    },
+    {
+      "number": "18",
+      "type": "fill_in",
+      "text": "動力轉向系統裡的液壓系統故障時,____會打開,使動力缸能順利移動,並使轉向系統仍能手動操作。",
+      "options": [],
+      "answer": "安全閥",
+      "score": 2
+    },
+    {
+      "number": "19",
+      "type": "fill_in",
+      "text": "為使輸出電壓更為穩定,並防止輸出電壓之脈動波干擾到較精密的電器,某些汽車會在發電機輸出端之B線頭與搭鐵間,以____過濾微量起伏之波形。",
+      "options": [],
+      "answer": "並聯濾波電容器",
+      "score": 2
+    },
+    {
+      "number": "20",
+      "type": "fill_in",
+      "text": "柴油引擎燃燒之過程可分為4個階段,其中狄塞爾(Diesel)爆震是發生在____時期。\n**題組：21-25 題**\n名詞解釋:",
+      "options": [],
+      "answer": "著火延遲",
+      "score": 2
+    },
+    {
+      "number": "21",
+      "type": "essay",
+      "text": "(1)上死點 (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "22",
+      "type": "essay",
+      "text": "(2)下死點 (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "23",
+      "type": "essay",
+      "text": "(3)燃燒室容積 (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "24",
+      "type": "essay",
+      "text": "(4)單缸排氣量 (3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "25",
+      "type": "essay",
+      "text": "(5)壓縮比 (3分)\n**題組：26-27 題**\n有一50cm木棒，A端在左，C端在右。A端與B端相距10cm。在其C端懸吊30g荷物，試回答下列問題：",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "26",
+      "type": "calc",
+      "text": "(1)若支點與C端距離20cm,則B端須向下施多少力,方可將C端荷物抬起?(5分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "27",
+      "type": "calc",
+      "text": "(2)若A端及B端皆須向下施力10g,方可將C端抬起,則支點距離C端為多少cm?(10分)\n**題組：28-30 題**\n機油攸關汽車引擎運轉時的潤滑性能,試回答下列問題:",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "28",
+      "type": "essay",
+      "text": "(1)品質好的機油須有哪些特性,請列舉8項。(8分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "29",
+      "type": "essay",
+      "text": "(2)假設機油瓶身上貼有標示SAE 10W-30,請解釋該標示之意義。(3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "30",
+      "type": "essay",
+      "text": "(3)有關四行程引擎之潤滑方式,請列舉4項。(4分)\n**題組：31-33 題**\n在一個密閉且充滿油的連通容器中，有三個活塞。左側為活塞A，斷面積為5cm²；中間為活塞B，斷面積為15cm²；右側為活塞C，斷面積為25cm²。若在C活塞施力300kg,試回答下列問題:",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "31",
+      "type": "calc",
+      "text": "(1)容器內之油壓為何?(6分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "32",
+      "type": "calc",
+      "text": "(2)A活塞及B活塞分別獲得多少推力?(6分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    },
+    {
+      "number": "33",
+      "type": "essay",
+      "text": "(3)請說明(1)、(2)之計算過程係依據何種原理?(3分)",
+      "options": [],
+      "answer": "",
+      "score": 5
+    }
+  ]
+}
