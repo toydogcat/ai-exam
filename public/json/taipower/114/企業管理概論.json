@@ -2,228 +2,228 @@
   "duration": 60,
   "questions": [
     {
-      "number": "填充1",
+      "number": "1",
       "type": "fill_in",
-      "text": "我國「公司法」第 1 條規定：以營利為目的，依照本法組織、登記、成立之_____法人，稱為公司。",
+      "text": "我國「公司法」第1條規定：以營利為目的，依照本法組織、登記、成立之____法人，稱為公司。",
       "options": [],
       "answer": "社團",
       "score": 2
     },
     {
-      "number": "填充2",
+      "number": "2",
       "type": "fill_in",
-      "text": "依據泰勒(F. Taylor)的差別計件工資制(Differential Piece Rate Plan)，A 公司冰品部的標準工時為 4 小時，標準工作件數為生產 40 支冰棒，如未達標準，生產每支冰棒可獲工資 5 元，達成標準，每支可獲工資 10 元，假設員工甲工作 4 小時共生產 80 支冰棒，工資應為_____元。",
+      "text": "依據泰勒(F. Taylor)的差別計件工資制(Differential Piece Rate Plan)，A公司冰品部的標準工時為4小時，標準工作件數為生產40支冰棒，如未達標準，生產每支冰棒可獲工資5元，達成標準，每支可獲工資10元，假設員工甲工作4小時共生產80支冰棒，工資應為____元。",
       "options": [],
-      "answer": "800",
+      "answer": "800/八百/八佰/捌佰",
       "score": 2
     },
     {
-      "number": "填充3",
+      "number": "3",
       "type": "fill_in",
-      "text": "工廠老闆透過錄影記錄員工在工作過程中的各項作業後，再就這些紀錄加以分析、歸納與分類，最後整理成工作說明書與工作規範(書)，此係工作分析(Job Analysis)方法中的_____法。",
+      "text": "工廠老闆透過錄影記錄員工在工作過程中的各項作業後，再就這些紀錄加以分析、歸納與分類，最後整理成工作說明書與工作規範(書)，此係工作分析(Job Analysis)方法中的____法。",
       "options": [],
-      "answer": "觀察 (或觀察分析)",
+      "answer": "觀察/觀察分析",
       "score": 2
     },
     {
-      "number": "填充4",
+      "number": "4",
       "type": "fill_in",
-      "text": "服務金三角(Service Triangle)係對服務業的行銷活動提出整合性之歸納，其面向包含外部行銷、內部行銷及_____行銷。",
+      "text": "服務金三角(Service Triangle)係對服務業的行銷活動提出整合性之歸納，其面向包含外部行銷、內部行銷及____行銷。",
       "options": [],
-      "answer": "互動 (Interactive)",
+      "answer": "互動/Interactive",
       "score": 2
     },
     {
-      "number": "填充5",
+      "number": "5",
       "type": "fill_in",
-      "text": "小余和小白在同一間公司服務，但為不同部門且不同層級的人員，以組織正式溝通(Formal Communication)的流向分類，2 人在公司內部之溝通稱為_____溝通。",
+      "text": "小余和小白在同一間公司服務，但為不同部門且不同層級的人員，以組織正式溝通(Formal Communication)的流向分類，2人在公司內部之溝通稱為____溝通。",
       "options": [],
-      "answer": "斜向 (或交叉、Diagonal)",
+      "answer": "斜向/交叉/Diagonal",
       "score": 2
     },
     {
-      "number": "填充6",
+      "number": "6",
       "type": "fill_in",
-      "text": "在技術採用生命週期(Technology Adoption Life Cycle)理論中，最容易接受新科技產品且最願意嘗試的消費者類型稱為_____。",
+      "text": "在技術採用生命週期(Technology Adoption Life Cycle)理論中，最容易接受新科技產品且最願意嘗試的消費者類型稱為____。",
       "options": [],
-      "answer": "創新者 (或技術狂熱者、Innovators)",
+      "answer": "創新者/技術狂熱者/技術狂熱份子/科技狂熱者/科技狂熱份子/冒險家/Innovators",
       "score": 2
     },
     {
-      "number": "填充7",
+      "number": "7",
       "type": "fill_in",
-      "text": "依據赫塞(P. Hersey)與布蘭查(K. Blanchard)的情境領導理論(Situational Leadership Theory)，當員工對於完成任務的能力和意願均佳，且成熟度很高時，領導者最適合採取_____式的領導行為。",
+      "text": "依據赫塞(P. Hersey)與布蘭查(K. Blanchard)的情境領導理論(Situational Leadership Theory)，當員工對於完成任務的能力和意願均佳，且成熟度很高時，領導者最適合採取____式的領導行為。",
       "options": [],
-      "answer": "授權 (Delegating)",
+      "answer": "授權/Delegating",
       "score": 2
     },
     {
-      "number": "填充8",
+      "number": "8",
       "type": "fill_in",
-      "text": "李維特(Leavitt)認為組織或企業面臨變革壓力所採取的變革途徑(方法)，可歸納為_____改變、技術改變、行為改變。",
+      "text": "李維特(Leavitt)認為組織或企業面臨變革壓力所採取的變革途徑(方法)，可歸納為改變____、技術改變、行為改變。",
       "options": [],
-      "answer": "結構 (或結構性)",
+      "answer": "結構/結構性",
       "score": 2
     },
     {
-      "number": "填充9",
+      "number": "9",
       "type": "fill_in",
-      "text": "當員工做了不當行為，為了降低該行為的發生，給予員工不想要的結果，此為增強理論(Reinforcement Theory)行為修正方法中的_____。",
+      "text": "當員工做了不當行為，為了降低該行為的發生，給予員工不想要的結果，此為增強理論(Reinforcement Theory)行為修正方法中的____。",
       "options": [],
-      "answer": "懲罰 (或處罰、Punishment)",
+      "answer": "懲罰/處罰/Punishment",
       "score": 2
     },
     {
-      "number": "填充10",
+      "number": "10",
       "type": "fill_in",
-      "text": "假設 A 公司針對不同用電量的用戶，分別推出不同的電價方案，以此作為市場區隔的基礎，此種市場區隔變數稱為_____變數。",
+      "text": "假設A公司針對不同用電量的用戶，分別推出不同的電價方案，以此作為市場區隔的基礎，此種市場區隔變數稱為____變數。",
       "options": [],
-      "answer": "行為 (或行為區隔)",
+      "answer": "行為/行為區隔/個人行為/個人行為區隔",
       "score": 2
     },
     {
-      "number": "填充11",
+      "number": "11",
       "type": "fill_in",
-      "text": "企業功能是指企業為達成目標所執行的重要活動，其內涵包括生產管理、行銷管理、人力資源管理、_____管理、財務管理，簡稱「五管」，近年又加上_____管理，合稱「六管」。",
+      "text": "企業功能是指企業為達成目標所執行的重要活動，其內涵包括生產管理、行銷管理、人力資源管理、____管理、財務管理，簡稱「五管」，近年又加上____管理，合稱「六管」。(每格1分)",
       "options": [],
-      "answer": "研發 (Research & Development)；資訊 (Information)",
+      "answer": "研發/研究發展/Research & Development;資訊/Information",
       "score": 2
     },
     {
-      "number": "填充12",
+      "number": "12",
       "type": "fill_in",
-      "text": "不同於傳統績效評估較重視財務面，_____工具是由柯普朗及諾頓(Kaplan & Norton)等提出，透過財務、顧客、企業內部流程、學習與成長等 4 個構面，完整評估企業績效。",
+      "text": "不同於傳統績效評估較重視財務面，____工具是由柯普朗及諾頓(Kaplan & Norton)等提出，透過財務、顧客、企業內部流程、學習與成長等4個構面，完整評估企業績效。",
       "options": [],
-      "answer": "平衡計分卡 (BSC)",
+      "answer": "平衡計分卡/Balanced Scorecard/BSC",
       "score": 2
     },
     {
-      "number": "填充13",
+      "number": "13",
       "type": "fill_in",
-      "text": "_____是系統性地管理與運用企業的經營智慧，包含有形的資產與無形的人才與經驗，並使組織成員有效獲得資訊，且易於與其他成員分享。",
+      "text": "____是系統性地管理與運用企業的經營智慧，包含有形的資產與無形的人才與經驗，並使組織成員有效獲得資訊，且易於與其他成員分享。",
       "options": [],
-      "answer": "知識管理 (KM)",
+      "answer": "知識管理/KM/Knowledge Management",
       "score": 2
     },
     {
-      "number": "填充14",
+      "number": "14",
       "type": "fill_in",
-      "text": "請問○1 解凍(Unfreezing)、○2 溝通(Communicate)、○3 再凍結(Refreezing)、○4 重組(Restructuring)、○5 變革(Changing)等項目中，屬於勒溫(K. Lewin)提出的組織變革過程(模式) 3 步驟依序為_____。",
+      "text": "請問①解凍(Unfreezing)、②溝通(Communicate)、③再凍結(Refreezing)、④重組(Restructuring)、⑤變革(Changing)等項目中，屬於勒溫(K. Lewin)提出的組織變革過程(模式)3步驟依序為____。(請以數字排列回答，全對才給分)",
       "options": [],
-      "answer": "1, 5, 3 (解凍 -> 變革 -> 再凍結)",
+      "answer": "153",
       "score": 2
     },
     {
-      "number": "填充15",
+      "number": "15",
       "type": "fill_in",
-      "text": "財務報表係根據會計準則編製而成，其中_____表可反映特定時間內的公司營運狀況，提供銷售額、銷售成本和盈利等重要資料，以評估公司盈利能力。",
+      "text": "財務報表係根據會計準則編製而成，其中____表可反映特定時間內的公司營運狀況，提供銷售額、銷售成本和盈利等重要資料，以評估公司盈利能力。",
       "options": [],
-      "answer": "綜合損益表 (或損益表)",
+      "answer": "綜合損益/損益/Income",
       "score": 2
     },
     {
-      "number": "填充16",
+      "number": "16",
       "type": "fill_in",
-      "text": "有機式組織(Organic Organization)之特點包含：組織層級少，管理幅度_____，正式化程度低、集權程度_____，高彈性應變。",
+      "text": "有機式組織(Organic Organization)之特點包含：組織層級少，管理幅度____，正式化程度低、集權程度____，高彈性應變。(請填入高或低，每格1分)",
       "options": [],
-      "answer": "高；低",
+      "answer": "高;低",
       "score": 2
     },
     {
-      "number": "填充17",
+      "number": "17",
       "type": "fill_in",
-      "text": "假設 A 公司積極開發再生能源，提供更多綠電滿足客戶需求，此行為符合管理綠化 4 個途徑中的_____途徑。",
+      "text": "假設A公司積極開發再生能源，提供更多綠電滿足客戶需求，此行為符合管理綠化4個途徑中的____途徑。",
       "options": [],
-      "answer": "市場 (Market)",
+      "answer": "市場/Market",
       "score": 2
     },
     {
-      "number": "填充18",
+      "number": "18",
       "type": "fill_in",
-      "text": "某玩具製造公司生產 1 件玩具之變動成本 20 元、售價 50 元，每年固定成本 15 萬元，該公司今年產品銷售預測額達 100 萬元，則今年預測利潤為_____元。",
+      "text": "某玩具製造公司生產1件玩具之變動成本20元、售價50元，每年固定成本15萬元，該公司今年產品銷售預測額達100萬元，則今年預測利潤為____元。",
       "options": [],
-      "answer": "450,000",
+      "answer": "45萬/四十五萬/450,000",
       "score": 2
     },
     {
-      "number": "填充19",
+      "number": "19",
       "type": "fill_in",
-      "text": "艾森豪矩陣(Eisenhower Matrix)又稱為「時間管理四象限」或「時間管理矩陣」，是由「重要性」和「_____」兩條軸線組合而成的 2 × 2 矩陣，可作為安排任務處理優先順序的管理工具。",
+      "text": "艾森豪矩陣(Eisenhower Matrix)又稱為「時間管理四象限」或「時間管理矩陣」，是由「重要性」和「____」兩條軸線組合而成的2×2矩陣，可作為安排任務處理優先順序的管理工具。",
       "options": [],
-      "answer": "緊急性 (或緊急度、急迫性)",
+      "answer": "緊急度/緊急性/急迫度/急迫性/時限性",
       "score": 2
     },
     {
-      "number": "填充20",
+      "number": "20",
       "type": "fill_in",
-      "text": "_____制度是指公開發行公司為促進企業健全經營，確保達成營運效率、資訊報導及時透明、遵循相關法令規章等目標，由經理人設計，董事會通過，其組成要素包括控制環境、風險評估、控制作業、資訊與溝通及監督作業。",
+      "text": "____制度是指公開發行公司為促進企業健全經營，確保達成營運效率、資訊報導及時透明、遵循相關法令規章等目標，由經理人設計，董事會通過，並經董事會、經理人及其他員工執行之管理過程，其組成要素包括控制環境、風險評估、控制作業、資訊與溝通及監督作業。\n# 二、問答題\n**題組：問答題 第 1 題**\n名詞解釋(5題，每題3分，共15分)",
       "options": [],
-      "answer": "內部控制 (內控)",
+      "answer": "內部控制/內控",
       "score": 2
     },
     {
-      "number": "問答1-(1)",
+      "number": "1-1",
       "type": "essay",
-      "text": "解釋名詞：敏捷管理(Agile Management)",
+      "text": "敏捷管理(Agile Management)",
       "options": [],
-      "answer": "【參考答案】敏捷管理是一種以人為核心、迭代、循序漸進的開發方法。它強調團隊合作、頻繁交付、客戶反饋以及對變化的靈活響應。常見框架包括 Scrum 和 Kanban。",
-      "score": 3
+      "answer": "",
+      "score": 5
     },
     {
-      "number": "問答1-(2)",
+      "number": "1-2",
       "type": "essay",
-      "text": "解釋名詞：尖角效應(Horn Effect)",
+      "text": "尖角效應(Horn Effect)",
       "options": [],
-      "answer": "【參考答案】尖角效應與月暈效應相反，是指對一個人的某個負面特徵印象過深，進而推論其在其他方面也同樣差勁的認知偏誤。",
-      "score": 3
+      "answer": "",
+      "score": 5
     },
     {
-      "number": "問答1-(3)",
+      "number": "1-3",
       "type": "essay",
-      "text": "解釋名詞：阿米巴經營(Amoeba Operating)",
+      "text": "阿米巴經營(Amoeba Operating)",
       "options": [],
-      "answer": "【參考答案】由稻盛和夫提出，將組織分成小的獨立核算單位（阿米巴），每個單位自行制定計畫、管理盈虧，旨在培養具有經營者意識的人才。",
-      "score": 3
+      "answer": "",
+      "score": 5
     },
     {
-      "number": "問答1-(4)",
+      "number": "1-4",
       "type": "essay",
-      "text": "解釋名詞：事前控制(Precontrol / Feedforward Control)",
+      "text": "事前控制(Precontrol/Feedforward Control)",
       "options": [],
-      "answer": "【參考答案】在活動開始之前進行的控制，旨在防止問題的發生。透過檢查輸入資源（如原料、資金、人員）是否符合標準來確保結果品質。",
-      "score": 3
+      "answer": "",
+      "score": 5
     },
     {
-      "number": "問答1-(5)",
+      "number": "1-5",
       "type": "essay",
-      "text": "解釋名詞：精實生產(Lean Production)",
+      "text": "精實生產(Lean Production)",
       "options": [],
-      "answer": "【參考答案】源自豐田生產方式，核心目標是「消除浪費」(Muda)。透過準時化(JIT)和自動化，以最少的資源投入創造最大的價值。",
-      "score": 3
+      "answer": "",
+      "score": 5
     },
     {
-      "number": "問答2",
+      "number": "2",
       "type": "essay",
-      "text": "請分別說明何謂行銷 4P 與 4C？請以箭號方式「->」標示 4P 與 4C 各項目間之對應關係。另請簡要說明行銷 4P 與 4C 之差異。",
+      "text": "請分別說明何謂行銷4P與4C(8分)？請以箭號方式「→」標示4P與4C各項目間之對應關係(4分)。另請簡要說明行銷4P與4C之差異(3分)。",
       "options": [],
-      "answer": "【參考答案】\n1. 4P：產品 (Product)、價格 (Price)、通路 (Place)、推廣 (Promotion)。\n2. 4C：顧客需求 (Customer Needs)、顧客成本 (Cost)、便利性 (Convenience)、溝通 (Communication)。\n3. 對應關係：Product -> Customer Needs; Price -> Cost; Place -> Convenience; Promotion -> Communication。\n4. 差異：4P 是以「生產者/企業」為中心的行銷觀點；4C 是以「消費者」為中心的觀點。",
-      "score": 15
+      "answer": "",
+      "score": 5
     },
     {
-      "number": "問答3",
+      "number": "3",
       "type": "essay",
-      "text": "柯林思(Jim Collins)於《從 A 到 A+》一書中指出企業領導者的能力可分為 5 個等級，請分別說明各等級之內涵與特質。",
+      "text": "柯林思(Jim Collins)於《從A到A+》一書中指出企業領導者的能力可分為5個等級，請分別說明各等級之內涵與特質。(15分)",
       "options": [],
-      "answer": "【參考答案】\n等級1：有能力的個人。等級2：有貢獻的團隊成員。等級3：能幹的管理者。等級4：有效率的領導者。等級5：等級5領導者（結合謙遜與鋼鐵般的專業意志）。",
-      "score": 15
+      "answer": "",
+      "score": 5
     },
     {
-      "number": "問答4",
+      "number": "4",
       "type": "essay",
-      "text": "請闡述勒溫(K. Lewin)認為個人在目標抉擇時產生的 3 種主要衝突類型。",
+      "text": "請闡述勒溫(K. Lewin)認為個人在目標抉擇時產生的3種主要衝突類型。(15分)",
       "options": [],
-      "answer": "【參考答案】\n1. 雙趨衝突：兩個目標都想要，但只能選一個。\n2. 雙避衝突：兩個目標都不想要，但必須選一個。\n3. 趨避衝突：同一個目標既有吸引力又有排斥力。",
-      "score": 15
+      "answer": "",
+      "score": 5
     }
   ]
 }

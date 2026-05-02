@@ -1,652 +1,655 @@
-[
-  {
-    "number": "1",
-    "type": "multiple_choice",
-    "text": "電容編碼 104 及 223 之陶瓷電容並聯，其等效電容為多少 nF？",
-    "options": [
-      "1.8",
-      "12.2",
-      "18",
-      "122"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "2",
-    "type": "multiple_choice",
-    "text": "8 顆 100 瓦燈泡，每日 10 小時月 30 天，電費 5 元/度需多少元？",
-    "options": [
-      "600",
-      "720",
-      "960",
-      "1200"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "3",
-    "type": "multiple_choice",
-    "text": "如圖電路穩定後流經 Ra 電流為 I，Ra 短路時電流 Io，I/Io 為？",
-    "options": [
-      "3/4",
-      "1/2",
-      "3/2",
-      "2"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "4",
-    "type": "multiple_choice",
-    "text": "二極體順向壓降 0.7 V，若 Vi = +4.8 V，求 Vo 為多少 V？",
-    "options": [
-      "+3.5",
-      "+4.5",
-      "+5.5",
-      "+6.5"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "5",
-    "type": "multiple_choice",
-    "text": "有關矽控整流器 (SCR) 之敘述，下列何者正確？",
-    "options": [
-      "構造 2 個 NPN",
-      "雙向導通",
-      "導通角度稱觸發角",
-      "方法僅一種"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "6",
-    "type": "multiple_choice",
-    "text": "放大器電壓增益 1000，Ri=100k，Ro=100，求功率增益 dB？",
-    "options": [
-      "30",
-      "50",
-      "70",
-      "90"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "7",
-    "type": "multiple_choice",
-    "text": "有關 MOSFET 敘述何者有誤？",
-    "options": [
-      "閘源間直流電阻近無窮",
-      "P 型與 N 型特性完全同",
-      "閘道間用二氧化矽",
-      "空乏型增加離子佈植"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "8",
-    "type": "multiple_choice",
-    "text": "採用電晶體開關電路，若負載為電感性應採何種保護？",
-    "options": [
-      "二極體與負載並聯",
-      "電阻與負載串聯",
-      "電容與負載串聯",
-      "電阻與負載並聯"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "9",
-    "type": "multiple_choice",
-    "text": "色碼電阻黃、黑、橙、金，施加 16V，最大電流為多少 uA？",
-    "options": [
-      "381",
-      "421",
-      "481",
-      "521"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "10",
-    "type": "multiple_choice",
-    "text": "三用電表量燈泡電阻為無窮大，何者正確？",
-    "options": [
-      "故障",
-      "瓦特數小",
-      "瓦特數大",
-      "額定壓高"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "11",
-    "type": "multiple_choice",
-    "text": "2 個 DCV 表 (100V, 20k) 與 (150V, 5k) 串聯，最大可測電壓？",
-    "options": [
-      "100",
-      "125",
-      "150",
-      "225"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "12",
-    "type": "multiple_choice",
-    "text": "正反器 (Flip-Flop) 屬於下列何種電路？",
-    "options": [
-      "雙穩態",
-      "整流器",
-      "無穩態",
-      "單穩態"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "13",
-    "type": "multiple_choice",
-    "text": "室溫下溫度每升高 1 ℃，二極體順向壓降降低約多少 mV？",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "5"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "14",
-    "type": "multiple_choice",
-    "text": "BJT 電晶體 gm=80 mA/V, rpi=2.5 k, VT=25 mV, 求 beta？",
-    "options": [
-      "100",
-      "200",
-      "250",
-      "400"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "15",
-    "type": "multiple_choice",
-    "text": "使用小信號放大器之主要目的？",
-    "options": [
-      "功率放大",
-      "穩定性佳",
-      "線性放大",
-      "頻率響應佳"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "16",
-    "type": "multiple_choice",
-    "text": "PNP 型 BJT 射極接地，基極 0.7 V 集極 -4 V，操作在何區？",
-    "options": [
-      "順向主動",
-      "逆向主動",
-      "飽和區",
-      "截止區"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "17",
-    "type": "multiple_choice",
-    "text": "BJT 之 beta=99，求其 alpha 值？",
-    "options": [
-      "0.98",
-      "0.985",
-      "0.99",
-      "0.995"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "18",
-    "type": "multiple_choice",
-    "text": "BJT 之 beta=100，處於飽和狀態的最小 IB 電流多少 mA？",
-    "options": [
-      "0.1",
-      "0.2",
-      "0.5",
-      "0.8"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "19",
-    "type": "multiple_choice",
-    "text": "頻率 1 kHZ 相位差 180 度，掃瞄 0.1 ms/DIV，兩波相距多少 DIV？",
-    "options": [
-      "4.5",
-      "5",
-      "5.5",
-      "6"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "20",
-    "type": "multiple_choice",
-    "text": "JFET 工作原理最主要之控制目標？",
-    "options": [
-      "載子濃度",
-      "導電係數",
-      "接面電流",
-      "空乏區厚度"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "21",
-    "type": "multiple_choice",
-    "text": "全波整流輸出直流 100 V，求漣波電壓峰值 V？",
-    "options": [
-      "48",
-      "48√2",
-      "96",
-      "96√2"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "22",
-    "type": "multiple_choice",
-    "text": "理想 OPA 電路 Vi=0.3 V，下列何者有誤？",
-    "options": [
-      "Vo=-4.5",
-      "Va=0.9",
-      "I2=0.2mA",
-      "I1=-0.1mA"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "23",
-    "type": "multiple_choice",
-    "text": "脈波週期 5 ms 寬度 2 ms，工作週期多少 %？",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "60"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "24",
-    "type": "multiple_choice",
-    "text": "110V/60Hz 家庭用電，瞬時電壓表示式？",
-    "options": [
-      "110sin(60t)",
-      "110sin(60pi t)",
-      "110√2sin(60pi t)",
-      "110√2sin(120pi t)"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "25",
-    "type": "multiple_choice",
-    "text": "漂移電流形成的原因？",
-    "options": [
-      "空乏區電場",
-      "空乏區多數載子",
-      "載子濃度不同",
-      "載子移動速不同"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "26",
-    "type": "multiple_choice",
-    "text": "稽納二極體摻雜濃度減少，稽納電壓會？",
-    "options": [
-      "不變",
-      "增加",
-      "減少",
-      "不一定"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "27",
-    "type": "multiple_choice",
-    "text": "理想 OPA 電路 R1=R2=R3=2k, Vi1=Vi2=1V, 求 Vo？",
-    "options": [
-      "-1",
-      "-2",
-      "-3",
-      "-4"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "28",
-    "type": "multiple_choice",
-    "text": "有關發光二極體 (LED) 特性何者正確？",
-    "options": [
-      "主要材料 GaAs",
-      "頻率與偏壓有關",
-      "強度與順流反比",
-      "工作於逆偏區"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "29",
-    "type": "multiple_choice",
-    "text": "NPN 型 BJT 工作於主動區時，下列敘述何者有誤？",
-    "options": [
-      "適合作訊號放大",
-      "IC 與 IB 成正比",
-      "BC 正偏",
-      "BE 正偏"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "30",
-    "type": "multiple_choice",
-    "text": "電晶體 beta=99, Vbe_on=1 V, 求電路消耗直流功率多少 mW？",
-    "options": [
-      "100",
-      "180",
-      "210",
-      "240"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "31",
-    "type": "multiple_choice",
-    "text": "稽納二極體經常應用在下列何者功能？",
-    "options": [
-      "穩定電壓",
-      "穩定電流",
-      "穩定功率",
-      "穩定頻率"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "32",
-    "type": "multiple_choice",
-    "text": "MOSFET 放大電路求直流電壓 VDS 值？",
-    "options": [
-      "3",
-      "7",
-      "9",
-      "10"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "33",
-    "type": "multiple_choice",
-    "text": "串級放大器增益 250 與 400，無負載效應總增益多少 dB？",
-    "options": [
-      "40",
-      "60",
-      "80",
-      "100"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "34",
-    "type": "multiple_choice",
-    "text": "有關 RS-232 通訊特性何者有誤？",
-    "options": [
-      "接收端 > 3V 為 1",
-      "傳送端 5V~15V 為 0",
-      "25 接腳 D 型",
-      "串列傳送"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "35",
-    "type": "multiple_choice",
-    "text": "有關振盪器 (Oscillator) 敘述何者有誤？",
-    "options": [
-      "直轉交",
-      "有正弦方波三角波",
-      "韋恩電橋是正弦波",
-      "輸出非連續"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "36",
-    "type": "multiple_choice",
-    "text": "電晶體正回授電路之主要目的？",
-    "options": [
-      "增迴路增益",
-      "操作穩定",
-      "產生振盪",
-      "減少雜訊"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "37",
-    "type": "multiple_choice",
-    "text": "有關共汲極 MOSFET 放大器，下列敘述何者正確？",
-    "options": [
-      "輸出電阻高",
-      "輸入電阻低",
-      "電壓增益小於 1",
-      "電流增益低"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "38",
-    "type": "multiple_choice",
-    "text": "中心抽頭全波整流需要幾個二極體？",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "39",
-    "type": "multiple_choice",
-    "text": "電壓增益 Av=1/(1+jωRC) 屬於何種濾波器？",
-    "options": [
-      "帶通",
-      "低通",
-      "高通",
-      "帶拒"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "40",
-    "type": "multiple_choice",
-    "text": "OPA 差模增益 10^5 共模 10，Vi1=200uV Vi2=120uV，求 Vo？",
-    "options": [
-      "6",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "41",
-    "type": "multiple_choice",
-    "text": "BJT IEQ=2 mA, VT=14 mV, 求射極交流電阻 re？",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "42",
-    "type": "multiple_choice",
-    "text": "共汲極放大電路與下列何種組態最相似？",
-    "options": [
-      "共基",
-      "共射",
-      "共閘",
-      "共集"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "43",
-    "type": "multiple_choice",
-    "text": "增強型負載 NMOS 反相器，其負載電晶體在何區操作？",
-    "options": [
-      "崩潰",
-      "三極",
-      "截止",
-      "飽和"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "44",
-    "type": "multiple_choice",
-    "text": "橋式全波整流 Vi=10sin30pi t，下列敘述何者正確？",
-    "options": [
-      "直流有效約 7V",
-      "直流頻率 30Hz",
-      "直流平均 14.1V",
-      "逆向峰值 20V"
-    ],
-    "answer": "A",
-    "score": 2
-  },
-  {
-    "number": "45",
-    "type": "multiple_choice",
-    "text": "基本放大器正回授 beta=0.01，振盪所需 A 至少多少？",
-    "options": [
-      "10",
-      "20",
-      "50",
-      "100"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "46",
-    "type": "multiple_choice",
-    "text": "電子實習焊錫主要材料？",
-    "options": [
-      "純錫",
-      "錫銅",
-      "錫鉛",
-      "錫鋁"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "47",
-    "type": "multiple_choice",
-    "text": "OPA Ad=1000, Ac=10, 求 CMRR 為多少 dB？",
-    "options": [
-      "20",
-      "40",
-      "60",
-      "80"
-    ],
-    "answer": "B",
-    "score": 2
-  },
-  {
-    "number": "48",
-    "type": "multiple_choice",
-    "text": "Darlington 電路 beta1=beta2=40，等效電流增益？",
-    "options": [
-      "40",
-      "80",
-      "800",
-      "1600"
-    ],
-    "answer": "D",
-    "score": 2
-  },
-  {
-    "number": "49",
-    "type": "multiple_choice",
-    "text": "史密特 (Schmitt) 振盪器的輸出波形？",
-    "options": [
-      "正弦",
-      "三角",
-      "方波",
-      "鋸齒"
-    ],
-    "answer": "C",
-    "score": 2
-  },
-  {
-    "number": "50",
-    "type": "multiple_choice",
-    "text": "如圖電路求電壓增益？",
-    "options": [
-      "10",
-      "20",
-      "30",
-      "40"
-    ],
-    "answer": "C",
-    "score": 2
-  }
-]
+{
+  "duration": 60,
+  "questions": [
+    {
+      "number": "1",
+      "type": "single",
+      "text": "2個電容編碼分別為104及223之陶瓷電容器以並聯方式接在一起，試求其等效電容為多少nF？",
+      "options": [
+        "1.8",
+        "12.2",
+        "18",
+        "122"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "2",
+      "type": "single",
+      "text": "有8顆100瓦的省電燈泡，每天點亮10小時，每月點亮30天，若1度電為5元，試求每月電費為多少元？",
+      "options": [
+        "600",
+        "720",
+        "960",
+        "1,200"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "3",
+      "type": "single",
+      "text": "如右圖所示之電路，在電路穩定後流經 Ra 電流為 I，當 Rb 短路時，則流經 Ra 電流變成 Io，試求 I/Io 為多少？",
+      "options": [
+        "3/4",
+        "1/2",
+        "3/2",
+        "2"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "4",
+      "type": "single",
+      "text": "如右圖所示之電路，二極體順向壓降為 0.7 V，若 Vi = +4.8 V，試求 Vo 為多少V？",
+      "options": [
+        "+3.5",
+        "+4.5",
+        "+5.5",
+        "+6.5"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "5",
+      "type": "single",
+      "text": "有關矽控整流器(SCR)之敘述，下列何者正確？",
+      "options": [
+        "其構造相當於2個NPN電晶體組成",
+        "具有雙向導通之能力",
+        "發生觸發導通之角度稱為觸發角",
+        "使SCR導通之方法僅有一種"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "6",
+      "type": "single",
+      "text": "有一放大器，若其電壓增益為 1,000，Ri = 100 kΩ、Ro = 100 Ω，試求其功率增益為多少dB？",
+      "options": [
+        "30",
+        "50",
+        "70",
+        "90"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "7",
+      "type": "single",
+      "text": "下列有關MOSFET之敘述，何者有誤？",
+      "options": [
+        "閘極與源極間的直流電阻接近無窮大",
+        "增長型之P型MOSFET與空乏型之N型MOSFET特性完全相同",
+        "閘極與通道(Channel)間，一般是使用二氧化矽(SiO2)阻隔",
+        "空乏型在製造上比增長型增加離子佈植(Ion Implantation)手續"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "8",
+      "type": "single",
+      "text": "採用電晶體作為開關電路，若負載為電感性，應採下列何種保護措施？",
+      "options": [
+        "將二極體與負載並聯",
+        "將電阻器與負載串聯",
+        "將電容器與負載串聯",
+        "將電阻器與負載並聯"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "9",
+      "type": "single",
+      "text": "有一色碼電阻施加16伏特直流電壓，若其色碼先後次序為黃、黑、橙、金，試求該電阻流過之最大電流為多少 μA？(計算至整數位，以下四捨五入)",
+      "options": [
+        "381",
+        "421",
+        "481",
+        "521"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "10",
+      "type": "single",
+      "text": "以三用電表量測一燈泡電阻，若量測結果無窮大，有關此燈泡之敘述，下列何者正確？",
+      "options": [
+        "故障",
+        "瓦特數很小",
+        "瓦特數很大",
+        "額定電壓很高"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "11",
+      "type": "single",
+      "text": "如右圖所示2個DCV表，分別為 DCV1 (滿刻度100V，內阻20kΩ) 及 DCV2 (滿刻度150V，內阻5kΩ)，試求最大可測直流電壓 Vab 為多少V？",
+      "options": [
+        "100",
+        "125",
+        "150",
+        "225"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "12",
+      "type": "single",
+      "text": "正反器(Flip-Flop)屬於下列何種電路？",
+      "options": [
+        "雙穩態",
+        "整流器",
+        "無穩態",
+        "單穩態"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "13",
+      "type": "single",
+      "text": "在室溫下，溫度每升高1℃時，二極體的順向電壓降低約多少mV？",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "5"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "14",
+      "type": "single",
+      "text": "已知有一BJT，gm = 80 mA/V，rπ = 2.5 kΩ、VT = 25mV，試求 β 為多少？",
+      "options": [
+        "100",
+        "200",
+        "250",
+        "400"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "15",
+      "type": "single",
+      "text": "下列何者為使用小信號放大器之主要目的？",
+      "options": [
+        "功率放大",
+        "穩定性佳",
+        "線性放大",
+        "頻率響應佳"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "16",
+      "type": "single",
+      "text": "量測某一PNP型BJT電路，結果得知其射極接地，分別為基極電壓 0.7V、集極電壓 -4V，試問該電晶體操作應在下列何區？",
+      "options": [
+        "順向主動區",
+        "逆向主動區",
+        "飽和區",
+        "截止區"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "17",
+      "type": "single",
+      "text": "有一BJT之 β = 99，試求其 α 值為多少？",
+      "options": [
+        "0.98",
+        "0.985",
+        "0.99",
+        "0.995"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "18",
+      "type": "single",
+      "text": "如右圖所示之電路，已知BJT之 β = 100，試求其處於飽和狀態的最小電流 IB 為多少mA？(計算至小數點後第1位，以下四捨五入)",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.5",
+        "0.8"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "19",
+      "type": "single",
+      "text": "以示波器觀察到頻率同為 1 kHz，惟相位差 180° 的2個正弦波形，若示波器的水平掃瞄選擇為 0.1 ms/DIV，則兩正弦波相距多少DIV？",
+      "options": [
+        "4.5",
+        "5",
+        "5.5",
+        "6"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "20",
+      "type": "single",
+      "text": "下列何者為JFET工作原理最主要之控制目標？",
+      "options": [
+        "通道中載子的濃度",
+        "通道之導電係數",
+        "通道接面的電流",
+        "接面空乏區的厚度"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "21",
+      "type": "single",
+      "text": "有一全波整流電路，已知輸出直流電壓為100V，試求漣波電壓峰值為多少V？",
+      "options": [
+        "48",
+        "18√2",
+        "96",
+        "96√2"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "22",
+      "type": "single",
+      "text": "如右圖所示，有一理想運算放大器電路，若其 Vi = 0.3 V，試問下列電流、電壓值何者有誤？",
+      "options": [
+        "Vo = -4.5 V",
+        "Va = 0.9 V",
+        "I2 = 0.2 mA",
+        "I1 = -0.1 mA"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "23",
+      "type": "single",
+      "text": "有一脈波之週期為5ms，脈波寬度時間為2ms，試求其工作週期為多少%？",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "60"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "24",
+      "type": "single",
+      "text": "有一家庭用電為110V/60Hz，下列何者為其瞬時電壓表示式？(單位：伏特)",
+      "options": [
+        "110 sin(60t)",
+        "110 sin(60πt)",
+        "110√2 sin(60πt)",
+        "110√2 sin(120πt)"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "25",
+      "type": "single",
+      "text": "下列何者為漂移電流形成的原因？",
+      "options": [
+        "空乏區的電場",
+        "空乏區的多數載子",
+        "載子濃度不同",
+        "載子移動速率不同"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "26",
+      "type": "single",
+      "text": "有一稽納二極體(Zener Diode)，若其摻雜濃度減少，請問下列何者為稽納電壓之反應？",
+      "options": [
+        "不變",
+        "增加",
+        "減少",
+        "不一定"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "27",
+      "type": "single",
+      "text": "如右圖所示，有一理想運算放大器電路，R1 = R2 = R3 = 2 kΩ，輸入電壓 Vi1 = Vi2 = 1 V，試求輸出電壓 Vo 為多少V？",
+      "options": [
+        "-1",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "28",
+      "type": "single",
+      "text": "有關發光二極體(LED)之特性，下列敘述何者正確？",
+      "options": [
+        "主要材料以砷化鎵(GaAs)等製成",
+        "放出光的頻率與外加偏壓有關",
+        "發光強度與順向電流成反比",
+        "工作於逆向偏壓區"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "29",
+      "type": "single",
+      "text": "NPN型BJT工作於主動區時，下列敘述何者有誤？",
+      "options": [
+        "適合作為訊號放大",
+        "集極電流與基極電流成正比",
+        "基極-集極為正向偏壓",
+        "基極-射極為正向偏壓"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "30",
+      "type": "single",
+      "text": "如右圖所示之電路，若電晶體 β = 99，切入電壓 VBE = 1 V，試求電路消耗直流功率為多少mW？",
+      "options": [
+        "100",
+        "180",
+        "210",
+        "240"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "31",
+      "type": "single",
+      "text": "一般而言，稽納二極體(Zener Diode)經常應用在下列何者功能？",
+      "options": [
+        "穩定電壓",
+        "穩定電流",
+        "穩定功率",
+        "穩定頻率"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "32",
+      "type": "single",
+      "text": "如右圖所示為MOSFET放大電路，若 ID = 0.15 mA/V² × (VGS - 1)²，試求直流電壓 VDS 值為多少V？",
+      "options": [
+        "3",
+        "7",
+        "9",
+        "10"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "33",
+      "type": "single",
+      "text": "有一串級放大器，第一級放大器電壓增益為250，第二級放大器電壓增益為400，若兩級間沒有負載效應，試求其總電壓增益為多少dB？",
+      "options": [
+        "40",
+        "60",
+        "80",
+        "100"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "34",
+      "type": "single",
+      "text": "有關典型RS-232通訊之特性，下列何者有誤？",
+      "options": [
+        "接收端大於3V為邏輯「1」",
+        "傳送端介於5V與15V之間為邏輯「0」",
+        "為25接腳之D型接頭",
+        "屬於串列傳送方式"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "35",
+      "type": "single",
+      "text": "有關振盪器(Oscillator)，下列敘述何者有誤？",
+      "options": [
+        "將直流信號轉為交流信號",
+        "振盪電路有正弦波、方波、三角波產生器",
+        "韋恩電橋振盪器是正弦波振盪器",
+        "輸出非為連續性訊號"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "36",
+      "type": "single",
+      "text": "有一電晶體設計為正回授電路，下列何者為其主要目的？",
+      "options": [
+        "增加迴路增益",
+        "使電路操作更穩定",
+        "使電路產生振盪",
+        "減少雜訊"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "37",
+      "type": "single",
+      "text": "有關共汲極MOSFET放大器，下列敘述何者正確？",
+      "options": [
+        "等效輸出電阻很高",
+        "等效輸入電阻很低",
+        "電壓增益小於1",
+        "電流增益很低"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "38",
+      "type": "single",
+      "text": "試問中心抽頭全波整流電路一般需要多少個二極體？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "39",
+      "type": "single",
+      "text": "有一濾波器電路，若電壓增益為 Av = 1 / (1 + jωRC)，試問此電路為下列何者？",
+      "options": [
+        "帶通濾波器",
+        "低通濾波器",
+        "高通濾波器",
+        "帶拒濾波器"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "40",
+      "type": "single",
+      "text": "已知運算放大器兩輸入端 Vi1 = 200 μV、Vi2 = 120 μV，差模電壓增益 Ad = 10⁵、共模電壓增益 Ac = 10，試求輸出電壓 Vo 為多少V？",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "16"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "41",
+      "type": "single",
+      "text": "已知BJT的輸入直流偏壓電流為 IEQ = 2mA，且熱電壓為 VT = 14 mV，試求其射極交流電阻 re 為多少Ω？",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "42",
+      "type": "single",
+      "text": "共汲極放大電路與下列何種組態放大電路之特性最相似？",
+      "options": [
+        "共基極",
+        "共射極",
+        "共閘極",
+        "共集極"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "43",
+      "type": "single",
+      "text": "有關增強型負載的NMOS反相器，其負載電晶體應在下列何種區域操作？",
+      "options": [
+        "崩潰區",
+        "三極區",
+        "截止區",
+        "飽和區"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "44",
+      "type": "single",
+      "text": "有一單相二極體橋式全波整流器，其交流輸入電壓 Vi = 10sin30πt V，下列敘述何者正確？",
+      "options": [
+        "直流電壓有效值約為 7 V",
+        "直流電壓頻率為 30 Hz",
+        "直流電壓平均值約為 14.1 V",
+        "二極體之逆向峰值電壓為 20 V"
+      ],
+      "answer": "1",
+      "score": 2
+    },
+    {
+      "number": "45",
+      "type": "single",
+      "text": "有一基本放大器，其正回授百分數 β = 0.01，若使其振盪，試求 Av 值至少應為多少？",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "100"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "46",
+      "type": "single",
+      "text": "試問電子實習使用之焊錫主要為下列何種材料？",
+      "options": [
+        "純錫",
+        "錫銅合金",
+        "錫鉛合金",
+        "錫鋁合金"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "47",
+      "type": "single",
+      "text": "運算放大器的差模增益 Ad = 1,000，共模增益 Ac = 10，則共模互斥比(CMRR)為多少dB？",
+      "options": [
+        "20",
+        "40",
+        "60",
+        "80"
+      ],
+      "answer": "2",
+      "score": 2
+    },
+    {
+      "number": "48",
+      "type": "single",
+      "text": "如右圖所示為NPN型達寧頓(Darlington)電路，若電晶體 β1 = β2 = 40，等效電流增益為多少？",
+      "options": [
+        "40",
+        "80",
+        "800",
+        "1,600"
+      ],
+      "answer": "4",
+      "score": 2
+    },
+    {
+      "number": "49",
+      "type": "single",
+      "text": "下列何者為史密特(Schmitt)振盪器的輸出波形？",
+      "options": [
+        "正弦波",
+        "三角波",
+        "方波",
+        "鋸齒波"
+      ],
+      "answer": "3",
+      "score": 2
+    },
+    {
+      "number": "50",
+      "type": "single",
+      "text": "如右圖所示之電路，試求電壓增益為何？",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "answer": "3",
+      "score": 2
+    }
+  ]
+}
